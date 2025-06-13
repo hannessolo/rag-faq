@@ -1,27 +1,59 @@
 import { Document } from '@langchain/core/documents';
 import { OllamaEmbeddings } from '@langchain/ollama';
 import { Ollama } from '@langchain/ollama';
+import { OpenAIEmbeddings } from '@langchain/openai';
+import { ChatOpenAI } from '@langchain/openai';
 import { HNSWLib } from '@langchain/community/vectorstores/hnswlib';
 import { RecursiveCharacterTextSplitter } from '@langchain/textsplitters';
 import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import dotenv from 'dotenv';
+
+dotenv.config();
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 export class RagService {
     constructor() {
-        this.embeddings = new OllamaEmbeddings({
-            model: process.env.EMBEDDING_MODEL,
-            baseUrl: process.env.OLLAMA_BASE_URL,
-        });
-        this.llm = new Ollama({
-            model: process.env.LLM_MODEL,
-            baseUrl: process.env.OLLAMA_BASE_URL,
-        });
+        // Initialize embeddings based on provider
+        this.embeddings = this.getEmbeddings();
+        this.llm = this.getLLM();
         this.vectorStore = null;
         this.vectorStorePath = path.join(__dirname, '..', '..', 'vectorstore');
+    }
+
+    getEmbeddings() {
+        const provider = process.env.EMBEDDING_PROVIDER || 'ollama';
+        
+        if (provider === 'openai') {
+            return new OpenAIEmbeddings({
+                openAIApiKey: process.env.OPENAI_API_KEY,
+                modelName: process.env.EMBEDDING_MODEL || 'text-embedding-3-small'
+            });
+        } else {
+            return new OllamaEmbeddings({
+                baseUrl: process.env.OLLAMA_BASE_URL,
+                model: process.env.EMBEDDING_MODEL || 'nomic-embed-text',
+            });
+        }
+    }
+
+    getLLM() {
+        const provider = process.env.LLM_PROVIDER || 'ollama';
+        
+        if (provider === 'openai') {
+            return new ChatOpenAI({
+                openAIApiKey: process.env.OPENAI_API_KEY,
+                modelName: process.env.LLM_MODEL || 'gpt-4o-mini',
+            });
+        } else {
+            return new Ollama({
+                baseUrl: process.env.OLLAMA_BASE_URL,
+                model: process.env.LLM_MODEL || 'Qwen2.5-7B-Instruct-1M-GGUF:Q8_0',
+            });
+        }
     }
 
     async loadContent() {
@@ -89,13 +121,23 @@ export class RagService {
         }
 
         const results = [];
+        const isChatModel = this.llm instanceof ChatOpenAI;
         for (const question of questions) {
             try {
                 const relevantDocs = await this.vectorStore.similaritySearch(question, 5);
                 const context = relevantDocs.map((doc, index) => `Source ${index + 1}: ${doc.pageContent}`).join('\n\n');
                 const promptTemplate = await fs.readFile(path.join(__dirname, '..', 'prompts', 'prompt.txt'), 'utf-8');
                 const prompt = promptTemplate.replace('{context}', context).replace('{question}', question);
-                const answer = await this.llm.call(prompt);
+                let answer;
+                if (isChatModel) {
+                    answer = await this.llm.invoke([
+                        { role: 'system', content: 'You are a helpful assistant that only answers using the provided context.' },
+                        { role: 'user', content: prompt }
+                    ]);
+                    answer = answer.content;
+                } else {
+                    answer = await this.llm.call(prompt);
+                }
                 const citations = relevantDocs.map(doc => doc.metadata.source);
                 results.push({ question, answer, citations });
             } catch (error) {
