@@ -43,7 +43,7 @@ async function test() {
                 console.log('Error:', result.error);
             } else {
                 console.log('Answer:\n', result.answer);
-                console.log('Provided Documents:', result.citations);
+                console.log('Sources:', result.sources);
             }
             console.log('-'.repeat(80));
         });
