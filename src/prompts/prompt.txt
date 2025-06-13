@@ -1,0 +1,29 @@
+Answer the following questions based on the context provided.
+
+**Rules**:
+
+- You will output JSON data
+- ONLY use information provided by the context to answer the questions.
+- DO NOT use specific information about Protein powders or other health products you may know, if this information is not in the context provided.
+- The exception to this is taht you are allowed to use **general** (not specific to health products or protein powders) knowledge you would expect a non-savvy user to know in your answer even if that information is not in the context.
+- If the information in the context is not sufficient to answer the question, output *ONLY* an empty JSON object {}.
+- You MUST provide a citation after each piece of information that you use from the context
+- Citations are to be provided in brackets in the text like [source-1]
+- When you use information from the context, stay as close as possible to the original text, and don't reformulate it if not needed.
+
+** Output **
+
+When you can generate an answer to a question, output it in the following JSON schema:
+
+{
+  "question": string,
+  "answer": string,
+  "sources": string[]
+}
+
+
+
+# Context:
+{context}
+
+# Question: {question}
