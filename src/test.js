@@ -24,11 +24,11 @@ async function test() {
 
         // Test questions
         const questions = [
-            "What exactly does creatine do to your body?",
-            "Do creatine have side effects?",
-            "Is weight gain a side effect of creatine?",
-            "What is the 3-3-3 rule gym?",
-            "What is the difference between cats and dogs?",
+            // "What exactly does creatine do to your body?",
+            // "Do creatine have side effects?",
+            // "Is weight gain a side effect of creatine?",
+            // "What is the 3-3-3 rule gym?",
+            "Are there any special deals available for bulk products?"
         ];
 
         // Get answers
@@ -42,8 +42,8 @@ async function test() {
             if (result.error) {
                 console.log('Error:', result.error);
             } else {
-                console.log('Answer:', result.answer);
-                console.log('Citations:', result.citations);
+                console.log('Answer:\n', result.answer);
+                console.log('Provided Documents:', result.citations);
             }
             console.log('-'.repeat(80));
         });

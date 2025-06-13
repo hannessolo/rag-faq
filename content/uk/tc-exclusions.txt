@@ -1,1 +1,8 @@
-plchesdeatczrofriedkeunlptukitse EXCLUSIONS category tc-exclusions
+[pl](https://www.bulk.com/pl/tc-exclusions)[cz](https://www.bulk.com/cz/tc-exclusions)[at](https://www.bulk.com/at/tc-exclusions)[de](https://www.bulk.com/de/tc-exclusions)[se](https://www.bulk.com/se/tc-exclusions)[ie](https://www.bulk.com/ie/alex-cleland)[it](https://www.bulk.com/it/tc-exclusions)[es](https://www.bulk.com/es/tc-exclusions)[nl](https://www.bulk.com/nl/tc-exclusions)[ch](https://www.bulk.com/ch/tc-exclusions)[pt](https://www.bulk.com/pt/tc-exclusions)[ro](https://www.bulk.com/ro/tc-exclusions)[dk](https://www.bulk.com/dk/tc-exclusions)[uk](https://www.bulk.com/uk/tc-exclusions)[eu](https://www.bulk.com/eu/tc-exclusions)[fr](https://www.bulk.com/fr/tc-exclusions)
+
+EXCLUSIONS
+==========
+
+category
+
+tc-exclusions

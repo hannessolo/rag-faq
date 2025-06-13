@@ -1,1 +1,8 @@
-atchczdedkeseuiefritnlplptroseuk EXCLUSIONS category code-exclusions
+[pl](https://www.bulk.com/pl/products/kompletna-mieszanka-na-mase-miesniowa-pl/bble-cmas)[ch](https://www.bulk.com/ch/products/complete-masseaufbau/bble-cmas)[dk](https://www.bulk.com/dk/products/complete-mass-weight-gainer/bble-cmas)[fr](https://www.bulk.com/fr/products/formulation-complete-prise-de-masse/bble-cmas)[it](https://www.bulk.com/it/products/massa-completa-i/bble-cmas)[cz](https://www.bulk.com/cz/products/complete-mass/bble-cmas)[se](https://www.bulk.com/se/products/complete-mass-se/bble-cmas)[pt](https://www.bulk.com/pt/products/massa-completa/bble-cmas)[es](https://www.bulk.com/es/products/masa-completa/bble-cmas)[eu](https://www.bulk.com/eu/products/complete-mass-gainer/bble-cmas)[ro](https://www.bulk.com/ro/products/complete-mass/bble-cmas)[nl](https://www.bulk.com/nl/products/complete-massa-nl/bble-cmas)[ie](https://www.bulk.com/ie/code-exclusions)[at](https://www.bulk.com/at/products/complete-masse-aut/bble-cmas)[de](https://www.bulk.com/de/products/complete-masseaufbau/bble-cmas)[uk](https://www.bulk.com/uk/code-exclusions)
+
+EXCLUSIONS
+==========
+
+category
+
+code-exclusions

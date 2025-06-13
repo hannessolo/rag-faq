@@ -71,7 +71,7 @@ export class RagService {
         const contentDir = path.join(__dirname, '..', '..', 'content');
         const documents = await this.loadDocumentsRecursively(contentDir);
         const splitter = new RecursiveCharacterTextSplitter({
-            chunkSize: 1000,
+            chunkSize: 800,
             chunkOverlap: 200,
         });
         const splitDocs = await splitter.splitDocuments(documents);
@@ -125,21 +125,23 @@ export class RagService {
         for (const question of questions) {
             try {
                 const relevantDocs = await this.vectorStore.similaritySearch(question, 5);
-                const context = relevantDocs.map((doc, index) => `Source ${index + 1}: ${doc.pageContent}`).join('\n\n');
+                const context = relevantDocs.map((doc, index) => {
+                    const source = doc.metadata.source.replace(/^.*?content\//, '').replace(/\.txt$/, '');
+                    return `==== Source ${index + 1} (https://bulk.com/${source}): === \n\n ${doc.pageContent} \n\n ======`;
+                }).join('\n\n');
                 const promptTemplate = await fs.readFile(path.join(__dirname, '..', 'prompts', 'prompt.txt'), 'utf-8');
                 const prompt = promptTemplate.replace('{context}', context).replace('{question}', question);
                 let answer;
                 if (isChatModel) {
                     answer = await this.llm.invoke([
-                        { role: 'system', content: 'You are a helpful assistant that only answers using the provided context.' },
-                        { role: 'user', content: prompt }
+                        { role: 'system', content: prompt },
+                        { role: 'user', content: `Please retrieve the information from the context and answer the question (${question}).` }
                     ]);
                     answer = answer.content;
                 } else {
                     answer = await this.llm.call(prompt);
                 }
-                const citations = relevantDocs.map(doc => doc.metadata.source);
-                results.push({ question, answer, citations });
+                results.push(JSON.parse(answer));
             } catch (error) {
                 results.push({ question, error: error.message });
             }

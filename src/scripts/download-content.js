@@ -5,6 +5,7 @@ import axios from 'axios';
 import { JSDOM } from 'jsdom';
 import { fileURLToPath } from 'url';
 import PQueue from 'p-queue';
+import TurndownService from 'turndown';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -34,10 +35,10 @@ function extractTextContent(html) {
     const styles = body.getElementsByTagName('style');
     [...scripts, ...styles].forEach(el => el.remove());
     
-    // Get text content
-    return body.textContent
-        .replace(/\s+/g, ' ')
-        .trim();
+    // Use turndown to convert HTML to markdown
+    const turndownService = new TurndownService();
+    const markdown = turndownService.turndown(body.innerHTML);
+    return markdown;
 }
 
 // Function to create directory if it doesn't exist
