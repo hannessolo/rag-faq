@@ -1,0 +1,11 @@
+# Server Configuration
+PORT=3000
+
+# Provider Selection
+EMBEDDING_PROVIDER=openai
+LLM_PROVIDER=openai
+
+# OpenAI Configuration
+OPENAI_API_KEY=sk-...  # Your OpenAI API key
+EMBEDDING_MODEL=text-embedding-3-small
+LLM_MODEL=gpt-3.5-turbo 
