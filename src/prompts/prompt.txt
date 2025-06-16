@@ -19,14 +19,14 @@ Sources: [1] wikipedia.com; [2] example.com
 
 **Answering questions**
 
-1. Keep your answers to 1-2 sentences.
+1. Keep your answers to 1-3 sentences.
 2. Stay as close to the original wording from the context/source as possible.
 
 ** Output **
 
 You will output json.
 
-If you can't answer a question, output a json object containing the question ONLY, with no other output:
+If the context doesn't contain enough information for you to answer a question, output a json object containing the question ONLY, with no other output:
 
 {
   "question": "the question that was asked",

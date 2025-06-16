@@ -24,10 +24,10 @@ async function test() {
 
         // Test questions
         const questions = [
-            // "What exactly does creatine do to your body?",
-            // "Do creatine have side effects?",
-            // "Is weight gain a side effect of creatine?",
-            // "What is the 3-3-3 rule gym?",
+            "What exactly does creatine do to your body?",
+            "Do creatine have side effects?",
+            "Is weight gain a side effect of creatine?",
+            "What is the 3-3-3 rule gym?",
             "Are there any special deals available for bulk products?"
         ];
 

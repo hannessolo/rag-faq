@@ -21,7 +21,12 @@ export class RagService {
         this.embeddings = this.getEmbeddings();
         this.llm = this.getLLM();
         this.vectorStore = null;
-        this.vectorStorePath = path.join(__dirname, '..', '..', 'vectorstore');
+        
+        // Get embedding model name for vector store path
+        const provider = process.env.EMBEDDING_PROVIDER || 'ollama';
+        const modelName = process.env.EMBEDDING_MODEL || (provider === 'openai' ? 'text-embedding-3-small' : 'nomic-embed-text');
+        const modelPath = modelName.replace(/[^a-zA-Z0-9]/g, '_');
+        this.vectorStorePath = path.join(__dirname, '..', '..', 'vectorstore', `${provider}_${modelPath}`);
     }
 
     getEmbeddings() {
