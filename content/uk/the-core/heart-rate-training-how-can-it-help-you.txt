@@ -1,0 +1,69 @@
+Heart Rate Training: How Can It Help You?
+=========================================
+
+[11th February 201626th July 2022](https://www.bulk.com/uk/the-core/heart-rate-training-how-can-it-help-you/)
+
+[Supplements](https://www.bulk.com/uk/the-core/diet-and-nutrition/supplements/)
+
+![Heart Rate Monitoring](https://www.bulk.com/uk/the-core/wp-content/uploads/2016/02/heart-rate-monitoring.jpg)
+
+If you want to boost your speed, endurance and pace, it’s time for a heart-to-heart. Get to grips with heart-rate monitoring and perform better!
+
+Endurance athletes have been monitoring heart rate for decades. What can we learn from the elite for improving our own fitness levels and performance, whatever level we’re at in sport?
+
+**We can only improve what we measure.** Athletes across every sport monitor their effort in some way (even if it’s just using RPE/the Borg Scale or keeping a workout journal). Heart rate monitoring is an advanced, but very accessible, way to monitor effort, fitness and recovery so you can push yourself enough without burning out. It’s something we can all do with minimal extra kit, and we can keep an eye on it every time we train regardless of variables like location and environment. Getting to grips with heart rate training is like having a coach with you every step of the way. And the feedback you get is always totally individualised to your body.
+
+Heart rate training zones.
+--------------------------
+
+The commonly-accepted heart rate training zones aren’t an exact science, but they’re a good starting point for understanding your own body’s response to exercise intensity. The idea is that different intensities put different demands on the body’s energy systems. So, working out at 60% max HR will tax the aerobic system (with most of the fuel burned coming from fat), whilst a 75-80% max HR will still mostly place demands on the aerobic system (in conditioned athletes) but will take its fuel mostly from carbohydrates (as glycogen).
+
+**Most athletes and coaches will refer to four training zones:**
+
+Zone 4 (94%+) – very hard effort, but still sustainable. You might be able to gasp out a few words but no more. Think a fast 5K race pace.
+
+Zone 3 (80-93%) – comfortably hard effort. You might be able to talk in short sentences. Think fast 10K race pace.
+
+Zone 2 (70-80%) – working hard but feeling comfortable. The zone in which most endurance training is done.
+
+Zone 1 (60-70%) – warm up level.
+
+**Before you start…**
+
+It’s pretty easy to work out your target HR zones, but you’ll need a bit of data before you crunch the numbers. We suggest taking your resting HR every day for a week (and taking an average), and it would also be useful to work out your true max HR. You’re going to be working very hard, so remember to fuel up beforehand (our newly relaunched [Complete Pre-Workout™ Gels](../../complete-pre-workout-gels.html) will help you focus!) and stay properly hydrated (if you haven’t already tried [Complete Hydration](../../complete-hydration-drink.html)™, now’s the time to find out why endurance athletes love it).
+
+To work out your own HR zones, you first need to find out your max HR. The most common way to do this is by using the formula 220-(your age) but this can be inaccurate. The best way is to do a short physical stress test, like hill sprints or intervals on the rowing machine. You’ll need to work to absolute exhaustion, and monitor the point at which your HR plateaus and is beating as fast as possible.
+
+**Once you have your max HR, it’s easy to work out your training zones:**
+
+Max HR 185 bpm (example)
+
+80%+ zone 148 bmp and above
+
+Target heart rate zone 70-80% 130-148 bpm
+
+Lower zone (>70%) below 130bpm
+
+### **Use resting HR to make your training zones more specific.**
+
+Of course, using 220-(age) to work out your HR max doesn’t take into account any individual differences. The Karvonen Formula (heart rate reserve) brings your resting heart rate into the picture, so you can work with a more individualised range.
+
+Using our example above (a 35 year old athlete with 185 bpm max HR), let’s add in a resting HR of 65 bpm. Here’s how you’d calculate your zones:
+
+Max HR – resting HR x desired HR zone + resting HR
+
+185 (max HR) – 65 (resting HR) = 120 bpm
+
+120 x 0.7 (for the 70% zone) = 84 bmp
+
+84 + 65 = 149 bpm
+
+So, using Karvonen, working at 70% would mean a HR of 149 bpm for this athlete, and working at 80% would mean 161 bpm. It’s a bit higher than the less advanced formula which ignored resting HR.
+
+Add in Borg Scale (RPE) and you will soon be attuned to the exercise intensities which work best for your body’s individualised heart rate training zones.
+
+### **How to measure Beats Per Minute.**
+
+Until recently, the most cost-effective way of measuring heart rate during exercise was a chest strap and watch-style heart rate monitor. Cutting-edge heart rate monitoring tech means you could now opt for a chest strap which transmits data to your smart phone, or even an activity monitor which is busily gathering on-body data 24/7. There are free apps for keeping track of resting and waking heart rate, and a huge range of fitness trackers which can store all your HR data alongside your workouts, speed sessions, race results and more. **It’s never been a better time to get geeky with data**.
+
+**

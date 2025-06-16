@@ -1,0 +1,56 @@
+Can you ever have too much Protein?
+===================================
+
+[23rd June 201730th August 2022](https://www.bulk.com/uk/the-core/can-you-ever-have-too-much-protein/)
+
+[Supplements](https://www.bulk.com/uk/the-core/diet-and-nutrition/supplements/)
+
+![too much protein](https://www.bulk.com/uk/the-core/wp-content/uploads/2017/06/too-much-protein.jpg)
+
+One of the most persistent myths that surrounds protein intake is that in large amounts it can be bad for you. As with a lot of fitness myths the creation of this ‘high protein diet’ idea being bad for you stems from several different sources – some of which are quite science-based in nature, but do not quite tell the full story. In recent times, the concerns about protein have focused on two main areas: damage to the kidneys and increased risk of cancer… so should we be concerned or are these something that can be put firmly in the ‘food myth’ dustbin?
+
+Protein and the kidneys
+-----------------------
+
+Firstly, let’s deal with the impact of protein on the kidneys. It is certainly true that parts of amino acid metabolism (remember, amino acids are what dietary proteins are broken down into) take place in the kidney. So, would a high protein diet make them work extra hard, place them under stress and cause damage?
+
+Initially concerns were raised because a high protein diet was found to increase creatinine levels in the body. Creatinine is often released when tissues are damaged; this includes the kidneys \[1\]. So at first glance, if we consume a high protein diet and creatinine levels were elevated it would make sense that we would be putting our body at risk of developing kidney damage, right?
+
+Well, not exactly. The fact is that creatinine is a natural bi-product of protein metabolism, so it is unsurprising that a high protein diet elevated creatinine levels in the body! In a study set to identify the level of damage increased protein consumption may have on the kidneys, other more specific markers of kidney damage such as kidney filtration rate, blood urea nitrogen and many other standard health markers such as blood lipids and cholesterol were measured in those consuming a high protein diet \[2\]. There was found to be no evidence of damage to the kidneys or other concerning health markers. The amount of protein consumed in this specific study was 2.5-3.32 g/kg (this would be the equivalent of 250-330g of protein a day for a 100kg person).
+
+Interestingly, resistance training in itself can elevate creatinine levels. This is due to the breakdown of muscle tissue during exercise, so if you ever do need to have a blood test for organ function, remember not to train for a few days before and lower protein intake to more normal levels so you limit the chance of getting any surprising results and you get a more accurate picture of your organ health. So, from a kidney function perspective it appears that a high protein diet is not a problem in ordinarily healthy people. However, those who may have underlying kidney issues who may struggle to process large amounts of protein should adhere to current medical recommendation for this situation and avoid a high protein diet \[3\].
+
+Protein and cancer
+------------------
+
+In terms of increased risk of cancer, studies in the general population have shown a correlation between protein intake and increased cancer risk \[4\]. However, we do need to consider that correlation does not equal causation and that in these general population studies, protein intake is often accompanied with a high intake of processed meats, general over-consumption of calories and poorer nutrition and lifestyle choices which all elevate risk of getting cancer. So to blame protein alone in these situations is far from conclusive.
+
+It is certainly true that the production of meats such as bacon and sausage requires processing that may create carcinogenic compounds as a bi-product, but so does cooking meat at high temperatures (such as chargrilling and barbequing) \[5\]. However, lean meats and fish, [whey proteins](https://www.bulk.com/uk/protein/whey-protein.html) and other protein sources do not carry these same risks and the occasional bit of processed or overcooked meat is unlikely to do any damage in the context of a balanced diet and healthy lifestyle.
+
+One concern of a high protein diet is its association with IGF-1. IGF-1 is a hormone in the body that is created in the liver from growth hormone. IGF-1 has been shown to promote cancer cell growth (notice this is not the same as cause!) and as a low protein, low energy diet can lower IGF-1 \[6\], it is often touted that a high protein diet would therefore increase lGF-1 and therefore cancer risk. This is not the same thing, as a high protein diet is not going to lead to excessively high IGF-1 levels, and to use IGF-1 as a sole marker of cancer risk is also a misleading, as IGF-1 is also important for muscle recovery and growth, bone health, energy metabolism and general cell growth (hence its impact on cancer cells). In fact, we need our bodies to produce IGF-1 to be fit, healthy and strong, so to worry about it and your protein intake in this context without seeing the bigger picture is of no real concern.
+
+Take home message
+-----------------
+
+In summary, consuming a very high protein diet is unlikely to cause any issues with kidney function even at amounts that most people would struggle to consume, unless there was any underlying medical condition. In terms of increased risk of cancer, looking at both the epidemiological data and specific markers, we need to put these into the overall context of a person’s diet and if they are controlling calorie intake, having a balanced diet and eating mostly lean, unprocessed meats and exercising regularly, where the benefits of a high protein diet outweigh the risks and the risk under these circumstances often disappear.
+
+**References**
+
+1.  Myers, G.L, Miller, W.G, Coresh, J, Fleming, J, Greenberg, N, Greene, T, Hostetter, T, Levey, A.S, Panteghini, M, Welch, M and Eckfeldt, J.H. Recommendations for Improving Serum Creatinine Measurement: A Report from the Laboratory Working Group of the National Kidney Disease Education Program. _Clinical Chemistry_. 2006, **52**(1), pp. 5-18. Available from: http://clinchem.aaccjnls.org/content/52/1/5.short
+2.  Antonio, J, Ellerbroek, A, Silver, T, Vargas, L, Tamayo, A, Buehn, R and Peacock, C.A. A High Protein Diet Has No Harmful Effects: A One-Year Crossover Study in Resistance-Trained Males. _Journal of Nutrition and Metabolism._ 2016, **2016**. Available from: [https://www.hindawi.com/journals/jnme/2016/9104792/abs/](https://www.hindawi.com/journals/jnme/2016/9104792/abs/)
+3.  Schwingshackl, L and Hoffman, G. Comparison of High vs. Normal/Low Protein Diets on Renal Function in Subjects without Chronic Kidney Disease: A Systemic Review and Meta-Analysis. _PLoS One_. 2014, **9**(5). Available: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0097656
+4.  Levine, M.E, Suarez, J.A, Brandhorst, S, Balasubramanian, P, Cheng, C, Madria, F, Fontana, L, Mirisola, M.G and Guevara-Aguirre, J. Low Protein Intake Is Associated with a Major Reduction in IGF-1, Cancer, and Overall Mortality in the 65 and Younger but Not Older Population. _Cell Metabolism_. 2014, **19**(3), pp. 407-417. Available from: http://www.sciencedirect.com/science/article/pii/S155041311400062X
+5.  Demeyer, D, Honikel, K and De Smet, S. The World Cancer Research Fund Report 2007: A Challenge for the Meat Processing Industry. _Meat Science_. 2008, **80**(4), pp. 953-959. Available from: http://www.sciencedirect.com/science/article/pii/S0309174008001940
+6.  Ketelslegers, J.M, Maiter, D, Maes, M, Underwood, L.E, Thissen, J.P. Nutritional Regulation of Insulin-Like Growth Factor-1. _Metabolism_. 1995, **44**(4), pp. 50-57. Available from: http://www.sciencedirect.com/science/article/pii/002604959590221X
+
+![](https://secure.gravatar.com/avatar/e9e1f90b0a01e5d5264906a0edb323fc4a3dba166680f74110f1dec89115e371?s=40&d=identicon&r=g) Written by [rebeccagreen](https://www.bulk.com/uk/the-core/author/rebeccagreen/)
+
+Did you enjoy this article?
+
+[](https://www.bulk.com/uk/the-core/url-actions)
+
+[](https://www.bulk.com/uk/the-core/url-actions)
+
+Thank you for your feedback
+
+#####

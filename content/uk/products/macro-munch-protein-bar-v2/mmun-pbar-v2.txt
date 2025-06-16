@@ -1,4 +1,4 @@
-[pl](https://www.bulk.com/pl/products/mmun-pbar-v2/mmun-pbar-v2)[eu](https://www.bulk.com/eu/products/macro-munch-protein-bar-v2/mmun-pbar-v2)[pt](https://www.bulk.com/pt/products/mmun-pbar-v2/mmun-pbar-v2)[fr](https://www.bulk.com/fr/products/mmun-pbar-v2/mmun-pbar-v2)[de](https://www.bulk.com/de/products/mmun-pbar-v2/mmun-pbar-v2)[at](https://www.bulk.com/at/products/mmun-pbar-v2/mmun-pbar-v2)[dk](https://www.bulk.com/dk/products/mmun-pbar-v2/mmun-pbar-v2)[cz](https://www.bulk.com/cz/products/mmun-pbar-v2/mmun-pbar-v2)[ie](https://www.bulk.com/ie/products/mmun-pbar-v2/mmun-pbar-v2)[es](https://www.bulk.com/es/products/mmun-pbar-v2/mmun-pbar-v2)[uk](https://www.bulk.com/uk/products/macro-munch-protein-bar-v2/mmun-pbar-v2)[ro](https://www.bulk.com/ro/products/baton-proteic-macro-munch/mmun-pbar-v2)[it](https://www.bulk.com/it/products/mmun-pbar-v2/mmun-pbar-v2)[se](https://www.bulk.com/se/products/mmun-pbar-v2/mmun-pbar-v2)[ch](https://www.bulk.com/ch/products/mmun-pbar-v2/mmun-pbar-v2)[nl](https://www.bulk.com/nl/products/mmun-pbar-v2/mmun-pbar-v2)
+[at](https://www.bulk.com/at/products/mmun-pbar-v2/mmun-pbar-v2)[pl](https://www.bulk.com/pl/products/mmun-pbar-v2/mmun-pbar-v2)[ie](https://www.bulk.com/ie/products/mmun-pbar-v2/mmun-pbar-v2)[cz](https://www.bulk.com/cz/products/mmun-pbar-v2/mmun-pbar-v2)[it](https://www.bulk.com/it/products/mmun-pbar-v2/mmun-pbar-v2)[de](https://www.bulk.com/de/products/mmun-pbar-v2/mmun-pbar-v2)[eu](https://www.bulk.com/eu/products/macro-munch-protein-bar-v2/mmun-pbar-v2)[dk](https://www.bulk.com/dk/products/mmun-pbar-v2/mmun-pbar-v2)[se](https://www.bulk.com/se/products/mmun-pbar-v2/mmun-pbar-v2)[es](https://www.bulk.com/es/products/mmun-pbar-v2/mmun-pbar-v2)[ch](https://www.bulk.com/ch/products/mmun-pbar-v2/mmun-pbar-v2)[pt](https://www.bulk.com/pt/products/mmun-pbar-v2/mmun-pbar-v2)[ro](https://www.bulk.com/ro/products/baton-proteic-macro-munch/mmun-pbar-v2)[fr](https://www.bulk.com/fr/products/mmun-pbar-v2/mmun-pbar-v2)[nl](https://www.bulk.com/nl/products/mmun-pbar-v2/mmun-pbar-v2)[uk](https://www.bulk.com/uk/products/macro-munch-protein-bar-v2/mmun-pbar-v2)
 
 MACRO MUNCH™ Protein Bar
 ========================
@@ -6,10 +6,10 @@ MACRO MUNCH™ Protein Bar
 Price
 -----
 
-*   Regular Price: £27.99
-*   Final Price: £8.99
-*   Save £19.00
-*   Big Bulk™ Savings: Up to 75% off - no code required
+*   Regular Price: £2.99
+*   Final Price: £2.49
+*   Save £0.50
+*   Bestsellers Sale: Up to 75% off - no code required
 
 Flavour
 -------
@@ -81,7 +81,7 @@ Ingredients
 
 ### Ingredients
 
-Protein Blend (38%) (Milk Proteins, Isolated Soya Protein), Humectant (Glycerol), Milk Chocolate Flavour Coating (11%) (Sweetener (Maltitol), Palm Kernel, Cocoa Powder, Skimmed Milk Powder, Whey Powder (Milk), Emulsifiers (Sunflower Lecithin, Polyglycerol Polyricinoleate), Natural Flavouring), Caramel Flavour Layer (9%) (Oligofructose, Humectant (Glycerol), Shea Oil, Water, Colour (Plain Caramel), Gelling Agent (Pectin), Emulsifiers (Mono- and Diglycerides of Fatty Acids, Rapeseed Lecithin), Salt, Natural Flavouring), Corn Fibre, Isomalto-Oligosaccharide\*, Sweetener (Maltitol), Rapeseed Oil, Toffee Pieces (1%) (Sugar, Glucose Syrup, Sweetened Condensed Milk (Milk, Sugar), Palm Oil, Butter Oil (Milk), Emulsifier (Powdered Cellulose), Natural Flavouring, Coconut Oil, Rapeseed Oil, Glazing Agent (Carnauba Wax)), Natural Flavourings, Colours (Plain Caramel, Calcium Carbonate), Emulsifier (Sunflower Lecithin), Spirulina, Trehalose\*. \*A source of glucose.
+Protein Blend (38%) (Milk Proteins, Isolated Soya Protein), Humectant (Glycerol), Caramel Flavour Coating (11%) (Sweeteners (Maltitol, Sucralose), Palm Oil, Palm Kernel, Whey Powder (Milk), Cocoa Mass, Colour (Beta Carotene), Emulsifiers (Sunflower Lecithin, Rapeseed Lecithin), Natural Flavouring), Caramel Flavour Layer (9%) (Oligofructose, Humectant (Glycerol), Shea Oil, Water, Gelling Agent (Pectin), Colour (Plain Caramel), Emulsifiers (Mono- and Diglycerides of Fatty Acids, Rapeseed Lecithin), Salt, Natural Flavouring), Corn Fibre, Isomalto-Oligosaccharide\*, Sweetener (Maltitol), Rapeseed Oil, Fudge Pieces (1%) (Sugar, Sweetened Condensed Milk (Milk, Sugar), Glucose Syrup, Fondant (Sugar, Glucose Syrup, Water), Palm Oil, Salted Butter (Milk, Salt), Butter Oil (Milk), Salt, Natural Flavouring), Natural Flavourings, Colours (Plain Caramel, Calcium Carbonate), Emulsifier (Sunflower Lecithin), Spirulina, Trehalose\*. \*A source of glucose.
 
 \\
 
@@ -112,21 +112,21 @@ per serving (62g)
 
 Energy kJ/kcal
 
-1390/333
+1401/335
 
-871/208
+879/210
 
 Fat
 
 of which saturates
 
-9.7 g
+10 g
 
-5.1 g
+4.5 g
 
-6.0 g
+6.2 g
 
-3.2 g
+2.8 g
 
 Carbohydrate
 
@@ -136,13 +136,13 @@ of which polyols
 
 35 g
 
-4.5 g
+4.9 g
 
 28 g
 
 22 g
 
-2.8 g
+3.0 g
 
 17 g
 
@@ -160,9 +160,9 @@ Protein
 
 Salt
 
-0.43 g
+0.45 g
 
-0.27 g
+0.28 g
 
 typeId
 

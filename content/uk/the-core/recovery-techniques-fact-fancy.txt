@@ -1,0 +1,96 @@
+Recovery Techniques: Fact or Fancy?
+===================================
+
+[17th April 201825th November 2024](https://www.bulk.com/uk/the-core/recovery-techniques-fact-fancy/)
+
+[Fitness & Training](https://www.bulk.com/uk/the-core/fitnesstraining/)
+
+![Recovery Techniques](https://www.bulk.com/uk/the-core/wp-content/uploads/2018/04/Recovery-Techniques.jpg)
+
+If you’ve paid any attention to our website, writing or social media you might notice that we quite like evidence-based practice. If you’re doing things that aren’t supported by science or, heaven forbid, have been shown to be useless, there’s a good possibility you’re wasting your time.
+
+Recovery techniques are **full** of snake oil and fancy techniques that are as much use as corduroy toilet roll. We’re going to break down the fact and the nonsense today so you can avoid spending all your cash on useless recovery tech.
+
+Getting the Basics out of the Way
+---------------------------------
+
+We’ve said it a thousand times and you’re probably about as bored hearing it as we are saying it: the basics need to come first. You don’t need to try compression gear if your diet and sleep patterns are crap. Start with the diet, hydration, sleep and [basic supplementation](https://www.bulk.com/uk/sports-nutrition) before you start using cutting-edge tech for your cookie-dough lifestyle.
+
+If recovery is your goal, you need to be treating these lifestyle choices as fuel and maintenance for your body. Taking them seriously is the first step on the road to premium recovery. Using fancy technology when you only sleep 4 hours a night is redundant.
+
+Compression Gear
+----------------
+
+Compression gear looks fancy (who doesn’t love an excuse to wear spandex?) and splits into two distinct camps: compression clothing and “vasopneumatic devices”.
+
+The former is your average 2XU or other generic brand of tights that use graduated compression to try and improve blood flow and venous return to improve recovery. Sadly, the research doesn’t seem to agree: soreness in consecutive days was reduced but lactate clearance was practically irrelevant ([1](https://link.springer.com/article/10.1007/s00421-010-1503-x)) and performance markers are unaffected ([2](https://journals.humankinetics.com/doi/abs/10.1123/ijspp.3.4.454)).
+
+Serious compression devices like NormaTec recovery sleeves provide a much more intense compression, almost akin to sports massage or foam rolling – it makes sense that results might be more noticeable here.
+
+While there is some early research on these devices, the literature is scant and suggests a mix of beneficial and detrimental effects depending on how you use it ([3](http://europepmc.org/abstract/med/7612138)). This means it might help but it might also cause further injury/fatigue if used ineffectively, so we’re waiting for further investigation before taking a defined stance.
+
+Taping and Cupping
+------------------
+
+These two methods are aimed at improving interstitial drainage: the movement of metabolites and waste products from the muscles due to improved blood flow. The problem is that the literature, once again, pulls this theory’s pants down: recovery doesn’t seem to improve, the only real effect is reducing tightness in the muscles ([4](https://www.tandfonline.com/doi/abs/10.1179/jmt.2009.17.1.6E), [5](https://journals.humankinetics.com/doi/abs/10.1123/jsr.2014-0243))
+
+Cupping is an extreme version of taping, involving using a vacuum to cause serious vasodilation in specific areas. Research on cupping is rare and tends to focus on chronic pain, with many patients reporting improved wellbeing but effects are considered to be “minimal\[ly\] clinically relevant” ([6](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0065378)).
+
+Acupuncture and Dry Needling
+----------------------------
+
+Despite looking like an awful method of torture, acupuncture and dry-needling have become popular among sports therapists and reluctant athletes.
+
+Research actually shows that this can increase blood flow to the area (the bit getting stabbed) in the short-term ([7](https://link.springer.com/article/10.1007/s00421-003-0825-3)) but it isn’t obvious that this will have a direct relation on session-to-session recovery. 5-10 minutes of improved blood flow isn’t indicative of long-term recovery gains.
+
+We’re not sold on acupuncture and it seems to be one of the most disquieting recovery tech – research already indicates that it has huge boosts in treatment anxiety ([7](https://link.springer.com/article/10.1007/s00421-003-0825-3)) and we’re not inclined to believe it necessitates this for such small benefits.
+
+Cold/Contrast Therapy
+---------------------
+
+This is a controversial one because jumping into ice baths looks hardcore and Rocky did it so it **must** work. We’re going to break this down real quick so that we don’t get bogged down in the huge amount of misinformation and speculation out there.
+
+**Cold/CRYO Therapy:** The research on cold and cryotherapy is more of a problem than a help – research is all over the place and the mixing of “experience-based” and “performance-based” studies has made this worse.
+
+Basically, nobody knows yet. It’s theoretically possible that it can reduce signalling for initial exercise-based stress ([8](https://extremephysiolmed.biomedcentral.com/articles/10.1186/2046-7648-2-26), [9](http://journals.sagepub.com/doi/abs/10.1177/036354658201000512)), but it is too early to say for sure. Just don’t do anything stupid.
+
+**Warm Therapy:** It’s not as effective as cryotherapy([9](http://journals.sagepub.com/doi/abs/10.1177/036354658201000512)), but it feels pretty great at the time. Reduce symptoms using heat therapy if you’re really feeling the pain, but don’t expect any real recovery benefits.
+
+**Contrast Therapy:** Huge amounts of anecdotal evidence suggesting it helps reduce soreness (absolutely true), but almost no consistent signs of improving performance in the short-term ([10](http://www.physicaltherapyinsport.com/article/S1466-853X\(03\)00122-6/abstract)).
+
+Ozone
+-----
+
+Ozone therapy is clinically exciting but at the very cutting-edge of recovery techniques. While it has found some popularity in the NFL where performance and recovery technologies pull astronomical budgets.
+
+Initial research suggests that an intricate therapy plan can reduce overall oxidative stress and improve immunity/recovery ([11](https://www.sciencedirect.com/science/article/pii/S030698779690016X)). This is a very niche area of recovery technology but seems promising – the research is a few years away but has promising theoretical applications in animal **and** human models.
+
+Altitude Chamber (Hypo/Hyperbaric Chambers)
+-------------------------------------------
+
+If you want to take your training seriously then the altitude chamber is about as hardcore as it gets. This chamber is a great way of controlling pressure, which has been shown to adjust red blood cell count and a variety of other markers. The kicker is that you have to sleep in this weird tube-looking thing for serious benefits.
+
+For all this effort, what results can you expect? Sadly, you’re not going to reduce the experience of [DOMS](https://www.bulk.com/uk/the-core/a-beginners-guide-to-doms/) ([12](http://europepmc.org/abstract/med/10730995)) but this seems to be unimportant when you can use other methods for this. Animal models suggest, however, that altitude chamber use can be a serious influencing factor on the repair and maintenance of nervous system tissues ([13](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0097750)).
+
+We’re still sceptical about the application of altitude chambers but they’ve seen huge popularity with the tour de France die-hards and other world-level athletes. There’s some theoretical validity to their use but nobody is interested in theoretical recovery gains; if you’ve got thousands of dollars lying around and want somewhere funky to sleep, it might be a recovery-enhancing way of avoiding your significant other.
+
+Closing Remarks
+---------------
+
+You’d be forgiven for thinking we’re sceptical of a lot of these methods – probably because it’s true. The fact is that any “cutting edge” method is going to lack a solid foundation of evidence or it wouldn’t be cutting edge: it’d be established.
+
+US Gymnastics coach Christopher Sommer points out that if, as a serious coach or athlete, you’re following the evidence you’re already behind the curve. Our perspective is simple: if you know what you’re doing and you have the resources, try everything that isn’t contradicted by the evidence.
+
+If you want to try cold therapy and you don’t mind the shrivel-inducing cold, you do that. If you want to try a hypo/hyperbaric chamber and ozone masks and compression gear, go for it. These recovery methods are only a problem for the time and resources required and, as long as you’re nailing the basics, it’s really a matter of finding what works in a practical/functional setting.
+
+![](https://secure.gravatar.com/avatar/e9e1f90b0a01e5d5264906a0edb323fc4a3dba166680f74110f1dec89115e371?s=40&d=identicon&r=g) Written by [rebeccagreen](https://www.bulk.com/uk/the-core/author/rebeccagreen/)
+
+Did you enjoy this article?
+
+[](https://www.bulk.com/uk/the-core/url-actions)
+
+[](https://www.bulk.com/uk/the-core/url-actions)
+
+Thank you for your feedback
+
+#####

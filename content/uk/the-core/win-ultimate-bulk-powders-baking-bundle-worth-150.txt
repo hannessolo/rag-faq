@@ -1,0 +1,28 @@
+WIN The Ultimate BULK POWDERS™ Baking Bundle Worth Over £150
+============================================================
+
+[20th January 201523rd August 2022](https://www.bulk.com/uk/the-core/win-ultimate-bulk-powders-baking-bundle-worth-150/)
+
+[Competitions](https://www.bulk.com/uk/the-core/news-and-updates/competitions/)
+
+![BULK POWDERS Baking Bundle Giveaway](https://www.bulk.com/uk/the-core/wp-content/uploads/2015/01/200115_baking-giveaway-blog.jpg)
+
+(function(d, s, id) {  
+var js, fjs = d.getElementsByTagName(s)\[0\];  
+if (d.getElementById(id)) return;  
+js = d.createElement(s); js.id = id;  
+js.src = “//woobox.com/js/plugins/woo.js”;  
+fjs.parentNode.insertBefore(js, fjs);  
+}(document, ‘script’, ‘woobox-sdk’));
+
+![](https://secure.gravatar.com/avatar/24e3115f627685a62525a029d5e17ab6bbe4afa317c24b301dd7b94a553384db?s=40&d=identicon&r=g) Written by [Tom](https://www.bulk.com/uk/the-core/author/tom/)
+
+Did you enjoy this article?
+
+[](https://www.bulk.com/uk/the-core/url-actions)
+
+[](https://www.bulk.com/uk/the-core/url-actions)
+
+Thank you for your feedback
+
+#####

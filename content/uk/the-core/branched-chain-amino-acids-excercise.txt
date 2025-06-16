@@ -1,0 +1,101 @@
+Branched Chain Amino Acids (BCAA) During Exercise
+=================================================
+
+[05th April 201227th January 2023](https://www.bulk.com/uk/the-core/branched-chain-amino-acids-excercise/)
+
+[Training and Exercise](https://www.bulk.com/uk/the-core/training-and-exercise/)
+
+![New Flavours](https://www.bulk.com/uk/the-core/wp-content/uploads/2014/05/120914_Blog-Placeholder.jpg)
+
+BCAA seem to divide opinion; one camp is of the opinion that they form an essential part of their supplement arsenal, while others think they’re a waste of money.
+
+What are BCAA?
+--------------
+
+BCAA are a group of three essential amino acids – [Leucine](https://www.bulk.com/uk/leucine.html "Leucine supplements"), Isoleucine and Valine. [Essential amino acids](https://www.bulk.com/uk/essential-amino-acids.html "Essential Amino Acids supplement") can’t be synthesised by the body, they need to be consumed through the diet and/or supplements.
+
+What are the benefits of BCAA?
+------------------------------
+
+BCAA supplementation has been shown to be particularly effective at stimulating protein synthesis (primarily due to the Leucine content). Increased protein synthesis and decreased muscle breakdown is an essential part of increasing muscle mass.
+
+BCAA supplementation enhances mTOR signalling pathway (mammalian target of rapamycin), which results in greater protein synthesis. Recent research has investigated the effect of consuming BCAA during exercise; several studies have demonstrated an increase in post-exercise protein synthesis when BCAA are consumed during a training session.
+
+Matsumoto et al (2007) found that BCAA supplementation has also been shown to inhibit the rate of muscle breakdown (anti-catabolic). This study used 2g BCAA with 0.5g [arginine](https://www.bulk.com/uk/arginine.html "Arginine supplements") during cycling.
+
+Anecdotally, many suggest that BCAA supplementation reduces delayed onset muscle soreness (DOMS).
+
+A study by Matsumoto et al., (2009) measured muscle damage and consequent muscle soreness in long distance runners (while not directly relevant to increasing muscle, long-distance running does induce muscle damage). Muscle soreness was reduced by 34% compared to placebo in the BCAA group; this may have been due to a 21% reduction in markers of muscle damage (such as Creatine Kinase). These markers show that a muscle cell has been structurally damaged.
+
+A similar study measured the effect of BCAA (100mg/kg/bw) on muscle damage after squats (Shimomura et al, 2010). The participants performed 7 sets of 20 squats, and measures of muscle damage were taken (myoglobin). The authors concluded that “muscle damage may be suppressed by BCAA supplementation”.
+
+Interestingly, 8g BCAA has also been shown to decrease muscle pH when ingested during intense exercise, potentially due to a reduction in lactate production (Kutsuzawa et al, 2011).
+
+Another potential benefit of BCAA is a reduction in the rate of perceived exertion, or how hard you think you’re working (Green et al, 2011). While there was no change in performance of 90minute cycling bouts, the effect of reducing RPE and potential performances increase in high intensity exercise deserves further investigation.
+
+The reduction in RPE may be due to a reduction in lactate production, or potentially a reduction in central fatigue. While several research studies have suggested there is no effect of BCAA on central fatigue, this topic is starting to be reinvestigated. One study looked at the effect of 7g BCAA on psychomotor performance (Wisnik et al, 2011). Multiple choice reaction time was found to be 10% faster in soccer players when BCAA were ingested.
+
+What is the rationale for using BCAA intra workout?
+---------------------------------------------------
+
+Studies have consistently shown that during sustained exercise, plasma BCAA levels reduce – due to their oxidation by the working muscles. A reduction in BCAA levels is the opposite of what should be aimed for.  As the studies above have demonstrated, BCAA supplementation can increase protein synthesis, reduce muscle breakdown and potentially reduce perceived exertion, reduce muscle pH and improve cognitive function.
+
+For increasing muscle mass, BCAA would primarily be used to protect against catabolism. BCAA can easily be added to water to sip on during a session. [BCAA powder](https://www.bulk.com/uk/instantised-bcaa.html "Flavoured BCAA") or [Complete Intra-Workout](https://www.bulk.com/uk/complete-intra-workout.html "Complete Intra-Workout")™ are the best options to mask the taste of regular BCAA powder when consumed with water.
+
+What are the arguments against supplementing with BCAA?
+-------------------------------------------------------
+
+The main argument against BCAA supplementation during exercise is that we may get enough BCAA from our diet. For anyone using whey protein, whey is typically 20-25% BCAA. If you’re having a whey shake pre-training, then plasma BCAA levels will be rapidly elevated due to the rapid digestion of whey protein.
+
+Practical implications
+----------------------
+
+While BCAA supplementation during training may not be for everyone, there are certain circumstances where BCAA could be of particular benefit.
+
+Dieting: If you’re trying to lose body-fat and are consuming fewer calories and, potentially, performing a lot of aerobic exercise then BCAA provides a low calorie method of protecting against muscle breakdown.
+
+High training volume: Some people train with a high training volume; this could be a high number of sets per session and/or training most days. BCAA supplementation during training would have a number of benefits, as outlined above.  Also, if you’re someone who likes to perform lots of drop-sets, super-sets, etc, then BCAA could maintain muscle pH as well as reducing muscle breakdown.
+
+No protein pre-workout: As discussed, whey protein does contain BCAA. If you don’t have a whey shake pre-training, then there is additional reason to use BCAA during a session. If you do have whey protein pre-training, then you may wish to ‘top up’ the BCAA levels.
+
+BCAA dosage
+-----------
+
+The dosage used in research has varied; some studies have used as little as 2g. It would seem that a majority of studies have used 5-6g, so that would be a sensible amount to mix in with water to consume during training.
+
+Summary
+-------
+
+*   Increase protein synthesis
+*   Reduce muscle breakdown
+*   Reduce muscle damage and muscle soreness
+*   Improved mental performance
+*   Ideal when dieting – low calorie option to protect muscle
+*   5-6g during training
+
+References
+----------
+
+Greer, B.K., White, J.P., Arguello, E.M., & Haymes, E.M. (2011) Branched-chain amino acid supplementation lowers perceived exertion but does not affect performance in untrained males. _Journal of Strength and Conditioning Research._ 25, 539-544
+
+Kutsuzawa, T., Kurita, D., & Haida, M. (2011). Acute Effects of Branched-chain Amino Acids on Muscle pH During Exercise. Advances in Exercise and Sports Physiology, 16, 101-107.
+
+Matsumoto, K., Koba, T., Hamada, K., Sakurai, M., Higuchi, T. & Miyata, H. (2009). Branched-chain amino acid supplementation attenuates muscle soreness, muscle damage and inflammation during an intensive training program_. Journal of Sports Medicine and Physical Fitness,_ 49, 424-431.
+
+Matsumoto, K., Mizuno, M., Mizuno, T., Dilling-Hansen, B., Lahoz, A., Bertelsen,V., Munster, H., Jordening, H., Hamada, K., & Doi, T. (2007) Branched-chain Amino Acids and Arginine Supplementation Attenuates Skeletal Muscle Proteolysis Induced by Moderate Exercise in Young Individuals. _International Journal of Sports Medicine_, 28, 531-538.
+
+Shimomura, Y., Inaguma, A., Yamamoto, Y., Murumatsu, Y., Bajotto, G., Sato, J., Shimomura, N., Kobayashi, H., & Mawatari, K. (2010). Branched-chain amino acid supplementation before squat exercise and delayed onset muscle soreness. _International Journal of Sport Nutrition and Exercise Metabolism,_ 20, 236-244.
+
+Wisnik, P., Chmura,J., Ziemba, A.W., Mikulski, T., & Nazar, K. (2011). The effect of branched chain amino acids on psychomotor performance during treadmill exercise of changing intensity simulating a soccer game. Applied Physiology, Nutrition & _Metabolism_.
+
+![](https://secure.gravatar.com/avatar/6a8c20047282974f4f41948e61731249b8a88471754cc64e24c6fc4f2cf247d7?s=40&d=identicon&r=g) Written by [Jos](https://www.bulk.com/uk/the-core/author/jos/)
+
+Did you enjoy this article?
+
+[](https://www.bulk.com/uk/the-core/url-actions)
+
+[](https://www.bulk.com/uk/the-core/url-actions)
+
+Thank you for your feedback
+
+#####

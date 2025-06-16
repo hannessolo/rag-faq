@@ -93,7 +93,10 @@ async function processUrl(url) {
 async function main() {
     const sitemapUrls = [
         'https://www.bulk.com/media/feeds/sitemapUK.xml',
-        'https://www.bulk.com/sitemap-uk.xml'
+        'https://www.bulk.com/sitemap-uk.xml',
+        'https://www.bulk.com/uk/the-core/post-sitemap1.xml',
+        'https://www.bulk.com/uk/the-core/post-sitemap2.xml',
+        'https://www.bulk.com/uk/the-core/page-sitemap.xml',
     ];
     
     // Create content directory
