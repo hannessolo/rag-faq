@@ -1,8 +1,25 @@
-[pt](https://www.bulk.com/pt/vitamins/minerais)[dk](https://www.bulk.com/dk/vitamins/minerals)[at](https://www.bulk.com/at/vitamins/mineralstoff)[it](https://www.bulk.com/it/vitamins/minerali)[ch](https://www.bulk.com/ch/vitamins/mineralien)[nl](https://www.bulk.com/nl/vitamins/mineralen)[uk](https://www.bulk.com/uk/vitamins/minerals)[de](https://www.bulk.com/de/vitamins/mineralien)[ie](https://www.bulk.com/ie/vitamins/minerals)[ro](https://www.bulk.com/ro/vitamins/minerale)[es](https://www.bulk.com/es/vitamins/minerales)[se](https://www.bulk.com/se/vitamins/mineraler)[fr](https://www.bulk.com/fr/vitamins/mineraux)[cz](https://www.bulk.com/cz/vitamins/mineraly)[eu](https://www.bulk.com/eu/vitamins/minerals)[pl](https://www.bulk.com/pl/vitamins/mineralami)
+# Mineral Supplements
 
-Mineral Supplements
-===================
++:-----------------------------:+
+| **Product List Page**         |
++-----------+-------------------+
+| category  | vitamins/minerals |
++-------------------------------+
+|                               |
++-------------------------------+
 
-category
+---
 
-vitamins/minerals
++-----------------------------------------------------------------------+
+| Metadata                                                              |
++-------------+---------------------------------------------------------+
+| breadcrumbs | true                                                    |
++-------------+---------------------------------------------------------+
+| template    | plp                                                     |
++-------------+---------------------------------------------------------+
+| title       | Mineral Supplements \| Mineral Tablets \| Bulk™         |
++-------------+---------------------------------------------------------+
+| description | Shop our wide range of high quality Mineral supplements |
+|             | at unbeatable prices. Find them in powders or Tablets.  |
+|             | Exclusively from Bulk™, Formerly Bulk Powders.          |
++-------------+---------------------------------------------------------+

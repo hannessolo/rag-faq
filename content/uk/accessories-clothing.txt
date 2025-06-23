@@ -1,37 +1,66 @@
-[dk](https://www.bulk.com/dk/tilbehor-toj)[ch](https://www.bulk.com/ch/zubehor-und-bekleidung)[at](https://www.bulk.com/at/products/multivitamin-multimineral-tabletten/bble-mvmm)[de](https://www.bulk.com/de/zubehor-und-bekleidung)[cz](https://www.bulk.com/cz/accessories-clothing)[eu](https://www.bulk.com/eu/accessories-clothing)[es](https://www.bulk.com/es/ropa-y-accessorios)[ie](https://www.bulk.com/ie/accessories-clothing)[se](https://www.bulk.com/se/klader-och-tillbehor)[pt](https://www.bulk.com/pt/roupa-desportiva-e-acessorios)[fr](https://www.bulk.com/fr/vetements-accessoires)[uk](https://www.bulk.com/uk/accessories-clothing)[it](https://www.bulk.com/it/accessori-abbigliamento)[ro](https://www.bulk.com/ro/accessories-clothing)[nl](https://www.bulk.com/nl/accessoires-en-kleding)[pl](https://www.bulk.com/pl/akcesoria-i-odziez)
+# Gym Accessories
 
-Gym Accessories
-===============
++:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                                            |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                                | accessories-clothing                                                                                                                                                                   |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Gym accessories to maximise every session.                                                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                  |
+| If you're looking to test yourself on the gym, find a [weightlifting belt](https://main--bul-eds--thepixel.hlx.live/uk/products/weightlifting-belt/bace-lbel) to help you build a stronger and safer squat. Our [training accessories](https://main--bul-eds--thepixel.hlx.live/uk/accessories-clothing/training-accessories) are ideal for both novice and experienced lifters. |
+|                                                                                                                                                                                                                                                                                                                                                                                  |
+| Beyond in-the-gym equipment, we have a range of essentials such as [protein shakers](https://main--bul-eds--thepixel.hlx.live/uk/accessories-clothing/shaker-bottles), gym water bottles and [gym backpacks](https://main--bul-eds--thepixel.hlx.live/uk/accessories-clothing/bags-backpacks).                                                                                   |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-accessories-clothing
+## Gym Accessories FAQs
 
-Gym accessories to maximise every session.
++---------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                               |
++---------------------------------------------+-----------------------------------------------------------+
+| What gym accessories are available at Bulk? | We have a wide range of gym accessories available at Bulk |
+|                                             | \- we’ve got you covered. Choose from a range of lifting  |
+|                                             | straps, belts, gloves and sleeves to give you the best    |
+|                                             | support possible during your lifts. Our range of shakers, |
+|                                             | bottles, capsules and boxes offer a variety of supplement |
+|                                             | storage options. And our resistance bands, barbell pads,  |
+|                                             | foam rollers and gym bags are perfect for the gym.        |
++---------------------------------------------+-----------------------------------------------------------+
 
-If you're looking to test yourself on the gym, find a [weightlifting belt](/uk/products/weightlifting-belt/bace-lbel) to help you build a stronger and safer squat. Our [training accessories](/uk/accessories-clothing/training-accessories) are ideal for both novice and experienced lifters.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-Beyond in-the-gym equipment, we have a range of essentials such as [protein shakers](/uk/accessories-clothing/shaker-bottles), gym water bottles and [gym backpacks](/uk/accessories-clothing/bags-backpacks).
+---
 
-Gym Accessories FAQs
---------------------
+## Related categories
 
-What gym accessories are available at Bulk?
+- [Bags & Backpacks](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/bags-backpacks)
+- [Training Accessories](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing)
+- [Empty Capsules](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/empty-capsules)
+- [Storage](https://www.bulk.com/uk/products/empty-tub/bp-etub)
 
-We have a wide range of gym accessories available at Bulk - we’ve got you covered. Choose from a range of lifting straps, belts, gloves and sleeves to give you the best support possible during your lifts. Our range of shakers, bottles, capsules and boxes offer a variety of supplement storage options. And our resistance bands, barbell pads, foam rollers and gym bags are perfect for the gym.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-Style
+---
 
-plp-secondary-info
-
-Related categories
-------------------
-
-*   [Bags & Backpacks](/uk/accessories-clothing/bags-backpacks)
-*   [Training Accessories](/uk/accessories-clothing)
-*   [Empty Capsules](/uk/accessories-clothing/empty-capsules)
-*   [Storage](https://www.bulk.com/uk/products/empty-tub/bp-etub)
-
-Style
-
-lozenge-list
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Gym Accessories \| Bottles, Bags, Sleeves, Wraps \| Bulk™ |
++-------------+-----------------------------------------------------------+
+| description | Shop our high quality range of Gym Accessories and        |
+|             | clothing at great value. Perfect for any gym session.     |
+|             | From shakers to lifting belt. Exclusively from Bulk™      |
++-------------+-----------------------------------------------------------+

@@ -1,8 +1,23 @@
-[at](https://www.bulk.com/at/unsere-favoriten)[pl](https://www.bulk.com/pl/nasze-ulubione)[it](https://www.bulk.com/it/nostri-preferiti)[de](https://www.bulk.com/de/unsere-favoriten)[se](https://www.bulk.com/se/vara-favoriter)[pt](https://www.bulk.com/pt/nossos-favoritos)[eu](https://www.bulk.com/eu/our-favourites)[dk](https://www.bulk.com/dk/vores-favoritter)[cz](https://www.bulk.com/cz/our-favourites)[ie](https://www.bulk.com/ie/our-favourites)[ch](https://www.bulk.com/ch/unsere-favoriten)[ro](https://www.bulk.com/ro/our-favourites)[fr](https://www.bulk.com/fr/nos-favoris)[es](https://www.bulk.com/es/nuestros-favoritos)[uk](https://www.bulk.com/uk/our-favourites)[nl](https://www.bulk.com/nl/onze-favorieten)
+# Deal of the Day
 
-Deal of the Day
-===============
++:--------------------------:+
+| **Product List Page**      |
++-----------+----------------+
+| category  | our-favourites |
++----------------------------+
+|                            |
++----------------------------+
 
-category
+---
 
-our-favourites
++------------------------------+
+| Metadata                     |
++-------------+----------------+
+| breadcrumbs | true           |
++-------------+----------------+
+| template    | plp            |
++-------------+----------------+
+| title       | Our Favourites |
++-------------+----------------+
+| description |                |
++-------------+----------------+

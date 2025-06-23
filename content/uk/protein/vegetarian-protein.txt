@@ -1,12 +1,29 @@
-[pl](https://www.bulk.com/pl/prezenty-dla-wegan)[cz](https://www.bulk.com/cz/darky-pro-vegany)[se](https://www.bulk.com/se/gavor-for-veganer)[ro](https://www.bulk.com/ro/cadouri-pentru-vegani)[pt](https://www.bulk.com/pt/presentes-para-veganos)[fr](https://www.bulk.com/fr/cadeaux-pour-les-vegan)[eu](https://www.bulk.com/eu/gifts-for-vegans)[ch](https://www.bulk.com/ch/geschenke-fur-veganer)[it](https://www.bulk.com/it/regali-per-vegani)[ie](https://www.bulk.com/ie/gifts-for-vegans)[es](https://www.bulk.com/es/regalos-para-veganos)[de](https://www.bulk.com/de/geschenke-fur-veganer)[dk](https://www.bulk.com/dk/gaver-til-veganere)[at](https://www.bulk.com/at/products/half-gallon-wasserflasche/bace-hgwb)[nl](https://www.bulk.com/nl/cadeaus-voor-vegans)[uk](https://www.bulk.com/uk/protein/vegetarian-protein)
+# Vegetarian Protein
 
-Vegetarian Protein
-==================
++:-----------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                             |
++---------------------------------------------------------+---------------------------------------------------------+
+| category                                                | protein/vegetarian-protein                              |
++-------------------------------------------------------------------------------------------------------------------+
+| With growing demand for meat-free supplements, we’re pleased to offer a selection of different Vegetarian Protein |
+| choices, providing the highest quality products at unbeatable prices.                                             |
+|                                                                                                                   |
+| From our market leading premium whey protein, INFORMED WHEY®, to our hugely popular Pure Whey Protein™, and       |
+| everything in between, **Bulk™** has a wide range of protein powders suitable for vegetarians to enjoy.           |
++-------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-protein/vegetarian-protein
-
-With growing demand for meat-free supplements, we’re pleased to offer a selection of different Vegetarian Protein choices, providing the highest quality products at unbeatable prices.
-
-From our market leading premium whey protein, INFORMED WHEY®, to our hugely popular Pure Whey Protein™, and everything in between, **Bulk™** has a wide range of protein powders suitable for vegetarians to enjoy.
++-----------------------------------------------------------------------+
+| Metadata                                                              |
++-------------+---------------------------------------------------------+
+| breadcrumbs | true                                                    |
++-------------+---------------------------------------------------------+
+| template    | plp                                                     |
++-------------+---------------------------------------------------------+
+| title       | Vegetarian Protein Powders & Shakes \| Bulk™            |
++-------------+---------------------------------------------------------+
+| description | Choose from a range of Vegetarian Protein supplements.  |
+|             | From Pea Protein to Hemp Protein, Bulk™ has it all − at |
+|             | the UK's lowest prices.                                 |
++-------------+---------------------------------------------------------+

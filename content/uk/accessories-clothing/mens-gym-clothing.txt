@@ -1,14 +1,29 @@
-[pl](https://www.bulk.com/pl/google-shopping-skus)[cz](https://www.bulk.com/cz/google-shopping-skus)[fr](https://www.bulk.com/fr/google-shopping-skus)[ie](https://www.bulk.com/ie/google-shopping-skus)[eu](https://www.bulk.com/eu/google-shopping-skus)[de](https://www.bulk.com/de/google-shopping-skus)[pt](https://www.bulk.com/pt/google-shopping-skus)[ch](https://www.bulk.com/ch/google-shopping-skus)[at](https://www.bulk.com/at/google-shopping-skus)[dk](https://www.bulk.com/dk/google-shopping-skus)[it](https://www.bulk.com/it/google-shopping-skus)[es](https://www.bulk.com/es/google-shopping-skus)[ro](https://www.bulk.com/ro/google-shopping-skus)[uk](https://www.bulk.com/uk/accessories-clothing/mens-gym-clothing)[se](https://www.bulk.com/se/google-shopping-skus)[nl](https://www.bulk.com/nl/google-shopping-skus)
+# Men's Gym Clothing
 
-Men's Gym Clothing
-==================
++:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                              | accessories-clothing/mens-gym-clothing                                                                                                                                               |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Look no further for a fantastic range of **Men's Gym Clothing**. At **Bulk™** we make more than just supplements – our range of gym clothing includes **Hoodies**, **[Muscle Fit T-Shirts](https://main--bul-eds--thepixel.hlx.live/uk/muscle-fit-tshirt.html)**, **[Jogging Bottoms](https://main--bul-eds--thepixel.hlx.live/uk/flex-fit-joggers-uk.html)** and much more. |
+|                                                                                                                                                                                                                                                                                                                                                                              |
+| The entire range features our instantly recognisable icon, which you're sure to see in gyms up and down the country.                                                                                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                                                                                              |
+| Not only does our **Men's Gym Clothing** range look great, but our prices have to be seen to be believed – take a look for yourself and we are sure that you will be pleasantly surprised.                                                                                                                                                                                   |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-accessories-clothing/mens-gym-clothing
-
-Look no further for a fantastic range of **Men's Gym Clothing**. At **Bulk™** we make more than just supplements – our range of gym clothing includes **Hoodies**, **[Muscle Fit T-Shirts](/uk/muscle-fit-tshirt.html)**, **[Jogging Bottoms](/uk/flex-fit-joggers-uk.html)** and much more.
-
-The entire range features our instantly recognisable icon, which you're sure to see in gyms up and down the country.
-
-Not only does our **Men's Gym Clothing** range look great, but our prices have to be seen to be believed – take a look for yourself and we are sure that you will be pleasantly surprised.
++-----------------------------------------------------------------------+
+| Metadata                                                              |
++-------------+---------------------------------------------------------+
+| breadcrumbs | true                                                    |
++-------------+---------------------------------------------------------+
+| template    | plp                                                     |
++-------------+---------------------------------------------------------+
+| title       | Men's Gym Clothing \| Buy Gym Clothes Online \| Bulk™   |
++-------------+---------------------------------------------------------+
+| description | Buy Men's Gym Clothing online and take your workouts to |
+|             | the next level. Bulk™ range of Gym & Workout Clothes    |
+|             | looks great and is unbeatably priced.                   |
++-------------+---------------------------------------------------------+

@@ -1,12 +1,28 @@
-[dk](https://www.bulk.com/dk/tilbehor-toj/protein-shakere)[ch](https://www.bulk.com/ch/zubehor-und-bekleidung/shaker-mixflaschen)[at](https://www.bulk.com/at/zubehor-bekleidung/shaker-mixflaschen)[de](https://www.bulk.com/de/zubehor-und-bekleidung/shaker-mixflaschen)[cz](https://www.bulk.com/cz/accessories-clothing/shaker-bottles)[eu](https://www.bulk.com/eu/accessories-clothing/shaker-bottles)[es](https://www.bulk.com/es/ropa-y-accessorios/botellines-mezcladores)[ie](https://www.bulk.com/ie/accessories-clothing/shaker-bottles)[se](https://www.bulk.com/se/klader-och-tillbehor/shakers-och-vattenflaskor)[pt](https://www.bulk.com/pt/roupa-desportiva-e-acessorios/shakers)[fr](https://www.bulk.com/fr/vetements-accessoires/shaker)[uk](https://www.bulk.com/uk/foods/beef-snacks)[it](https://www.bulk.com/it/accessori-abbigliamento/bottiglie-e-shaker)[ro](https://www.bulk.com/ro/accessories-clothing/shaker-bottles)[nl](https://www.bulk.com/nl/accessoires-en-kleding/shake-bekers)[pl](https://www.bulk.com/pl/akcesoria-i-odziez/shakery)
+# Beef Snacks
 
-Beef Snacks
-===========
++:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                                                                   |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                                           | foods/beef-snacks                                                                                                                                                                                  |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Beef protein snacks** are the epitome of convenience. A pack of our **[High Protein Biltong](https://www.bulk.com/uk/products/high-protein-biltong/BPF-BILT)** or **[Beef Jerky](https://www.bulk.com/uk/products/beef-jerky/bpf-bjer)** is easy to carry around, making it ideal as a travel snack or treat in between meals, making sure you get a consistent intake of protein throughout the day. |
+|                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **[Active Meals](https://www.bulk.com/uk/shop-by-range/foods?page=1\&pageSize=15\&sort=position\&sortDirection=asc)**™, our very own high protein ready meals, taste great and can be eaten as a luxurious meal for lunch, dinner or any                                                                                                                                                                |
+| other time of day. 29g protein per meal and low in fat at only 3%, they are ultra-convenient and ideal for absolutely anyone.                                                                                                                                                                                                                                                                           |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-foods/beef-snacks
-
-**Beef protein snacks** are the epitome of convenience. A pack of our **[High Protein Biltong](https://www.bulk.com/uk/products/high-protein-biltong/BPF-BILT)** or **[Beef Jerky](https://www.bulk.com/uk/products/beef-jerky/bpf-bjer)** is easy to carry around, making it ideal as a travel snack or treat in between meals, making sure you get a consistent intake of protein throughout the day.
-
-**[Active Meals](https://www.bulk.com/uk/shop-by-range/foods?page=1&pageSize=15&sort=position&sortDirection=asc)**™, our very own high protein ready meals, taste great and can be eaten as a luxurious meal for lunch, dinner or any other time of day. 29g protein per meal and low in fat at only 3%, they are ultra-convenient and ideal for absolutely anyone.
++------------------------------------------------------------------------+
+| Metadata                                                               |
++-------------+----------------------------------------------------------+
+| breadcrumbs | true                                                     |
++-------------+----------------------------------------------------------+
+| template    | plp                                                      |
++-------------+----------------------------------------------------------+
+| title       | Beef Snacks \| Beef Foods \| Bulk™                       |
++-------------+----------------------------------------------------------+
+| description | Beef Protein is a fantastic protein source. Bulk™ stocks |
+|             | a range of Beef based Snacks & Foods − shop our range    |
+|             | online today for the highest quality.                    |
++-------------+----------------------------------------------------------+

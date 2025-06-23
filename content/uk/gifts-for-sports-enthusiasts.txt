@@ -1,10 +1,24 @@
-[pl](https://www.bulk.com/pl/prezenty-dla-milosnikow-sportu)[dk](https://www.bulk.com/dk/gaver-til-sportsentusiaster)[it](https://www.bulk.com/it/regali-per-gli-appassionati-dello-sport)[de](https://www.bulk.com/de/geschenke-fur-sportenthusiasten)[ie](https://www.bulk.com/ie/gifts-for-sports-enthusiasts)[at](https://www.bulk.com/at/geschenke-fur-sportenthusiasten)[ro](https://www.bulk.com/ro/cadouri-pentru-pasionatii-de-sport)[es](https://www.bulk.com/es/regalos-para-entusiastas-del-deporte)[nl](https://www.bulk.com/nl/cadeaus-voor-sportenthousiast)[cz](https://www.bulk.com/cz/darky-pro-sportovni-nadsence)[se](https://www.bulk.com/se/gavor-for-sportentusiaster)[fr](https://www.bulk.com/fr/cadeaux-pour-les-fans-de-sports)[eu](https://www.bulk.com/eu/gifts-for-sports-enthusiasts)[pt](https://www.bulk.com/pt/presentes-para-os-esportivos)[ch](https://www.bulk.com/ch/geschenke-fur-sportenthusiasten)[uk](https://www.bulk.com/uk/gifts-for-sports-enthusiasts)
+# Gifts For Sports Enthusiasts
 
-Gifts For Sports Enthusiasts
-============================
++:--------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                |
++-----------------------------------------------------------+----------------------------------------------------------+
+| category                                                  | gifts-for-sports-enthusiasts                             |
++----------------------------------------------------------------------------------------------------------------------+
+| Hit a home run this Christmas with these perfect gifts for the football fanatics or rugby renegades - just make sure |
+| they're fresh for their boxing day matches.                                                                          |
++----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-gifts-for-sports-enthusiasts
-
-Hit a home run this Christmas with these perfect gifts for the football fanatics or rugby renegades - just make sure they're fresh for their boxing day matches.
++--------------------------------------------+
+| Metadata                                   |
++-------------+------------------------------+
+| breadcrumbs | true                         |
++-------------+------------------------------+
+| template    | plp                          |
++-------------+------------------------------+
+| title       | Gifts For Sports Enthusiasts |
++-------------+------------------------------+
+| description |                              |
++-------------+------------------------------+

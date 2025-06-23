@@ -1,72 +1,123 @@
-[fr](https://www.bulk.com/fr/proteine/proteine-paleo)[de](https://www.bulk.com/de/protein/paleo-protein)[es](https://www.bulk.com/es/proteinas/proteina-paleo)[ie](https://www.bulk.com/ie/protein/paleo-protein)[eu](https://www.bulk.com/eu/protein/paleo-protein)[se](https://www.bulk.com/se/protein/paleo-protein)[ro](https://www.bulk.com/ro/protein/paleo-protein)[at](https://www.bulk.com/at/protein/paleo-protein)[nl](https://www.bulk.com/nl/proteine/paleo-proteine)[dk](https://www.bulk.com/dk/protein/paleo-protein)[it](https://www.bulk.com/it/proteine/proteine-paleo)[uk](https://www.bulk.com/uk/protein/paleo-protein)[pt](https://www.bulk.com/pt/proteinas/paleo-proteina)[pl](https://www.bulk.com/pl/odzywki-bialkowe/bialka-paleo)[cz](https://www.bulk.com/cz/protein/paleo-protein)[ch](https://www.bulk.com/ch/protein/paleo-protein)
+# Paleo Protein
 
-Paleo Protein
-=============
++:---------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| category                                                  | protein/paleo-protein                                     |
++-----------------------------------------------------------------------------------------------------------------------+
+| Protein is the cornerstone of any Paleo Diet. **Bulk™** manufactures a wide range of Paleo Protein products – from    |
+| our famous Liquid Egg Whites to our incredible Beef Protein Isolate.                                                  |
+|                                                                                                                       |
+| If you are following the Paleo Diet, look no further for a great range of high protein foods, supplements and shakes; |
+| a wide range of vegetable powders (such as Spinach Powder and Broccoli Powder); and an unrivalled selection of        |
+| healthy fat sources – from Organic Virgin Coconut Oil to Whole Almonds.                                               |
+|                                                                                                                       |
+| If you are unfamiliar with the Paleo Diet, then in summary it is a diet based on the food types presumed to have been |
+| eaten by early humans (cavemen); primarily consisting of meat, fish, vegetables, and fruit. It excludes all processed |
+| foods, dairy products and cereals.                                                                                    |
+|                                                                                                                       |
+| All of our protein powders are high-performers, easy-mixers and reliable all-rounders. Shake up a smoothie with       |
+| seasonal berries, pimp up your porridge or power-pack your pancakes, bake into brownies or get creative with cookies. |
+| Keeping it simple? Just add water or milk.                                                                            |
+|                                                                                                                       |
+| If you’re looking to increase your protein intake as part of a healthy, balanced lifestyle, our extensive range of    |
+| protein powders has something for everyone. All you have to do is choose.                                             |
+|                                                                                                                       |
+| Discover our range of paleo protein powders and supplements.                                                          |
++-----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-protein/paleo-protein
+## Paleo Protein FAQS
 
-Protein is the cornerstone of any Paleo Diet. **Bulk™** manufactures a wide range of Paleo Protein products – from our famous Liquid Egg Whites to our incredible Beef Protein Isolate.
++-----------------------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| What are Paleo protein products?                          | Protein is the cornerstone of any Paleo diet. For a diet  |
+|                                                           | that is entirely based on food said to have been eaten by |
+|                                                           | early humans (meat, fish, vegetables and fruit), protein  |
+|                                                           | forms a massive part. Available in powder and food form   |
+|                                                           | at bulk.                                                  |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| What are the benefits of Paleo protein products?          | The benefits of Paleo protein products align with those   |
+|                                                           | of regular protein products - protein is essential in     |
+|                                                           | helping your body recover and your muscles rebuild after  |
+|                                                           | a workout session, and whether you’re looking to bulk up  |
+|                                                           | or maintain your muscle mass, protein in your diet is a   |
+|                                                           | surefire way to get your body what it needs to help keep  |
+|                                                           | those gains.                                              |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| Can you eat protein on a Paleo diet?                      | Absolutely - protein is an essential part of your diet    |
+|                                                           | and forms a massive part of a Paleo lifestyle. Paleo is a |
+|                                                           | diet that looks for the purest forms of nutrition -       |
+|                                                           | because of our Paleo protein products excellent           |
+|                                                           | nutritional profile, you can be sure that what you’re     |
+|                                                           | putting into your body is of the highest quality.         |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| Is it OK to take Paleo supplements every day?             | Paleo supplements are designed to be implemented as part  |
+|                                                           | of a healthy and balanced diet, and are suitable to take  |
+|                                                           | every day, around or during your workout, or when you     |
+|                                                           | need to increase your protein intake without any extra    |
+|                                                           | calories.                                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| What different types of Paleo diet products are available | Our Paleo range has a wide selection of powders, nut      |
+| at bulk?                                                  | butters and high protein snacks, so that you can get all  |
+|                                                           | the supplements you need to implement into your diet.     |
+|                                                           | Most of our Paleo products are also suitable for          |
+|                                                           | vegetarians and vegans.                                   |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| What is the best protein powder for a Paleo diet?         | Our unflavoured Beef Protein Isolate 97 is Paleo          |
+|                                                           | friendly. It is hydrolysed from premium European beef,    |
+|                                                           | has a healthy nutritional profile, and contains 97%       |
+|                                                           | protein content, giving you confidence that your protein  |
+|                                                           | source is packed and pure.                                |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| What types of food can you eat on a Paleo diet?           | A Paleo diet is narrow, but there are quite a few tasty   |
+|                                                           | foods you can eat within this. Based on the diet of what  |
+|                                                           | cavemen ate during the Paleolithic era, a Paleo diet is   |
+|                                                           | based on meat, vegetables, fish and fruit, with a focus   |
+|                                                           | on purity and nutrition.                                  |
++-----------------------------------------------------------+-----------------------------------------------------------+
 
-If you are following the Paleo Diet, look no further for a great range of high protein foods, supplements and shakes; a wide range of vegetable powders (such as Spinach Powder and Broccoli Powder); and an unrivalled selection of healthy fat sources – from Organic Virgin Coconut Oil to Whole Almonds.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-If you are unfamiliar with the Paleo Diet, then in summary it is a diet based on the food types presumed to have been eaten by early humans (cavemen); primarily consisting of meat, fish, vegetables, and fruit. It excludes all processed foods, dairy products and cereals.
+---
 
-All of our protein powders are high-performers, easy-mixers and reliable all-rounders. Shake up a smoothie with seasonal berries, pimp up your porridge or power-pack your pancakes, bake into brownies or get creative with cookies. Keeping it simple? Just add water or milk.
+## RELATED CATEGORIES
 
-If you’re looking to increase your protein intake as part of a healthy, balanced lifestyle, our extensive range of protein powders has something for everyone. All you have to do is choose.
+- [Protein powders](https://dev--bul-eds--thepixel.hlx.live/uk/protein)
+- [Whey protein powders](https://dev--bul-eds--thepixel.hlx.live/uk/protein/whey-protein)
+- [High protein foods](https://dev--bul-eds--thepixel.hlx.live/uk/protein/high-protein-foods)
+- [Natural protein powders](https://dev--bul-eds--thepixel.hlx.live/uk/protein/natural-protein)
+- [Milk protein shakes](https://dev--bul-eds--thepixel.hlx.live/uk/protein/milk-protein)
+- [Recovery protein shakes](https://dev--bul-eds--thepixel.hlx.live/uk/protein/recovery-protein)
+- [Slow release protein shakes](https://dev--bul-eds--thepixel.hlx.live/uk/protein/slow-release-protein)
+- [Unflavoured protein powders](https://dev--bul-eds--thepixel.hlx.live/uk/protein/unflavoured-protein)
+- [Vegetarian protein powders](https://dev--bul-eds--thepixel.hlx.live/uk/protein/vegetarian-protein)
 
-Discover our range of paleo protein powders and supplements.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-Paleo Protein FAQS
-------------------
+---
 
-What are Paleo protein products?
-
-Protein is the cornerstone of any Paleo diet. For a diet that is entirely based on food said to have been eaten by early humans (meat, fish, vegetables and fruit), protein forms a massive part. Available in powder and food form at bulk.
-
-What are the benefits of Paleo protein products?
-
-The benefits of Paleo protein products align with those of regular protein products - protein is essential in helping your body recover and your muscles rebuild after a workout session, and whether you’re looking to bulk up or maintain your muscle mass, protein in your diet is a surefire way to get your body what it needs to help keep those gains.
-
-Can you eat protein on a Paleo diet?
-
-Absolutely - protein is an essential part of your diet and forms a massive part of a Paleo lifestyle. Paleo is a diet that looks for the purest forms of nutrition - because of our Paleo protein products excellent nutritional profile, you can be sure that what you’re putting into your body is of the highest quality.
-
-Is it OK to take Paleo supplements every day?
-
-Paleo supplements are designed to be implemented as part of a healthy and balanced diet, and are suitable to take every day, around or during your workout, or when you need to increase your protein intake without any extra calories.
-
-What different types of Paleo diet products are available at bulk?
-
-Our Paleo range has a wide selection of powders, nut butters and high protein snacks, so that you can get all the supplements you need to implement into your diet. Most of our Paleo products are also suitable for vegetarians and vegans.
-
-What is the best protein powder for a Paleo diet?
-
-Our unflavoured Beef Protein Isolate 97 is Paleo friendly. It is hydrolysed from premium European beef, has a healthy nutritional profile, and contains 97% protein content, giving you confidence that your protein source is packed and pure.
-
-What types of food can you eat on a Paleo diet?
-
-A Paleo diet is narrow, but there are quite a few tasty foods you can eat within this. Based on the diet of what cavemen ate during the Paleolithic era, a Paleo diet is based on meat, vegetables, fish and fruit, with a focus on purity and nutrition.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Protein powders](/uk/protein)
-*   [Whey protein powders](/uk/protein/whey-protein)
-*   [High protein foods](/uk/protein/high-protein-foods)
-*   [Natural protein powders](/uk/protein/natural-protein)
-*   [Milk protein shakes](/uk/protein/milk-protein)
-*   [Recovery protein shakes](/uk/protein/recovery-protein)
-*   [Slow release protein shakes](/uk/protein/slow-release-protein)
-*   [Unflavoured protein powders](/uk/protein/unflavoured-protein)
-*   [Vegetarian protein powders](/uk/protein/vegetarian-protein)
-
-Style
-
-lozenge-list
++------------------------------------------------------------------------+
+| Metadata                                                               |
++-------------+----------------------------------------------------------+
+| breadcrumbs | true                                                     |
++-------------+----------------------------------------------------------+
+| template    | plp                                                      |
++-------------+----------------------------------------------------------+
+| title       | Paleo Protein Powders & Supplements \| Bulk™             |
++-------------+----------------------------------------------------------+
+| description | Boost your Paleo Diet with Bulk™ Paloe Protein powders & |
+|             | Supplements: from Liquid Egg Whites to Beef Protein      |
+|             | Isolate, plus healthy fats and veg powders. Discover our |
+|             | protein-rich range now.                                  |
++-------------+----------------------------------------------------------+

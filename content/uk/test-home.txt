@@ -1,145 +1,160 @@
-[fr](https://www.bulk.com/fr/products/post-entrainement-vegan-tout-en-un/vser-vai1)[pl](https://www.bulk.com/pl/products/weganski-shake-all-in-one/vser-vai1)[cz](https://www.bulk.com/cz/products/veganske-vse-v-jednom/vser-vai1)[de](https://www.bulk.com/de/products/vegan-all-in-one-post-workout-shake/vser-vai1)[ch](https://www.bulk.com/ch/products/vegan-all-in-one-post-workout-shake/vser-vai1)[es](https://www.bulk.com/es/products/batido-todo-en-uno-vegano-post-workout/vser-vai1)[ie](https://www.bulk.com/ie/products/vegan-all-in-one/vser-vai1)[eu](https://www.bulk.com/eu/products/vegan-all-in-one/vser-vai1)[se](https://www.bulk.com/se/products/vegan-all-in-one/vser-vai1)[ro](https://www.bulk.com/ro/products/vegan-all-in-one/vser-vai1)[at](https://www.bulk.com/at/products/vegan-all-in-one-post-workout-shake/vser-vai1)[nl](https://www.bulk.com/nl/products/vegan-alles-in-een-post-workout-shake/vser-vai1)[dk](https://www.bulk.com/dk/products/vegan-all-in-one-post-workout-shake/vser-vai1)[it](https://www.bulk.com/it/products/frullato-post-allenamento-vegano/vser-vai1)[uk](https://www.bulk.com/uk/test-home)[pt](https://www.bulk.com/pt/products/all-in-one-vegan/vser-vai1)
++---------------------------------------------------------------------------------------------------------------------------------------------+
+| Promo Cards (hero-banner, left, dark, trim-red)                                                                                             |
++---------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                             |
++----------------------------------------------------------------------+----------------------------------------------------------------------+
+| ![][image0]                                                          | ![][image1]                                                          |
++---------------------------------------------------------------------------------------------------------------------------------------------+
+| January Sale, up to                                                                                                                         |
+|                                                                                                                                             |
+| ## Hero-banner-1                                                                                                                            |
+|                                                                                                                                             |
+| \+ Extra 10% when you use code [JAN10](https://main--bul-eds--thepixel.hlx.live/uk/u/0/d/1dwPZBW4z3ZyxEYcyW7xZliNrkT76rHKl-sXSAa7JlJA/edit) |
+|                                                                                                                                             |
+| _[Shop Now](https://main--bul-eds--thepixel.hlx.live/uk/link-1)_                                                                            |
++---------------------------------------------------------------------------------------------------------------------------------------------+
+| \*Min spend £49. [Terms apply](https://main--bul-eds--thepixel.hlx.live/uk/d/1hL4D7FbkjTPBlZNfB60DxWMxS8wMhlTCORJps5ZyPdE/edit#)            |
++---------------------------------------------------------------------------------------------------------------------------------------------+
 
-   ![](./media_1a12ebe492d1017095716d91d9a211ef433679960.png?width=750&format=png&optimize=medium)
++---------------------------------------------------------------------------------------+
+| Product Slider                                                                        |
++--------------+------------------------------------------------------------------------+
+| title        | Best Sellers                                                           |
++--------------+------------------------------------------------------------------------+
+| link         | [Link to category](https://main--bul-eds--thepixel.hlx.live/uk/link-3) |
++--------------+------------------------------------------------------------------------+
+| category     | 100                                                                    |
++--------------+------------------------------------------------------------------------+
+| desktopLimit | 5                                                                      |
++--------------+------------------------------------------------------------------------+
+| mobileLimit  | 7                                                                      |
++--------------+------------------------------------------------------------------------+
 
-   ![](./media_1ae46e6cad1312a77474979ceb40739472ccfc859.png?width=750&format=png&optimize=medium)
+---
 
-January Sale, up to
++-----------------------------------------------------------------------------------------------------------------------------------------+
+| Cards                                                                                                                                   |
++------------------------+--------------------------------------------------------------------------------------------------+-------------+
+| **Endurance**          | [https://www.bulk.com/uk/protein.html](https://main--bul-eds--thepixel.hlx.live/uk/protein.html) | ![][image2] |
++------------------------+--------------------------------------------------------------------------------------------------+-------------+
+| **Eat Vegan**          | [https://www.bulk.com/uk/vegan.html](https://main--bul-eds--thepixel.hlx.live/uk/vegan.html)     | ![][image3] |
++------------------------+--------------------------------------------------------------------------------------------------+-------------+
+| **Build Muscle**       | [https://www.bulk.com/uk/protein.html](https://main--bul-eds--thepixel.hlx.live/uk/protein.html) | ![][image4] |
++------------------------+--------------------------------------------------------------------------------------------------+-------------+
+| **Weight Loss**        | [https://www.bulk.com/uk/vegan.html](https://main--bul-eds--thepixel.hlx.live/uk/vegan.html)     | ![][image5] |
++------------------------+--------------------------------------------------------------------------------------------------+-------------+
+| **Health & Wellbeing** | [https://www.bulk.com/uk/vegan.html](https://main--bul-eds--thepixel.hlx.live/uk/vegan.html)     | ![][image6] |
++------------------------+--------------------------------------------------------------------------------------------------+-------------+
 
-Hero-banner-1
--------------
+---
 
-\+ Extra 10% when you use code [JAN10](/uk/u/0/d/1dwPZBW4z3ZyxEYcyW7xZliNrkT76rHKl-sXSAa7JlJA/edit)
++---------------------------------------------------------------------------------------------------------------------------------------------+
+| Promo Cards (hero-banner, left, dark)                                                                                                       |
++---------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                             |
++----------------------------------------------------------------------+----------------------------------------------------------------------+
+| ![][image7]                                                          | ![][image8]                                                          |
++---------------------------------------------------------------------------------------------------------------------------------------------+
+| January Sale, up to                                                                                                                         |
+|                                                                                                                                             |
+| ## 80% off everything                                                                                                                       |
+|                                                                                                                                             |
+| \+ Extra 10% when you use code [JAN10](https://main--bul-eds--thepixel.hlx.live/uk/u/0/d/1dwPZBW4z3ZyxEYcyW7xZliNrkT76rHKl-sXSAa7JlJA/edit) |
+|                                                                                                                                             |
+| _[Shop Now](https://main--bul-eds--thepixel.hlx.live/uk/link-1)_                                                                            |
++---------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                             |
++---------------------------------------------------------------------------------------------------------------------------------------------+
 
-_[Shop Now](/uk/link-1)_
+---
 
-\*Min spend £49. [Terms apply](/uk/d/1hL4D7FbkjTPBlZNfB60DxWMxS8wMhlTCORJps5ZyPdE/edit)
-
-title
-
-Best Sellers
-
-link
-
-[Link to category](/uk/link-3)
-
-category
-
-100
-
-desktopLimit
-
-5
-
-mobileLimit
-
-7
-
-**Endurance**
-
-[https://www.bulk.com/uk/protein.html](/uk/protein.html)
-
-   ![](./media_13a6a280546cb36391483928c29c2c5e17f67ec05.png?width=750&format=png&optimize=medium)
-
-**Eat Vegan**
-
-[https://www.bulk.com/uk/vegan.html](/uk/vegan.html)
-
-   ![](./media_1ef2f6747123abd3acf48242db415255b483df68e.png?width=750&format=png&optimize=medium)
-
-**Build Muscle**
-
-[https://www.bulk.com/uk/protein.html](/uk/protein.html)
-
-   ![](./media_19f3899cfab3ae74735112074d5803ba61dc3b54b.jpeg?width=750&format=jpeg&optimize=medium)
-
-**Weight Loss**
-
-[https://www.bulk.com/uk/vegan.html](/uk/vegan.html)
-
-   ![](./media_11bc18a302b3697ea8ca84013f31fc937725e33ea.jpeg?width=750&format=jpeg&optimize=medium)
-
-**Health & Wellbeing**
-
-[https://www.bulk.com/uk/vegan.html](/uk/vegan.html)
-
-   ![](./media_15a32c51a1fe823e1f644c60638c2479fec204001.jpeg?width=750&format=jpeg&optimize=medium)
-
-   ![](./media_1985b057244c8bd82d97d133ee99c428be28d6b13.png?width=750&format=png&optimize=medium)
-
-   ![](./media_1b2d026ef20fd4186bc93df4ca8f0eb975ce4c964.png?width=750&format=png&optimize=medium)
-
-January Sale, up to
-
-80% off everything
-------------------
-
-\+ Extra 10% when you use code [JAN10](/uk/u/0/d/1dwPZBW4z3ZyxEYcyW7xZliNrkT76rHKl-sXSAa7JlJA/edit)
-
-_[Shop Now](/uk/link-1)_
-
-Serious about Superfoods?
--------------------------
+## Serious about Superfoods?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-category
++----------------------+
+| Product Slider       |
++--------------+-------+
+| category     | 100   |
++--------------+-------+
+| desktopLimit | 5     |
++--------------+-------+
+| mobileLimit  | 7     |
++--------------+-------+
 
-100
+_[Shop Superfoods](https://main--bul-eds--thepixel.hlx.page/uk/link-3)_
 
-desktopLimit
++--------------------+
+| Section Metadata   |
++---------+----------+
+| Style   | p-max-50 |
++---------+----------+
 
-5
+---
 
-mobileLimit
-
-7
-
-_[Shop Superfoods](/uk/link-3)_
-
-Style
-
-p-max-50
-
-Serious about Superfoods?
--------------------------
+## Serious about Superfoods?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-category
++----------------------+
+| Product Slider       |
++--------------+-------+
+| category     | 100   |
++--------------+-------+
+| desktopLimit | 5     |
++--------------+-------+
+| mobileLimit  | 7     |
++--------------+-------+
 
-100
+_[Shop Superfoods](https://main--bul-eds--thepixel.hlx.page/uk/link-3)_
 
-desktopLimit
++--------------------+
+| Section Metadata   |
++---------+----------+
+| Style   | p-max-50 |
++---------+----------+
 
-5
+---
 
-mobileLimit
++---------------------------------------------------------------------------------------+
+| Product Slider                                                                        |
++--------------+------------------------------------------------------------------------+
+| title        | Bestsellers                                                            |
++--------------+------------------------------------------------------------------------+
+| link         | [Link to category](https://main--bul-eds--thepixel.hlx.live/uk/link-3) |
++--------------+------------------------------------------------------------------------+
+| category     | 100                                                                    |
++--------------+------------------------------------------------------------------------+
+| desktopLimit | 5                                                                      |
++--------------+------------------------------------------------------------------------+
+| mobileLimit  | 7                                                                      |
++--------------+------------------------------------------------------------------------+
 
-7
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| Title       | Bulk™ \| Protein, Vitamins, Sports Nutrition, Fitness     |
+|             | Foods                                                     |
++-------------+-----------------------------------------------------------+
+| Description | Bulk™ is the leading supplier of bodybuilding supplements |
+|             | \&amp; sports nutrition – covering Protein, Creatine,     |
+|             | Vitamins, Fat Loss \&amp; more! Formerly Bulk Powders.    |
++-------------+-----------------------------------------------------------+
 
-_[Shop Superfoods](/uk/link-3)_
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1a12ebe492d1017095716d91d9a211ef433679960.png#width=800&height=1200
 
-Style
+[image1]: https://main--bulk-eds--thepixel.hlx.page/media_1ae46e6cad1312a77474979ceb40739472ccfc859.png#width=1400&height=407
 
-p-max-50
+[image2]: https://main--bulk-eds--thepixel.hlx.page/media_13a6a280546cb36391483928c29c2c5e17f67ec05.png#width=640&height=640
 
-title
+[image3]: https://main--bulk-eds--thepixel.hlx.page/media_1ef2f6747123abd3acf48242db415255b483df68e.png#width=640&height=640
 
-Bestsellers
+[image4]: https://main--bulk-eds--thepixel.hlx.page/media_19f3899cfab3ae74735112074d5803ba61dc3b54b.jpeg#width=640&height=640
 
-link
+[image5]: https://main--bulk-eds--thepixel.hlx.page/media_11bc18a302b3697ea8ca84013f31fc937725e33ea.jpeg#width=640&height=640
 
-[Link to category](/uk/link-3)
+[image6]: https://main--bulk-eds--thepixel.hlx.page/media_15a32c51a1fe823e1f644c60638c2479fec204001.jpeg#width=640&height=640
 
-category
+[image7]: https://main--bulk-eds--thepixel.hlx.page/media_1985b057244c8bd82d97d133ee99c428be28d6b13.png#width=720&height=900
 
-100
-
-desktopLimit
-
-5
-
-mobileLimit
-
-7
+[image8]: https://main--bulk-eds--thepixel.hlx.page/media_1b2d026ef20fd4186bc93df4ca8f0eb975ce4c964.png#width=1400&height=500

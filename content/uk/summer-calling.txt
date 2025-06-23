@@ -1,20 +1,34 @@
-[fr](https://www.bulk.com/fr/saveurs-d-ete)[de](https://www.bulk.com/de/sommer-ruft)[es](https://www.bulk.com/es/sabores-de-verano)[ie](https://www.bulk.com/ie/summer-calling)[eu](https://www.bulk.com/eu/summer-calling)[se](https://www.bulk.com/se/summer-calling)[ro](https://www.bulk.com/ro/summer-calling)[at](https://www.bulk.com/at/sommer-ruft)[nl](https://www.bulk.com/nl/summer-calling)[dk](https://www.bulk.com/dk/sommeren-kalder)[it](https://www.bulk.com/it/l-estate-chiama)[uk](https://www.bulk.com/uk/summer-calling)[pt](https://www.bulk.com/pt/sabores-de-verao)[pl](https://www.bulk.com/pl/polaczenia-letnie)[cz](https://www.bulk.com/cz/summer-calling)[ch](https://www.bulk.com/ch/sommer-ruft)
+# Summer Calling
 
-Summer Calling
-==============
++:----------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                            |
++---------------------------------------------------------+--------------------------------------------------------+
+| category                                                | summer-calling                                         |
++------------------------------------------------------------------------------------------------------------------+
+| Choose a Summer Flavour                                                                                          |
+|                                                                                                                  |
+| What’s your go-to flavour this summer? We’ve got a few options. Cool off with our selection of refreshing summer |
+| flavours including juicy watermelon, strawberry daiquiri & mojito.                                               |
+|                                                                                                                  |
+| Apple & Lime  Orange & Mango  Strawberries & Cream                                                               |
+|                                                                                                                  |
+| Tropical  Watermelon  Vanilla Ice Cream                                                                          |
+|                                                                                                                  |
+| Lemon & Lime  Summer Berry  Pineapple & Coconut                                                                  |
+|                                                                                                                  |
+| Pistachio  Strawberry Daquiri  Mojito                                                                            |
++------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-summer-calling
-
-Choose a Summer Flavour
-
-What’s your go-to flavour this summer? We’ve got a few options. Cool off with our selection of refreshing summer flavours including juicy watermelon, strawberry daiquiri & mojito.
-
-Apple & Lime Orange & Mango Strawberries & Cream
-
-Tropical Watermelon Vanilla Ice Cream
-
-Lemon & Lime Summer Berry Pineapple & Coconut
-
-Pistachio Strawberry Daquiri Mojito
++--------------------+
+| Metadata           |
++-------------+------+
+| breadcrumbs | true |
++-------------+------+
+| template    | plp  |
++-------------+------+
+| title       |      |
++-------------+------+
+| description |      |
++-------------+------+

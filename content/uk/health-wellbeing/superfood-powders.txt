@@ -1,14 +1,30 @@
-[pl](https://www.bulk.com/pl/zdrowie-i-dobre-samopoczucie/superfood-powders)[fr](https://www.bulk.com/fr/sante-et-bien-etre/super-aliments-en-poudre)[ch](https://www.bulk.com/ch/gesundheit-wohlbefinden/supernahrungsmittel-in-pulverform)[eu](https://www.bulk.com/eu/health-wellbeing/superfood-powders)[nl](https://www.bulk.com/nl/gezondheid-en-welzijn/superfood-poeders)[it](https://www.bulk.com/it/salute-e-benessere/super-alimenti-in-polvere)[se](https://www.bulk.com/se/halsa-och-valbefinnande/superfoods-pulver)[cz](https://www.bulk.com/cz/health-wellbeing/superfood-powders)[de](https://www.bulk.com/de/gesundheit-wohlbefinden/supernahrungsmittel-in-pulverform)[at](https://www.bulk.com/at/gesundheit-wohlbefinden/supernahrungsmittel-in-pulverform)[uk](https://www.bulk.com/uk/health-wellbeing/superfood-powders)[ro](https://www.bulk.com/ro/health-wellbeing/superfood-powders)[ie](https://www.bulk.com/ie/health-wellbeing/superfood-powders)[dk](https://www.bulk.com/dk/godt-helbred/superfood-produkter)[pt](https://www.bulk.com/pt/saude-e-bem-estar/superalimentos-em-po)[es](https://www.bulk.com/es/salud-y-bienestar/super-alimentos-en-polvo)
+# Superfood Powders
 
-Superfood Powders
-=================
++:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                        |
++---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------+
+| category                                                                              | health-wellbeing/superfood-powders                                                   |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Superfood Powders are all the rage – potent powders packed full of vitamins and minerals and a rich source of nutrients. Often high in protein and fibre, they are a healthy |
+| addition to any diet, especially for people who struggle to consume nutrients from their regular food intake – essentially fruit and vegetables.                             |
+|                                                                                                                                                                              |
+| Some of our popular Superfood Powders include Spirulina, Matcha Green Tea, Baobab and Maca, but our **Bulk™** selection is pretty exhaustive. These are just a few examples. |
+|                                                                                                                                                                              |
+| Take a look at the full **Bulk™** range and see what takes your fancy!                                                                                                       |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-health-wellbeing/superfood-powders
-
-Superfood Powders are all the rage – potent powders packed full of vitamins and minerals and a rich source of nutrients. Often high in protein and fibre, they are a healthy addition to any diet, especially for people who struggle to consume nutrients from their regular food intake – essentially fruit and vegetables.
-
-Some of our popular Superfood Powders include Spirulina, Matcha Green Tea, Baobab and Maca, but our **Bulk™** selection is pretty exhaustive. These are just a few examples.
-
-Take a look at the full **Bulk™** range and see what takes your fancy!
++-----------------------------------------------------------------------+
+| Metadata                                                              |
++-------------+---------------------------------------------------------+
+| breadcrumbs | true                                                    |
++-------------+---------------------------------------------------------+
+| template    | plp                                                     |
++-------------+---------------------------------------------------------+
+| title       | Superfood Powders \| Super Food Drinks \| Bulk™         |
++-------------+---------------------------------------------------------+
+| description | Super Food Powders are gaining popularity all the time. |
+|             | Along with Super Food drinks, they support optimum      |
+|             | health. Shop the Bulk™ range today.                     |
++-------------+---------------------------------------------------------+

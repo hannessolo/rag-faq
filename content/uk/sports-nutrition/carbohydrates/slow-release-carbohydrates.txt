@@ -1,47 +1,87 @@
-[pl](https://www.bulk.com/pl/odzywki-sportowe/weglowodany/powolnie-wchlaniajace-sie-weglowodany)[cz](https://www.bulk.com/cz/sports-nutrition/carbohydrates/slow-release-carbohydrates)[ie](https://www.bulk.com/ie/sports-nutrition/carbohydrates/slow-release-carbohydrates)[se](https://www.bulk.com/se/idrottsnutrition/kolhydrater-2/langsamma-kolhydrater)[eu](https://www.bulk.com/eu/sports-nutrition/carbohydrates/slow-release-carbohydrates)[nl](https://www.bulk.com/nl/sport-voeding/koolhydraten/langzaam-afgevende-koolhydraten)[de](https://www.bulk.com/de/sportnahrung/kohlenhydrate/langsam-verfugbare-kohlenhydrate)[es](https://www.bulk.com/es/nutricion-deportiva/carbohidratos/carbohidratos-de-liberacion-lenta)[it](https://www.bulk.com/it/alimentazione-sportiva/carboidrati/carboidrati-a-rilascio-lento)[ch](https://www.bulk.com/ch/sportnahrung/kohlenhydrate/langsam-verfugbare-kohlenhydrate)[at](https://www.bulk.com/at/sportnahrung/kohlenhydrate/langsam-verfugbare-kohlenhydrate)[pt](https://www.bulk.com/pt/nutricao-desporto/hidratos-de-carbono/hidratos-de-carbono-de-libertacao-lentas)[dk](https://www.bulk.com/dk/sportsernaering/kulhydrater/langsomme-kulhydrater)[ro](https://www.bulk.com/ro/sports-nutrition/carbohydrates/slow-release-carbohydrates)[uk](https://www.bulk.com/uk/sports-nutrition/carbohydrates/slow-release-carbohydrates)[fr](https://www.bulk.com/fr/nutrition-sportive/glucides/glucides-a-liberation-lente)
+# Slow Release Carbohydrates
 
-Slow Release Carbohydrates
-==========================
++:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                        |
++-------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                      | sports-nutrition/carbohydrates/slow-release-carbohydrates                                                                    |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| For sustained release of energy, slow release carbohydrates are the ideal choice. Slow release carbohydrates take the body longer to break down and convert into energy, hence why they are also often referred to as complex carbohydrates. The result is   |
+| that energy is given to the body over an extended period, with only a small impact on blood sugar levels. Controlling blood sugar levels helps to stabilise insulin levels which, in turn, can reduce fat storage.                                           |
+|                                                                                                                                                                                                                                                              |
+| Slow release carbohydrates are good to have for breakfast, mid-morning/afternoon snacks, lunch and dinner. They are viewed as the healthy alternative to fast release carbohydrates, but both do have their place in supplementation.                        |
+|                                                                                                                                                                                                                                                              |
+| Discover our range of [carb powders](https://main--bul-eds--thepixel.hlx.live/uk/sports-nutrition/carbohydrates), including our [fast release carbs](https://main--bul-eds--thepixel.hlx.live/uk/sports-nutrition/carbohydrates/fast-release-carbohydrates). |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-sports-nutrition/carbohydrates/slow-release-carbohydrates
+## Slow Release Carbohydrates FAQS
 
-For sustained release of energy, slow release carbohydrates are the ideal choice. Slow release carbohydrates take the body longer to break down and convert into energy, hence why they are also often referred to as complex carbohydrates. The result is that energy is given to the body over an extended period, with only a small impact on blood sugar levels. Controlling blood sugar levels helps to stabilise insulin levels which, in turn, can reduce fat storage.
++--------------------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                                          |
++--------------------------------------------------------+-----------------------------------------------------------+
+| What are slow release carbohydrate supplements?        | Slow-release carbs provide energy by burning slowly       |
+|                                                        | throughout the day. This is in contrast to fast-release   |
+|                                                        | carbs like sugars, which provide a more immediate but     |
+|                                                        | shorter spike in energy. Longer lasting energy comes from |
+|                                                        | carbs such as potatoes, sweet potatoes and oats, and are  |
+|                                                        | generally part of many people’s diet.                     |
++--------------------------------------------------------+-----------------------------------------------------------+
+| What is the difference between slow release and fast   | Slow release carbohydrates burn more slowly, and          |
+| release carbs?                                         | consistently release energy throughout the day. Fast      |
+|                                                        | release carbohydrates do the opposite - they produce a    |
+|                                                        | rapid surge in energy, perfect for if you’re flagging     |
+|                                                        | during a workout. Because fast release carbs tend to      |
+|                                                        | cause a spike in insulin, though, slow release carbs are  |
+|                                                        | seen as the healthier and more sustainable option.        |
++--------------------------------------------------------+-----------------------------------------------------------+
+| Who should take slow release carbohydrate supplements? | Slow release carbohydrates can be good supplements to use |
+|                                                        | if you’re looking to bulk up or maintain your weight      |
+|                                                        | without stressing in the kitchen. Paired with our protein |
+|                                                        | supplements, these can be taken as part of a healthy and  |
+|                                                        | varied diet, pre-workout or when you’re exercising.       |
++--------------------------------------------------------+-----------------------------------------------------------+
+| Should you take slow release carbs after training?     | Slow release carbohydrates are beneficial when taken      |
+|                                                        | before training and exercise. This is because they burn   |
+|                                                        | to provide you with a consistent level of energy that is  |
+|                                                        | sustained over a long period of time. You can take slow   |
+|                                                        | release carbs after you’ve trained - this will allow your |
+|                                                        | body to replenish after exercise and provide a new energy |
+|                                                        | store after you’ve worked out.                            |
++--------------------------------------------------------+-----------------------------------------------------------+
 
-Slow release carbohydrates are good to have for breakfast, mid-morning/afternoon snacks, lunch and dinner. They are viewed as the healthy alternative to fast release carbohydrates, but both do have their place in supplementation.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-Discover our range of [carb powders](/uk/sports-nutrition/carbohydrates), including our [fast release carbs](/uk/sports-nutrition/carbohydrates/fast-release-carbohydrates).
+---
 
-Slow Release Carbohydrates FAQS
--------------------------------
+## RELATED CATEGORIES
 
-What are slow release carbohydrate supplements?
+- [Fast release carbohydrate powders](https://dev--bul-eds--thepixel.hlx.live/uk/sports-nutrition/carbohydrates/fast-release-carbohydrates)
+- [Carbohydrate powders](https://dev--bul-eds--thepixel.hlx.live/uk/sports-nutrition/carbohydrates)
 
-Slow-release carbs provide energy by burning slowly throughout the day. This is in contrast to fast-release carbs like sugars, which provide a more immediate but shorter spike in energy. Longer lasting energy comes from carbs such as potatoes, sweet potatoes and oats, and are generally part of many people’s diet.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-What is the difference between slow release and fast release carbs?
+---
 
-Slow release carbohydrates burn more slowly, and consistently release energy throughout the day. Fast release carbohydrates do the opposite - they produce a rapid surge in energy, perfect for if you’re flagging during a workout. Because fast release carbs tend to cause a spike in insulin, though, slow release carbs are seen as the healthier and more sustainable option.
-
-Who should take slow release carbohydrate supplements?
-
-Slow release carbohydrates can be good supplements to use if you’re looking to bulk up or maintain your weight without stressing in the kitchen. Paired with our protein supplements, these can be taken as part of a healthy and varied diet, pre-workout or when you’re exercising.
-
-Should you take slow release carbs after training?
-
-Slow release carbohydrates are beneficial when taken before training and exercise. This is because they burn to provide you with a consistent level of energy that is sustained over a long period of time. You can take slow release carbs after you’ve trained - this will allow your body to replenish after exercise and provide a new energy store after you’ve worked out.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Fast release carbohydrate powders](/uk/sports-nutrition/carbohydrates/fast-release-carbohydrates)
-*   [Carbohydrate powders](/uk/sports-nutrition/carbohydrates)
-
-Style
-
-lozenge-list
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Slow Release Carbohydrate Powders \| Complex Carb Powders |
+|             | \| Bulk™                                                  |
++-------------+-----------------------------------------------------------+
+| description | Enjoy sustained energy with Bulk™'s Slow Release Carbs,   |
+|             | ideal for all meals. Minimize blood sugar spikes. Shop    |
+|             | our range, including fast release options.                |
++-------------+-----------------------------------------------------------+

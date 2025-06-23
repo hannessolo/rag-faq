@@ -1,12 +1,27 @@
-[fr](https://www.bulk.com/fr/produits-alimentaires/longue-duree)[pl](https://www.bulk.com/pl/zywnosc/dlugotrwale)[cz](https://www.bulk.com/cz/foods/long-lasting)[de](https://www.bulk.com/de/nahrungsmittel/lange-andauernd)[ch](https://www.bulk.com/ch/nahrungsmittel/lange-andauernd)[es](https://www.bulk.com/es/alimentacion/duradero)[ie](https://www.bulk.com/ie/foods/long-lasting)[eu](https://www.bulk.com/eu/foods/long-lasting)[se](https://www.bulk.com/se/livsmedel/langvarig)[ro](https://www.bulk.com/ro/foods/long-lasting)[at](https://www.bulk.com/at/nahrungsmittel/lange-andauernd)[nl](https://www.bulk.com/nl/voeding/langdurig)[dk](https://www.bulk.com/dk/madvarer/langvarig)[it](https://www.bulk.com/it/alimenti-2/di-lunga-durata)[uk](https://www.bulk.com/uk/foods/long-lasting)[pt](https://www.bulk.com/pt/alimentos-saudaveis/de-longa-durac-o)
+# Long-Lasting
 
-Long-Lasting
-============
++:--------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                    |
++-----------------------------------------------------+----------------------------------------------------+
+| category                                            | foods/long-lasting                                 |
++----------------------------------------------------------------------------------------------------------+
+| Our range of long-lasting foods are perfect to store in your cupboards for every type of recipe.         |
+|                                                                                                          |
+| Including everything from nuts and butters to dried meats and flapjacks, we have something for everyone. |
++----------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-foods/long-lasting
-
-Our range of long-lasting foods are perfect to store in your cupboards for every type of recipe.
-
-Including everything from nuts and butters to dried meats and flapjacks, we have something for everyone.
++----------------------------------------------------------------------+
+| Metadata                                                             |
++-------------+--------------------------------------------------------+
+| breadcrumbs | true                                                   |
++-------------+--------------------------------------------------------+
+| template    | plp                                                    |
++-------------+--------------------------------------------------------+
+| title       | Long-Lasting Foods \| Long Shelf Life Foods            |
++-------------+--------------------------------------------------------+
+| description | Try our long-lasting foods which you can store in your |
+|             | cupboards for every type of recipe and make your food  |
+|             | shop go further.                                       |
++-------------+--------------------------------------------------------+

@@ -1,8 +1,23 @@
-[pl](https://www.bulk.com/pl/veganuary)[es](https://www.bulk.com/es/veganuary)[at](https://www.bulk.com/at/veganuary)[de](https://www.bulk.com/de/veganuary)[eu](https://www.bulk.com/eu/veganuary)[dk](https://www.bulk.com/dk/veganuary)[nl](https://www.bulk.com/nl/veganuary)[ch](https://www.bulk.com/ch/veganuary)[ie](https://www.bulk.com/ie/veganuary)[pt](https://www.bulk.com/pt/veganuary)[ro](https://www.bulk.com/ro/veganuary)[fr](https://www.bulk.com/fr/veganuary)[cz](https://www.bulk.com/cz/veganuary)[uk](https://www.bulk.com/uk/veganuary)[it](https://www.bulk.com/it/veganuary)[se](https://www.bulk.com/se/veganuary)
+# THE MONTH OF PLANT POWER
 
-THE MONTH OF PLANT POWER
-========================
++:---------------------:+
+| **Product List Page** |
++-----------+-----------+
+| category  | veganuary |
++-----------------------+
+|                       |
++-----------------------+
 
-category
+---
 
-veganuary
++----------------------------------------+
+| Metadata                               |
++-------------+--------------------------+
+| breadcrumbs | true                     |
++-------------+--------------------------+
+| template    | plp                      |
++-------------+--------------------------+
+| title       | THE MONTH OF PLANT POWER |
++-------------+--------------------------+
+| description |                          |
++-------------+--------------------------+

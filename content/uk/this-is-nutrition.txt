@@ -1,92 +1,149 @@
-[pl](https://www.bulk.com/pl/products/pieczony-maslo-migdalowe/bpf-abut)[cz](https://www.bulk.com/cz/products/almond-butter/bpf-abut)[ch](https://www.bulk.com/ch/products/gerostet-mandelbutter/bpf-abut)[es](https://www.bulk.com/es/products/asado-mantequilla-de-almendra/bpf-abut)[de](https://www.bulk.com/de/products/gerostet-mandelbutter/bpf-abut)[dk](https://www.bulk.com/dk/products/ristede-mandelsmor/bpf-abut)[ie](https://www.bulk.com/ie/products/roasted-almond-butter/bpf-abut)[it](https://www.bulk.com/it/products/arrostito-burro-di-mandorle/bpf-abut)[se](https://www.bulk.com/se/products/rostad-mandelsmor/bpf-abut)[pt](https://www.bulk.com/pt/products/assado-de-amendoa/bpf-abut)[ro](https://www.bulk.com/ro/products/almond-butter/bpf-abut)[at](https://www.bulk.com/at/products/gerostet-mandelbutter/bpf-abut)[nl](https://www.bulk.com/nl/products/geroosterd-amandelpasta/bpf-abut)[eu](https://www.bulk.com/eu/products/roasted-almond-butter/bpf-abut)[uk](https://www.bulk.com/uk/this-is-nutrition)[fr](https://www.bulk.com/fr/products/roti-beurre-damande/bpf-abut)
-
-THIS IS NUTRITION.
-==================
+# THIS IS NUTRITION.
 
 We’re on a mission to empower every athlete and every person with the right nutrition to progress and reach their goals.
 
-[https://staging.bulk.com/uk/this-is-nutition-video.mp4](/uk/this-is-nutition-video.mp4)
++----------------------------------------------------------------------------------------------------------------------------------+
+| Video (Autoplay)                                                                                                                 |
++----------------------------------------------------------------------------------------------------------------------------------+
+| [https://staging.bulk.com/uk/this-is-nutition-video.mp4](https://main--bul-eds--thepixel.hlx.live/uk/this-is-nutition-video.mp4) |
++----------------------------------------------------------------------------------------------------------------------------------+
 
-Style
++-------------------------+
+| Section Metadata        |
++---------+---------------+
+| Style   | content-title |
++---------+---------------+
 
-content-title
+---
 
-MEET OUR AMBASSADORS
---------------------
+## MEET OUR AMBASSADORS
 
 Go behind the scenes to take a closer look.
 
 **[TAKE A LOOK](https://www.bulk.com/uk/the-core/brand-new-bulk/)**
 
-Anthony Joshua OBE
++-----------------------------------------+
+| Ambassador Gallery                      |
++---------------------------+-------------+
+| Anthony Joshua OBE        | ![][image0] |
+|                           |             |
+| This is nutrition         |             |
++:---------------------------------------:+
+| ![][image1]                             |
++:---------------------------------------:+
+| ![][image2]                             |
++-----------------------------------------+
+| ![][image3]                             |
++-----------------------------------------+
+| ![][image4]                             |
++---------------------------+-------------+
+| Katarina Johnson Thompson | ![][image5] |
+|                           |             |
+| This is nutrition         |             |
++---------------------------+-------------+
 
-This is nutrition
++--------------------------+
+| Section Metadata         |
++---------+----------------+
+| Style   | content-center |
++---------+----------------+
 
-   ![](./media_1f4c635622ed12b5682546d6cda16b39e9df69240.png?width=750&format=png&optimize=medium)
+---
 
-   ![](./media_14a81c6e1ff292a03e17f05ce6239b7d399e1e5ce.png?width=750&format=png&optimize=medium)
-
-   ![](./media_1b64492d7db69454fa45ef00fbb9dea61623f3347.png?width=750&format=png&optimize=medium)
-
-   ![](./media_19bf233489da01a8396462abb3d5960d9d1795bbd.png?width=750&format=png&optimize=medium)
-
-   ![](./media_1b7548c0ba03d85716051704ba870a8499e9fb8f1.png?width=750&format=png&optimize=medium)
-
-Katarina Johnson Thompson
-
-This is nutrition
-
-   ![](./media_1aa5b0fe4f5c6443aaf347891c61f223f3aa51c80.png?width=750&format=png&optimize=medium)
-
-Style
-
-content-center
-
-BULK™ STORY
------------
+## BULK™ STORY
 
 Get to know **Bulk™**
 
 **[FIND OUT MORE](https://www.bulk.com/uk/about)**
 
-ADAM ROSSITER & ELLIOT DAWES
++------------------------------+
+| Image With Background        |
++------------------------------+
+| ADAM ROSSITER & ELLIOT DAWES |
+|                              |
+| FOUNDERS                     |
++:----------------------------:+
+| ![][image6]                  |
++------------------------------+
+| ![][image7]                  |
++------------------------------+
 
-FOUNDERS
++--------------------------+
+| Section Metadata         |
++---------+----------------+
+| Style   | content-center |
++---------+----------------+
 
-   ![](./media_15c980804d24b2e88bc83f5111f24d56d0f0d9f2c.png?width=750&format=png&optimize=medium)
+---
 
-   ![](./media_160ec52d4bfd6886d2465068f411990ee3a119126.png?width=750&format=png&optimize=medium)
-
-Style
-
-content-center
-
-OUR RANGES
-----------
+## OUR RANGES
 
 360° nutrition
 
 **[DISCOVER](https://www.bulk.com/uk/shop-by-range)**
 
-Bulk™
++------------------------------+
+| Image With Background (gray) |
++------------------------------+
+| Bulk™                        |
+|                              |
+| This is nutrition            |
++:----------------------------:+
+| ![][image8]                  |
++------------------------------+
+| ![][image9]                  |
++------------------------------+
 
-This is nutrition
++--------------------------+
+| Section Metadata         |
++---------+----------------+
+| Style   | content-center |
++---------+----------------+
 
-   ![](./media_1db502305337ed4263d5306b6221f09d999d2d6cf.png?width=750&format=png&optimize=medium)
+---
 
-   ![](./media_1fc3cf59f3f67b88382e2b7a9b7372b177ea8db52.png?width=750&format=png&optimize=medium)
-
-Style
-
-content-center
-
-OUR PLANET
-----------
+## OUR PLANET
 
 Discover how we’re committing to safeguarding our home.
 
 **[DISCOVER](https://www.bulk.com/uk/ourplanet)**
 
-Style
++--------------------------+
+| Section Metadata         |
++---------+----------------+
+| Style   | content-center |
++---------+----------------+
 
-content-center
++--------------------------------------------------------------------------------------+
+| Metadata                                                                             |
++--------------------------+-----------------------------------------------------------+
+| Title                    | This is Nutrition \| Bulk™                                |
++--------------------------+-----------------------------------------------------------+
+| Description              | Bulk™ is the leading supplier of bodybuilding supplements |
+|                          | \&amp; sports nutrition – covering Protein, Creatine,     |
+|                          | Vitamins, Fat Loss \&amp; more! Formerly Bulk Powders.    |
++--------------------------+-----------------------------------------------------------+
+| google-site-verification |                                                           |
++--------------------------+-----------------------------------------------------------+
+| Template                 | Content                                                   |
++--------------------------+-----------------------------------------------------------+
+
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1f4c635622ed12b5682546d6cda16b39e9df69240.png#width=667&height=1000
+
+[image1]: https://main--bulk-eds--thepixel.hlx.page/media_14a81c6e1ff292a03e17f05ce6239b7d399e1e5ce.png#width=667&height=1000
+
+[image2]: https://main--bulk-eds--thepixel.hlx.page/media_1b64492d7db69454fa45ef00fbb9dea61623f3347.png#width=667&height=1000
+
+[image3]: https://main--bulk-eds--thepixel.hlx.page/media_19bf233489da01a8396462abb3d5960d9d1795bbd.png#width=667&height=1000
+
+[image4]: https://main--bulk-eds--thepixel.hlx.page/media_1b7548c0ba03d85716051704ba870a8499e9fb8f1.png#width=667&height=932
+
+[image5]: https://main--bulk-eds--thepixel.hlx.page/media_1aa5b0fe4f5c6443aaf347891c61f223f3aa51c80.png#width=1000&height=667
+
+[image6]: https://main--bulk-eds--thepixel.hlx.page/media_15c980804d24b2e88bc83f5111f24d56d0f0d9f2c.png#width=1400&height=933
+
+[image7]: https://main--bulk-eds--thepixel.hlx.page/media_160ec52d4bfd6886d2465068f411990ee3a119126.png#width=1066&height=1600
+
+[image8]: https://main--bulk-eds--thepixel.hlx.page/media_1db502305337ed4263d5306b6221f09d999d2d6cf.png#width=1600&height=800
+
+[image9]: https://main--bulk-eds--thepixel.hlx.page/media_1fc3cf59f3f67b88382e2b7a9b7372b177ea8db52.png#width=1000&height=1000

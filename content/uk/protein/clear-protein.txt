@@ -1,14 +1,30 @@
-[at](https://www.bulk.com/at/protein/clear-protein)[ch](https://www.bulk.com/ch/protein/clear-protein)[cz](https://www.bulk.com/cz/protein/ciry-protein)[de](https://www.bulk.com/de/protein/clear-protein)[dk](https://www.bulk.com/dk/protein/klart-protein)[es](https://www.bulk.com/es/proteinas/proteina-clara)[eu](https://www.bulk.com/eu/protein/clear-protein)[ie](https://www.bulk.com/ie/protein/clear-protein)[fr](https://www.bulk.com/fr/proteine/proteine-transparente)[it](https://www.bulk.com/it/proteine/clear-proteine)[nl](https://www.bulk.com/nl/proteine/helder-proteine)[pl](https://www.bulk.com/pl/odzywki-bialkowe/bialko-jasne)[pt](https://www.bulk.com/pt/proteinas/proteina-clara)[ro](https://www.bulk.com/ro/protein/proteine-clare)[se](https://www.bulk.com/se/protein/klart-protein)[uk](https://www.bulk.com/uk/protein/clear-protein)
+# Clear Protein
 
-Clear Protein
-=============
++:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                  |
++--------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                   | protein/clear-protein                                                                                                                     |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Protein for juice lovers. Clear protein is an innovative [protein powder](https://main--bul-eds--thepixel.hlx.live/uk/protein) that combines fruity flavours with high-protein content. It's a protein shake with a juice-like flavour and consistency.                                |
+|                                                                                                                                                                                                                                                                                        |
+| Made through hydrolysation, [Clear Whey Isolate](https://main--bul-eds--thepixel.hlx.live/uk/products/clear-whey-isolate/bpb-cwhe) is a juice-like protein shake, offering an alternative to creamy shakes such as whey protein and vegan protein powder. Perfect for squash drinkers. |
+|                                                                                                                                                                                                                                                                                        |
+| Easy to mix, easy to drink, shake up your supplement stack with [Clear Whey All In One](https://main--bul-eds--thepixel.hlx.live/uk/products/clear-all-in-one/bble-cwa1) or [Clear Vegan Protein](https://main--bul-eds--thepixel.hlx.live/uk/products/clear-vegan-protein/vser-cveg). |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-protein/clear-protein
-
-Protein for juice lovers. Clear protein is an innovative [protein powder](/uk/protein) that combines fruity flavours with high-protein content. It's a protein shake with a juice-like flavour and consistency.
-
-Made through hydrolysation, [Clear Whey Isolate](/uk/products/clear-whey-isolate/bpb-cwhe) is a juice-like protein shake, offering an alternative to creamy shakes such as whey protein and vegan protein powder. Perfect for squash drinkers.
-
-Easy to mix, easy to drink, shake up your supplement stack with [Clear Whey All In One](/uk/products/clear-all-in-one/bble-cwa1) or [Clear Vegan Protein](/uk/products/clear-vegan-protein/vser-cveg).
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Clear Protein \| Clear Protein Drinks \| Bulk™            |
++-------------+-----------------------------------------------------------+
+| description | Shop our range of Clear Protein available in 12\+         |
+|             | delicious flavours - a refreshing alternative to a shake  |
+|             | to help with muscle maintenance and growth. Level-up with |
+|             | Bulk™.                                                    |
++-------------+-----------------------------------------------------------+

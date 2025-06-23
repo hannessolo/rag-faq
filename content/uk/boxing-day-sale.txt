@@ -1,8 +1,23 @@
-[pl](https://www.bulk.com/pl/boxing-day-sale)[dk](https://www.bulk.com/dk/boxing-day-sale)[ch](https://www.bulk.com/ch/boxing-day-sale)[at](https://www.bulk.com/at/boxing-day-sale)[de](https://www.bulk.com/de/boxing-day-sale)[cz](https://www.bulk.com/cz/boxing-day-sale)[eu](https://www.bulk.com/eu/boxing-day-sale)[es](https://www.bulk.com/es/rebajas-navidad)[ie](https://www.bulk.com/ie/boxing-day-sale)[se](https://www.bulk.com/se/boxing-day-sale)[pt](https://www.bulk.com/pt/boxing-day-sale)[fr](https://www.bulk.com/fr/boxing-day-sale)[uk](https://www.bulk.com/uk/boxing-day-sale)[it](https://www.bulk.com/it/boxing-day-sale)[ro](https://www.bulk.com/ro/boxing-day-sale)[nl](https://www.bulk.com/nl/boxing-day-sale)
+# BOXING DAY SALE
 
-BOXING DAY SALE
-===============
++:---------------------------:+
+| **Product List Page**       |
++-----------+-----------------+
+| category  | boxing-day-sale |
++-----------------------------+
+|                             |
++-----------------------------+
 
-category
+---
 
-boxing-day-sale
++-------------------------------+
+| Metadata                      |
++-------------+-----------------+
+| breadcrumbs | true            |
++-------------+-----------------+
+| template    | plp             |
++-------------+-----------------+
+| title       | BOXING DAY SALE |
++-------------+-----------------+
+| description |                 |
++-------------+-----------------+

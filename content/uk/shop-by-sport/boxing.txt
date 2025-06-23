@@ -1,8 +1,23 @@
-[pl](https://www.bulk.com/pl/szukaj-wg-dyscypliny/boksning)[dk](https://www.bulk.com/dk/handl-efter-sportsgren/boksning)[cz](https://www.bulk.com/cz/shop-by-sport/boxing)[de](https://www.bulk.com/de/suche-nach-sportart/boxen)[eu](https://www.bulk.com/eu/shop-by-sport/boxing)[fr](https://www.bulk.com/fr/rechercher-par-sport/boxing)[ch](https://www.bulk.com/ch/suche-nach-sportart/boxen)[it](https://www.bulk.com/it/ricerca-in-base-allo-sport/boxe)[at](https://www.bulk.com/at/suche-nach-sportart/boxen)[pt](https://www.bulk.com/pt/compre-por-sporte/boxeo)[ie](https://www.bulk.com/ie/shop-by-sport/boxing)[se](https://www.bulk.com/se/handla-efter-sport/pugilato)[nl](https://www.bulk.com/nl/winkelen-per-sport/boxen)[es](https://www.bulk.com/es/comprar-por-deporte/boxeo)[uk](https://www.bulk.com/uk/shop-by-sport/boxing)[ro](https://www.bulk.com/ro/shop-by-sport/boxing)
+# Boxing
 
-Boxing
-======
++:--------------------------------:+
+| **Product List Page**            |
++-----------+----------------------+
+| category  | shop-by-sport/boxing |
++----------------------------------+
+|                                  |
++----------------------------------+
 
-category
+---
 
-shop-by-sport/boxing
++----------------------+
+| Metadata             |
++-------------+--------+
+| breadcrumbs | true   |
++-------------+--------+
+| template    | plp    |
++-------------+--------+
+| title       | Boxing |
++-------------+--------+
+| description |        |
++-------------+--------+

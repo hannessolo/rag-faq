@@ -1,8 +1,23 @@
-[pl](https://www.bulk.com/pl/alex-cleland)[se](https://www.bulk.com/se/alex-cleland)[at](https://www.bulk.com/at/alex-cleland)[eu](https://www.bulk.com/eu/alex-cleland)[pt](https://www.bulk.com/pt/alex-cleland)[fr](https://www.bulk.com/fr/alex-cleland)[ch](https://www.bulk.com/ch/alex-cleland)[de](https://www.bulk.com/de/alex-cleland)[uk](https://www.bulk.com/uk/alex-cleland)[es](https://www.bulk.com/es/alex-cleland)[ie](https://www.bulk.com/ie/alex-cleland)[nl](https://www.bulk.com/nl/alex-cleland)[ro](https://www.bulk.com/ro/alex-cleland)[dk](https://www.bulk.com/dk/alex-cleland)[it](https://www.bulk.com/it/alex-cleland)[cz](https://www.bulk.com/cz/alex-cleland)
+# Alex Cleland
 
-Alex Cleland
-============
++:------------------------:+
+| **Product List Page**    |
++-----------+--------------+
+| category  | alex-cleland |
++--------------------------+
+|                          |
++--------------------------+
 
-category
+---
 
-alex-cleland
++-------------------------------------+
+| Metadata                            |
++-------------+-----------------------+
+| breadcrumbs | true                  |
++-------------+-----------------------+
+| template    | plp                   |
++-------------+-----------------------+
+| title       | Alex Cleland \| Bulk™ |
++-------------+-----------------------+
+| description |                       |
++-------------+-----------------------+

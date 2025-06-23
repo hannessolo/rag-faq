@@ -1,8 +1,23 @@
-[fr](https://www.bulk.com/fr/special-sale)[pl](https://www.bulk.com/pl/special-sale)[cz](https://www.bulk.com/cz/special-sale)[de](https://www.bulk.com/de/special-sale)[ch](https://www.bulk.com/ch/special-sale)[es](https://www.bulk.com/es/rebajas-especiales)[ie](https://www.bulk.com/ie/special-sale)[eu](https://www.bulk.com/eu/special-sale)[se](https://www.bulk.com/se/special-sale)[ro](https://www.bulk.com/ro/special-sale)[at](https://www.bulk.com/at/products/darmgesundheitspulver/bble-guth)[nl](https://www.bulk.com/nl/special-sale)[dk](https://www.bulk.com/dk/special-sale)[it](https://www.bulk.com/it/special-sale)[uk](https://www.bulk.com/uk/special-sale)[pt](https://www.bulk.com/pt/special-sale)
+# Clearance
 
-Clearance
-=========
++:------------------------:+
+| **Product List Page**    |
++-----------+--------------+
+| category  | special-sale |
++--------------------------+
+|                          |
++--------------------------+
 
-category
+---
 
-special-sale
++-------------------------+
+| Metadata                |
++-------------+-----------+
+| breadcrumbs | true      |
++-------------+-----------+
+| template    | plp       |
++-------------+-----------+
+| title       | Clearance |
++-------------+-----------+
+| description |           |
++-------------+-----------+

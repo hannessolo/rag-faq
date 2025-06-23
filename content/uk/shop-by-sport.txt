@@ -1,8 +1,23 @@
-[at](https://www.bulk.com/at/suche-nach-sportart)[ch](https://www.bulk.com/ch/suche-nach-sportart)[cz](https://www.bulk.com/cz/shop-by-sport)[de](https://www.bulk.com/de/suche-nach-sportart)[dk](https://www.bulk.com/dk/handl-efter-sportsgren)[es](https://www.bulk.com/es/comprar-por-deporte)[eu](https://www.bulk.com/eu/shop-by-sport)[ie](https://www.bulk.com/ie/shop-by-sport)[fr](https://www.bulk.com/fr/rechercher-par-sport)[it](https://www.bulk.com/it/ricerca-in-base-allo-sport)[nl](https://www.bulk.com/nl/winkelen-per-sport)[pl](https://www.bulk.com/pl/szukaj-wg-dyscypliny)[pt](https://www.bulk.com/pt/compre-por-sporte)[ro](https://www.bulk.com/ro/shop-by-sport)[se](https://www.bulk.com/se/handla-efter-sport)[uk](https://www.bulk.com/uk/shop-by-sport)
+# SHOP BY SPORT
 
-SHOP BY SPORT
-=============
++:-------------------------:+
+| **Product List Page**     |
++-----------+---------------+
+| category  | shop-by-sport |
++---------------------------+
+|                           |
++---------------------------+
 
-category
+---
 
-shop-by-sport
++-----------------------------+
+| Metadata                    |
++-------------+---------------+
+| breadcrumbs | true          |
++-------------+---------------+
+| template    | plp           |
++-------------+---------------+
+| title       | SHOP BY SPORT |
++-------------+---------------+
+| description |               |
++-------------+---------------+

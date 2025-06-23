@@ -1,10 +1,25 @@
-[pl](https://www.bulk.com/pl/products/kapsulki-na-zdrowe-serce/bble-hear)[cz](https://www.bulk.com/cz/products/tobolky-pro-zdravi-srdce/bble-hear)[fr](https://www.bulk.com/fr/products/gelules-sante-cardiaque/bble-hear)[ie](https://www.bulk.com/ie/products/heart-health-capsules/bble-hear)[eu](https://www.bulk.com/eu/products/heart-health-capsules/bble-hear)[de](https://www.bulk.com/de/products/kapseln-fur-ein-gesundes-herz/bble-hear)[pt](https://www.bulk.com/pt/products/capsulas-para-a-saude-cardiaca/bble-hear)[ch](https://www.bulk.com/ch/products/kapseln-fur-ein-gesundes-herz/bble-hear)[at](https://www.bulk.com/at/products/kapseln-fur-ein-gesundes-herz/bble-hear)[dk](https://www.bulk.com/dk/products/heart-health-capsules/bble-hear)[it](https://www.bulk.com/it/products/capsule-cuore-sano/bble-hear)[es](https://www.bulk.com/es/products/capsulas-para-la-salud-cardiaca/bble-hear)[ro](https://www.bulk.com/ro/products/capsule-pentru-sanatatea-inimii/bble-hear)[uk](https://www.bulk.com/uk/foods/bars-flapjacks)[se](https://www.bulk.com/se/products/kapslar-for-friskt-hjarta/bble-hear)[nl](https://www.bulk.com/nl/products/capsules-voor-een-gezond-hart/bble-hear)
+# Bars & Flapjacks
 
-Bars & Flapjacks
-================
++:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                                                                                                                     | foods/bars-flapjacks                                                                                                                                                                                                                                                         |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| It has never been easier to grab yourself a healthy, high protein snack. We offer a wide range of **[protein bars](https://main--bul-eds--thepixel.hlx.live/uk/high-protein-snack-bars-box-of-12)** **and snacks**, perfect for post-workout fuel or between meals to keep you feeling satisfied. Formulated with only quality protein sources and containing no low quality fillers such as gelatine or soy, our bars, **[flapjacks](https://www.bulk.com/uk/products/high-protein-flapjack/bpf-hpfl)** & snacks are the perfect protein fix, on the move! |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-foods/bars-flapjacks
-
-It has never been easier to grab yourself a healthy, high protein snack. We offer a wide range of **[protein bars](/uk/high-protein-snack-bars-box-of-12)** **and snacks**, perfect for post-workout fuel or between meals to keep you feeling satisfied. Formulated with only quality protein sources and containing no low quality fillers such as gelatine or soy, our bars, **[flapjacks](https://www.bulk.com/uk/products/high-protein-flapjack/bpf-hpfl)** & snacks are the perfect protein fix, on the move!
++------------------------------------------------------------------------+
+| Metadata                                                               |
++-------------+----------------------------------------------------------+
+| breadcrumbs | true                                                     |
++-------------+----------------------------------------------------------+
+| template    | plp                                                      |
++-------------+----------------------------------------------------------+
+| title       | Bars & Flapjacks \| High Protein \| Bulk™                |
++-------------+----------------------------------------------------------+
+| description | Bulk™ stocks a wide range of delicious Bars & Flapjacks. |
+|             | Encompassing high protein, low carb and more, there's    |
+|             | something for everone. Shop online today.                |
++-------------+----------------------------------------------------------+

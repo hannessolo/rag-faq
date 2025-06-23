@@ -1,39 +1,131 @@
-[cz](https://www.bulk.com/cz/products/wrist-wraps/bace-wwra-blac-ones)[nl](https://www.bulk.com/nl/products/polsbanden/bace-wwra-blac-ones)[ch](https://www.bulk.com/ch/products/handgelenkbandagen/bace-wwra-blac-ones)[se](https://www.bulk.com/se/products/handledsstod/bace-wwra-blac-ones)[ie](https://www.bulk.com/ie/products/wrist-wraps/bace-wwra-blac-ones)[dk](https://www.bulk.com/dk/products/handledsbind/bace-wwra-blac-ones)[de](https://www.bulk.com/de/products/handgelenkbandagen/bace-wwra-blac-ones)[it](https://www.bulk.com/it/products/polsiere/bace-wwra-blac-ones)[es](https://www.bulk.com/es/products/munequeras/bace-wwra-blac-ones)[pt](https://www.bulk.com/pt/products/punhos/bace-wwra-blac-ones)[at](https://www.bulk.com/at/products/complete-fruechte/bble-cred)[eu](https://www.bulk.com/eu/products/wrist-wraps/bace-wwra-blac-ones)[fr](https://www.bulk.com/fr/products/polsiere/bace-wwra-blac-ones)[ro](https://www.bulk.com/ro/products/wrist-wraps/bace-wwra-blac-ones)[uk](https://www.bulk.com/uk/products/wrist-wraps/bace-wwra-blac-ones)[pl](https://www.bulk.com/pl/products/opaski-na-nadgarstki/bace-wwra-blac-ones)
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Product Details                                                                                                                                                                                                                            |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| # Wrist Wraps                                                                                                                                                                                                                              |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Price       | - Regular Price: £8.99                                                                                                                                                                                                    |
+|                | - This product is exempt from discounts                                                                                                                                                                                   |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Description | ### Wrist Wraps                                                                                                                                                                                                           |
+|                |                                                                                                                                                                                                                           |
+|                | Your partner in lifting.                                                                                                                                                                                                  |
+|                |                                                                                                                                                                                                                           |
+|                | These **Bulk™** Wrist Wraps feature an extended velcro tab alongside a thumb loop to keep them in place throughout every rep – so you’re safe and supported. They can be used                                             |
+|                | effectively in any situation where wrist strength and support is beneficial. For example, during [push exercises](https://www.bulk.com/uk/the-core/push-day-workouts-exercises/), such as bench press and shoulder press. |
+|                |                                                                                                                                                                                                                           |
+|                | Wrist wraps are also helpful for those who have hand or wrist injuries, especially injuries involving joints, as they provide additional support and protection.                                                          |
+|                |                                                                                                                                                                                                                           |
+|                | Available in a sleek black design with rubber badge detailing, so you can rely on them whether you’re an elite athlete or a casual gym-goer.                                                                              |
+|                |                                                                                                                                                                                                                           |
+|                | Also available in an upgraded, premium version: **[Premium Wrist Wraps](https://www.bulk.com/uk/products/premium-wrist-wraps/bace-pwwr-blac-ones)**                                                                       |
+|                |                                                                                                                                                                                                                           |
+|                | - Provide optimal wrist support when lifting                                                                                                                                                                              |
+|                | - Extended velcro tab and thumb loop fit                                                                                                                                                                                  |
+|                | - Suitable for all types of weight training                                                                                                                                                                               |
+|                | - Sleek black design with rubber **Bulk™** badging                                                                                                                                                                        |
+|                | - Sold as a pair (2 per pack)                                                                                                                                                                                             |
++----------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Wrist Wraps
-===========
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++--------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| title               | Wrist Wraps                                                                                              |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| description         | Wraparound Support For Your Wrists                                                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| keywords            | Wrist Wraps, Bulk Powders Wrist Wraps, Bulk Powders Straps, Wrist Straps, Bulk, Powders, Bulk Straps,    |
+|                     | Grip, Grip Support, Bar, Straps, Wraps, Gym, Strength                                                    |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                              |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| id                  | 3956                                                                                                     |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| sku                 | BACE-WWRA-BLAC-ONES                                                                                      |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T12:02:57.771Z                                                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                               |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BACE-WWRA-BLAC-ONES",   "name":    |
+|                     | "Wrist Wraps",   "image":                                                                                |
+|                     | "https\://www\.bulk.com/media/catalog/product/w/r/wrist\_wraps\_bace\_wwra\_blac\_ones\_main\_56b0.jpg", |
+|                     |   "gtin": "5055950600485",   "description": "Wraparound Support For Your Wrists",   "@id":               |
+|                     | "https\://www\.bulk.com/uk/products/wrist-wraps/bace-wwra-blac-ones",   "brand": {     "@type": "Brand", |
+|                     |     "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": "BACE-WWRA-BLAC-ONES", |
+|                     |       "url": "https\://www\.bulk.com/uk/products/wrist-wraps/bace-wwra-blac-ones",       "gtin":         |
+|                     | "5055950600485",       "image":                                                                          |
+|                     | "https\://www\.bulk.com/media/catalog/product/w/r/wrist\_wraps\_bace\_wwra\_blac\_ones\_main\_56b0.jpg", |
+|                     |       "availability": "InStock",       "price": 8.99,       "priceCurrency": "GBP",                      |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": ""     }   ],   "aggregateRating": {           |
+|                     | "@type": "AggregateRating",     "ratingValue": 4.8,     "reviewCount": 196,     "bestRating": 5   } }    |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/munequeras/bace-wwra-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/polsbanden/bace-wwra-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/polsbanden/bace-wwra-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/polsiere/bace-wwra-blac-ones                                          |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/polsiere/bace-wwra-blac-ones                                          |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/handledsstod/bace-wwra-blac-ones                                      |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/handledsbind/bace-wwra-blac-ones                                      |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/opaski-na-nadgarstki/bace-wwra-blac-ones                              |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/punhos/bace-wwra-blac-ones                                            |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/handgelenkbandagen/bace-wwra-blac-ones                                |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/handgelenkbandagen/bace-wwra-blac-ones                                |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/polsiere/bace-wwra-blac-ones                                          |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/wrist-wraps/bace-wwra-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
 
-*   Regular Price: £8.99
-*   This product is exempt from discounts
-
-Description
------------
-
-### Wrist Wraps
-
-Your partner in lifting.
-
-These **Bulk™** Wrist Wraps feature an extended velcro tab alongside a thumb loop to keep them in place throughout every rep – so you’re safe and supported. They can be used effectively in any situation where wrist strength and support is beneficial. For example, during [push exercises](https://www.bulk.com/uk/the-core/push-day-workouts-exercises/), such as bench press and shoulder press.
-
-Wrist wraps are also helpful for those who have hand or wrist injuries, especially injuries involving joints, as they provide additional support and protection.
-
-Available in a sleek black design with rubber badge detailing, so you can rely on them whether you’re an elite athlete or a casual gym-goer.
-
-Also available in an upgraded, premium version: **[Premium Wrist Wraps](https://www.bulk.com/uk/products/premium-wrist-wraps/bace-pwwr-blac-ones)**
-
-*   Provide optimal wrist support when lifting
-*   Extended velcro tab and thumb loop fit
-*   Suitable for all types of weight training
-*   Sleek black design with rubber **Bulk™** badging
-*   Sold as a pair (2 per pack)
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1e86f01cf809a20501e09f3466379721b49438e93.webp#width=2000&height=2000

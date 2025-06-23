@@ -1,49 +1,73 @@
-[pl](https://www.bulk.com/pl/zywnosc/miesne-przekaski)[at](https://www.bulk.com/at/nahrungsmittel/snacks-bestehend-aus-fleisch)[fr](https://www.bulk.com/fr/produits-alimentaires/snacks-a-la-viande)[es](https://www.bulk.com/es/alimentacion/aperitivos-de-carne)[pt](https://www.bulk.com/pt/alimentos-saudaveis/snacks-de-carne)[ro](https://www.bulk.com/ro/foods/meat-snacks)[dk](https://www.bulk.com/dk/madvarer/kod-snacks)[de](https://www.bulk.com/de/nahrungsmittel/snacks-bestehend-aus-fleisch)[ie](https://www.bulk.com/ie/foods/meat-snacks)[it](https://www.bulk.com/it/alimenti-2/snack-di-carne)[uk](https://www.bulk.com/uk/foods/meat-snacks)[se](https://www.bulk.com/se/livsmedel/kottsnacks)[nl](https://www.bulk.com/nl/voeding/vlees-snacks)[cz](https://www.bulk.com/cz/foods/meat-snacks)[eu](https://www.bulk.com/eu/foods/meat-snacks)[ch](https://www.bulk.com/ch/nahrungsmittel/snacks-bestehend-aus-fleisch)
+# Meat Snacks
 
-Meat Snacks
-===========
++:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                                                |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                                  | foods/meat-snacks                                                                                                                                                                        |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Our Active Foods™ **[High Protein Biltong](https://staging--bul-eds--thepixel.hlx.page/uk/products/high-protein-biltong/bpf-bilt)** and **[Beef Jerky](https://main--bul-eds--thepixel.hlx.live/uk/products/beef-jerky/bpf-bjer)** are popular ready-to-eat **beef snacks** that deliver a massive 53.5g and 60g per 100g respectively, making them a tasty convenient snack option. |
+|                                                                                                                                                                                                                                                                                                                                                                                      |
+| Sourced from high quality beef, they can be consumed throughout the day, or in between meals to keep protein intake high. Conveniently packed, they are easy to carry and consume on the go!                                                                                                                                                                                         |
+|                                                                                                                                                                                                                                                                                                                                                                                      |
+| Our **Active Meals**™ are our very own high protein ready meals – available in two fantastic varieties. Each meal provides over 29g protein and is low in fat, ideal as a high protein meal at any time of day.                                                                                                                                                                      |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-foods/meat-snacks
+## Meat Snacks FAQ'S
 
-Our Active Foods™ **[High Protein Biltong](/uk/products/high-protein-biltong/bpf-bilt)** and **[Beef Jerky](/uk/products/beef-jerky/bpf-bjer)** are popular ready-to-eat **beef snacks** that deliver a massive 53.5g and 60g per 100g respectively, making them a tasty convenient snack option.
++---------------------------------------------------------------------------------------------+
+| Accordion                                                                                   |
++----------------------------------+----------------------------------------------------------+
+| What are meat snacks?            | Meat snacks can range from ready to eat jerky to cooked  |
+|                                  | meats.                                                   |
++----------------------------------+----------------------------------------------------------+
+| What is a good meat to snack on? | Jerky, tuna, chicken, and fish make great meat snacks as |
+|                                  | they are convenient, high-protein snacks. Our Beef Jerky |
+|                                  | is a favourite among customers looking for an on-the-go, |
+|                                  | high-protein snack.                                      |
++----------------------------------+----------------------------------------------------------+
+| Can meat be a snack?             | Yes, meat, whether it be freshly cooked or ready to eat  |
+|                                  | cold, can make a great high-protein snack.               |
++----------------------------------+----------------------------------------------------------+
 
-Sourced from high quality beef, they can be consumed throughout the day, or in between meals to keep protein intake high. Conveniently packed, they are easy to carry and consume on the go!
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-Our **Active Meals**™ are our very own high protein ready meals – available in two fantastic varieties. Each meal provides over 29g protein and is low in fat, ideal as a high protein meal at any time of day.
+---
 
-Meat Snacks FAQ'S
------------------
+## RELATED CATEGORIES
 
-What are meat snacks?
+- [Flavourings](https://dev--bul-eds--thepixel.hlx.live/uk/foods/flavourings-sweeteners)
+- [Flour](https://dev--bul-eds--thepixel.hlx.live/uk/foods/flour)
+- [Konjac](https://dev--bul-eds--thepixel.hlx.live/uk/foods/konjac)
+- [Healthy Cooking oils](https://dev--bul-eds--thepixel.hlx.live/uk/foods/healthy-oils)
+- [High protein nuts & seeds](https://dev--bul-eds--thepixel.hlx.live/uk/foods/nuts-seeds)
+- [Organic foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/organic-foods)
+- [Superfood powders](https://dev--bul-eds--thepixel.hlx.live/uk/foods/superfoods)
+- [Low calorie foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/zero-calorie-foods)
 
-Meat snacks can range from ready to eat jerky to cooked meats.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-What is a good meat to snack on?
+---
 
-Jerky, tuna, chicken, and fish make great meat snacks as they are convenient, high-protein snacks. Our Beef Jerky is a favourite among customers looking for an on-the-go, high-protein snack.
-
-Can meat be a snack?
-
-Yes, meat, whether it be freshly cooked or ready to eat cold, can make a great high-protein snack.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Flavourings](/uk/foods/flavourings-sweeteners)
-*   [Flour](/uk/foods/flour)
-*   [Konjac](/uk/foods/konjac)
-*   [Healthy Cooking oils](/uk/foods/healthy-oils)
-*   [High protein nuts & seeds](/uk/foods/nuts-seeds)
-*   [Organic foods](/uk/foods/organic-foods)
-*   [Superfood powders](/uk/foods/superfoods)
-*   [Low calorie foods](/uk/foods/zero-calorie-foods)
-
-Style
-
-lozenge-list
++------------------------------------------------------------------------+
+| Metadata                                                               |
++-------------+----------------------------------------------------------+
+| breadcrumbs | true                                                     |
++-------------+----------------------------------------------------------+
+| template    | plp                                                      |
++-------------+----------------------------------------------------------+
+| title       | Meat Snacks \| Bulk™                                     |
++-------------+----------------------------------------------------------+
+| description | Shop Bulk™ for premium meet snacks: high in protein,     |
+|             | great value. Ideal for Paleo, Keto, or as a protein-rich |
+|             | snack. Fits any fitness goal. Only from Bulk™.           |
++-------------+----------------------------------------------------------+

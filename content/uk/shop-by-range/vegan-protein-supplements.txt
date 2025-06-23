@@ -1,14 +1,31 @@
-[fr](https://www.bulk.com/fr/selectionner-par-gamme/vegan-protein-supplements)[pl](https://www.bulk.com/pl/serie/vegan-protein-supplements)[cz](https://www.bulk.com/cz/shop-by-range/vegan-series)[de](https://www.bulk.com/de/produktreihe/vegan-protein-supplements)[ch](https://www.bulk.com/ch/produktreihe/vegan-protein-supplements)[es](https://www.bulk.com/es/comprar-por-gama/vegan-protein-supplements)[ie](https://www.bulk.com/ie/shop-by-range/vegan-protein-supplements)[eu](https://www.bulk.com/eu/shop-by-range/vegan-series)[se](https://www.bulk.com/se/shoppa-via-produktutbud/vegan-protein-supplements)[ro](https://www.bulk.com/ro/shop-by-range/vegan-series)[at](https://www.bulk.com/at/products/everyday-lifting-belt/bace-nbel)[nl](https://www.bulk.com/nl/shop-per-assortiment/vegan-protein-supplements)[dk](https://www.bulk.com/dk/shop-efter-serie/vegan-protein-supplements)[it](https://www.bulk.com/it/selezione-per-gamma/vegan-protein-supplements)[uk](https://www.bulk.com/uk/shop-by-range/vegan-protein-supplements)[pt](https://www.bulk.com/pt/comprar-por-gama/vegan-protein-supplements)
+# Vegan
 
-Vegan
-=====
++:-------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                               |
++----------------------------------------------------------+----------------------------------------------------------+
+| category                                                 | shop-by-range/vegan-protein-supplements                  |
++---------------------------------------------------------------------------------------------------------------------+
+| Ideal for vegans and anyone interested in plant-based products, **Bulk™** VEGAN has got all the options.            |
+|                                                                                                                     |
+| From vegan protein powders to delicious snacks, you can count on a selection of gluten and dairy-free formulas. All |
+| delivered in compostable packaging.                                                                                 |
+|                                                                                                                     |
+| Snack on the UK’s first vegan protein brownie or support your health with our sustainable blend of vegan-friendly   |
+| omega fatty acids. We’ve got every step of your daily routine covered.                                              |
++---------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-shop-by-range/vegan-protein-supplements
-
-Ideal for vegans and anyone interested in plant-based products, **Bulk™** VEGAN has got all the options.
-
-From vegan protein powders to delicious snacks, you can count on a selection of gluten and dairy-free formulas. All delivered in compostable packaging.
-
-Snack on the UK’s first vegan protein brownie or support your health with our sustainable blend of vegan-friendly omega fatty acids. We’ve got every step of your daily routine covered.
++------------------------------------------------------------------------+
+| Metadata                                                               |
++-------------+----------------------------------------------------------+
+| breadcrumbs | true                                                     |
++-------------+----------------------------------------------------------+
+| template    | plp                                                      |
++-------------+----------------------------------------------------------+
+| title       | Bulk™ Series \| Bulk™ Vegan Protein & Supplements Range  |
++-------------+----------------------------------------------------------+
+| description | Discover Vegan Series™: premium plant-based protein &    |
+|             | supplements. Entirely gluten-free, Vegan Series™ focuses |
+|             | on superior ingredients & delicious flavours.            |
++-------------+----------------------------------------------------------+

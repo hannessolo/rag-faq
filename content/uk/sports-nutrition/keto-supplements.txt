@@ -1,53 +1,105 @@
-[fr](https://www.bulk.com/fr/nutrition-sportive/supplements-ceto)[pl](https://www.bulk.com/pl/odzywki-sportowe/suplementy-keto)[cz](https://www.bulk.com/cz/sports-nutrition/keto-doplnky)[de](https://www.bulk.com/de/sportnahrung/keto-erganzungen)[ch](https://www.bulk.com/ch/sportnahrung/keto-erganzungen)[es](https://www.bulk.com/es/nutricion-deportiva/suplementos-keto)[ie](https://www.bulk.com/ie/sports-nutrition/keto-supplements)[eu](https://www.bulk.com/eu/sports-nutrition/keto-supplements)[se](https://www.bulk.com/se/idrottsnutrition/keto-kosttillskott)[ro](https://www.bulk.com/ro/sports-nutrition/suplimente-keto)[at](https://www.bulk.com/at/sportnahrung/keto-erganzungen)[nl](https://www.bulk.com/nl/sport-voeding/keto-supplementen)[dk](https://www.bulk.com/dk/sportsernaering/keto-kosttilskud)[it](https://www.bulk.com/it/alimentazione-sportiva/integratori-keto)[uk](https://www.bulk.com/uk/sports-nutrition/keto-supplements)[pt](https://www.bulk.com/pt/nutricao-desporto/suplementos-keto)
+# Keto Supplements
 
-Keto Supplements
-================
++:---------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| category                                                  | sports-nutrition/keto-supplements                         |
++-----------------------------------------------------------------------------------------------------------------------+
+| The keto diet, or ketogenic, diet, is still massively popular amongst the fitness community and non-athletes alike.   |
+| This might be partly because studies suggest that it could lead to an increase in fat burning during exercise. This   |
+| high-fat, high-protein and low carb diet works by encouraging the body to switch fuel sources.                        |
+|                                                                                                                       |
+| When exercising at a high intensity, the body normally gets most of its energy from burning carbohydrates - but on    |
+| the ketogenic diet, fat oxidation is significantly upregulated, which produces ketones. This process of breaking down |
+| body fat for energy is known as ketosis, or keto for short.                                                           |
+|                                                                                                                       |
+| It can be tricky transitioning from burning carbohydrates to burning fat on a keto diet, as your body naturally       |
+| prefers carbohydrates as its main source of energy when you exercise. The diet involves eating a very low amount of   |
+| carbohydrates (typically below 50g per day) and prioritising fat and protein instead. As a result, you might need to  |
+| use keto supplements to make sure your body is still getting all the nutrients it needs, as well as to increase your  |
+| intake of fats and MCTs.                                                                                              |
+|                                                                                                                       |
+| We sell a variety of keto supplements to help anyone planning on starting a ketogenic diet or people who are already  |
+| on one. Our team of nutritionists have put together a range of ketogenic supplements to cater to every need. From MCT |
+| oils and powders and low-calorie syrups to amino acid supplements, vitamins and high protein snacks, we’ve got        |
+| something for you. For instance, MCT Oil is popular in the keto community as it provides a convenient, easily         |
+| digestible source of fat. L-Carnitine is involved with carrying fat to the mitochondria for energy production; as a   |
+| result, L-Carnitine pills and powders are popular amongst the keto community. Or if you’re looking to satisfy your    |
+| sweet tooth while watching your carb intake, try out our selection of zero-calorie syrups. We’ve got a range of       |
+| keto-friendly products to try.                                                                                        |
+|                                                                                                                       |
+| Check out our selection of pills, powders, shakes and snacks designed to support a keto diet.                         |
++-----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-sports-nutrition/keto-supplements
+## Keto Supplements FAQ'S
 
-The keto diet, or ketogenic, diet, is still massively popular amongst the fitness community and non-athletes alike. This might be partly because studies suggest that it could lead to an increase in fat burning during exercise. This high-fat, high-protein and low carb diet works by encouraging the body to switch fuel sources.
++-----------------------------------------------------------------------------------------------------+
+| Accordion                                                                                           |
++-----------------------------------------+-----------------------------------------------------------+
+| Which keto supplement is best?          | We sell a range of keto supplements that all offer        |
+|                                         | support in different ways, so the best supplement largely |
+|                                         | depends on your goals and intended use. We have a         |
+|                                         | selection of keto-friendly supplements such as Keto       |
+|                                         | Shakes and Keto Coffee, and a selection of supplements    |
+|                                         | that would support the keto diet such as MCT Oil,         |
+|                                         | L-Carnitine, and high protein snacks.                     |
++-----------------------------------------+-----------------------------------------------------------+
+| Does the keto diet help me lose weight? | To put it simply, taking in less energy than you burn     |
+|                                         | will lead to weight loss. If the keto diet is resulting   |
+|                                         | in an energy deficit over a prolonged period, then weight |
+|                                         | loss will likely occur. The keto diet is a low            |
+|                                         | carbohydrate, high protein diet where the goal is to      |
+|                                         | switch the body's primary energy source to fat rather     |
+|                                         | than carbohydrates (glucose), but this does not always    |
+|                                         | equate to weight loss unless an energy deficit is         |
+|                                         | established.                                              |
++-----------------------------------------+-----------------------------------------------------------+
+| Are keto supplements harmful?           | There may be harmful supplements out there, though the    |
+|                                         | keto supplements we sell are mostly MCT oils, foods, and  |
+|                                         | amino acids that all help support the keto diet in one    |
+|                                         | way or another. These are not known to pose any health    |
+|                                         | risks.                                                    |
++-----------------------------------------+-----------------------------------------------------------+
 
-When exercising at a high intensity, the body normally gets most of its energy from burning carbohydrates - but on the ketogenic diet, fat oxidation is significantly upregulated, which produces ketones. This process of breaking down body fat for energy is known as ketosis, or keto for short.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-It can be tricky transitioning from burning carbohydrates to burning fat on a keto diet, as your body naturally prefers carbohydrates as its main source of energy when you exercise. The diet involves eating a very low amount of carbohydrates (typically below 50g per day) and prioritising fat and protein instead. As a result, you might need to use keto supplements to make sure your body is still getting all the nutrients it needs, as well as to increase your intake of fats and MCTs.
+---
 
-We sell a variety of keto supplements to help anyone planning on starting a ketogenic diet or people who are already on one. Our team of nutritionists have put together a range of ketogenic supplements to cater to every need. From MCT oils and powders and low-calorie syrups to amino acid supplements, vitamins and high protein snacks, we’ve got something for you. For instance, MCT Oil is popular in the keto community as it provides a convenient, easily digestible source of fat. L-Carnitine is involved with carrying fat to the mitochondria for energy production; as a result, L-Carnitine pills and powders are popular amongst the keto community. Or if you’re looking to satisfy your sweet tooth while watching your carb intake, try out our selection of zero-calorie syrups. We’ve got a range of keto-friendly products to try.
+## RELATED CATEGORIES
 
-Check out our selection of pills, powders, shakes and snacks designed to support a keto diet.
+- [Fat burners](https://dev--bul-eds--thepixel.hlx.live/uk/weight-loss/fat-burners)
+- [Diet shakes](https://dev--bul-eds--thepixel.hlx.live/uk/weight-loss/diet-shakes)
+- [Low calorie foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/zero-calorie-foods)
+- [Healthy oils](https://dev--bul-eds--thepixel.hlx.live/uk/foods/healthy-oils)
+- [Protein snacks](https://dev--bul-eds--thepixel.hlx.live/uk/protein/protein-snacks)
+- [High protein foods](https://dev--bul-eds--thepixel.hlx.live/uk/protein/high-protein-foods)
+- [Protein bars](https://dev--bul-eds--thepixel.hlx.live/uk/protein/protein-bars)
+- [Paleo protein](https://staging--bul-eds--thepixel.hlx.page/uk/protein/paleo-protein)
 
-Keto Supplements FAQ'S
-----------------------
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-Which keto supplement is best?
+---
 
-We sell a range of keto supplements that all offer support in different ways, so the best supplement largely depends on your goals and intended use. We have a selection of keto-friendly supplements such as Keto Shakes and Keto Coffee, and a selection of supplements that would support the keto diet such as MCT Oil, L-Carnitine, and high protein snacks.
-
-Does the keto diet help me lose weight?
-
-To put it simply, taking in less energy than you burn will lead to weight loss. If the keto diet is resulting in an energy deficit over a prolonged period, then weight loss will likely occur. The keto diet is a low carbohydrate, high protein diet where the goal is to switch the body's primary energy source to fat rather than carbohydrates (glucose), but this does not always equate to weight loss unless an energy deficit is established.
-
-Are keto supplements harmful?
-
-There may be harmful supplements out there, though the keto supplements we sell are mostly MCT oils, foods, and amino acids that all help support the keto diet in one way or another. These are not known to pose any health risks.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Fat burners](/uk/weight-loss/fat-burners)
-*   [Diet shakes](/uk/weight-loss/diet-shakes)
-*   [Low calorie foods](/uk/foods/zero-calorie-foods)
-*   [Healthy oils](/uk/foods/healthy-oils)
-*   [Protein snacks](/uk/protein/protein-snacks)
-*   [High protein foods](/uk/protein/high-protein-foods)
-*   [Protein bars](/uk/protein/protein-bars)
-*   [Paleo protein](/uk/protein/paleo-protein)
-
-Style
-
-lozenge-list
++-----------------------------------------------------------------------+
+| Metadata                                                              |
++-------------+---------------------------------------------------------+
+| breadcrumbs | true                                                    |
++-------------+---------------------------------------------------------+
+| template    | plp                                                     |
++-------------+---------------------------------------------------------+
+| title       | Keto Supplements \| Bulk™                               |
++-------------+---------------------------------------------------------+
+| description | Boost your keto diet with Bulk™'s keto supplements,     |
+|             | including MCT oils, low-cal syrups, and protein snacks. |
+|             | Designed for ketosis and fat burning. Shop now!         |
++-------------+---------------------------------------------------------+

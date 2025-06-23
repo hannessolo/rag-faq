@@ -1,26 +1,44 @@
-[eu](https://www.bulk.com/eu/accessories-clothing/joggers)[pt](https://www.bulk.com/pt/roupa-desportiva-e-acessorios/calcas-de-treino)[ch](https://www.bulk.com/ch/zubehor-und-bekleidung/jogginghosen)[ro](https://www.bulk.com/ro/accessories-clothing/pantaloni-sport)[dk](https://www.bulk.com/dk/tilbehor-toj/joggingbukser-underdele)[it](https://www.bulk.com/it/accessori-abbigliamento/pantaloni)[se](https://www.bulk.com/se/klader-och-tillbehor/byxor)[es](https://www.bulk.com/es/ropa-y-accessorios/pantalones-y-joggers)[fr](https://www.bulk.com/fr/vetements-accessoires/joggings-bas)[ie](https://www.bulk.com/ie/accessories-clothing/joggers)[cz](https://www.bulk.com/cz/accessories-clothing/teplaky-a-kalhoty)[pl](https://www.bulk.com/pl/akcesoria-i-odziez/spodnie-treningowe)[de](https://www.bulk.com/de/zubehor-und-bekleidung/jogginghosen)[uk](https://www.bulk.com/uk/accessories-clothing/joggers)[at](https://www.bulk.com/at/zubehor-bekleidung/jogginghosen)[nl](https://www.bulk.com/nl/accessoires-en-kleding/joggers)
+# Joggers
 
-Joggers
-=======
++:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                           |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                       | accessories-clothing/joggers                                                                                                                                                   |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Jogging bottoms are a must have for any fitness fanatic’s wardrobe. A comfortable pair of joggers are the perfect accompaniment to any gym session or cardio workout, whilst working just as well for throwing on when you’ve got a lazy day ahead – or even working from home.                                                                                 |
+|                                                                                                                                                                                                                                                                                                                                                                 |
+| Rock the classic joggers and hoodie combo by pairing our **[Everyday™ Joggers](https://main--bul-eds--thepixel.hlx.live/uk/products/bulk-everyday-joggers/bulk-jogg)** with our **[Iconic™ Hoodie](https://main--bul-eds--thepixel.hlx.live/uk/products/bulk-iconic-hoodie/bulk-hood)** and you’ll be sure to look and feel the part next time you hit the gym. |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-accessories-clothing/joggers
+## RELATED CATEGORIES
 
-Jogging bottoms are a must have for any fitness fanatic’s wardrobe. A comfortable pair of joggers are the perfect accompaniment to any gym session or cardio workout, whilst working just as well for throwing on when you’ve got a lazy day ahead – or even working from home.
+- [Bulk x Castore](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/bulk-x-castore)
+- [Gym Clothing](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/gym-clothing)
+- [T-shirts & tops](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/t-shirts-tops)
+- [Hoodies](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/hoodies)
+- [Training accessories](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/training-accessories)
+- [Bulk x New Era](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/bulk-x-new-era)
 
-Rock the classic joggers and hoodie combo by pairing our **[Everyday™ Joggers](/uk/products/bulk-everyday-joggers/bulk-jogg)** with our **[Iconic™ Hoodie](/uk/products/bulk-iconic-hoodie/bulk-hood)** and you’ll be sure to look and feel the part next time you hit the gym.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-RELATED CATEGORIES
-------------------
+---
 
-*   [Bulk x Castore](/uk/accessories-clothing/bulk-x-castore)
-*   [Gym Clothing](/uk/accessories-clothing/gym-clothing)
-*   [T-shirts & tops](/uk/accessories-clothing/t-shirts-tops)
-*   [Hoodies](/uk/accessories-clothing/hoodies)
-*   [Training accessories](/uk/accessories-clothing/training-accessories)
-*   [Bulk x New Era](/uk/accessories-clothing/bulk-x-new-era)
-
-Style
-
-lozenge-list
++----------------------------------------------------------------------+
+| Metadata                                                             |
++-------------+--------------------------------------------------------+
+| breadcrumbs | true                                                   |
++-------------+--------------------------------------------------------+
+| template    | plp                                                    |
++-------------+--------------------------------------------------------+
+| title       | Men's Gym & Training Joggers \| Bulk™                  |
++-------------+--------------------------------------------------------+
+| description | Shop our high quality range of Joggers at great value. |
+|             | Perfect for any gym session. Exclusively from Bulk™,   |
+|             | Formerly Bulk Powders.                                 |
++-------------+--------------------------------------------------------+

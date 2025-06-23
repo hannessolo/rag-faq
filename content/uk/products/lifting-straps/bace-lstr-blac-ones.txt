@@ -1,39 +1,135 @@
-[at](https://www.bulk.com/at/products/hebebander/bace-lstr-blac-ones)[ch](https://www.bulk.com/ch/products/hebebander/bace-lstr-blac-ones)[pt](https://www.bulk.com/pt/products/fitas-para-halterofilismo/bace-lstr-blac-ones)[se](https://www.bulk.com/se/products/lyftremmar/bace-lstr-blac-ones)[eu](https://www.bulk.com/eu/products/lifting-straps/bace-lstr-blac-ones)[pl](https://www.bulk.com/pl/products/paski-do-podnoszenia/bace-lstr-blac-ones)[de](https://www.bulk.com/de/products/hebebander/bace-lstr-blac-ones)[es](https://www.bulk.com/es/products/correas-de-levantamiento/bace-lstr-blac-ones)[ie](https://www.bulk.com/ie/products/lifting-straps/bace-lstr-blac-ones)[dk](https://www.bulk.com/dk/products/loftestropper/bace-lstr-blac-ones)[cz](https://www.bulk.com/cz/products/lifting-straps/bace-lstr-blac-ones)[ro](https://www.bulk.com/ro/products/lifting-straps/bace-lstr-blac-ones)[fr](https://www.bulk.com/fr/products/cinghie-per-sollevamento/bace-lstr-blac-ones)[uk](https://www.bulk.com/uk/products/lifting-straps/bace-lstr-blac-ones)[it](https://www.bulk.com/it/products/cinghie-per-sollevamento/bace-lstr-blac-ones)[nl](https://www.bulk.com/nl/products/hefbanden/bace-lstr-blac-ones)
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Product Details                                                                                                                                                         |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| # Lifting Straps                                                                                                                                                        |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Price       | - Regular Price: £4.99                                                                                                                                 |
+|                | - This product is exempt from discounts                                                                                                                |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Description | ### Lifting Straps                                                                                                                                     |
+|                |                                                                                                                                                        |
+|                | Lift beyond your limitations.                                                                                                                          |
+|                |                                                                                                                                                        |
+|                | High quality, tough and durable, **Bulk™** Lifting Straps give you that extra lift you need to perform more reps and more sets – with heavier weights. |
+|                |                                                                                                                                                        |
+|                | Padded for comfort and to prevent any irritation caused by the straps pulling on your wrists, these Lifting Straps are perfect for a                   |
+|                | variety of pulling exercises such as deadlifts, rows and shrugs.                                                                                       |
+|                |                                                                                                                                                        |
+|                | Available in a sleek black design with rubber badge branding, these Lifting Straps are used by Olympic lifters and casual gym-goers                    |
+|                | alike. Look no further than **Bulk™** to take your training sessions to the next level.                                                                |
+|                |                                                                                                                                                        |
+|                | Also available in Premium: **[Premium Lifting Straps](https://www.bulk.com/uk/products/premium-lifting-straps/bace-plst-blac-ones)**                   |
+|                |                                                                                                                                                        |
+|                | - High quality, tough and durable                                                                                                                      |
+|                | - Padded for comfort and to prevent irritation                                                                                                         |
+|                | - Sleek black design with rubber badge branding                                                                                                        |
+|                | - Perfect for pulling exercises such as deadlifts, rows and shrugs                                                                                     |
+|                | - Sold as a pair (2 per pack)                                                                                                                          |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Lifting Straps
-==============
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++-----------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                          |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| title               | Lifting Straps\|Black Gym Straps\|Bulk™                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| description         | Bulk™ Lifting Straps are perfect for the gym or training, these quality lifting straps allow you to train   |
+|                     | harder in the gym and support grip strength.                                                                |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| keywords            | Lifting Straps, Bulk Powders Lifting Straps, Bulk Powders Straps, Wrist Straps, Bulk, Powders, Bulk Straps, |
+|                     | Grip, Grip Support, Bar, Straps, Wraps, Gym, Strength                                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| id                  | 3955                                                                                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| sku                 | BACE-LSTR-BLAC-ONES                                                                                         |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T12:28:24.720Z                                                                                    |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                                  |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BACE-LSTR-BLAC-ONES",   "name":       |
+|                     | "Lifting Straps",   "image":                                                                                |
+|                     | "https\://www\.bulk.com/media/catalog/product/l/i/lifting\_straps\_bace\_lstr\_blac\_ones\_main\_89c8.jpg", |
+|                     |   "gtin": "5055950614628",   "description": "Next-Level Lifting Starts Here",   "@id":                      |
+|                     | "https\://www\.bulk.com/uk/products/lifting-straps/bace-lstr-blac-ones",   "brand": {     "@type": "Brand", |
+|                     |     "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": "BACE-LSTR-BLAC-ONES",    |
+|                     |    "url": "https\://www\.bulk.com/uk/products/lifting-straps/bace-lstr-blac-ones",       "gtin":            |
+|                     | "5055950614628",       "image":                                                                             |
+|                     | "https\://www\.bulk.com/media/catalog/product/l/i/lifting\_straps\_bace\_lstr\_blac\_ones\_main\_89c8.jpg", |
+|                     |       "availability": "InStock",       "price": 4.99,       "priceCurrency": "GBP",       "itemCondition":  |
+|                     | "NewCondition",       "priceValidUntil": ""     }   ],   "aggregateRating": {     "@type":                  |
+|                     | "AggregateRating",     "ratingValue": 4.5,     "reviewCount": 370,     "bestRating": 5   } }                |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/paski-do-podnoszenia/bace-lstr-blac-ones                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/cinghie-per-sollevamento/bace-lstr-blac-ones                             |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/hebebander/bace-lstr-blac-ones                                           |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/fitas-para-halterofilismo/bace-lstr-blac-ones                            |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/hebebander/bace-lstr-blac-ones                                           |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/loftestropper/bace-lstr-blac-ones                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/cinghie-per-sollevamento/bace-lstr-blac-ones                             |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/cinghie-per-sollevamento/bace-lstr-blac-ones                             |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/correas-de-levantamiento/bace-lstr-blac-ones                             |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/hebebander/bace-lstr-blac-ones                                           |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/hefbanden/bace-lstr-blac-ones                                            |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/hefbanden/bace-lstr-blac-ones                                            |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/lyftremmar/bace-lstr-blac-ones                                           |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/lifting-straps/bace-lstr-blac-ones                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
 
-*   Regular Price: £4.99
-*   This product is exempt from discounts
-
-Description
------------
-
-### Lifting Straps
-
-Lift beyond your limitations.
-
-High quality, tough and durable, **Bulk™** Lifting Straps give you that extra lift you need to perform more reps and more sets – with heavier weights.
-
-Padded for comfort and to prevent any irritation caused by the straps pulling on your wrists, these Lifting Straps are perfect for a variety of pulling exercises such as deadlifts, rows and shrugs.
-
-Available in a sleek black design with rubber badge branding, these Lifting Straps are used by Olympic lifters and casual gym-goers alike. Look no further than **Bulk™** to take your training sessions to the next level.
-
-Also available in Premium: **[Premium Lifting Straps](https://www.bulk.com/uk/products/premium-lifting-straps/bace-plst-blac-ones)**
-
-*   High quality, tough and durable
-*   Padded for comfort and to prevent irritation
-*   Sleek black design with rubber badge branding
-*   Perfect for pulling exercises such as deadlifts, rows and shrugs
-*   Sold as a pair (2 per pack)
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_19a496be865ce48ec77eb29e65c7a1e344535ed9b.webp#width=2000&height=2000

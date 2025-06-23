@@ -1,26 +1,47 @@
-[at](https://www.bulk.com/at/nahrungsmittel/aromen-sussstoffe)[ch](https://www.bulk.com/ch/nahrungsmittel/aromen-sussstoffe)[cz](https://www.bulk.com/cz/foods/flavourings-sweeteners)[de](https://www.bulk.com/de/nahrungsmittel/aromen-sussstoffe)[dk](https://www.bulk.com/dk/madvarer/smage-sodemidler)[es](https://www.bulk.com/es/alimentacion/savorizantes-y-edulcorantes)[eu](https://www.bulk.com/eu/foods/flavourings-sweeteners)[ie](https://www.bulk.com/ie/foods/flavourings-sweeteners)[fr](https://www.bulk.com/fr/produits-alimentaires/aromes-naturels-et-edulcorants)[it](https://www.bulk.com/it/alimenti-2/aromatizzanti-dolcificanti)[nl](https://www.bulk.com/nl/voeding/smaak-en-zoestoffen)[pl](https://www.bulk.com/pl/zywnosc/dodatki-smakowe-i-slodziki)[pt](https://www.bulk.com/pt/alimentos-saudaveis/adocantes-e-aomatizantes)[ro](https://www.bulk.com/ro/foods/flavourings-sweeteners)[se](https://www.bulk.com/se/livsmedel/smaksattare-och-sotning)[uk](https://www.bulk.com/uk/foods/flavourings-sweeteners)
+# Flavourings & Sweeteners
 
-Flavourings & Sweeteners
-========================
++:---------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| category                                                  | foods/flavourings-sweeteners                              |
++-----------------------------------------------------------------------------------------------------------------------+
+| **Bulk™** supplies a range of Flavourings & Sweeteners. This range was primarily designed to complement the fact that |
+| we sell a huge range of unflavoured and unsweetened products, enabling users to flavour and sweeten to their own      |
+| taste. From powerful sweeteners such as Stevia and Sucralose, to our unique, zero-calorie flavouring system           |
+| LiquiFlav™ – this range of Flavourings & Sweeteners can be used to enhance anything from Protein Shakes to Porridge.  |
++-----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-foods/flavourings-sweeteners
+## RELATED CATEGORIES
 
-**Bulk™** supplies a range of Flavourings & Sweeteners. This range was primarily designed to complement the fact that we sell a huge range of unflavoured and unsweetened products, enabling users to flavour and sweeten to their own taste. From powerful sweeteners such as Stevia and Sucralose, to our unique, zero-calorie flavouring system LiquiFlav™ – this range of Flavourings & Sweeteners can be used to enhance anything from Protein Shakes to Porridge.
+- [Flour](https://dev--bul-eds--thepixel.hlx.live/uk/foods/flour)
+- [Healthy Cooking oils](https://dev--bul-eds--thepixel.hlx.live/uk/foods/healthy-oils)
+- [Konjac](https://dev--bul-eds--thepixel.hlx.live/uk/foods/konjac)
+- [Meat snacks](https://dev--bul-eds--thepixel.hlx.live/uk/foods/meat-snacks)
+- [High protein nuts & seeds](https://dev--bul-eds--thepixel.hlx.live/uk/foods/nuts-seeds)
+- [Organic foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/organic-foods)
+- [Superfood powders](https://dev--bul-eds--thepixel.hlx.live/uk/foods/superfoods)
+- [Low calorie foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/zero-calorie-foods)
 
-RELATED CATEGORIES
-------------------
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-*   [Flour](/uk/foods/flour)
-*   [Healthy Cooking oils](/uk/foods/healthy-oils)
-*   [Konjac](/uk/foods/konjac)
-*   [Meat snacks](/uk/foods/meat-snacks)
-*   [High protein nuts & seeds](/uk/foods/nuts-seeds)
-*   [Organic foods](/uk/foods/organic-foods)
-*   [Superfood powders](/uk/foods/superfoods)
-*   [Low calorie foods](/uk/foods/zero-calorie-foods)
+---
 
-Style
-
-lozenge-list
++------------------------------------------------------------------------+
+| Metadata                                                               |
++-------------+----------------------------------------------------------+
+| breadcrumbs | true                                                     |
++-------------+----------------------------------------------------------+
+| template    | plp                                                      |
++-------------+----------------------------------------------------------+
+| title       | Sweeteners \| Flavouring \| Bulk™                        |
++-------------+----------------------------------------------------------+
+| description | Shop high quality Flavourings & Sweeteners at unbeatable |
+|             | prices. Choose from our selection of powders, drops, and |
+|             | syrups. Bulk™, Formerly Bulk Powders.                    |
++-------------+----------------------------------------------------------+

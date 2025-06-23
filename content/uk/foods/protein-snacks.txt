@@ -1,10 +1,27 @@
-[at](https://www.bulk.com/at/zubehor-bekleidung/kapsel-fullkits)[ch](https://www.bulk.com/ch/zubehor-und-bekleidung/kapsel-fullkits)[cz](https://www.bulk.com/cz/accessories-clothing/capping-kits)[de](https://www.bulk.com/de/zubehor-und-bekleidung/kapsel-fullkits)[dk](https://www.bulk.com/dk/tilbehor-toj/kapselfylder-kit)[es](https://www.bulk.com/es/ropa-y-accessorios/kit-de-encapsulado-2)[eu](https://www.bulk.com/eu/accessories-clothing/capping-kits)[ie](https://www.bulk.com/ie/accessories-clothing/capping-kits)[fr](https://www.bulk.com/fr/vetements-accessoires/kit-de-remplissage-de-gelules)[it](https://www.bulk.com/it/accessori-abbigliamento/kit-di-incapsulamento-2)[nl](https://www.bulk.com/nl/accessoires-en-kleding/capping-kits)[pl](https://www.bulk.com/pl/akcesoria-i-odziez/zestawy-do-kapsulkowania)[pt](https://www.bulk.com/pt/roupa-desportiva-e-acessorios/kit-de-encapsular-2)[ro](https://www.bulk.com/ro/accessories-clothing/capping-kits)[se](https://www.bulk.com/se/klader-och-tillbehor/kapselkitt)[uk](https://www.bulk.com/uk/foods/protein-snacks)
+# Protein Snacks
 
-Protein Snacks
-==============
++:--------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                |
++-----------------------------------------------------------+----------------------------------------------------------+
+| category                                                  | foods/protein-snacks                                     |
++----------------------------------------------------------------------------------------------------------------------+
+| The **Bulk™** range of Protein Snacks grows by the day. So whether you need something ultra-convenient like our Beef |
+| Jerky while you’re on the go, a more substantial High Protein Flapjack or High Protein Snack Bar for that            |
+| post-workout re-feed, or a whole tub of our entirely natural Peanut Butter to binge on, we have you covered!         |
++----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-foods/protein-snacks
-
-The **Bulk™** range of Protein Snacks grows by the day. So whether you need something ultra-convenient like our Beef Jerky while you’re on the go, a more substantial High Protein Flapjack or High Protein Snack Bar for that post-workout re-feed, or a whole tub of our entirely natural Peanut Butter to binge on, we have you covered!
++-----------------------------------------------------------------------+
+| Metadata                                                              |
++-------------+---------------------------------------------------------+
+| breadcrumbs | true                                                    |
++-------------+---------------------------------------------------------+
+| template    | plp                                                     |
++-------------+---------------------------------------------------------+
+| title       | Protein Snacks \| Muscle Food Snacks \| Bulk™           |
++-------------+---------------------------------------------------------+
+| description | Buy a range of Protein Snacks from Bulk™. Choose from a |
+|             | large selection of Muscle Food Snacks, from Biltong to  |
+|             | Peanut Butter − at the UK's lowest prices.              |
++-------------+---------------------------------------------------------+

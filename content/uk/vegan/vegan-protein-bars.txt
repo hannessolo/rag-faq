@@ -1,27 +1,45 @@
-[pl](https://www.bulk.com/pl/vegan/weganski-baton-proteinowys)[dk](https://www.bulk.com/dk/vegan/vegansk-proteinbars)[cz](https://www.bulk.com/cz/vegan/veganska-proteinova-tycinka)[de](https://www.bulk.com/de/vegan/veganer-proteinriegels)[eu](https://www.bulk.com/eu/vegan/vegan-protein-bars)[fr](https://www.bulk.com/fr/vegan/barres-proteinees-vegan)[ch](https://www.bulk.com/ch/vegan/veganer-proteinriegel)[it](https://www.bulk.com/it/vegan/barrettes-proteiche-vegane)[at](https://www.bulk.com/at/vegan/veganer-proteinriegels)[pt](https://www.bulk.com/pt/vegan/barra-proteicas-vegan)[ie](https://www.bulk.com/ie/vegan/vegan-protein-bars)[se](https://www.bulk.com/se/vegan/vegan-proteinbars)[nl](https://www.bulk.com/nl/vegan/veganistisch-proteine-reep)[es](https://www.bulk.com/es/vegan/barritas-de-proteinas-veganas)[uk](https://www.bulk.com/uk/vegan/vegan-protein-bars)[ro](https://www.bulk.com/ro/vegan/batons-proteic-vegan)
+# Vegan Protein Bars
 
-Vegan Protein Bars
-==================
++:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                                                                                                                   | vegan/vegan-protein-bars                                                                                                                                                                                                                                                   |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| A vegan diet doesn’t have to be lower in protein than that of a meat-eater, but sadly and invariably, it usually is. As such, vegan and flexitarian consumers alike are often looking for easy ways to increase their protein intake.                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| It’s for this reason that vegan protein bars have become such a popular product with the **Bulk™** community. And it’s helped of course by the fact that our selection of vegan bars and snacks leads the way in terms of taste and satisfaction.                                                                                                                                                                                                                                                                                                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| With an average customer review score of https\://dev--bul-eds--thepixel.hlx.live/4.5/5 across our vegan snacking range, which encompasses best sellers such as our world-famous **[Vegan Protein Brownie](https://www.bulk.com/uk/products/vegan-protein-brownie/vser-vpbr)** and our world-first **[Vegan Protein Blondie](https://www.bulk.com/uk/products/vegan-protein-blondie/vser-vpbr-blon)**, it’s no wonder that **Bulk™** has become the place to go for anyone looking to increase their protein intake from animal and dairy free sources. |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-vegan/vegan-protein-bars
+## RELATED CATEGORIES
 
-A vegan diet doesn’t have to be lower in protein than that of a meat-eater, but sadly and invariably, it usually is. As such, vegan and flexitarian consumers alike are often looking for easy ways to increase their protein intake.
+- [Vegan protein powders](https://dev--bul-eds--thepixel.hlx.live/uk/vegan/vegan-protein-powders)
+- [Vegan vitamins](https://dev--bul-eds--thepixel.hlx.live/uk/vegan/vegan-vitamins)
+- [Greens supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/greens-supplements)
+- [Superfoods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/superfoods)
+- [Vegan range](https://dev--bul-eds--thepixel.hlx.live/uk/vegan)
 
-It’s for this reason that vegan protein bars have become such a popular product with the **Bulk™** community. And it’s helped of course by the fact that our selection of vegan bars and snacks leads the way in terms of taste and satisfaction.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-With an average customer review score of https://dev--bul-eds--thepixel.hlx.live/4.5/5 across our vegan snacking range, which encompasses best sellers such as our world-famous **[Vegan Protein Brownie](https://www.bulk.com/uk/products/vegan-protein-brownie/vser-vpbr)** and our world-first **[Vegan Protein Blondie](https://www.bulk.com/uk/products/vegan-protein-blondie/vser-vpbr-blon)**, it’s no wonder that **Bulk™** has become the place to go for anyone looking to increase their protein intake from animal and dairy free sources.
+---
 
-RELATED CATEGORIES
-------------------
-
-*   [Vegan protein powders](/uk/vegan/vegan-protein-powders)
-*   [Vegan vitamins](/uk/vegan/vegan-vitamins)
-*   [Greens supplements](/uk/health-wellbeing/greens-supplements)
-*   [Superfoods](/uk/foods/superfoods)
-*   [Vegan range](/uk/vegan)
-
-Style
-
-lozenge-list
++-----------------------------------------------------------------------+
+| Metadata                                                              |
++-------------+---------------------------------------------------------+
+| breadcrumbs | true                                                    |
++-------------+---------------------------------------------------------+
+| template    | plp                                                     |
++-------------+---------------------------------------------------------+
+| title       | Vegan Protein Snacks \| Bulk™️                          |
++-------------+---------------------------------------------------------+
+| description | Shop our wide range of high quality Vegan Protein Bars  |
+|             | and snack at low prices. Suitable for any fitness goal. |
+|             | FREE UK delivery. Bulk™                                 |
++-------------+---------------------------------------------------------+

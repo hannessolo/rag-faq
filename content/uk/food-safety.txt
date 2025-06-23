@@ -1,7 +1,4 @@
-[at](https://www.bulk.com/at/products/d-asparagin-saure-aut/bpb-daa-0000)[eu](https://www.bulk.com/eu/products/d-aspartic-acid/bpb-daa-0000)[fr](https://www.bulk.com/fr/products/acide-d-aspartique/bpb-daa-0000)[cz](https://www.bulk.com/cz/products/d-kyselina-asparagova/bpb-daa-0000)[de](https://www.bulk.com/de/products/d-asparaginsaure/bpb-daa-0000)[dk](https://www.bulk.com/dk/products/d-aspartic-acid-dk/bpb-daa-0000)[ch](https://www.bulk.com/ch/products/d-asparaginsaure/bpb-daa-0000)[pt](https://www.bulk.com/pt/products/acido-d-aspartico-pt/bpb-daa-0000)[uk](https://www.bulk.com/uk/food-safety)[ie](https://www.bulk.com/ie/products/d-aspartic-acid/bpb-daa-0000)[es](https://www.bulk.com/es/products/acido-d-aspartico/bpb-daa-0000)[ro](https://www.bulk.com/ro/products/acid-daspartic/bpb-daa-0000)[pl](https://www.bulk.com/pl/products/kwas-d-asparaginowy-pl/bpb-daa-0000)[se](https://www.bulk.com/se/products/d-asparginsyra/bpb-daa-0000)[nl](https://www.bulk.com/nl/products/d-asparaginezuur/bpb-daa-0000)[it](https://www.bulk.com/it/products/acido-d-aspartico-it/bpb-daa-0000)
-
-FOOD SAFETY, AUTHENTICITY, LEGALITY & QUALITY
-=============================================
+# FOOD SAFETY, AUTHENTICITY, LEGALITY & QUALITY
 
 At Bulk, we have built our reputation around the quality of our products and services. As a leading manufacturer and retailer of sports nutrition, the continuing policy of Bulk is to provide safe, legal and authentic products of the highest quality along with a professional and efficient service throughout the business.
 
@@ -9,9 +6,21 @@ With quality management systems in-line with the BRCGS, Bulk adopts a culture of
 
 Our commitment to rigorous testing and adherence to regulatory standards ensures the consistency of our products in terms of food safety, authenticity, legality & quality, with a focus on the following:
 
-*   Independent Laboratory Testing: All relevant batches of our products are independently tested for pesticides, heavy metals, microbial activity, and other contaminants.
-*   EU Regulatory Compliance: Our products are formulated, validated and manufactured to comply with all relevant EU regulations.
+- Independent Laboratory Testing: All relevant batches of our products are independently tested for pesticides, heavy metals, microbial activity, and other contaminants.
+- EU Regulatory Compliance: Our products are formulated, validated and manufactured to comply with all relevant EU regulations.
 
 All third party laboratories used for product testing are UKAS or ISO certified. Additionally to product testing, Bulk maintains a robust supplier management system, ensuring that raw materials are adherent to specification before arriving at Bulk; all suppliers provide Certificates of Analysis or Certificates of Conformity, testing or confirming such things as heavy metals, illegal dyes, microbiological activity, pesticides & active ingredient.
 
 Informed Sport testing of our Pro range ensures that every batch of these products is rigorously tested for banned substances by a world-class anti-doping laboratory. This means you can have peace of mind knowing that your supplements are safe and compliant with anti-doping regulations.
+
++-----------------------------------------------------------------------------------+
+| Metadata                                                                          |
++--------------------------+--------------------------------------------------------+
+| Title                    | Bulk™ \| Food Safety, Authenticity, Legality & Quality |
++--------------------------+--------------------------------------------------------+
+| Description              | Food Safety, Authenticity, Legality & Quality          |
++--------------------------+--------------------------------------------------------+
+| google-site-verification | aukRs7uGBj7CYjlmEDxhyHSSMHdc3q9qMfjRM5Xkeic            |
++--------------------------+--------------------------------------------------------+
+| Template                 | Content                                                |
++--------------------------+--------------------------------------------------------+

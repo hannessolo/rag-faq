@@ -1,10 +1,23 @@
-[pl](https://www.bulk.com/pl/zdrowie-i-dobre-samopoczucie/nastroj-i-funkcje-poznawcze)[dk](https://www.bulk.com/dk/godt-helbred/humor-nootropics)[cz](https://www.bulk.com/cz/health-wellbeing/mood-cognition)[de](https://www.bulk.com/de/gesundheit-wohlbefinden/stimmung-wahrnehmung)[eu](https://www.bulk.com/eu/health-wellbeing/mood-cognition)[fr](https://www.bulk.com/fr/sante-et-bien-etre/amelioration-humeur-concentration)[ch](https://www.bulk.com/ch/gesundheit-wohlbefinden/stimmung-wahrnehmung)[it](https://www.bulk.com/it/salute-e-benessere/miglioramento-cognitivo-umore)[at](https://www.bulk.com/at/gesundheit-wohlbefinden/stimmung-wahrnehmung)[pt](https://www.bulk.com/pt/saude-e-bem-estar/melhoria-da-cognicao-e-humor)[ie](https://www.bulk.com/ie/health-wellbeing/mood-cognition)[se](https://www.bulk.com/se/halsa-och-valbefinnande/humor-och-kognition)[nl](https://www.bulk.com/nl/gezondheid-en-welzijn/stemming-en-cognitief)[es](https://www.bulk.com/es/salud-y-bienestar/animo-y-elevacion-cognitiva)[uk](https://www.bulk.com/uk/vegan-diet/vegetarian-diet)[ro](https://www.bulk.com/ro/health-wellbeing/mood-cognition)
+# Vegetarian diet
 
-Vegetarian diet
-===============
++:---------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                   |
++--------------------------------------------+--------------------------------------------+
+| category                                   | vegan-diet/vegetarian-diet                 |
++-----------------------------------------------------------------------------------------+
+| Thanks for choosing Vegetarian as your diet, here are some products suitable for you... |
++-----------------------------------------------------------------------------------------+
 
-category
+---
 
-vegan-diet/vegetarian-diet
-
-Thanks for choosing Vegetarian as your diet, here are some products suitable for you...
++-------------------------------+
+| Metadata                      |
++-------------+-----------------+
+| breadcrumbs | true            |
++-------------+-----------------+
+| template    | plp             |
++-------------+-----------------+
+| title       | Vegetarian Diet |
++-------------+-----------------+
+| description |                 |
++-------------+-----------------+

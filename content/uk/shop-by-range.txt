@@ -1,8 +1,26 @@
-[ch](https://www.bulk.com/ch/produktreihe)[de](https://www.bulk.com/de/produktreihe)[pl](https://www.bulk.com/pl/serie)[se](https://www.bulk.com/se/shoppa-via-produktutbud)[ie](https://www.bulk.com/ie/shop-by-range)[dk](https://www.bulk.com/dk/shop-efter-serie)[cz](https://www.bulk.com/cz/shop-by-range)[ro](https://www.bulk.com/ro/shop-by-range)[eu](https://www.bulk.com/eu/shop-by-range)[fr](https://www.bulk.com/fr/selectionner-par-gamme)[at](https://www.bulk.com/at/products/extrastarke-omega-3-weichkapseln-1000mg-aut/bpb-o3ss-0000)[es](https://www.bulk.com/es/comprar-por-gama)[pt](https://www.bulk.com/pt/comprar-por-gama)[it](https://www.bulk.com/it/selezione-per-gamma)[nl](https://www.bulk.com/nl/shop-per-assortiment)[uk](https://www.bulk.com/uk/shop-by-range)
+# Shop By Range
 
-Shop By Range
-=============
++:-------------------------:+
+| **Product List Page**     |
++-----------+---------------+
+| category  | shop-by-range |
++---------------------------+
+|                           |
++---------------------------+
 
-category
+---
 
-shop-by-range
++------------------------------------------------------------------------+
+| Metadata                                                               |
++-------------+----------------------------------------------------------+
+| breadcrumbs | true                                                     |
++-------------+----------------------------------------------------------+
+| template    | plp                                                      |
++-------------+----------------------------------------------------------+
+| title       | Bulk™ ranges \| Explore the Bulk™ ranges \| High quality |
+|             | ingredients, low prices                                  |
++-------------+----------------------------------------------------------+
+| description | Our range of Bulk Blends, BP Food and other discount     |
+|             | supplements are expertly formulated using only the high  |
+|             | quality ingredients and all at great prices              |
++-------------+----------------------------------------------------------+

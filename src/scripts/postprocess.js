@@ -28,7 +28,6 @@ function processFile(filePath) {
         // Find the footer markers
         const footerMarkers = [
             'Related articles',
-            'Related products',
             'About the Author',
             'Our Authors'
         ];

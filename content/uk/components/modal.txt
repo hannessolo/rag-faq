@@ -1,28 +1,45 @@
-[ch](https://www.bulk.com/ch/alex-crockford)[cz](https://www.bulk.com/cz/alex-crockford)[de](https://www.bulk.com/de/alex-crockford)[dk](https://www.bulk.com/dk/alex-crockford)[es](https://www.bulk.com/es/alex-crockford)[eu](https://www.bulk.com/eu/alex-crockford)[ie](https://www.bulk.com/ie/alex-crockford)[fr](https://www.bulk.com/fr/alex-crockford)[it](https://www.bulk.com/it/alex-crockford)[nl](https://www.bulk.com/nl/alex-crockford)[pl](https://www.bulk.com/pl/alex-crockford)[pt](https://www.bulk.com/pt/alex-crockford)[ro](https://www.bulk.com/ro/alex-crockford)[se](https://www.bulk.com/se/alex-crockford)[uk](https://www.bulk.com/uk/components/modal)[at](https://www.bulk.com/at/alex-crockford)
+# Modal
 
-Modal
-=====
++---------------------------------------------------------------------------------------------------------------------+
+| Modal                                                                                                               |
++---------------------------------------------------------------------------------------------------------------------+
+| # Modal One                                                                                                         |
+|                                                                                                                     |
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna |
+| aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo             |
+| consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla              |
+| pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est      |
+| laborum                                                                                                             |
+|                                                                                                                     |
+| [Modal trigger](https://main--bul-eds--thepixel.hlx.live/uk/)                                                       |
++---------------------------------------------------------------------------------------------------------------------+
+| # Modal One Content                                                                                                 |
+|                                                                                                                     |
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna |
+| aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo             |
+| consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla              |
+| pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est      |
+| laborum                                                                                                             |
++---------------------------------------------------------------------------------------------------------------------+
 
-Modal One
-=========
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-[Modal trigger](/uk/)
-
-Modal One Content
-=================
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-Modal Two
-=========
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-[Modal trigger](/uk/)
-
-Modal Two Content
-=================
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
++---------------------------------------------------------------------------------------------------------------------+
+| Modal                                                                                                               |
++---------------------------------------------------------------------------------------------------------------------+
+| # Modal Two                                                                                                         |
+|                                                                                                                     |
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna |
+| aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo             |
+| consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla              |
+| pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est      |
+| laborum                                                                                                             |
+|                                                                                                                     |
+| [Modal trigger](https://main--bul-eds--thepixel.hlx.live/uk/)                                                       |
++---------------------------------------------------------------------------------------------------------------------+
+| # Modal Two Content                                                                                                 |
+|                                                                                                                     |
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna |
+| aliqua.Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo             |
+| consequat.Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla              |
+| pariatur.Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est      |
+| laborum                                                                                                             |
++---------------------------------------------------------------------------------------------------------------------+

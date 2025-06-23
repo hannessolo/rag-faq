@@ -1,0 +1,231 @@
++----------------------------------------------------------------------------+
+| Product Details                                                            |
++----------------------------------------------------------------------------+
+| # Raspberry Ketones                                                        |
++----------------+-----------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£16.99~~                               |
+|                | - Final Price: £3.99                                      |
+|                | - Save £13.00                                             |
+|                | - Clearance Sale: Now or never                            |
++----------------+-----------------------------------------------------------+
+| ## Size        | - 100g                                                    |
++----------------+-----------------------------------------------------------+
+| ## Description | ### Raspberry Ketones                                     |
+|                |                                                           |
+|                | 100% raspberry extract powder containing 0.4% raspberry   |
+|                | ketones, a convenient source that can be added to your    |
+|                | favourite drinks and shakes.                              |
+|                |                                                           |
+|                | Raspberry ketones have been around for almost a hundred   |
+|                | years, having first been used as a flavour enhancer in    |
+|                | 1918\. At the turn of the 21st century, they gained       |
+|                | traction as a food supplement. Our raspberry ketones      |
+|                | powder provides a high quality source of raspberry        |
+|                | ketones for you to integrate into your diet.              |
+|                |                                                           |
+|                | Ketones are a chemical that your body uses to turn fat    |
+|                | into energy, particularly when it doesn’t have ready      |
+|                | access to sugars. As the name suggests, raspberry ketones |
+|                | are found in raspberries, but can also be found in        |
+|                | cranberries, rhubarb roots and pine needles. This         |
+|                | raspberry ketones powder is EU compliant, produced at an  |
+|                | appropriate 4:1 ratio water/ethanol extraction.           |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Purpose                                               |
+|                |                                                           |
+|                | Our Raspberry Ketones come as a convenient powder, ideal  |
+|                | for anyone who wants to add raspberry ketones into their  |
+|                | nutritional intake. It can be mixed with water and        |
+|                | enjoyed alone, or mixed in with your favourite            |
+|                | pre-workout or post-workout formulas.                     |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Benefits                                              |
+|                |                                                           |
+|                | - Made for Mixing                                         |
+|                |                                                           |
+|                | Convenient powder for mixing with your favourite          |
+|                | flavours.                                                 |
+|                |                                                           |
+|                | - Do It Yourself                                          |
+|                |                                                           |
+|                | Use it as an ingredient in your personal workout          |
+|                | formulas.                                                 |
+|                |                                                           |
+|                | - Incredible Value                                        |
+|                |                                                           |
+|                | 100% raspberry extract powder at an ultra low price.      |
++----------------+-----------------------------------------------------------+
+| ## Directions  | ### Directions                                            |
+|                |                                                           |
+|                | Mix 2/3 scoop (approximately 100mg) in 50ml water in a    |
+|                | Bulk™ Shaker Bottle. Take 3 servings daily, ideally       |
+|                | before food.                                              |
++----------------+-----------------------------------------------------------+
+| ## Ingredients | ### Ingredients                                           |
+|                |                                                           |
+|                | Raspberry Extract Powder (4% Raspberry Ketones).          |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Suitable For                                          |
+|                |                                                           |
+|                | Halal,Vegan,Vegetarian                                    |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Allergen advice                                       |
+|                |                                                           |
+|                | May contain milk, eggs, soya, cereals containing gluten,  |
+|                | fish, crustaceans, molluscs, mustard, sesame, sulphur     |
+|                | dioxide and sulphites.                                    |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Storage                                               |
+|                |                                                           |
+|                | Store in a dry cool place. Reseal pouch after use.        |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Advisory Information                                  |
+|                |                                                           |
+|                | Food supplements are not intended to replace a varied and |
+|                | balanced diet and a healthy lifestyle. Do not exceed the  |
+|                | recommended usage. Keep out of reach of children.         |
+|                |                                                           |
+|                | Although every care has been taken to keep product        |
+|                | information up to date on our website, please always read |
+|                | the information provided on product label or packaging    |
+|                | before use.                                               |
+|                |                                                           |
+|                | The actual results of consuming dietary supplements may   |
+|                | differ from those implied. Individuals may respond        |
+|                | differently, and the suggested results presume            |
+|                | appropriate nutrition and training plan.                  |
++----------------+-----------------------------------------------------------+
+| ## Nutrition   | ### Active Ingredients                                    |
+|                |                                                           |
+|                | +-------------------+----------------------+              |
+|                | | Ingredient        | Per Serving (100 mg) |              |
+|                | +===================+======================+              |
+|                | | Raspberry Extract | 100mg                |              |
+|                | +-------------------+----------------------+              |
++----------------+-----------------------------------------------------------+
+
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
+
++----------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| title               | Raspberry Ketones Powder\|Bulk™ UK                                                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| description         | Buy our 100% pure Raspberry Ketones in a convenient powder. Raspberry Ketones Powder is a completely       |
+|                     | natural, yet powerful fat and weight loss supplement. Bulk, formerly Bulk Powders.                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| keywords            | Raspberry Ketones, Raspberry, Ketones, Fat Loss, RK, Weight Loss, Slimming, Fat Burner, Diet               |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                                |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| id                  | 2574                                                                                                       |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| sku                 | BPB-RKET-0000                                                                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T12:04:52.159Z                                                                                   |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                                 |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BPB-RKET-0000",   "name": "Raspberry |
+|                     | Ketones",   "image":                                                                                       |
+|                     | "https\://www\.bulk.com/media/catalog/product/r/a/raspberry\_ketones\_pdp\_main\_e026.jpg",   "gtin": "",  |
+|                     |  "description": "100% Raspberry Extract In A Convenient Powder",   "@id":                                  |
+|                     | "https\://www\.bulk.com/uk/products/raspberry-ketones/bpb-rket-0000",   "brand": {     "@type": "Brand",   |
+|                     |   "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": "BPB-RKET-0000-0100",      |
+|                     |  "url": "https\://www\.bulk.com/uk/products/raspberry-ketones/bpb-rket-0000?view=ppc\&o=MTc5LTY4",         |
+|                     | "gtin": "5060343742291",       "image":                                                                    |
+|                     | "https\://www\.bulk.com/media/catalog/product/p/a/packaging\_transformation\_UK\_IE\_2000x2000\_4412.png", |
+|                     |       "availability": "OutOfStock",       "price": 3.99,       "priceCurrency": "GBP",                     |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": "",       "priceSpecification": {                |
+|                     | "@type": "UnitPriceSpecification",         "priceType": "https\://schema.org/ListPrice",         "price":  |
+|                     | 16\.99,         "priceCurrency": "GBP"       }     }   ],   "aggregateRating": {     "@type":              |
+|                     | "AggregateRating",     "ratingValue": 4,     "reviewCount": 190,     "bestRating": 5   } }                 |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/cetona-de-frambuesa/bpb-rket-0000                                       |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/himbeerketone-aut/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/framboos-ketonen/bpb-rket-0000                                          |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/framboos-ketonen/bpb-rket-0000                                          |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/cetone-din-zmeura/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/cetones-de-framboise/bpb-rket-0000                                      |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/cetones-de-framboise/bpb-rket-0000                                      |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/hallonketoner/bpb-rket-0000                                             |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/hindbaer-ketoner/bpb-rket-0000                                          |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/malinove-ketony/bpb-rket-0000                                           |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/ketony-malinowe-pl/bpb-rket-0000                                        |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/cetonas-de-framboesa/bpb-rket-0000                                      |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/himbeer-ketone-de/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/himbeer-ketone-de/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/chetoni-di-lampone/bpb-rket-0000                                        |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/raspberry-ketones/bpb-rket-0000                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_133be0904d16590eb2f81fa838b2587f77eb4b83b.webp#width=2000&height=2000

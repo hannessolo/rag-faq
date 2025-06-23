@@ -1,0 +1,154 @@
++----------------------------------------------------------------------------+
+| Product Details                                                            |
++----------------------------------------------------------------------------+
+| # Everyday Gym Bag                                                         |
++----------------+-----------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£39.99~~                               |
+|                | - Final Price: £27.99                                     |
+|                | - Save £12.00                                             |
+|                | - Clearance Sale: Now or never                            |
++----------------+-----------------------------------------------------------+
+| ## Description | ### Everyday Gym Bag                                      |
+|                |                                                           |
+|                | Your go-to bag for the gym and more.                      |
+|                |                                                           |
+|                | The **Bulk™** Everyday Gym Holdall was developed with the |
+|                | gym in mind but works just as well for other occasions –  |
+|                | whether it’s sport or travel. It comfortably holds all of |
+|                | your belongings in one main entry compartment, but also   |
+|                | features a zipped side pocket for additional storage.     |
+|                | There are multiple additional small zip pockets for       |
+|                | securing valuables and a zip pocket to the top of the bag |
+|                | enables easy access.                                      |
+|                |                                                           |
+|                | Embossed **Bulk™** branding to both sides of the holdall  |
+|                | delivers a sleek and premium aesthetic, whilst a          |
+|                | reinforced base ensures protection from wear and tear.    |
+|                | Made from premium polyurethane with internal polyester    |
+|                | lining, we’ve also incorporated a separate wet pocket for |
+|                | storage of used gym clothing, swimwear, or even footwear. |
+|                |                                                           |
+|                | An adjustable shoulder strap and padded carry handle mean |
+|                | that you’ll be comfortable wherever the Everyday Gym      |
+|                | Holdall takes you.                                        |
+|                |                                                           |
+|                | - High quality design delivers a premium aesthetic        |
+|                | - Perfect for the gym, sport or travel                    |
+|                | - Large storage capacity                                  |
+|                | - Separate wet pocket for gym clothing, swimwear or       |
+|                |   footwear                                                |
+|                | - Multiple zip pockets for storage of valuables           |
+|                | - Reinforced base protects against wear and tear          |
+|                | - Adjustable shoulder straps and carry handle             |
+|                | - Rubber easy-grip zips with **Bulk™** branding           |
+|                | - Made from polyurethane and polyester                    |
+|                | - Dimensions: Height 30cm x Width 55cm x Depth 32cm       |
+|                |   (\~50L volume)                                          |
++----------------+-----------------------------------------------------------+
+
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
+
++--------------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                             |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| title               | Everyday Gym Bag                                                                                               |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| description         | Sleek Design And Impressive Storage Capacity                                                                   |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| keywords            | barrel, bag, gym, holdall, travel, overnight, accessories                                                      |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                                    |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| id                  | 4327                                                                                                           |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| sku                 | BACE-EGBA-BLAC-ONES                                                                                            |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T12:03:08.006Z                                                                                       |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                                     |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BACE-EGBA-BLAC-ONES",   "name":          |
+|                     | "Everyday Gym Bag",   "image":                                                                                 |
+|                     | "https\://www\.bulk.com/media/catalog/product/e/v/everyday\_gym\_bag\_bace\_egba\_blac\_ones\_main\_4c73.jpg", |
+|                     |   "gtin": "5055950614857",   "description": "Sleek Design And Impressive Storage Capacity",   "@id":           |
+|                     | "https\://www\.bulk.com/uk/products/gym-bag/bace-egba-blac-ones",   "brand": {     "@type": "Brand",           |
+|                     | "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": "BACE-EGBA-BLAC-ONES",           |
+|                     | "url": "https\://www\.bulk.com/uk/products/gym-bag/bace-egba-blac-ones",       "gtin": "5055950614857",        |
+|                     | "image":                                                                                                       |
+|                     | "https\://www\.bulk.com/media/catalog/product/e/v/everyday\_gym\_bag\_bace\_egba\_blac\_ones\_main\_4c73.jpg", |
+|                     |       "availability": "InStock",       "price": 27.99,       "priceCurrency": "GBP",       "itemCondition":    |
+|                     | "NewCondition",       "priceValidUntil": "",       "priceSpecification": {         "@type":                    |
+|                     | "UnitPriceSpecification",         "priceType": "https\://schema.org/ListPrice",         "price": 39.99,        |
+|                     |  "priceCurrency": "GBP"       }     }   ],   "aggregateRating": {     "@type": "AggregateRating",              |
+|                     | "ratingValue": 4.1,     "reviewCount": 144,     "bestRating": 5   } }                                          |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/bolsa-de-deporte-de-diario/bace-egba-blac-ones                              |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/everyday-gym-holdall/bace-egba-blac-ones                                    |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/weekendtas/bace-egba-blac-ones                                              |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/weekendtas/bace-egba-blac-ones                                              |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/everyday-gym-bag/bace-egba-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/borsa-da-palestra/bace-egba-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/borsa-da-palestra/bace-egba-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/vardaglig-sportvaska-for-gymmet/bace-egba-blac-ones                         |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/praktisk-sportstaske/bace-egba-blac-ones                                    |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/everyday-gym-bag/bace-egba-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/codzienna-torba-na-silownie/bace-egba-blac-ones                             |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/saco-de-ginasio-multiusos/bace-egba-blac-ones                               |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/everyday-gym-holdall/bace-egba-blac-ones                                    |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/everyday-gym-holdall/bace-egba-blac-ones                                    |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/borsa-da-palestra/bace-egba-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/gym-bag/bace-egba-blac-ones                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------+
+
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1ff4d0a66b20a802cbf774014510f8bd0b3583339.webp#width=2000&height=2000

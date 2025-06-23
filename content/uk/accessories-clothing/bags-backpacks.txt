@@ -1,21 +1,41 @@
-[cz](https://www.bulk.com/cz/accessories-clothing/bags-backpacks)[nl](https://www.bulk.com/nl/accessoires-en-kleding/tassen-rugtassen)[ch](https://www.bulk.com/ch/zubehor-und-bekleidung/taschen-und-rucksacke)[se](https://www.bulk.com/se/klader-och-tillbehor/vaskor-ryggsackar)[ie](https://www.bulk.com/ie/accessories-clothing/bags-backpacks)[dk](https://www.bulk.com/dk/tilbehor-toj/tasker-og-ryksakke)[de](https://www.bulk.com/de/zubehor-und-bekleidung/taschen-und-rucksacke)[it](https://www.bulk.com/it/accessori-abbigliamento/borse-e-zaini)[es](https://www.bulk.com/es/ropa-y-accessorios/bolsas-y-mochilas)[pt](https://www.bulk.com/pt/roupa-desportiva-e-acessorios/bolsas-e-mochilas)[at](https://www.bulk.com/at/zubehor-bekleidung/taschen-und-rucksacke)[eu](https://www.bulk.com/eu/accessories-clothing/bags-backpacks)[fr](https://www.bulk.com/fr/vetements-accessoires/sacs-sacs-a-dos)[ro](https://www.bulk.com/ro/accessories-clothing/bags-backpacks)[uk](https://www.bulk.com/uk/accessories-clothing/bags-backpacks)[pl](https://www.bulk.com/pl/akcesoria-i-odziez/torbi-i-plecaki)
+# Gym Bags & Backpacks
 
-Gym Bags & Backpacks
-====================
++:--------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                |
++-----------------------------------------------------------+----------------------------------------------------------+
+| category                                                  | accessories-clothing/bags-backpacks                      |
++----------------------------------------------------------------------------------------------------------------------+
+| Our high-quality gym bags are spacious and functional, suitable for whatever your endeavour. From our popular        |
+| everyday holdall to our stylish backpack, whether you're looking for a functional commuter backpack or a holdall for |
+| sport and travelling, we have a bag to suit all needs.                                                               |
++----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-accessories-clothing/bags-backpacks
+## RELATED CATEGORIES
 
-Our high-quality gym bags are spacious and functional, suitable for whatever your endeavour. From our popular everyday holdall to our stylish backpack, whether you're looking for a functional commuter backpack or a holdall for sport and travelling, we have a bag to suit all needs.
+- [Protein Shaker Bottles](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/shaker-bottles)
+- [Training Accessories](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing)
+- [Empty Capsules](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/empty-capsules)
 
-RELATED CATEGORIES
-------------------
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-*   [Protein Shaker Bottles](/uk/accessories-clothing/shaker-bottles)
-*   [Training Accessories](/uk/accessories-clothing)
-*   [Empty Capsules](/uk/accessories-clothing/empty-capsules)
+---
 
-Style
-
-lozenge-list
++------------------------------------------------------------------+
+| Metadata                                                         |
++-------------+----------------------------------------------------+
+| breadcrumbs | true                                               |
++-------------+----------------------------------------------------+
+| template    | plp                                                |
++-------------+----------------------------------------------------+
+| title       | Gym Bags & Gym Backpacks \| Bulk™                  |
++-------------+----------------------------------------------------+
+| description | Shop our stylish, high quality range of Gym Bags & |
+|             | Backpacks at great value. Exclusively from Bulk™,  |
+|             | Formerly Bulk Powders.                             |
++-------------+----------------------------------------------------+

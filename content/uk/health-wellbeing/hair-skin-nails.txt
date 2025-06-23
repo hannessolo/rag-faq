@@ -1,52 +1,96 @@
-[fr](https://www.bulk.com/fr/sante-et-bien-etre/peau-cheveux-ongles)[pl](https://www.bulk.com/pl/zdrowie-i-dobre-samopoczucie/wlosy-skora-paznokcie)[de](https://www.bulk.com/de/gesundheit-wohlbefinden/haare-haut-und-nagel)[dk](https://www.bulk.com/dk/godt-helbred/hud-har-negle)[pt](https://www.bulk.com/pt/saude-e-bem-estar/cabelo-pele-e-unhas)[nl](https://www.bulk.com/nl/gezondheid-en-welzijn/haar-huid-nagels)[ch](https://www.bulk.com/ch/gesundheit-wohlbefinden/haare-haut-und-nagel)[eu](https://www.bulk.com/eu/health-wellbeing/hair-skin-nails)[ie](https://www.bulk.com/ie/health-wellbeing/hair-skin-nails)[it](https://www.bulk.com/it/salute-e-benessere/capelli-pelle-unghie)[at](https://www.bulk.com/at/gesundheit-wohlbefinden/haare-haut-und-nagel)[es](https://www.bulk.com/es/salud-y-bienestar/cabello-piel-y-unas)[se](https://www.bulk.com/se/halsa-och-valbefinnande/hud-och-har)[ro](https://www.bulk.com/ro/health-wellbeing/hair-skin-nails)[cz](https://www.bulk.com/cz/health-wellbeing/hair-skin-nails)[uk](https://www.bulk.com/uk/health-wellbeing/hair-skin-nails)
+# Hair, Skin & Nails
 
-Hair, Skin & Nails
-==================
++:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                                                                              | health-wellbeing/hair-skin-nails                                                                                                                                                                                                      |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| The role of diet and supplements is not merely limited to building muscle – the benefits are much wider reaching. From contributing to maintenance of normal skin, hair and nails, to protection against oxidative stress, there is something for every need at **Bulk™** and always at unbeatable value, too!                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Discover our range of hair, skin and nails supplements, including our popular [Hyaluronic Acid Tablets](https://main--bul-eds--thepixel.hlx.live/uk/products/hyaluronic-acid-tablets-150mg/bpb-haci-0000), [Marine Collagen Shots](https://www.bulk.com/uk/products/marine-collagen-shots/bpf-msho), [Collagen Gummies](https://www.bulk.com/uk/products/collagen-gummies/bpb-gumy-co), and [Bone Broth Powder](https://www.bulk.com/uk/products/bone-broth-powder/bpb-bbro). |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-health-wellbeing/hair-skin-nails
+## Hair, Skin & Nails FAQS
 
-The role of diet and supplements is not merely limited to building muscle – the benefits are much wider reaching. From contributing to maintenance of normal skin, hair and nails, to protection against oxidative stress, there is something for every need at **Bulk™** and always at unbeatable value, too!
++-----------------------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                                             |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| What are the best vitamins for your hair, skin and nails? | Vitamins do a lot of work. Not only do they keep you      |
+|                                                           | healthy and help you maintain muscle function, but they   |
+|                                                           | protect your hair, skin and nails too. Biotin (or Vitamin |
+|                                                           | B), Vitamin C, and minerals like zinc are amongst the     |
+|                                                           | many supplements that can help protect your hair, skin    |
+|                                                           | and nails and keep them looking healthy and fresh. So     |
+|                                                           | even if your main focus is getting those gym gains, if    |
+|                                                           | you come out of it looking and feeling fresher, hey - not |
+|                                                           | a bad side effect.                                        |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| How will supplements support better hair, skin and nails? | Our nutritional intake is part of a network - everything  |
+|                                                           | feeds into one another, and helps each other out in       |
+|                                                           | making our whole body work as it should, whether you’re   |
+|                                                           | in the gym, or living your life. Supplements that contain |
+|                                                           | nutrients, minerals and vitamins, like our Collagen       |
+|                                                           | range, can contribute to a general feeling of wellbeing,  |
+|                                                           | and a healthy glow - because when our body is getting     |
+|                                                           | what it needs, every part of it benefits. Our hair, skin  |
+|                                                           | and nails need vitamins to regenerate and grow - so it’s  |
+|                                                           | all connected.                                            |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| Is it OK to take vitamins every day?                      | Vitamins are an essential part of our diet, and are       |
+|                                                           | designed to be taken every day. Of course, the key to     |
+|                                                           | everything is moderation - so make sure you’re not        |
+|                                                           | exceeding the daily recommended amount, and that you’re   |
+|                                                           | taking them alongside a healthy, balanced diet.           |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| What vitamins and minerals that improve your skin, nails  | We have a whole host of vitamins and minerals as part of  |
+| and hair are offered by Bulk?                             | our collection, that are dedicated to improving your      |
+|                                                           | skin, nails and hair, or that are part of our wider       |
+|                                                           | nutritional selection. From our Vitamin D3 tablets, to    |
+|                                                           | our Radiance Capsules, you can hone in on exactly what    |
+|                                                           | you want to target, and we’ve got you covered.            |
++-----------------------------------------------------------+-----------------------------------------------------------+
 
-Discover our range of hair, skin and nails supplements, including our popular [Hyaluronic Acid Tablets](/uk/products/hyaluronic-acid-tablets-150mg/bpb-haci-0000), [Marine Collagen Shots](https://www.bulk.com/uk/products/marine-collagen-shots/bpf-msho), [Collagen Gummies](https://www.bulk.com/uk/products/collagen-gummies/bpb-gumy-co), and [Bone Broth Powder](https://www.bulk.com/uk/products/bone-broth-powder/bpb-bbro).
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-Hair, Skin & Nails FAQS
------------------------
+---
 
-What are the best vitamins for your hair, skin and nails?
+## RELATED CATEGORIES
 
-Vitamins do a lot of work. Not only do they keep you healthy and help you maintain muscle function, but they protect your hair, skin and nails too. Biotin (or Vitamin B), Vitamin C, and minerals like zinc are amongst the many supplements that can help protect your hair, skin and nails and keep them looking healthy and fresh. So even if your main focus is getting those gym gains, if you come out of it looking and feeling fresher, hey - not a bad side effect.
+- [Health supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing)
+- [Multivitamin tablets](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/multivitamins)
+- [Antioxidant supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/antioxidants)
+- [Fish oil supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/fish-oils)
+- [Fruit & vegetable supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/fruits-vegetables)
+- [Super greens powders](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/greens-supplements)
+- [Fibre supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/high-fibre-supplements)
+- [Omega 3 supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/omega-3)
+- [Organic powders](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/organic-powders)
 
-How will supplements support better hair, skin and nails?
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-Our nutritional intake is part of a network - everything feeds into one another, and helps each other out in making our whole body work as it should, whether you’re in the gym, or living your life. Supplements that contain nutrients, minerals and vitamins, like our Collagen range, can contribute to a general feeling of wellbeing, and a healthy glow - because when our body is getting what it needs, every part of it benefits. Our hair, skin and nails need vitamins to regenerate and grow - so it’s all connected.
+---
 
-Is it OK to take vitamins every day?
-
-Vitamins are an essential part of our diet, and are designed to be taken every day. Of course, the key to everything is moderation - so make sure you’re not exceeding the daily recommended amount, and that you’re taking them alongside a healthy, balanced diet.
-
-What vitamins and minerals that improve your skin, nails and hair are offered by Bulk?
-
-We have a whole host of vitamins and minerals as part of our collection, that are dedicated to improving your skin, nails and hair, or that are part of our wider nutritional selection. From our Vitamin D3 tablets, to our Radiance Capsules, you can hone in on exactly what you want to target, and we’ve got you covered.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Health supplements](/uk/health-wellbeing)
-*   [Multivitamin tablets](/uk/health-wellbeing/multivitamins)
-*   [Antioxidant supplements](/uk/health-wellbeing/antioxidants)
-*   [Fish oil supplements](/uk/health-wellbeing/fish-oils)
-*   [Fruit & vegetable supplements](/uk/health-wellbeing/fruits-vegetables)
-*   [Super greens powders](/uk/health-wellbeing/greens-supplements)
-*   [Fibre supplements](/uk/health-wellbeing/high-fibre-supplements)
-*   [Omega 3 supplements](/uk/health-wellbeing/omega-3)
-*   [Organic powders](/uk/health-wellbeing/organic-powders)
-
-Style
-
-lozenge-list
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Vitamins For Hair, Skin & Nails \| Bulk™                  |
++-------------+-----------------------------------------------------------+
+| description | Shop high quality Hair, Skin & Nail Supplements at        |
+|             | unbeatable prices. From Vitamin C to Collagen or          |
+|             | hyaluronic acid. choose from our selection of tablets and |
+|             | powders. Bulk™                                            |
++-------------+-----------------------------------------------------------+

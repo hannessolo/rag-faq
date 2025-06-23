@@ -1,29 +1,48 @@
-[at](https://www.bulk.com/at/zubehor-bekleidung/training-zubehor)[es](https://www.bulk.com/es/ropa-y-accessorios/accessorios-de-entrenamiento)[cz](https://www.bulk.com/cz/accessories-clothing/training-accessories)[it](https://www.bulk.com/it/accessori-abbigliamento/accessori-per-palestra)[pl](https://www.bulk.com/pl/akcesoria-i-odziez/akcesoria-treningowe)[de](https://www.bulk.com/de/zubehor-und-bekleidung/training-zubehor)[ie](https://www.bulk.com/ie/accessories-clothing/training-accessories)[ro](https://www.bulk.com/ro/accessories-clothing/training-accessories)[se](https://www.bulk.com/se/klader-och-tillbehor/traningstillbehor)[eu](https://www.bulk.com/eu/accessories-clothing/training-accessories)[fr](https://www.bulk.com/fr/vetements-accessoires/accessoires-pour-entrainement)[nl](https://www.bulk.com/nl/accessoires-en-kleding/training-accessoires)[pt](https://www.bulk.com/pt/roupa-desportiva-e-acessorios/acessorios-de-treino)[ch](https://www.bulk.com/ch/zubehor-und-bekleidung/training-zubehor)[dk](https://www.bulk.com/dk/tilbehor-toj/traeningstilbehor)[uk](https://www.bulk.com/uk/accessories-clothing/training-accessories)
+# Training Accessories
 
-Training Accessories
-====================
++:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                   |
++----------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                   | accessories-clothing/training-accessories                                                                                  |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Bulk™** stocks a wide range of high quality **Training Accessories**, which have been specifically designed and manufactured for any hard-training individual.                                                                                        |
+|                                                                                                                                                                                                                                                         |
+| Whether you are a bodybuilder, weightlifter, casual gym-goer or an aspiring athlete – our range of **Training Accessories** will support your goals – both in and out of the gym.                                                                       |
+|                                                                                                                                                                                                                                                         |
+| From **[Lifting Straps](https://www.bulk.com/uk/products/lifting-straps/bace-lstr-blac-ones)** to **[Wrist Wraps](https://www.bulk.com/uk/products/wrist-wraps/bace-wwra-blac-ones)**, there is something for everyone. Take a look below for yourself! |
+|                                                                                                                                                                                                                                                         |
+| Looking for more options? Browse our wide range of [gym accessories](https://main--bul-eds--thepixel.hlx.live/uk/accessories-clothing.html).                                                                                                            |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-accessories-clothing/training-accessories
+## RELATED CATEGORIES
 
-**Bulk™** stocks a wide range of high quality **Training Accessories**, which have been specifically designed and manufactured for any hard-training individual.
+- [Shakers & bottles](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/shaker-bottles)
+- [Gym Clothing](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/gym-clothing)
+- [Bags & backpacks](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/bags-backpacks)
+- [Hoodies](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/hoodies)
+- [T-shirts & tops](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/t-shirts-tops)
 
-Whether you are a bodybuilder, weightlifter, casual gym-goer or an aspiring athlete – our range of **Training Accessories** will support your goals – both in and out of the gym.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-From **[Lifting Straps](https://www.bulk.com/uk/products/lifting-straps/bace-lstr-blac-ones)** to **[Wrist Wraps](https://www.bulk.com/uk/products/wrist-wraps/bace-wwra-blac-ones)**, there is something for everyone. Take a look below for yourself!
+---
 
-Looking for more options? Browse our wide range of [gym accessories](/uk/accessories-clothing.html).
-
-RELATED CATEGORIES
-------------------
-
-*   [Shakers & bottles](/uk/accessories-clothing/shaker-bottles)
-*   [Gym Clothing](/uk/accessories-clothing/gym-clothing)
-*   [Bags & backpacks](/uk/accessories-clothing/bags-backpacks)
-*   [Hoodies](/uk/accessories-clothing/hoodies)
-*   [T-shirts & tops](/uk/accessories-clothing/t-shirts-tops)
-
-Style
-
-lozenge-list
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Training Accessories \| Weightlifting Accessories \|      |
+|             | Bulk™                                                     |
++-------------+-----------------------------------------------------------+
+| description | Shop our high quality range of Training Accessories at    |
+|             | great value. From lifting Straps to Wrist Wraps Perfect   |
+|             | to help you wih your fitness goal. Exclusively from Bulk™ |
++-------------+-----------------------------------------------------------+

@@ -1,8 +1,23 @@
-[fr](https://www.bulk.com/fr/bulkeats)[pl](https://www.bulk.com/pl/bulkeats)[cz](https://www.bulk.com/cz/bulkeats)[de](https://www.bulk.com/de/bulkeats)[ch](https://www.bulk.com/ch/bulkeats)[es](https://www.bulk.com/es/bulkeats)[ie](https://www.bulk.com/ie/bulkeats)[eu](https://www.bulk.com/eu/bulkeats)[se](https://www.bulk.com/se/bulkeats)[ro](https://www.bulk.com/ro/bulkeats)[at](https://www.bulk.com/at/bulkeats)[nl](https://www.bulk.com/nl/bulkeats)[dk](https://www.bulk.com/dk/bulkeats)[it](https://www.bulk.com/it/bulkeats)[uk](https://www.bulk.com/uk/bulkeats)[pt](https://www.bulk.com/pt/bulkeats)
+# BULK EATS
 
-BULK EATS
-=========
++:---------------------:+
+| **Product List Page** |
++-----------+-----------+
+| category  | bulkeats  |
++-----------------------+
+|                       |
++-----------------------+
 
-category
+---
 
-bulkeats
++-------------------------+
+| Metadata                |
++-------------+-----------+
+| breadcrumbs | true      |
++-------------+-----------+
+| template    | plp       |
++-------------+-----------+
+| title       | Bulk Eats |
++-------------+-----------+
+| description |           |
++-------------+-----------+

@@ -1,14 +1,29 @@
-[pl](https://www.bulk.com/pl/odzywki-bialkowe/1kg-proszki-proteinowe)[dk](https://www.bulk.com/dk/protein/1kg-proteinpulver)[ie](https://www.bulk.com/ie/protein/1kg-protein-powders)[eu](https://www.bulk.com/eu/protein/1kg-protein-powders)[cz](https://www.bulk.com/cz/protein/1kg-proteinovych-prasku)[ch](https://www.bulk.com/ch/protein/1kg-protein-pulver)[at](https://www.bulk.com/at/protein/1kg-protein-pulver)[it](https://www.bulk.com/it/proteine/polveri-proteiche-da-1kg)[ro](https://www.bulk.com/ro/protein/1kg-pudre-proteice)[de](https://www.bulk.com/de/protein/1kg-protein-pulver)[uk](https://www.bulk.com/uk/protein/1kg-protein-powders)[se](https://www.bulk.com/se/protein/1kg-proteinpulver)[nl](https://www.bulk.com/nl/proteine/1kg-proteinepoeders)[pt](https://www.bulk.com/pt/proteinas/1kg-de-proteina-em-po)[fr](https://www.bulk.com/fr/proteine/1kg-de-poudres-proteinees)[es](https://www.bulk.com/es/proteinas/1kg-de-proteinas-en-polvo)
+# 1kg Protein Powders
 
-1kg Protein Powders
-===================
++:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                                                           |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                                       | protein/1kg-protein-powders                                                                                                                                                                    |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Check out our range of 1kg protein powders, including some of our best-selling products, **[Pure Whey Protein](https://www.bulk.com/uk/products/pure-whey-protein/bpb-wpc8-0000)**,  **[Complete Mass Gainer](https://main--bul-eds--thepixel.hlx.live/uk/complete-mass-gainer.html)**, and  **[Vegan Protein Powder](https://main--bul-eds--thepixel.hlx.live/uk/vegan-protein-powder.html)**. |
+|                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Typically, protein powders offer 33 servings per 1kg. At **Bulk™**, our selection ranges from 19g to 40g of protein per serving, with our most popular product, **[Pure Whey Protein](https://www.bulk.com/uk/products/pure-whey-protein/bpb-wpc8-0000)**, offering 22g and more of protein per scoop.                                                                                          |
+|                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Looking to buy in bulk? (no pun intended) Discover our selection of  **[5kg protein powders](https://www.bulk.com/nl/products/pure-whey-proteintm/bpb-wpc8-0000)**.                                                                                                                                                                                                                             |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-protein/1kg-protein-powders
-
-Check out our range of 1kg protein powders, including some of our best-selling products, **[Pure Whey Protein](https://www.bulk.com/uk/products/pure-whey-protein/bpb-wpc8-0000)**, **[Complete Mass Gainer](/uk/complete-mass-gainer.html)**, and **[Vegan Protein Powder](/uk/vegan-protein-powder.html)**.
-
-Typically, protein powders offer 33 servings per 1kg. At **Bulk™**, our selection ranges from 19g to 40g of protein per serving, with our most popular product, **[Pure Whey Protein](https://www.bulk.com/uk/products/pure-whey-protein/bpb-wpc8-0000)**, offering 22g and more of protein per scoop.
-
-Looking to buy in bulk? (no pun intended) Discover our selection of **[5kg protein powders](https://www.bulk.com/nl/products/pure-whey-proteintm/bpb-wpc8-0000)**.
++------------------------------------------------------------------------+
+| Metadata                                                               |
++-------------+----------------------------------------------------------+
+| breadcrumbs | true                                                     |
++-------------+----------------------------------------------------------+
+| template    | plp                                                      |
++-------------+----------------------------------------------------------+
+| title       | 1kg Protein Powders \| Bulk™                             |
++-------------+----------------------------------------------------------+
+| description | Shop our selection of 1kg Protein Powders at low prices. |
+|             | From mass gainers to diet shakes. Bulk™, Formerly Bulk   |
+|             | Powders.                                                 |
++-------------+----------------------------------------------------------+

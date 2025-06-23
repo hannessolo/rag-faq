@@ -1,78 +1,146 @@
-[uk](https://www.bulk.com/uk/ourplanet)
++--------------------------------------------+
+| Promo Cards (hero-banner, uk, light, tall) |
++:------------------------------------------:+
+|                                            |
++----------------------+---------------------+
+| [![][image0]](#)     | [![][image0]](#)    |
++:------------------------------------------:+
+| # OUR PLANET                               |
++--------------------------------------------+
+|                                            |
++--------------------------------------------+
 
-   [![](./media_1ab3763f78ed057ed9a6b4fa4918dd91707252113.png?width=750&format=png&optimize=medium)](#)
+---
 
-   [![](./media_1ab3763f78ed057ed9a6b4fa4918dd91707252113.png?width=750&format=png&optimize=medium)](#)
-
-OUR PLANET
-==========
-
-The pursuit of fitness and nutrition is a perpetual journey of growth and adaptation. This same philosophy extends to the creation of our products,  
+The pursuit of fitness and nutrition is a perpetual journey of growth and adaptation. This same philosophy extends to the creation of our products,\
 ensuring their evolution continues to align with our commitment to sustainability.
 
-Style
++-------------------------+
+| Section Metadata        |
++---------+---------------+
+| Style   | content-title |
++---------+---------------+
 
-content-title
+---
 
-   ![](./media_1e49eab66f7fb160d4223628e96d53b462191b96b.png?width=750&format=png&optimize=medium)
++--------------------------------------------------------------------------+
+| Columns (about)                                                          |
++-------------+------------------------------------------------------------+
+| ![][image1] | ## What Sustainability Means to Bulk™                      |
+|             |                                                            |
+|             | We believe that small changes add up to make a big         |
+|             | difference. We're committed to reducing our  footprint by  |
+|             | embracing practices that prioritise the planet's health.   |
+|             | Here are just some of the steps we've taken to make a      |
+|             | positive impact:                                           |
+|             |                                                            |
+|             | - All our pouches, pots and scoops are on track to be      |
+|             |   recyclable in 2024                                       |
+|             | - Our delivery boxes are 100% recyclable and biodegradable |
+|             |   (Forest Stewardship Council approved), the ink for       |
+|             |   branding is water based and uses water recycled up to 5  |
+|             |   times                                                    |
+|             | - Our black tape for sealing completed cartons is fully    |
+|             |   paper-based and biodegradable                            |
+|             | - Smart system installed in Office and Warehouse - turning |
+|             |   off heating, power when not needed                       |
+|             | - All cardboard / paper used at manufacturing sites is     |
+|             |   recycled                                                 |
+|             | - Our UK manufacturing site is partly powered by solar     |
+|             |   energy.                                                  |
++-------------+------------------------------------------------------------+
 
-What Sustainability Means to Bulk™
-----------------------------------
+---
 
-We believe that small changes add up to make a big difference. We're committed to reducing our footprint by embracing practices that prioritise the planet's health. Here are just some of the steps we've taken to make a positive impact:
+## Packaging Changes
 
-*   All our pouches, pots and scoops are on track to be recyclable in 2024
-*   Our delivery boxes are 100% recyclable and biodegradable (Forest Stewardship Council approved), the ink for branding is water based and uses water recycled up to 5 times
-*   Our black tape for sealing completed cartons is fully paper-based and biodegradable
-*   Smart system installed in Office and Warehouse - turning off heating, power when not needed
-*   All cardboard / paper used at manufacturing sites is recycled
-*   Our UK manufacturing site is partly powered by solar energy.
+We’re excited to have made the switch to recyclable pouches and pots, making it even\
+simpler for you, our valued consumers, to recycle your Bulk™  products with ease.
 
-Packaging Changes
------------------
++-------------------------+
+| Section Metadata        |
++---------+---------------+
+| Style   | content-title |
++---------+---------------+
 
-We’re excited to have made the switch to recyclable pouches and pots, making it even  
-simpler for you, our valued consumers, to recycle your Bulk™ products with ease.
+---
 
-Style
++----------------------------------------------------------------------------------------------------------------------+
+| Columns ()                                                                                                           |
++----------------------------------------------------------+-----------------------------------------------------------+
+| ![][image2]                                              | ![][image3]                                               |
+|                                                          |                                                           |
+| We've also given our packaging a makeover. Our new       | During this transition, you may notice a mix of new and   |
+| designs are more user-friendly, making it easier for you | old packaging in your orders. Don't worry though – the    |
+| to identify key nutrients in each product. Plus, we've   | product inside remains the same high-quality sports       |
+| added a splash of colour to help differentiate between   | nutrition you've come to expect from Bulk™ since day one. |
+| our diverse range of products.                           |                                                           |
++----------------------------------------------------------+-----------------------------------------------------------+
 
-content-title
+---
 
-   ![](./media_10f8613003ac777487592a70aa17258757bc2e572.png?width=750&format=png&optimize=medium)
++--------------------------------------------------------------------------------------------------------------+
+| Promo Cards (hero-banner, uk)                                                                                |
++--------------------------------------------------------------------------------------------------------------+
+|                                                                                                              |
++-------------------------------------------------------+------------------------------------------------------+
+| [![][image4]](https://help.bulk.com/hc/en-gb)         | [![][image4]](https://help.bulk.com/hc/en-gb)        |
++--------------------------------------------------------------------------------------------------------------+
+| ## Got questions or need assistance?                                                                         |
+|                                                                                                              |
+| Our customer service team is always here to help. Together, let's continue to make sustainable choices for a |
+| healthier planet.                                                                                            |
+|                                                                                                              |
+| _[Contact Us](https://help.bulk.com/hc/en-gb)_                                                               |
++--------------------------------------------------------------------------------------------------------------+
+|                                                                                                              |
++--------------------------------------------------------------------------------------------------------------+
 
-We've also given our packaging a makeover. Our new designs are more user-friendly, making it easier for you to identify key nutrients in each product. Plus, we've added a splash of colour to help differentiate between our diverse range of products.
+---
 
-   ![](./media_110443e664523712f54f524bedca4ef97e8a99aae.png?width=750&format=png&optimize=medium)
-
-During this transition, you may notice a mix of new and old packaging in your orders. Don't worry though – the product inside remains the same high-quality sports nutrition you've come to expect from Bulk™ since day one.
-
-   [![](./media_157d748432628430fb75594489818286ce168983f.png?width=750&format=png&optimize=medium)](https://help.bulk.com/hc/en-gb)
-
-   [![](./media_157d748432628430fb75594489818286ce168983f.png?width=750&format=png&optimize=medium)](https://help.bulk.com/hc/en-gb)
-
-Got questions or need assistance?
----------------------------------
-
-Our customer service team is always here to help. Together, let's continue to make sustainable choices for a healthier planet.
-
-_[Contact Us](https://help.bulk.com/hc/en-gb)_
-
-How Can I Recycle My Pouch/Product?
------------------------------------
+## How Can I Recycle My Pouch/Product?
 
 Country by country guidance
 
-UK:
++-------------------------------------------------------+
+| Columns ()                                            |
++-------------+-------------+-------------+-------------+
+| UK:         | FR:\        | IT:         | EU:         |
+|             | ![][image6] |             |             |
+| ![][image5] |             | ![][image7] | ![][image8] |
++-------------+-------------+-------------+-------------+
 
-   ![](./media_1a9a7858c09f9ecfb0fa2dbd3f1c32c05e1b16cc4.png?width=750&format=png&optimize=medium)
+---
 
-FR:  
-   ![](./media_14402c21766128c5615bd880d075adc5bc5964ac5.png?width=750&format=png&optimize=medium)
++--------------------------------------------------------------------------------------+
+| Metadata                                                                             |
++--------------------------+-----------------------------------------------------------+
+| Title                    | Our Planet Bulk™ \| Protein, Vitamins, Sports Nutrition,  |
+|                          | Fitness Foods                                             |
++--------------------------+-----------------------------------------------------------+
+| Description              | Bulk™ is the leading supplier of bodybuilding supplements |
+|                          | \&amp; sports nutrition – covering Protein, Creatine,     |
+|                          | Vitamins, Fat Loss \&amp; more! Formerly Bulk Powders.    |
++--------------------------+-----------------------------------------------------------+
+| google-site-verification | aukRs7uGBj7CYjlmEDxhyHSSMHdc3q9qMfjRM5Xkeic               |
++--------------------------+-----------------------------------------------------------+
+| Template                 | Content                                                   |
++--------------------------+-----------------------------------------------------------+
 
-IT:
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1ab3763f78ed057ed9a6b4fa4918dd91707252113.png#width=1000&height=686
 
-   ![](./media_1b3e5ec044f33069a8ff44b49df453530d5e2233b.png?width=750&format=png&optimize=medium)
+[image1]: https://main--bulk-eds--thepixel.hlx.page/media_1e49eab66f7fb160d4223628e96d53b462191b96b.png#width=1000&height=686
 
-EU:
+[image2]: https://main--bulk-eds--thepixel.hlx.page/media_10f8613003ac777487592a70aa17258757bc2e572.png#width=1340&height=1204
 
-   ![](./media_1a211ace5802717abfdc77f7bf39a2dac961f2ddb.png?width=750&format=png&optimize=medium)
+[image3]: https://main--bulk-eds--thepixel.hlx.page/media_110443e664523712f54f524bedca4ef97e8a99aae.png#width=1340&height=1204
+
+[image4]: https://main--bulk-eds--thepixel.hlx.page/media_157d748432628430fb75594489818286ce168983f.png#width=1360&height=250
+
+[image5]: https://main--bulk-eds--thepixel.hlx.page/media_1a9a7858c09f9ecfb0fa2dbd3f1c32c05e1b16cc4.png#width=1600&height=1600
+
+[image6]: https://main--bulk-eds--thepixel.hlx.page/media_14402c21766128c5615bd880d075adc5bc5964ac5.png#width=1600&height=1600
+
+[image7]: https://main--bulk-eds--thepixel.hlx.page/media_1b3e5ec044f33069a8ff44b49df453530d5e2233b.png#width=1600&height=1600
+
+[image8]: https://main--bulk-eds--thepixel.hlx.page/media_1a211ace5802717abfdc77f7bf39a2dac961f2ddb.png#width=1600&height=1600

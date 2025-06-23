@@ -1,15 +1,32 @@
-[at](https://www.bulk.com/at/sportnahrung/all-in-one-nahrungserganzung)[pl](https://www.bulk.com/pl/odzywki-sportowe/suplementy-all-in-one)[ie](https://www.bulk.com/ie/sports-nutrition/all-in-one-supplements)[cz](https://www.bulk.com/cz/sports-nutrition/all-in-one-supplements)[it](https://www.bulk.com/it/alimentazione-sportiva/integratori-all-in-one)[de](https://www.bulk.com/de/sportnahrung/all-in-one-nahrungserganzung)[eu](https://www.bulk.com/eu/sports-nutrition/all-in-one-supplements)[dk](https://www.bulk.com/dk/sportsernaering/all-in-one-produkter)[se](https://www.bulk.com/se/idrottsnutrition/allt-i-ett-tillskott)[es](https://www.bulk.com/es/nutricion-deportiva/suplementos-todo-en-uno)[ch](https://www.bulk.com/ch/sportnahrung/all-in-one-nahrungserganzung)[pt](https://www.bulk.com/pt/nutricao-desporto/all-in-one-supplementos)[ro](https://www.bulk.com/ro/sports-nutrition/all-in-one-supplements)[fr](https://www.bulk.com/fr/nutrition-sportive/supplements-tout-en-un)[nl](https://www.bulk.com/nl/sport-voeding/alles-in-een-supplementen)[uk](https://www.bulk.com/uk/health-wellbeing/joint-care)
+# Joint Care
 
-Joint Care
-==========
++:--------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                |
++-----------------------------------------------------------+----------------------------------------------------------+
+| category                                                  | health-wellbeing/joint-care                              |
++----------------------------------------------------------------------------------------------------------------------+
+| Through the rigours of exercise or the harsh reality of getting older, our joints can be put under increased amounts |
+| of stress, often leading to discomfort or even injury.                                                               |
+|                                                                                                                      |
+| **Bulk™** offer a range of joint care supplements with unique formulas and dosages, from our market leading          |
+| formulation Complete Joint Restore™, to single ingredients like Cissus Quadrangularis and MSM, tailored to the needs |
+| of people who train regularly and intensely, who may be liable to joint wear and tear.                               |
+|                                                                                                                      |
+| ## Discover our range of joint care supplements.                                                                     |
++----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-health-wellbeing/joint-care
-
-Through the rigours of exercise or the harsh reality of getting older, our joints can be put under increased amounts of stress, often leading to discomfort or even injury.
-
-**Bulk™** offer a range of joint care supplements with unique formulas and dosages, from our market leading formulation Complete Joint Restore™, to single ingredients like Cissus Quadrangularis and MSM, tailored to the needs of people who train regularly and intensely, who may be liable to joint wear and tear.
-
-Discover our range of joint care supplements.
----------------------------------------------
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Joint Care Supplements \| Joint Aids \| Bulk™             |
++-------------+-----------------------------------------------------------+
+| description | Bulk™ stocks a wide range of Joint Care Supplements. Shop |
+|             | our high quality range of Joint Aids today − at the UK's  |
+|             | lowest online prices.                                     |
++-------------+-----------------------------------------------------------+

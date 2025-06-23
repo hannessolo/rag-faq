@@ -1,55 +1,85 @@
-[es](https://www.bulk.com/es/nutricion-deportiva/aminoacidos/arginina)[pl](https://www.bulk.com/pl/odzywki-sportowe/aminokwasy/arginina)[fr](https://www.bulk.com/fr/nutrition-sportive/acides-amines/arginine)[de](https://www.bulk.com/de/sportnahrung/aminosauren/arginin)[at](https://www.bulk.com/at/sportnahrung/aminosauren/arginin)[dk](https://www.bulk.com/dk/sportsernaering/aminosyrer/arginin)[ch](https://www.bulk.com/ch/sportnahrung/aminosauren/arginin)[it](https://www.bulk.com/it/alimentazione-sportiva/aminoacidi/arginina)[ie](https://www.bulk.com/ie/sports-nutrition/amino-acids/arginine)[pt](https://www.bulk.com/pt/nutricao-desporto/aminoacidos/arginina)[eu](https://www.bulk.com/eu/sports-nutrition/amino-acids/arginine)[uk](https://www.bulk.com/uk/sports-nutrition/amino-acids/arginine)[cz](https://www.bulk.com/cz/sports-nutrition/amino-acids/arginine)[nl](https://www.bulk.com/nl/sport-voeding/aminozuren/arginine)[ro](https://www.bulk.com/ro/sports-nutrition/amino-acids/arginine)[se](https://www.bulk.com/se/idrottsnutrition/aminosyror/arginin)
+# Arginine Supplements
 
-Arginine Supplements
-====================
++:-------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                               |
++----------------------------------------------------------+----------------------------------------------------------+
+| category                                                 | sports-nutrition/amino-acids/arginine                    |
++---------------------------------------------------------------------------------------------------------------------+
+| Bulk™ not only offers a range of pure Arginine Supplements (choose from AAKG and L-Arginine) but does so at the     |
+| absolute lowest prices – guaranteed.                                                                                |
+|                                                                                                                     |
+| Arginine has become a must have pre-workout supplement due to its ability to increase nitric oxide (NO) production  |
+| which, in turn, increases blood flow and muscular pumps. Whether taken on its own or combined with other nutrients, |
+| Arginine is a must have in your pre-workout supplement arsenal.                                                     |
++---------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-sports-nutrition/amino-acids/arginine
+## Arginine FAQs
 
-Bulk™ not only offers a range of pure Arginine Supplements (choose from AAKG and L-Arginine) but does so at the absolute lowest prices – guaranteed.
++-----------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                                 |
++------------------------------------------------+----------------------------------------------------------+
+| What is Arginine?                              | Arginine is a semi-essential amino acid involved in the  |
+|                                                | creation of nitric oxide (NO), which helps to improve    |
+|                                                | blood flow and muscular pump. It is popular as a         |
+|                                                | pre-workout supplement.                                  |
++------------------------------------------------+----------------------------------------------------------+
+| What are the benefits of arginine supplements? | Arginine supplements can boost your intake of arginine   |
+|                                                | when you need it most, typically just before a workout.  |
+|                                                | Arginine helps to increase blood flow and muscular pumps |
+|                                                | during your workouts.                                    |
++------------------------------------------------+----------------------------------------------------------+
+| When should you take arginine?                 | Typically arginine should be taken as a pre-workout      |
+|                                                | supplement.                                              |
++------------------------------------------------+----------------------------------------------------------+
+| What is arginine used for?                     | Arginine is popular as a pre-workout supplement as it    |
+|                                                | helps to increase blood flow and muscular pumps by       |
+|                                                | increasing nitric oxide (NO) production.                 |
++------------------------------------------------+----------------------------------------------------------+
+| What arginine products are available at Bulk?  | At Bulk we offer Arginine as a stand-alone supplement    |
+|                                                | that can easily be mixed into your pre-workout. Our      |
+|                                                | Informed BCAA and Elevate Pre Workout powders also       |
+|                                                | contain arginine.                                        |
++------------------------------------------------+----------------------------------------------------------+
 
-Arginine has become a must have pre-workout supplement due to its ability to increase nitric oxide (NO) production which, in turn, increases blood flow and muscular pumps. Whether taken on its own or combined with other nutrients, Arginine is a must have in your pre-workout supplement arsenal.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-Arginine FAQs
--------------
+---
 
-What is Arginine?
+## RELATED CATEGORIES
 
-Arginine is a semi-essential amino acid involved in the creation of nitric oxide (NO), which helps to improve blood flow and muscular pump. It is popular as a pre-workout supplement.
+- [Amino Acid Tablets](https://staging--bul-eds--thepixel.hlx.page/uk/sports-nutrition/amino-acids)
+- [EAA Supplements](https://staging--bul-eds--thepixel.hlx.page/uk/sports-nutrition/amino-acids/eaa)
+- [BCAA Supplements](https://staging--bul-eds--thepixel.hlx.page/uk/sports-nutrition/amino-acids/bcaa)
+- [L-Carnitine Supplements](https://staging--bul-eds--thepixel.hlx.page/uk/sports-nutrition/amino-acids/carnitine)
+- [HMB Supplements](https://staging--bul-eds--thepixel.hlx.page/uk/sports-nutrition/amino-acids/hmb)
+- [Glutamine Supplements](https://staging--bul-eds--thepixel.hlx.page/uk/sports-nutrition/amino-acids/glutamine)
+- [Focus Supplements](https://staging--bul-eds--thepixel.hlx.page/uk/sports-nutrition/pre-workout/mental-focus)
+- [All in one protein](https://staging--bul-eds--thepixel.hlx.page/uk/sports-nutrition/all-in-one-supplements)
 
-What are the benefits of arginine supplements?
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-Arginine supplements can boost your intake of arginine when you need it most, typically just before a workout. Arginine helps to increase blood flow and muscular pumps during your workouts.
+---
 
-When should you take arginine?
-
-Typically arginine should be taken as a pre-workout supplement.
-
-What is arginine used for?
-
-Arginine is popular as a pre-workout supplement as it helps to increase blood flow and muscular pumps by increasing nitric oxide (NO) production.
-
-What arginine products are available at Bulk?
-
-At Bulk we offer Arginine as a stand-alone supplement that can easily be mixed into your pre-workout. Our Informed BCAA and Elevate Pre Workout powders also contain arginine.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Amino Acid Tablets](/uk/sports-nutrition/amino-acids)
-*   [EAA Supplements](/uk/sports-nutrition/amino-acids/eaa)
-*   [BCAA Supplements](/uk/sports-nutrition/amino-acids/bcaa)
-*   [L-Carnitine Supplements](/uk/sports-nutrition/amino-acids/carnitine)
-*   [HMB Supplements](/uk/sports-nutrition/amino-acids/hmb)
-*   [Glutamine Supplements](/uk/sports-nutrition/amino-acids/glutamine)
-*   [Focus Supplements](/uk/sports-nutrition/pre-workout/mental-focus)
-*   [All in one protein](/uk/sports-nutrition/all-in-one-supplements)
-
-Style
-
-lozenge-list
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Arginine Supplements \| L-Arginine Supplements \| Bulk™   |
++-------------+-----------------------------------------------------------+
+| description | Elevate workouts with Bulk™’s Arginine Supplements (AAKG, |
+|             | L-Arginine) at unbeatable prices. Boost NO for enhanced   |
+|             | muscle pumps. A pre-workout must-have.                    |
++-------------+-----------------------------------------------------------+

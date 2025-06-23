@@ -1,160 +1,261 @@
-[es](https://www.bulk.com/es/products/crema-de-arroz/bpb-cori)[pl](https://www.bulk.com/pl/products/krem-ryzowy/bpb-cori)[fr](https://www.bulk.com/fr/products/creme-de-riz/bpb-cori)[de](https://www.bulk.com/de/products/reiscreme/bpb-cori)[at](https://www.bulk.com/at/products/reiscreme/bpb-cori)[dk](https://www.bulk.com/dk/products/cream-of-rice/bpb-cori)[ch](https://www.bulk.com/ch/products/reiscreme/bpb-cori)[it](https://www.bulk.com/it/products/crema-di-riso/bpb-cori)[ie](https://www.bulk.com/ie/products/cream-of-rice/bpb-cori)[pt](https://www.bulk.com/pt/products/creme-de-arroz/bpb-cori)[eu](https://www.bulk.com/eu/products/cream-of-rice/bpb-cori)[uk](https://www.bulk.com/uk/products/cream-of-rice/bpb-cori)[cz](https://www.bulk.com/cz/products/ryzovy-krem/bpb-cori)[nl](https://www.bulk.com/nl/products/rijstcreme/bpb-cori)[ro](https://www.bulk.com/ro/products/cream-of-rice/bpb-cori)[se](https://www.bulk.com/se/products/cream-of-rice/bpb-cori)
-
-Cream of Rice
-=============
-
-Price
------
-
-*   Regular Price: £12.99
-*   Final Price: £7.49
-*   Save £5.50
-*   Bestsellers Sale: Up to 75% off - no code required
-
-Flavour
--------
-
-*   Chocolate
-*   Vanilla
-
-Size
-----
-
-*   1kg
-*   2.5kg
-
-Description
------------
-
-### Cream of Rice
-
-Our Cream of Rice is a truly delicious and easily digesting source of complex carbohydrates to help you achieve your training and diet goals. It’s super easy to make and each 50g serving has at least 37g of carbohydrates and less than 0.5g of sugar. It’s the perfect way to start your day or as a pre-workout meal to fuel your workouts.
-
-A great addition to any active diet, Cream of Rice is the perfect carbohydrate option to provide sustainable energy and hit those macro goals. It’s vegan, so can fit in with you, whatever your dietary preferences may be.
-
-In 3 delicious flavours; Cinnamon, Chocolate and Vanilla, Cream of Rice is suitable for anyone looking for a super easily digestible alternative to oats and other carbohydrate sources. It makes an excellent addition to any bodybuilding or endurance athlete diet.
-
-\\
-
-### Purpose
-
-Our Cream of Rice is perfect for anyone looking to add quality calories to their diet and is particularly useful for bodybuilders and endurance athletes. Providing sustainable energy from complex carbohydrates, Cream of Rice is vegan and super easily digestible.
-
-\\
-
-### Benefits
-
-*   Morning, Noon or Night
-
-Easy to make and great any time of day, whatever your workout regime
-
-*   Energy
-
-Provides a sugar free, sustained energy supply
-
-Directions
-----------
-
-### Directions
-
-Mix 1 heaped scoop (approximately 50g) with 250ml of water in a shaker bottle and pour into a microwavable bowl immediately. Microwave for 1-2 minutes and stir well. Cream of Rice can also be enjoyed cold with milk or water as a drink. We recommend using 1-3 servings daily, in accordance with your nutritional requirements.
-
-Ingredients
------------
-
-### Ingredients
-
-White Rice Flour, Flavouring, Sweeteners (Sucralose, Steviol Glycosides from Stevia).
-
-\\
-
-### Suitable For
-
-Halal,Vegan,Vegetarian
-
-\\
-
-### Allergen advice
-
-May contain milk, soya, cereals containing gluten, mustard, sesame seeds, sulphur dioxide and sulphites.
-
-\\
-
-### Storage
-
-Store in a dry cool place. Reseal pouch after use.
-
-\\
-
-### Advisory Information
-
-Food supplements are not intended to replace a varied and balanced diet and a healthy lifestyle. Do not exceed the recommended usage. Keep out of reach of children.
-
-Although every care has been taken to keep product information up to date on our website, please always read the information provided on product label or packaging before use.
-
-The actual results of consuming dietary supplements may differ from those implied. Individuals may respond differently, and the suggested results presume appropriate nutrition and training plan.
-
-Nutrition
----------
-
-Nutrition
-
-per 100 g
-
-per serving (50g)
-
-Energy kJ/kcal
-
-1516/357
-
-758/179
-
-Fat
-
-of which saturates
-
-1.0g
-
-0.3g
-
-0.5g
-
-0.2g
-
-Carbohydrate
-
-of which sugars
-
-78g
-
-0.6g
-
-39g
-
-0.3g
-
-Fibre
-
-1.5g
-
-0.8g
-
-Protein
-
-8.5g
-
-4.3g
-
-Salt
-
-0g
-
-0g
-
-typeId
-
-recently-viewed
-
-count
-
-6
++----------------------------------------------------------------------------+
+| Product Details                                                            |
++----------------------------------------------------------------------------+
+| # Cream of Rice                                                            |
++----------------+-----------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£12.99~~                               |
+|                | - Final Price: £7.49                                      |
+|                | - Save £5.50                                              |
+|                | - Bestsellers Sale: Up to 75% off - no code required      |
++----------------+-----------------------------------------------------------+
+| ## Flavour     | - Chocolate                                               |
+|                | - Vanilla                                                 |
++----------------+-----------------------------------------------------------+
+| ## Size        | - 1kg                                                     |
+|                | - 2.5kg                                                   |
++----------------+-----------------------------------------------------------+
+| ## Description | ### Cream of Rice                                         |
+|                |                                                           |
+|                | Our Cream of Rice is a truly delicious and easily         |
+|                | digesting source of complex carbohydrates to help you     |
+|                | achieve your training and diet goals. It’s super easy to  |
+|                | make and each 50g serving has at least 37g of             |
+|                | carbohydrates and less than 0.5g of sugar. It’s the       |
+|                | perfect way to start your day or as a pre-workout meal to |
+|                | fuel your workouts.                                       |
+|                |                                                           |
+|                | A great addition to any active diet, Cream of Rice is the |
+|                | perfect carbohydrate option to provide sustainable energy |
+|                | and hit those macro goals. It’s vegan, so can fit in with |
+|                | you, whatever your dietary preferences may be.            |
+|                |                                                           |
+|                | In 3 delicious flavours; Cinnamon, Chocolate and Vanilla, |
+|                | Cream of Rice is suitable for anyone looking for a super  |
+|                | easily digestible alternative to oats and other           |
+|                | carbohydrate sources. It makes an excellent addition to   |
+|                | any bodybuilding or endurance athlete diet.               |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Purpose                                               |
+|                |                                                           |
+|                | Our Cream of Rice is perfect for anyone looking to add    |
+|                | quality calories to their diet and is particularly useful |
+|                | for bodybuilders and endurance athletes. Providing        |
+|                | sustainable energy from complex carbohydrates, Cream of   |
+|                | Rice is vegan and super easily digestible.                |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Benefits                                              |
+|                |                                                           |
+|                | - Morning, Noon or Night                                  |
+|                |                                                           |
+|                | Easy to make and great any time of day, whatever your     |
+|                | workout regime                                            |
+|                |                                                           |
+|                | - Energy                                                  |
+|                |                                                           |
+|                | Provides a sugar free, sustained energy supply            |
++----------------+-----------------------------------------------------------+
+| ## Directions  | ### Directions                                            |
+|                |                                                           |
+|                | Mix 1 heaped scoop (approximately 50g) with 250ml of      |
+|                | water in a shaker bottle and pour into a microwavable     |
+|                | bowl immediately. Microwave for 1-2 minutes and stir      |
+|                | well. Cream of Rice can also be enjoyed cold with milk or |
+|                | water as a drink. We recommend using 1-3 servings daily,  |
+|                | in accordance with your nutritional requirements.         |
++----------------+-----------------------------------------------------------+
+| ## Ingredients | ### Ingredients                                           |
+|                |                                                           |
+|                | White Rice Flour, Flavouring, Sweeteners (Sucralose,      |
+|                | Steviol Glycosides from Stevia).                          |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Suitable For                                          |
+|                |                                                           |
+|                | Halal,Vegan,Vegetarian                                    |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Allergen advice                                       |
+|                |                                                           |
+|                | May contain milk, soya, cereals containing gluten,        |
+|                | mustard, sesame seeds, sulphur dioxide and sulphites.     |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Storage                                               |
+|                |                                                           |
+|                | Store in a dry cool place. Reseal pouch after use.        |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Advisory Information                                  |
+|                |                                                           |
+|                | Food supplements are not intended to replace a varied and |
+|                | balanced diet and a healthy lifestyle. Do not exceed the  |
+|                | recommended usage. Keep out of reach of children.         |
+|                |                                                           |
+|                | Although every care has been taken to keep product        |
+|                | information up to date on our website, please always read |
+|                | the information provided on product label or packaging    |
+|                | before use.                                               |
+|                |                                                           |
+|                | The actual results of consuming dietary supplements may   |
+|                | differ from those implied. Individuals may respond        |
+|                | differently, and the suggested results presume            |
+|                | appropriate nutrition and training plan.                  |
++----------------+-----------------------------------------------------------+
+| ## Nutrition   | +--------------------+-----------+-------------------+    |
+|                | | Nutrition          | per 100 g | per serving (50g) |    |
+|                | +====================+===========+===================+    |
+|                | | Energy kJ/kcal     | 1516/357  | 758/179           |    |
+|                | +--------------------+-----------+-------------------+    |
+|                | | Fat                | 1.0g      | 0.5g              |    |
+|                | |                    |           |                   |    |
+|                | | of which saturates | 0.3g      | 0.2g              |    |
+|                | +--------------------+-----------+-------------------+    |
+|                | | Carbohydrate       | 78g       | 39g               |    |
+|                | |                    |           |                   |    |
+|                | | of which sugars    | 0.6g      | 0.3g              |    |
+|                | +--------------------+-----------+-------------------+    |
+|                | | Fibre              | 1.5g      | 0.8g              |    |
+|                | +--------------------+-----------+-------------------+    |
+|                | | Protein            | 8.5g      | 4.3g              |    |
+|                | +--------------------+-----------+-------------------+    |
+|                | | Salt               | 0g        | 0g                |    |
+|                | +--------------------+-----------+-------------------+    |
++----------------+-----------------------------------------------------------+
+
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
+
++-----------------------------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                                            |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| title               | Cream of Rice\|High Energy Carbohydrate Powder\|Bulk™ UK                                                                      |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| description         | Try our Cream of Rice which is low fat and low sugar formula to help you meet your workout needs. Bulk, formerly Bulk         |
+|                     | Powders.                                                                                                                      |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| keywords            | Cream of Rice                                                                                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                                                   |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| id                  | 8569                                                                                                                          |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| sku                 | BPB-CORI                                                                                                                      |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-21T00:09:21.718Z                                                                                                      |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                                                    |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BPB-CORI",   "name": "Cream of Rice",   "image":        |
+|                     | "https\://www\.bulk.com/media/catalog/product/c/r/cream\_of\_rice\_powder\_chocolate\_image\_template\_main\_1\_2\_020f.jpg", |
+|                     |   "gtin": "",   "description": "Try our Cream of Rice which is low fat and low sugar formula to help you meet your workout    |
+|                     | needs. Bulk, formerly Bulk Powders.",   "@id": "https\://www\.bulk.com/uk/products/cream-of-rice/bpb-cori",   "brand": {      |
+|                     | "@type": "Brand",     "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": "BPB-CORI-CHOC-1000",     |
+|                     |   "url": "https\://www\.bulk.com/uk/products/cream-of-rice/bpb-cori?view=ppc\&o=MTc5LTI1LDE3OC0yNw==",       "gtin":          |
+|                     | "5055950616004",       "image": "https\://www\.bulk.com/media/catalog/product/B/P/BPB\_CORI\_CHOC\_Main\_Image\_c677.jpg",    |
+|                     |    "availability": "InStock",       "price": 7.49,       "priceCurrency": "GBP",       "itemCondition": "NewCondition",       |
+|                     | "priceValidUntil": "2025-07-01",       "priceSpecification": {         "@type": "UnitPriceSpecification",                     |
+|                     | "priceType": "https\://schema.org/ListPrice",         "price": 12.99,         "priceCurrency": "GBP"       }     },     {     |
+|                     |   "@type": "Offer",       "sku": "BPB-CORI-CHOC-2500",       "url":                                                           |
+|                     | "https\://www\.bulk.com/uk/products/cream-of-rice/bpb-cori?view=ppc\&o=MTc4LTI3LDE3OS0zMw==",       "gtin": "5055950616790",  |
+|                     |      "image": "https\://www\.bulk.com/media/catalog/product/B/P/BPB\_CORI\_CHOC\_Main\_Image\_bdb4.jpg",                      |
+|                     | "availability": "InStock",       "price": 16.99,       "priceCurrency": "GBP",       "itemCondition": "NewCondition",         |
+|                     | "priceValidUntil": "2025-07-01",       "priceSpecification": {         "@type": "UnitPriceSpecification",                     |
+|                     | "priceType": "https\://schema.org/ListPrice",         "price": 24.99,         "priceCurrency": "GBP"       }     },     {     |
+|                     |   "@type": "Offer",       "sku": "BPB-CORI-VANI-1000",       "url":                                                           |
+|                     | "https\://www\.bulk.com/uk/products/cream-of-rice/bpb-cori?view=ppc\&o=MTc5LTI1LDE3OC0yNg==",       "gtin": "5055950616783",  |
+|                     |      "image": "https\://www\.bulk.com/media/catalog/product/B/P/BPB\_CORI\_VANI\_Main\_Image\_7f99.jpg",                      |
+|                     | "availability": "InStock",       "price": 7.49,       "priceCurrency": "GBP",       "itemCondition": "NewCondition",          |
+|                     | "priceValidUntil": "2025-07-01",       "priceSpecification": {         "@type": "UnitPriceSpecification",                     |
+|                     | "priceType": "https\://schema.org/ListPrice",         "price": 12.99,         "priceCurrency": "GBP"       }     },     {     |
+|                     |   "@type": "Offer",       "sku": "BPB-CORI-VANI-2500",       "url":                                                           |
+|                     | "https\://www\.bulk.com/uk/products/cream-of-rice/bpb-cori?view=ppc\&o=MTc5LTMzLDE3OC0yNg==",       "gtin": "5055950616783",  |
+|                     |      "image": "https\://www\.bulk.com/media/catalog/product/B/P/BPB\_CORI\_VANI\_Main\_Image\_4f8d.jpg",                      |
+|                     | "availability": "InStock",       "price": 16.99,       "priceCurrency": "GBP",       "itemCondition": "NewCondition",         |
+|                     | "priceValidUntil": "2025-07-01",       "priceSpecification": {         "@type": "UnitPriceSpecification",                     |
+|                     | "priceType": "https\://schema.org/ListPrice",         "price": 24.99,         "priceCurrency": "GBP"       }     }   ],       |
+|                     | "aggregateRating": {     "@type": "AggregateRating",     "ratingValue": 3.4,     "reviewCount": 190,     "bestRating": 5   }  |
+|                     | }                                                                                                                             |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/reiscreme/bpb-cori                                                                         |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/krem-ryzowy/bpb-cori                                                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/reiscreme/bpb-cori                                                                         |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/crema-di-riso/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/creme-de-riz/bpb-cori                                                                      |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/creme-de-riz/bpb-cori                                                                      |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/rijstcreme/bpb-cori                                                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/rijstcreme/bpb-cori                                                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/crema-de-arroz/bpb-cori                                                                    |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/reiscreme/bpb-cori                                                                         |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/ryzovy-krem/bpb-cori                                                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/creme-de-arroz/bpb-cori                                                                    |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/cream-of-rice/bpb-cori                                                                     |
++---------------------+-------------------------------------------------------------------------------------------------------------------------------+
+
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1b64655580ce264b76245093f9d571aa92d398a4c.webp#width=2000&height=2000

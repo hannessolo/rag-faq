@@ -1,43 +1,133 @@
-[cz](https://www.bulk.com/cz/products/pure-whey-protein/bpb-wpc8-0000)[pl](https://www.bulk.com/pl/products/rekawy-lokciowe/bace-esle)[ie](https://www.bulk.com/ie/products/elbow-sleeves/bace-esle)[eu](https://www.bulk.com/eu/products/pure-whey-protein/bpb-wpc8-0000)[de](https://www.bulk.com/de/products/ellbogenbandagen/bace-esle)[dk](https://www.bulk.com/dk/products/elleboogbeschermers/bace-esle)[nl](https://www.bulk.com/nl/products/elleboogsleeves/bace-esle)[it](https://www.bulk.com/it/products/guaine-per-gomiti/bace-esle)[fr](https://www.bulk.com/fr/products/elbow-sleeves/bace-esle)[es](https://www.bulk.com/es/products/coderas/bace-esle)[se](https://www.bulk.com/se/products/armbagsstod/bace-esle)[ch](https://www.bulk.com/ch/products/ellbogenbandagen/bace-esle)[at](https://www.bulk.com/at/products/ellbogenbandagen/bace-esle)[pt](https://www.bulk.com/pt/products/cotoveleiras/bace-esle)[uk](https://www.bulk.com/uk/products/elbow-sleeves/bace-esle)[ro](https://www.bulk.com/ro/products/pure-whey-protein/bpb-wpc8-0000)
++----------------------------------------------------------------------------+
+| Product Details                                                            |
++----------------------------------------------------------------------------+
+| # Elbow Sleeves                                                            |
++----------------+-----------------------------------------------------------+
+| ## Price       | - Regular Price: £21.99                                   |
+|                | - This product is exempt from discounts                   |
++----------------+-----------------------------------------------------------+
+| ## Size        | - S                                                       |
+|                | - M                                                       |
+|                | - L                                                       |
+|                | - XL                                                      |
++----------------+-----------------------------------------------------------+
+| ## Description | ### Elbow Sleeves                                         |
+|                |                                                           |
+|                | Give your elbows the support they deserve.                |
+|                |                                                           |
+|                | Strong and durable, the Bulk™ Elbow Sleeves are made of   |
+|                | Neoprene for complete comfort and long-lasting wear. The  |
+|                | perfect gym accessory to give you extra support during    |
+|                | heavy upper body lifts, such as bench press and shoulder  |
+|                | press. Designed to reduce elbow strain and provide        |
+|                | ultimate joint compression. Make the most out of every    |
+|                | move.                                                     |
+|                |                                                           |
+|                | - **Bulk** branding                                       |
+|                | - 5mm thickness                                           |
+|                | - Made of strong and durable Neoprene                     |
+|                | - Help protect arm muscles and tendons during heavy press |
+|                |   and pull movements                                      |
+|                | - Ultimate joint compression to reduce elbow strain       |
+|                | - Compression properties support body temperature         |
+|                |   regulation                                              |
+|                | - Sold as a pair (2 per pack)                             |
++----------------+-----------------------------------------------------------+
 
-Elbow Sleeves
-=============
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++-----------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                        |
++---------------------+-------------------------------------------------------------------------------------------+
+| title               | Elbow Sleeves\|Bulk™ UK                                                                   |
++---------------------+-------------------------------------------------------------------------------------------+
+| description         | Support your elbows during heavy lifts with durable Neoprene Elbow Sleeves. Reduce muscle |
+|                     | strain, protect joints, and lift with confidence. Bulk™, previously Bulk Powders.         |
++---------------------+-------------------------------------------------------------------------------------------+
+| keywords            | Elbow Sleeves                                                                             |
++---------------------+-------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                               |
++---------------------+-------------------------------------------------------------------------------------------+
+| id                  | 11171                                                                                     |
++---------------------+-------------------------------------------------------------------------------------------+
+| sku                 | BACE-ESLE                                                                                 |
++---------------------+-------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-09T19:52:51.443Z                                                                  |
++---------------------+-------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                |
++---------------------+-------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BACE-ESLE",         |
+|                     | "name": "Elbow Sleeves",   "image":                                                       |
+|                     | "https\://www\.bulk.com/media/catalog/product/e/l/elbow\_sleeves\_image\_main\_3469.jpg", |
+|                     |   "gtin": "",   "description": "Support your elbows during heavy lifts with durable       |
+|                     | Neoprene Elbow Sleeves. Reduce muscle strain, protect joints, and lift with confidence.   |
+|                     | Bulk™, previously Bulk Powders.",   "@id":                                                |
+|                     | "https\://www\.bulk.com/uk/products/elbow-sleeves/bace-esle",   "brand": {     "@type":   |
+|                     | "Brand",     "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",             |
+|                     | "sku": "BACE-ESLE-BLAC-LARG",       "url":                                                |
+|                     | "https\://www\.bulk.com/uk/products/elbow-sleeves/bace-esle?view=ppc\&o=MTc5LTEyNw==",    |
+|                     |    "gtin": "5055950622401",       "image":                                                |
+|                     | "https\://main--bulk-eds--thepixel.aem.live/images/Bulk-no-image-logo-small.png",         |
+|                     | "availability": "InStock",       "price": 21.99,       "priceCurrency": "GBP",            |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": ""     },     {       "@type":  |
+|                     | "Offer",       "sku": "BACE-ESLE-BLAC-MEDI",       "url":                                 |
+|                     | "https\://www\.bulk.com/uk/products/elbow-sleeves/bace-esle?view=ppc\&o=MTc5LTEyOA==",    |
+|                     |    "gtin": "5055950622395",       "image":                                                |
+|                     | "https\://main--bulk-eds--thepixel.aem.live/images/Bulk-no-image-logo-small.png",         |
+|                     | "availability": "InStock",       "price": 21.99,       "priceCurrency": "GBP",            |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": ""     },     {       "@type":  |
+|                     | "Offer",       "sku": "BACE-ESLE-BLAC-SMAL",       "url":                                 |
+|                     | "https\://www\.bulk.com/uk/products/elbow-sleeves/bace-esle?view=ppc\&o=MTc5LTEyOQ==",    |
+|                     |    "gtin": "5055950622388",       "image":                                                |
+|                     | "https\://main--bulk-eds--thepixel.aem.live/images/Bulk-no-image-logo-small.png",         |
+|                     | "availability": "InStock",       "price": 21.99,       "priceCurrency": "GBP",            |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": ""     },     {       "@type":  |
+|                     | "Offer",       "sku": "BACE-ESLE-BLAC-XLAR",       "url":                                 |
+|                     | "https\://www\.bulk.com/uk/products/elbow-sleeves/bace-esle?view=ppc\&o=MTc5LTEyNg==",    |
+|                     |    "gtin": "5055950622418",       "image":                                                |
+|                     | "https\://main--bulk-eds--thepixel.aem.live/images/Bulk-no-image-logo-small.png",         |
+|                     | "availability": "InStock",       "price": 21.99,       "priceCurrency": "GBP",            |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": ""     }   ],                   |
+|                     | "aggregateRating": {     "@type": "AggregateRating",     "ratingValue": 2.1,              |
+|                     | "reviewCount": 11,     "bestRating": 5   } }                                              |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/cotoveleiras/bace-esle                                 |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/ellbogenbandagen/bace-esle                             |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/elleboogbeschermers/bace-esle                          |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/guaine-per-gomiti/bace-esle                            |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/armbagsstod/bace-esle                                  |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/coderas/bace-esle                                      |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/elbow-sleeves/bace-esle                                |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/elbow-sleeves/bace-esle                                |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/elbow-sleeves/bace-esle                                |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/rekawy-lokciowe/bace-esle                              |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/ellbogenbandagen/bace-esle                             |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/elbow-sleeves/bace-esle                                |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/ellbogenbandagen/bace-esle                             |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/elleboogsleeves/bace-esle                              |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/elleboogsleeves/bace-esle                              |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/elbow-sleeves/bace-esle                                |
++---------------------+-------------------------------------------------------------------------------------------+
 
-*   Regular Price: £21.99
-*   This product is exempt from discounts
-
-Size
-----
-
-*   S
-*   M
-*   L
-*   XL
-
-Description
------------
-
-### Elbow Sleeves
-
-Give your elbows the support they deserve.
-
-Strong and durable, the Bulk™ Elbow Sleeves are made of Neoprene for complete comfort and long-lasting wear. The perfect gym accessory to give you extra support during heavy upper body lifts, such as bench press and shoulder press. Designed to reduce elbow strain and provide ultimate joint compression. Make the most out of every move.
-
-*   **Bulk** branding
-*   5mm thickness
-*   Made of strong and durable Neoprene
-*   Help protect arm muscles and tendons during heavy press and pull movements
-*   Ultimate joint compression to reduce elbow strain
-*   Compression properties support body temperature regulation
-*   Sold as a pair (2 per pack)
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_16e74d0ae6402fdeeb2d678087ab87cd16f36fa21.webp#width=2000&height=2000

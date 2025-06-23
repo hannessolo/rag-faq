@@ -1,37 +1,138 @@
-[pl](https://www.bulk.com/pl/products/podkladka-pod-sztange/bace-bspa-blac-ones)[dk](https://www.bulk.com/dk/products/vagtstangspude-til-squats/bace-bspa-blac-ones)[it](https://www.bulk.com/it/products/protezione-per-squat-con-bilanciere/bace-bspa-blac-ones)[de](https://www.bulk.com/de/products/barbell-squat-pad/bace-bspa-blac-ones)[ie](https://www.bulk.com/ie/products/barbell-squat-pad/bace-bspa-blac-ones)[at](https://www.bulk.com/at/products/barbell-squat-pad/bace-bspa-blac-ones)[ro](https://www.bulk.com/ro/products/barbell-squat-pad/bace-bspa-blac-ones)[es](https://www.bulk.com/es/products/manguito-para-sentadillas/bace-bspa-blac-ones)[nl](https://www.bulk.com/nl/products/nekbeschermer/bace-bspa-blac-ones)[cz](https://www.bulk.com/cz/products/barbell-squat-pad/bace-bspa-blac-ones)[se](https://www.bulk.com/se/products/skivstangsvaddering-for-knaboj/bace-bspa-blac-ones)[fr](https://www.bulk.com/fr/products/protezione-per-squat-con-bilanciere/bace-bspa-blac-ones)[eu](https://www.bulk.com/eu/products/barbell-squat-pad/bace-bspa-blac-ones)[pt](https://www.bulk.com/pt/products/protetor-para-barra-de-agachamento/bace-bspa-blac-ones)[ch](https://www.bulk.com/ch/products/barbell-squat-pad/bace-bspa-blac-ones)[uk](https://www.bulk.com/uk/products/barbell-squat-pad/bace-bspa-blac-ones)
++------------------------------------------------------------------------------+
+| Product Details                                                              |
++------------------------------------------------------------------------------+
+| # Barbell Squat Pad                                                          |
++----------------+-------------------------------------------------------------+
+| ## Price       | - Regular Price: £9.99                                      |
+|                | - This product is exempt from discounts                     |
++----------------+-------------------------------------------------------------+
+| ## Description | ### Barbell Squat Pad                                       |
+|                |                                                             |
+|                | There’s no excuse to miss leg day, now.                     |
+|                |                                                             |
+|                | Constructed from a dense foam material, the **Bulk™**       |
+|                | Barbell Squat Pad provides the ultimate in barbell          |
+|                | cushioning to reduce shoulder and neck pain or discomfort,  |
+|                | which can occur when squatting.                             |
+|                |                                                             |
+|                | The **Bulk™** Barbell Squat Pad provides much needed        |
+|                | protection and support for the neck and shoulders, enabling |
+|                | you to focus entirely on form, without distraction.         |
+|                |                                                             |
+|                | Available in a sleek black design with white branding and   |
+|                | designed to wrap around even Olympic sized bars, this       |
+|                | Barbell Squat pad is ideal for anyone looking to avoid      |
+|                | unnecessary pain and discomfort.                            |
+|                |                                                             |
+|                | - Dense foam construction for maximum comfort and support   |
+|                | - Prevents shoulder and neck pain                           |
+|                | - Wraps around bars up to Olympic size                      |
+|                | - Suitable for all types of training and perfect for squats |
+|                | - Sleek black design with contrast white branding           |
++----------------+-------------------------------------------------------------+
 
-Barbell Squat Pad
-=================
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++---------------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                              |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| title               | Barbell Squat Pad\|Bulk™                                                                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| description         | Perfect portion control with our dispensing pump for Zero Calorie Barista Syrup. Easy to use and measure, ideal |
+|                     | for adding sweetness to coffee or desserts.                                                                     |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| keywords            | Barbell Squat Pad                                                                                               |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                                     |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| id                  | 7388                                                                                                            |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| sku                 | BACE-BSPA-BLAC-ONES                                                                                             |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T12:30:11.715Z                                                                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                                      |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BACE-BSPA-BLAC-ONES",   "name": "Barbell  |
+|                     | Squat Pad",   "image":                                                                                          |
+|                     | "https\://www\.bulk.com/media/catalog/product/b/a/barbell\_squat\_pad\_bace\_bspa\_blac\_ones\_main\_6294.jpg", |
+|                     |   "gtin": "5055950614536",   "description": "Serious Support For Your Squat",   "@id":                          |
+|                     | "https\://www\.bulk.com/uk/products/barbell-squat-pad/bace-bspa-blac-ones",   "brand": {     "@type": "Brand",  |
+|                     |    "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": "BACE-BSPA-BLAC-ONES",         |
+|                     | "url": "https\://www\.bulk.com/uk/products/barbell-squat-pad/bace-bspa-blac-ones",       "gtin":                |
+|                     | "5055950614536",       "image":                                                                                 |
+|                     | "https\://www\.bulk.com/media/catalog/product/b/a/barbell\_squat\_pad\_bace\_bspa\_blac\_ones\_main\_6294.jpg", |
+|                     |       "availability": "InStock",       "price": 9.99,       "priceCurrency": "GBP",       "itemCondition":      |
+|                     | "NewCondition",       "priceValidUntil": ""     }   ],   "aggregateRating": {     "@type": "AggregateRating",   |
+|                     |   "ratingValue": 4.7,     "reviewCount": 151,     "bestRating": 5   } }                                         |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/podkladka-pod-sztange/bace-bspa-blac-ones                                    |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/manguito-para-sentadillas/bace-bspa-blac-ones                                |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/vagtstangspude-til-squats/bace-bspa-blac-ones                                |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/nekbeschermer/bace-bspa-blac-ones                                            |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/nekbeschermer/bace-bspa-blac-ones                                            |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/protezione-per-squat-con-bilanciere/bace-bspa-blac-ones                      |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/protezione-per-squat-con-bilanciere/bace-bspa-blac-ones                      |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/skivstangsvaddering-for-knaboj/bace-bspa-blac-ones                           |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/protetor-para-barra-de-agachamento/bace-bspa-blac-ones                       |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/protezione-per-squat-con-bilanciere/bace-bspa-blac-ones                      |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/barbell-squat-pad/bace-bspa-blac-ones                                        |
++---------------------+-----------------------------------------------------------------------------------------------------------------+
 
-*   Regular Price: £9.99
-*   This product is exempt from discounts
-
-Description
------------
-
-### Barbell Squat Pad
-
-There’s no excuse to miss leg day, now.
-
-Constructed from a dense foam material, the **Bulk™** Barbell Squat Pad provides the ultimate in barbell cushioning to reduce shoulder and neck pain or discomfort, which can occur when squatting.
-
-The **Bulk™** Barbell Squat Pad provides much needed protection and support for the neck and shoulders, enabling you to focus entirely on form, without distraction.
-
-Available in a sleek black design with white branding and designed to wrap around even Olympic sized bars, this Barbell Squat pad is ideal for anyone looking to avoid unnecessary pain and discomfort.
-
-*   Dense foam construction for maximum comfort and support
-*   Prevents shoulder and neck pain
-*   Wraps around bars up to Olympic size
-*   Suitable for all types of training and perfect for squats
-*   Sleek black design with contrast white branding
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1355bf7feee3fa5478698bebb543117b4d4c7fabb.webp#width=2000&height=2000

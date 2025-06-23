@@ -1,8 +1,23 @@
-[de](https://www.bulk.com/de/joanna-lowy)[fr](https://www.bulk.com/fr/joanna-lowy)[pl](https://www.bulk.com/pl/joanna-lowy)[cz](https://www.bulk.com/cz/joanna-lowy)[ch](https://www.bulk.com/ch/joanna-lowy)[es](https://www.bulk.com/es/joanna-lowy)[ie](https://www.bulk.com/ie/joanna-lowy)[eu](https://www.bulk.com/eu/joanna-lowy)[se](https://www.bulk.com/se/joanna-lowy)[ro](https://www.bulk.com/ro/joanna-lowy)[at](https://www.bulk.com/at/joanna-lowy)[nl](https://www.bulk.com/nl/joanna-lowy)[dk](https://www.bulk.com/dk/joanna-lowy)[it](https://www.bulk.com/it/joanna-lowy)[uk](https://www.bulk.com/uk/joanna-lowy)[pt](https://www.bulk.com/pt/joanna-lowy)
+# Joanna Lowy
 
-Joanna Lowy
-===========
++:-----------------------:+
+| **Product List Page**   |
++-----------+-------------+
+| category  | joanna-lowy |
++-------------------------+
+|                         |
++-------------------------+
 
-category
+---
 
-joanna-lowy
++---------------------------+
+| Metadata                  |
++-------------+-------------+
+| breadcrumbs | true        |
++-------------+-------------+
+| template    | plp         |
++-------------+-------------+
+| title       | Joanna Lowy |
++-------------+-------------+
+| description |             |
++-------------+-------------+

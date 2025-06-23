@@ -1,56 +1,90 @@
-[pl](https://www.bulk.com/pl/vitamins/witamina-c)[dk](https://www.bulk.com/dk/vitamins/vitamin-c)[fr](https://www.bulk.com/fr/vitamins/vitamine-c)[eu](https://www.bulk.com/eu/vitamins/vitamin-c)[pt](https://www.bulk.com/pt/vitamins/vitamina-c)[cz](https://www.bulk.com/cz/vitamins/vitamin-c)[at](https://www.bulk.com/at/vitamins/vitamin-c)[es](https://www.bulk.com/es/vitamins/vitamina-c)[se](https://www.bulk.com/se/vitamins/vitamin-c)[nl](https://www.bulk.com/nl/vitamins/vitamine-c)[ch](https://www.bulk.com/ch/vitamins/vitamin-c)[ro](https://www.bulk.com/ro/vitamins/vitamina-c)[uk](https://www.bulk.com/uk/vitamins/vitamin-c)[de](https://www.bulk.com/de/vitamins/vitamin-c)[ie](https://www.bulk.com/ie/vitamins/vitamin-c)[it](https://www.bulk.com/it/vitamins/vitamin-c)
+# Vitamin C Supplements
 
-Vitamin C Supplements
-=====================
++:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                                                                                                                                                                            | vitamins/vitamin-c                                                                                                                                                                                                                                                                                                                 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Perhaps the best known vitamin, and for good reason, Vitamin C is known to contribute to the normal function of the immune system – putting this important nutrient at the forefront of discussions when it comes to viruses, germs and bacteria.                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Also known as Ascorbic Acid, Vitamin C can’t be made by the body, so it has to be obtained from the diet. It is synonymous with foods such as oranges and citrus fruits, but is also found in many other foods such as broccoli and kale.                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Whilst natural sources of nutrients are always preferred, supplementing with Vitamin C is both convenient and ensures that your body is getting enough of this vital nutrient. So whether it’s our 100% pure **[Vitamin C Powder](https://main--bul-eds--thepixel.hlx.live/uk/products/vitamin-c-powder/bpb-vitc-0000)**, our potent **[Vitamin C 1000mg Tablets](https://main--bul-eds--thepixel.hlx.live/uk/products/vitamin-c-tablets-1000mg/bpb-vitc-t000)** or the combination of **[Collagen & Vitamin C](https://main--bul-eds--thepixel.hlx.live/uk/products/collagen-vitamin-c/bpb-coll-vitc)** – you can be certain that **Bulk™** has something for everyone. |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-vitamins/vitamin-c
+## Vitamin C FAQ'S
 
-Perhaps the best known vitamin, and for good reason, Vitamin C is known to contribute to the normal function of the immune system – putting this important nutrient at the forefront of discussions when it comes to viruses, germs and bacteria.
++---------------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                                     |
++---------------------------------------------------+-----------------------------------------------------------+
+| Is it safe to take vitamin C supplements daily?   | Yes, it is safe to take vitamin C daily, provided you do  |
+|                                                   | not exceed the recommended dose stated on the dosing      |
+|                                                   | guidance on your supplement.                              |
++---------------------------------------------------+-----------------------------------------------------------+
+| What is the best form of vitamin C to take?       | There are a couple of different forms of vitamin C that   |
+|                                                   | we offer, including tablets and powders. Our Vitamin C    |
+|                                                   | Powder is a great alternative to the Vitamin C Tablets if |
+|                                                   | you find powders easier to take, though both forms        |
+|                                                   | provide the same benefits and dose.                       |
++---------------------------------------------------+-----------------------------------------------------------+
+| What is vitamin C good for?                       | Vitamin C is a potent antioxidant, contributing to the    |
+|                                                   | normal functioning of the immune system and the           |
+|                                                   | protection of cells from oxidative stress. Supplementing  |
+|                                                   | with vitamin C is a great way to offer your body extra    |
+|                                                   | protection against physical stress, which is particularly |
+|                                                   | important for those who take part in intense physical     |
+|                                                   | exercise.                                                 |
++---------------------------------------------------+-----------------------------------------------------------+
+| Is it ok to take vitamin C and collagen together? | Yes, you can take vitamin C and collagen together. Doing  |
+|                                                   | so may actually be more beneficial for skin health. Our   |
+|                                                   | Collagen and Vitamin C powder is a top pick among those   |
+|                                                   | seeking a protein supplement with skin and cartilage      |
+|                                                   | function in mind.                                         |
++---------------------------------------------------+-----------------------------------------------------------+
+| Do multivitamins contain vitamin C?               | Yes, most standard multivitamin supplements would contain |
+|                                                   | vitamin C. Our Complete Multivitamin Complex and Vegan    |
+|                                                   | Multivitamin Complex contain 150mg and 200mg of vitamin   |
+|                                                   | C, respectively.                                          |
++---------------------------------------------------+-----------------------------------------------------------+
 
-Also known as Ascorbic Acid, Vitamin C can’t be made by the body, so it has to be obtained from the diet. It is synonymous with foods such as oranges and citrus fruits, but is also found in many other foods such as broccoli and kale.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-Whilst natural sources of nutrients are always preferred, supplementing with Vitamin C is both convenient and ensures that your body is getting enough of this vital nutrient. So whether it’s our 100% pure **[Vitamin C Powder](/uk/products/vitamin-c-powder/bpb-vitc-0000)**, our potent **[Vitamin C 1000mg Tablets](/uk/products/vitamin-c-tablets-1000mg/bpb-vitc-t000)** or the combination of **[Collagen & Vitamin C](/uk/products/collagen-vitamin-c/bpb-coll-vitc)** – you can be certain that **Bulk™** has something for everyone.
+---
 
-Vitamin C FAQ'S
----------------
+## RELATED CATEGORIES
 
-Is it safe to take vitamin C supplements daily?
+- [Multivitamins](https://staging--bul-eds--thepixel.hlx.page/uk/health-wellbeing/multivitamins)
+- [Vegan vitamins](https://dev--bul-eds--thepixel.hlx.live/uk/vegan/vegan-vitamins)
+- [Vitamin B supplements](https://dev--bul-eds--thepixel.hlx.live/uk/vitamins/vitamin-b)
+- [Vitamin D supplements](https://dev--bul-eds--thepixel.hlx.live/uk/vitamins/vitamin-d)
+- [Vitamin E supplements](https://dev--bul-eds--thepixel.hlx.live/uk/vitamins/vitamin-e)
+- [Immune support supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/immune-support)
+- [Omega 3 supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/omega-3)
 
-Yes, it is safe to take vitamin C daily, provided you do not exceed the recommended dose stated on the dosing guidance on your supplement.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-What is the best form of vitamin C to take?
+---
 
-There are a couple of different forms of vitamin C that we offer, including tablets and powders. Our Vitamin C Powder is a great alternative to the Vitamin C Tablets if you find powders easier to take, though both forms provide the same benefits and dose.
-
-What is vitamin C good for?
-
-Vitamin C is a potent antioxidant, contributing to the normal functioning of the immune system and the protection of cells from oxidative stress. Supplementing with vitamin C is a great way to offer your body extra protection against physical stress, which is particularly important for those who take part in intense physical exercise.
-
-Is it ok to take vitamin C and collagen together?
-
-Yes, you can take vitamin C and collagen together. Doing so may actually be more beneficial for skin health. Our Collagen and Vitamin C powder is a top pick among those seeking a protein supplement with skin and cartilage function in mind.
-
-Do multivitamins contain vitamin C?
-
-Yes, most standard multivitamin supplements would contain vitamin C. Our Complete Multivitamin Complex and Vegan Multivitamin Complex contain 150mg and 200mg of vitamin C, respectively.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Multivitamins](/uk/health-wellbeing/multivitamins)
-*   [Vegan vitamins](/uk/vegan/vegan-vitamins)
-*   [Vitamin B supplements](/uk/vitamins/vitamin-b)
-*   [Vitamin D supplements](/uk/vitamins/vitamin-d)
-*   [Vitamin E supplements](/uk/vitamins/vitamin-e)
-*   [Immune support supplements](/uk/health-wellbeing/immune-support)
-*   [Omega 3 supplements](/uk/health-wellbeing/omega-3)
-
-Style
-
-lozenge-list
++------------------------------------------------------------------------+
+| Metadata                                                               |
++-------------+----------------------------------------------------------+
+| breadcrumbs | true                                                     |
++-------------+----------------------------------------------------------+
+| template    | plp                                                      |
++-------------+----------------------------------------------------------+
+| title       | Vitamin C Supplements \| Bulk™                           |
++-------------+----------------------------------------------------------+
+| description | Shop our wide range of high quality Vitamin C Powders &  |
+|             | Tablets at low prices. FREE UK delivery. Bulk™, Formerly |
+|             | Bulk Powders.                                            |
++-------------+----------------------------------------------------------+

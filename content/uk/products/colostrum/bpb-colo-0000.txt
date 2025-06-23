@@ -1,168 +1,264 @@
-[fr](https://www.bulk.com/fr/products/colostrum-30-igg-active/bpb-colo-0000)[pl](https://www.bulk.com/pl/products/colostrum-30-aktywnych-igg-pl/bpb-colo-0000)[cz](https://www.bulk.com/cz/products/kolostrum-30-aktivni-igg/bpb-colo-0000)[de](https://www.bulk.com/de/products/kolostrum-30-aktives-igg/bpb-colo-0000)[ch](https://www.bulk.com/ch/products/kolostrum-30-aktives-igg/bpb-colo-0000)[es](https://www.bulk.com/es/products/calostro-de-igg-activa/bpb-colo-0000)[ie](https://www.bulk.com/ie/products/colostrum/bpb-colo-0000)[eu](https://www.bulk.com/eu/products/colostrum/bpb-colo-0000)[se](https://www.bulk.com/se/products/colostrum-30-aktivt-igg-se/bpb-colo-0000)[ro](https://www.bulk.com/ro/products/colostru-30-igg-activa/bpb-colo-0000)[at](https://www.bulk.com/at/products/kolostrum-30-aktives-aktives-igg/bpb-colo-0000)[nl](https://www.bulk.com/nl/products/colostrum-30-actieve-igg-nl/bpb-colo-0000)[dk](https://www.bulk.com/dk/products/colostrum-30-aktivt-igg/bpb-colo-0000)[it](https://www.bulk.com/it/products/colostro-con-30-di-igg-attive/bpb-colo-0000)[uk](https://www.bulk.com/uk/products/colostrum/bpb-colo-0000)[pt](https://www.bulk.com/pt/products/colostro-30-igg-ativa/bpb-colo-0000)
-
-Colostrum
-=========
-
-Price
------
-
-*   Regular Price: £29.99
-*   Final Price: £26.99
-*   Save £3.00
-*   Bestsellers Sale: Up to 75% off - no code required
-
-Size
-----
-
-*   100g
-*   500g
-
-Description
------------
-
-### Colostrum
-
-High quality colostrum formula, ethically sourced in small batches and collected in the first 12 hours for maximum nutrient density. Each 10g serving contains a minimum 30% immunoglobulin G (IgG) content, plus a wealth of additional nutrition.
-
-Our Colostrum 30% Active IgG is a premium, ethically sourced colostrum formula. It’s rich in IgG, a type of antibody, with a minimum 30% content in every batch. Our colostrum is ethically sourced in small batches to ensure an ample supply of milk remains, and is prepared with a low heat spray dry to ensure the product is non-denatured.
-
-Immunoglobulin G, or IgG for short, is a potent antibody. We use a process called Radial Immunodiffusion (RID) to measure the IgG content of our colostrum, ensuring every batch contains a minimum 30% IgG content. Our Colostrum 30% Active IgG formula is also rich in protein, providing 8g of protein in a single 10g serving.
-
-\\
-
-### Purpose
-
-Our Colostrum 30% Active IgG formula is a premium source of colostrum, ideal for anyone who wants to supplement their diet with colostrum. It’s perfect for mixing with your regular protein shake formula so you can up your colostrum intake with minimal hassle.
-
-\\
-
-### Benefits
-
-*   Ethically Sourced
-
-Produced in small batches to ensure an ample supply of milk remains.
-
-*   High in Protein
-
-Provides 8g of protein in a single 10g serving
-
-*   Made for Mixing
-
-Ideal for mixing with your favourite shakes.
-
-*   Morning, Noon or Night
-
-Great any time of day, whatever your workout regime.
-
-*   Incredible Price
-
-Premium colostrum at the lowest price in Europe.
-
-Directions
-----------
-
-### Directions
-
-Mix 1 scoop (approximately 10g) with 75ml of water. Consume 1 serving per day, at any time.
-
-Ingredients
------------
-
-### Ingredients
-
-Colostrum (**Milk**) (30% Active IgG).
-
-\\
-
-### Suitable For
-
-Halal,Vegetarian
-
-\\
-
-### Allergen advice
-
-For allergens, see ingredients in **bold**.
-
-May contain soya, cereals containing gluten, mustard, sesame seeds, sulphur dioxide and sulphites.
-
-\\
-
-### Storage
-
-Store in a dry cool place. Reseal pouch after use.
-
-\\
-
-### Advisory Information
-
-Food supplements are not intended to replace a varied and balanced diet and a healthy lifestyle. Do not exceed the recommended usage. Keep out of reach of children.
-
-Although every care has been taken to keep product information up to date on our website, please always read the information provided on product label or packaging before use.
-
-The actual results of consuming dietary supplements may differ from those implied. Individuals may respond differently, and the suggested results presume appropriate nutrition and training plan.
-
-Nutrition
----------
-
-Nutrition
-
-per 100 g
-
-per serving (10g)
-
-Energy kJ/kcal
-
-1587/374
-
-159/37
-
-Fat
-
-of which saturates
-
-2.0g
-
-1.0g
-
-0.2g
-
-0.1g
-
-Carbohydrate
-
-of which sugars
-
-9.0g
-
-9.0g
-
-0.9g
-
-0.9g
-
-Fibre
-
-0g
-
-0g
-
-Protein
-
-80g
-
-8.0g
-
-Salt
-
-0.10g
-
-0.01g
-
-typeId
-
-recently-viewed
-
-count
-
-6
++----------------------------------------------------------------------------+
+| Product Details                                                            |
++----------------------------------------------------------------------------+
+| # Colostrum                                                                |
++----------------+-----------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£29.99~~                               |
+|                | - Final Price: £26.99                                     |
+|                | - Save £3.00                                              |
+|                | - Bestsellers Sale: Up to 75% off - no code required      |
++----------------+-----------------------------------------------------------+
+| ## Size        | - 100g                                                    |
+|                | - 500g                                                    |
++----------------+-----------------------------------------------------------+
+| ## Description | ### Colostrum                                             |
+|                |                                                           |
+|                | High quality colostrum formula, ethically sourced in      |
+|                | small batches and collected in the first 12 hours for     |
+|                | maximum nutrient density. Each 10g serving contains a     |
+|                | minimum 30% immunoglobulin G (IgG) content, plus a wealth |
+|                | of additional nutrition.                                  |
+|                |                                                           |
+|                | Our Colostrum 30% Active IgG is a premium, ethically      |
+|                | sourced colostrum formula. It’s rich in IgG, a type of    |
+|                | antibody, with a minimum 30% content in every batch. Our  |
+|                | colostrum is ethically sourced in small batches to ensure |
+|                | an ample supply of milk remains, and is prepared with a   |
+|                | low heat spray dry to ensure the product is               |
+|                | non-denatured.                                            |
+|                |                                                           |
+|                | Immunoglobulin G, or IgG for short, is a potent antibody. |
+|                | We use a process called Radial Immunodiffusion (RID) to   |
+|                | measure the IgG content of our colostrum, ensuring every  |
+|                | batch contains a minimum 30% IgG content. Our Colostrum   |
+|                | 30% Active IgG formula is also rich in protein, providing |
+|                | 8g of protein in a single 10g serving.                    |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Purpose                                               |
+|                |                                                           |
+|                | Our Colostrum 30% Active IgG formula is a premium source  |
+|                | of colostrum, ideal for anyone who wants to supplement    |
+|                | their diet with colostrum. It’s perfect for mixing with   |
+|                | your regular protein shake formula so you can up your     |
+|                | colostrum intake with minimal hassle.                     |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Benefits                                              |
+|                |                                                           |
+|                | - Ethically Sourced                                       |
+|                |                                                           |
+|                | Produced in small batches to ensure an ample supply of    |
+|                | milk remains.                                             |
+|                |                                                           |
+|                | - High in Protein                                         |
+|                |                                                           |
+|                | Provides 8g of protein in a single 10g serving            |
+|                |                                                           |
+|                | - Made for Mixing                                         |
+|                |                                                           |
+|                | Ideal for mixing with your favourite shakes.              |
+|                |                                                           |
+|                | - Morning, Noon or Night                                  |
+|                |                                                           |
+|                | Great any time of day, whatever your workout regime.      |
+|                |                                                           |
+|                | - Incredible Price                                        |
+|                |                                                           |
+|                | Premium colostrum at the lowest price in Europe.          |
++----------------+-----------------------------------------------------------+
+| ## Directions  | ### Directions                                            |
+|                |                                                           |
+|                | Mix 1 scoop (approximately 10g) with 75ml of water.       |
+|                | Consume 1 serving per day, at any time.                   |
++----------------+-----------------------------------------------------------+
+| ## Ingredients | ### Ingredients                                           |
+|                |                                                           |
+|                | Colostrum (**Milk**) (30% Active IgG).                    |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Suitable For                                          |
+|                |                                                           |
+|                | Halal,Vegetarian                                          |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Allergen advice                                       |
+|                |                                                           |
+|                | For allergens, see ingredients in **bold**.               |
+|                |                                                           |
+|                | May contain soya, cereals containing gluten, mustard,     |
+|                | sesame seeds, sulphur dioxide and sulphites.              |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Storage                                               |
+|                |                                                           |
+|                | Store in a dry cool place. Reseal pouch after use.        |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Advisory Information                                  |
+|                |                                                           |
+|                | Food supplements are not intended to replace a varied and |
+|                | balanced diet and a healthy lifestyle. Do not exceed the  |
+|                | recommended usage. Keep out of reach of children.         |
+|                |                                                           |
+|                | Although every care has been taken to keep product        |
+|                | information up to date on our website, please always read |
+|                | the information provided on product label or packaging    |
+|                | before use.                                               |
+|                |                                                           |
+|                | The actual results of consuming dietary supplements may   |
+|                | differ from those implied. Individuals may respond        |
+|                | differently, and the suggested results presume            |
+|                | appropriate nutrition and training plan.                  |
++----------------+-----------------------------------------------------------+
+| ## Nutrition   | +--------------------+-----------+-------------------+    |
+|                | | Nutrition          | per 100 g | per serving (10g) |    |
+|                | +====================+===========+===================+    |
+|                | | Energy kJ/kcal     | 1587/374  | 159/37            |    |
+|                | +--------------------+-----------+-------------------+    |
+|                | | Fat                | 2.0g      | 0.2g              |    |
+|                | |                    |           |                   |    |
+|                | | of which saturates | 1.0g      | 0.1g              |    |
+|                | +--------------------+-----------+-------------------+    |
+|                | | Carbohydrate       | 9.0g      | 0.9g              |    |
+|                | |                    |           |                   |    |
+|                | | of which sugars    | 9.0g      | 0.9g              |    |
+|                | +--------------------+-----------+-------------------+    |
+|                | | Fibre              | 0g        | 0g                |    |
+|                | +--------------------+-----------+-------------------+    |
+|                | | Protein            | 80g       | 8.0g              |    |
+|                | +--------------------+-----------+-------------------+    |
+|                | | Salt               | 0.10g     | 0.01g             |    |
+|                | +--------------------+-----------+-------------------+    |
++----------------+-----------------------------------------------------------+
+
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
+
++------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                         |
++---------------------+--------------------------------------------------------------------------------------------+
+| title               | Buy Pure Colostrum Powder\|Bulk™ UK                                                        |
++---------------------+--------------------------------------------------------------------------------------------+
+| description         | Buy Colostrum Powder. This Colostrum Powder contains 30% Active IgG and is collected from  |
+|                     | the first 12 hours milk after birth. Bulk, formerly Bulk Powders.                          |
++---------------------+--------------------------------------------------------------------------------------------+
+| keywords            | Colostrum, Colostrum 30% Active IgG, 30%, IgG, IGF, IGF-1, IGF1, Bovine Colostrum, Bovine, |
+|                     | Gut Helath, Gut, Immune, Immune Support, Immune Function, Milk, Colostrum 30%              |
++---------------------+--------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                |
++---------------------+--------------------------------------------------------------------------------------------+
+| id                  | 2775                                                                                       |
++---------------------+--------------------------------------------------------------------------------------------+
+| sku                 | BPB-COLO-0000                                                                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T11:08:01.631Z                                                                   |
++---------------------+--------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BPB-COLO-0000",      |
+|                     | "name": "Colostrum",   "image":                                                            |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/P/BPB\_COLO\_0000\_Main\_Image\_1473.jpg", |
+|                     |   "gtin": "",   "description": "High Protein and Minimum 30% IgG",   "@id":                |
+|                     | "https\://www\.bulk.com/uk/products/colostrum/bpb-colo-0000",   "brand": {     "@type":    |
+|                     | "Brand",     "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": |
+|                     | "BPB-COLO-0000-0100",       "url":                                                         |
+|                     | "https\://www\.bulk.com/uk/products/colostrum/bpb-colo-0000?view=ppc\&o=MTc5LTY4",         |
+|                     | "gtin": "5060343743663",       "image":                                                    |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/P/BPB\_COLO\_0000\_Main\_Image\_1bf6.jpg", |
+|                     |       "availability": "InStock",       "price": 26.99,       "priceCurrency": "GBP",       |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": "2025-07-01",                    |
+|                     | "priceSpecification": {         "@type": "UnitPriceSpecification",         "priceType":    |
+|                     | "https\://schema.org/ListPrice",         "price": 29.99,         "priceCurrency": "GBP"    |
+|                     |    }     },     {       "@type": "Offer",       "sku": "BPB-COLO-0000-0500",       "url":  |
+|                     | "https\://www\.bulk.com/uk/products/colostrum/bpb-colo-0000?view=ppc\&o=MTc5LTY5",         |
+|                     | "gtin": "5060343743670",       "image":                                                    |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/P/BPB\_COLO\_0000\_Main\_Image\_175a.jpg", |
+|                     |       "availability": "InStock",       "price": 98.99,       "priceCurrency": "GBP",       |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": "2025-07-01",                    |
+|                     | "priceSpecification": {         "@type": "UnitPriceSpecification",         "priceType":    |
+|                     | "https\://schema.org/ListPrice",         "price": 109.99,         "priceCurrency": "GBP"   |
+|                     |     }     }   ],   "aggregateRating": {     "@type": "AggregateRating",     "ratingValue": |
+|                     | 4\.4,     "reviewCount": 113,     "bestRating": 5   } }                                    |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/colostrum-30-aktywnych-igg-pl/bpb-colo-0000             |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/colostrum-30-actieve-igg-nl/bpb-colo-0000               |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/colostrum-30-actieve-igg-nl/bpb-colo-0000               |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/colostro-30-igg-ativa/bpb-colo-0000                     |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/kolostrum-30-aktivni-igg/bpb-colo-0000                  |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/colostrum-30-aktivt-igg-se/bpb-colo-0000                |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/colostrum-30-aktivt-igg/bpb-colo-0000                   |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/kolostrum-30-aktives-igg/bpb-colo-0000                  |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/kolostrum-30-aktives-igg/bpb-colo-0000                  |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/kolostrum-30-aktives-aktives-igg/bpb-colo-0000          |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/calostro-de-igg-activa/bpb-colo-0000                    |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/colostru-30-igg-activa/bpb-colo-0000                    |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/colostrum-30-igg-active/bpb-colo-0000                   |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/colostrum-30-igg-active/bpb-colo-0000                   |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/colostro-con-30-di-igg-attive/bpb-colo-0000             |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/colostrum/bpb-colo-0000                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1755bf28123afaa89f945c8f377b7126a1a3a56aa.webp#width=2000&height=2000

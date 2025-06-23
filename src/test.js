@@ -44,6 +44,7 @@ async function test() {
             } else {
                 console.log('Answer:\n', result.answer);
                 console.log('Sources:', result.sources);
+                console.log('Relevant products:', result.relevantProducts);
             }
             console.log('-'.repeat(80));
         });

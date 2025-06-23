@@ -1,8 +1,23 @@
-[pl](https://www.bulk.com/pl/cbd-range)[cz](https://www.bulk.com/cz/cbd-range)[fr](https://www.bulk.com/fr/cbd-range)[ie](https://www.bulk.com/ie/cbd-range)[eu](https://www.bulk.com/eu/cbd-range)[de](https://www.bulk.com/de/cbd-range)[pt](https://www.bulk.com/pt/cbd-range)[ch](https://www.bulk.com/ch/cbd-range)[at](https://www.bulk.com/at/cbd-range)[dk](https://www.bulk.com/dk/cbd-range)[it](https://www.bulk.com/it/cbd-range)[es](https://www.bulk.com/es/cbd-range)[ro](https://www.bulk.com/ro/cbd-range)[uk](https://www.bulk.com/uk/cbd-range)[se](https://www.bulk.com/se/cbd-range)[nl](https://www.bulk.com/nl/cbd-range)
+# CBD
 
-CBD
-===
++:---------------------:+
+| **Product List Page** |
++-----------+-----------+
+| category  | cbd-range |
++-----------------------+
+|                       |
++-----------------------+
 
-category
+---
 
-cbd-range
++-----------------------------------------+
+| Metadata                                |
++-------------+---------------------------+
+| breadcrumbs | true                      |
++-------------+---------------------------+
+| template    | plp                       |
++-------------+---------------------------+
+| title       | CBD Range \| Bulk Powders |
++-------------+---------------------------+
+| description |                           |
++-------------+---------------------------+

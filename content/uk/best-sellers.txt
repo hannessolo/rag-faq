@@ -1,8 +1,23 @@
-[pl](https://www.bulk.com/pl/best-sellers)[eu](https://www.bulk.com/eu/best-sellers)[se](https://www.bulk.com/se/idrottsnutrition/allt-i-ett-tillskott)[at](https://www.bulk.com/at/best-sellers)[cz](https://www.bulk.com/cz/best-sellers)[es](https://www.bulk.com/es/best-sellers)[pt](https://www.bulk.com/pt/best-sellers)[fr](https://www.bulk.com/fr/best-sellers)[ie](https://www.bulk.com/ie/best-sellers)[dk](https://www.bulk.com/dk/sportsernaering/all-in-one-produkter)[it](https://www.bulk.com/it/best-sellers)[nl](https://www.bulk.com/nl/best-sellers)[ch](https://www.bulk.com/ch/best-sellers)[ro](https://www.bulk.com/ro/best-sellers)[de](https://www.bulk.com/de/best-sellers)[uk](https://www.bulk.com/uk/best-sellers)
+# Bestsellers
 
-Bestsellers
-===========
++:------------------------:+
+| **Product List Page**    |
++-----------+--------------+
+| category  | best-sellers |
++--------------------------+
+|                          |
++--------------------------+
 
-category
+---
 
-best-sellers
++---------------------------+
+| Metadata                  |
++-------------+-------------+
+| breadcrumbs | true        |
++-------------+-------------+
+| template    | plp         |
++-------------+-------------+
+| title       | Bestsellers |
++-------------+-------------+
+| description |             |
++-------------+-------------+

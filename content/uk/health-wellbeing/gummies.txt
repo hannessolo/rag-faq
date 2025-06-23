@@ -1,29 +1,74 @@
-[fr](https://www.bulk.com/fr/sante-et-bien-etre/gummies)[pl](https://www.bulk.com/pl/zdrowie-i-dobre-samopoczucie/witaminowe-zelki)[cz](https://www.bulk.com/cz/health-wellbeing/gummies)[de](https://www.bulk.com/de/gesundheit-wohlbefinden/frutchtgummis)[ch](https://www.bulk.com/ch/gesundheit-wohlbefinden/frutchtgummis)[es](https://www.bulk.com/es/salud-y-bienestar/gominolas)[ie](https://www.bulk.com/ie/health-wellbeing/gummies)[eu](https://www.bulk.com/eu/health-wellbeing/gummies)[se](https://www.bulk.com/se/halsa-och-valbefinnande/tuggtabletter)[ro](https://www.bulk.com/ro/health-wellbeing/bomboane-gumate)[at](https://www.bulk.com/at/gesundheit-wohlbefinden/frutchtgummis)[nl](https://www.bulk.com/nl/gezondheid-en-welzijn/gummy-s)[dk](https://www.bulk.com/dk/godt-helbred/vingummier)[it](https://www.bulk.com/it/salute-e-benessere/gommose)[uk](https://www.bulk.com/uk/health-wellbeing/gummies)[pt](https://www.bulk.com/pt/saude-e-bem-estar/gummies)
+# Gummies
 
-Gummies
-=======
++:------------------------------------:+
+| **Product List Page**                |
++-----------+--------------------------+
+| category  | health-wellbeing/gummies |
++--------------------------------------+
+|                                      |
++--------------------------------------+
 
-category
+---
 
-health-wellbeing/gummies
++-----+
+|     |
++--+--+
+|  |  |
++--+--+
+|  |  |
++--+--+
+|  |  |
++--+--+
+|  |  |
++--+--+
+|  |  |
++--+--+
+|  |  |
++--+--+
+|  |  |
++--+--+
+|  |  |
++--+--+
 
-Style
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-plp-secondary-info
+---
 
-RELATED CATEGORIES
-------------------
+## RELATED CATEGORIES
 
-*   [Health supplements](/uk/health-wellbeing)
-*   [Multivitamin tablets](/uk/health-wellbeing/multivitamins)
-*   [Probiotic supplements](/uk/health-wellbeing/probiotics)
-*   [Fish oil supplements](/uk/health-wellbeing/fish-oils)
-*   [Fruit & vegetable supplements](/uk/health-wellbeing/fruits-vegetables)
-*   [Super greens powders](/uk/health-wellbeing/greens-supplements)
-*   [Fibre supplements](/uk/health-wellbeing/high-fibre-supplements)
-*   [Omega 3 supplements](/uk/health-wellbeing/omega-3)
-*   [Organic powders](/uk/health-wellbeing/organic-powders)
+- [Health supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing)
+- [Multivitamin tablets](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/multivitamins)
+- [Probiotic supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/probiotics)
+- [Fish oil supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/fish-oils)
+- [Fruit & vegetable supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/fruits-vegetables)
+- [Super greens powders](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/greens-supplements)
+- [Fibre supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/high-fibre-supplements)
+- [Omega 3 supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/omega-3)
+- [Organic powders](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/organic-powders)
 
-Style
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-lozenge-list
+---
+
++--------------------------------------------------------------------+
+| Metadata                                                           |
++-------------+------------------------------------------------------+
+| breadcrumbs | true                                                 |
++-------------+------------------------------------------------------+
+| template    | plp                                                  |
++-------------+------------------------------------------------------+
+| title       | Gummies \| Supplement Gummies \| Bulk™               |
++-------------+------------------------------------------------------+
+| description | Shop our range of supplement gummies to support your |
+|             | health and wellbeing. From vitamins to collagen and  |
+|             | Ashwagandha. Fuel focus, recovery, and your active   |
+|             | lifestyle. Bulk™                                     |
++-------------+------------------------------------------------------+

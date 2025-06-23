@@ -1,8 +1,23 @@
-[fr](https://www.bulk.com/fr/rechercher-par-sport/rugby)[pl](https://www.bulk.com/pl/szukaj-wg-dyscypliny/rugby)[cz](https://www.bulk.com/cz/shop-by-sport/rugby)[de](https://www.bulk.com/de/suche-nach-sportart/rugby)[ch](https://www.bulk.com/ch/suche-nach-sportart/rugby)[es](https://www.bulk.com/es/comprar-por-deporte/rugby)[ie](https://www.bulk.com/ie/shop-by-sport/rugby)[eu](https://www.bulk.com/eu/shop-by-sport/rugby)[se](https://www.bulk.com/se/handla-efter-sport/rugby)[ro](https://www.bulk.com/ro/shop-by-sport/rugby)[at](https://www.bulk.com/at/suche-nach-sportart/rugby)[nl](https://www.bulk.com/nl/winkelen-per-sport/rugby)[dk](https://www.bulk.com/dk/handl-efter-sportsgren/rugby)[it](https://www.bulk.com/it/ricerca-in-base-allo-sport/rugby)[uk](https://www.bulk.com/uk/shop-by-sport/rugby)[pt](https://www.bulk.com/pt/compre-por-sporte/rugbi)
+# Rugby
 
-Rugby
-=====
++:-------------------------------:+
+| **Product List Page**           |
++-----------+---------------------+
+| category  | shop-by-sport/rugby |
++---------------------------------+
+|                                 |
++---------------------------------+
 
-category
+---
 
-shop-by-sport/rugby
++---------------------+
+| Metadata            |
++-------------+-------+
+| breadcrumbs | true  |
++-------------+-------+
+| template    | plp   |
++-------------+-------+
+| title       | Rugby |
++-------------+-------+
+| description |       |
++-------------+-------+

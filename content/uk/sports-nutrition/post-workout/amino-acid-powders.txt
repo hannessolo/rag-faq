@@ -1,10 +1,29 @@
-[ch](https://www.bulk.com/ch/protein/kollagen)[cz](https://www.bulk.com/cz/protein/collagen)[de](https://www.bulk.com/de/protein/kollagen)[dk](https://www.bulk.com/dk/protein/kollagen)[es](https://www.bulk.com/es/proteinas/colageno)[eu](https://www.bulk.com/eu/protein/collagen)[ie](https://www.bulk.com/ie/protein/collagen)[fr](https://www.bulk.com/fr/proteine/collagene)[it](https://www.bulk.com/it/proteine/collagene)[nl](https://www.bulk.com/nl/proteine/collageen)[pl](https://www.bulk.com/pl/odzywki-bialkowe/kolagen)[pt](https://www.bulk.com/pt/proteinas/colageno)[ro](https://www.bulk.com/ro/protein/collagen)[se](https://www.bulk.com/se/protein/kollagen)[uk](https://www.bulk.com/uk/sports-nutrition/post-workout/amino-acid-powders)[at](https://www.bulk.com/at/alex-crockford)
+# Amino Acid Powders
 
-Amino Acid Powders
-==================
++:---------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| category                                                  | sports-nutrition/post-workout/amino-acid-powders          |
++-----------------------------------------------------------------------------------------------------------------------+
+| Specific amino acid powders have specific benefits in relation to aiding post workout recovery. While you need to     |
+| ensure that you have adequate post workout protein and carbohydrate powders, supplementing with amino acid powders    |
+| can help to further augment recovery and repair. In this section **Bulk™** has chosen the amino acid powders that are |
+| most effective in aiding recovery and initiating muscle growth, and are therefore ideal for supplementing with after  |
+| a strenuous workout.                                                                                                  |
++-----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-sports-nutrition/post-workout/amino-acid-powders
-
-Specific amino acid powders have specific benefits in relation to aiding post workout recovery. While you need to ensure that you have adequate post workout protein and carbohydrate powders, supplementing with amino acid powders can help to further augment recovery and repair. In this section **Bulk™** has chosen the amino acid powders that are most effective in aiding recovery and initiating muscle growth, and are therefore ideal for supplementing with after a strenuous workout.
++---------------------------------------------------------------------+
+| Metadata                                                            |
++-------------+-------------------------------------------------------+
+| breadcrumbs | true                                                  |
++-------------+-------------------------------------------------------+
+| template    | plp                                                   |
++-------------+-------------------------------------------------------+
+| title       | Amino Acid Powders \| Pure Aminos \| Bulk™            |
++-------------+-------------------------------------------------------+
+| description | Bulk™ stocks a wide range of Amino Acid Powders. From |
+|             | glutamine to BCAA, our Pure Aminos are the perfect    |
+|             | addition to any supplement regime.                    |
++-------------+-------------------------------------------------------+

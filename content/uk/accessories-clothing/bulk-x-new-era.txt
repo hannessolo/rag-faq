@@ -1,35 +1,53 @@
-[pl](https://www.bulk.com/pl/akcesoria-i-odziez/bulk-x-new-era)[at](https://www.bulk.com/at/zubehor-bekleidung/bulk-x-new-era)[fr](https://www.bulk.com/fr/vetements-accessoires/bulk-x-new-era)[es](https://www.bulk.com/es/ropa-y-accessorios/bulk-x-new-era)[pt](https://www.bulk.com/pt/roupa-desportiva-e-acessorios/bulk-x-new-era)[ro](https://www.bulk.com/ro/accessories-clothing/bulk-x-new-era)[dk](https://www.bulk.com/dk/tilbehor-toj/bulk-x-new-era)[de](https://www.bulk.com/de/zubehor-und-bekleidung/bulk-x-new-era)[ie](https://www.bulk.com/ie/accessories-clothing/bulk-x-new-era)[it](https://www.bulk.com/it/accessori-abbigliamento/bulk-x-new-era)[uk](https://www.bulk.com/uk/accessories-clothing/bulk-x-new-era)[se](https://www.bulk.com/se/klader-och-tillbehor/bulk-x-new-era)[nl](https://www.bulk.com/nl/accessoires-en-kleding/bulk-x-new-era)[cz](https://www.bulk.com/cz/accessories-clothing/bulk-x-new-era)[eu](https://www.bulk.com/eu/accessories-clothing/bulk-x-new-era)[ch](https://www.bulk.com/ch/zubehor-und-bekleidung/bulk-x-new-era)
+# Hats & Caps
 
-Hats & Caps
-===========
++:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                             |
++-------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                | accessories-clothing/bulk-x-new-era                                                                                     |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| The collab you didn’t know you wanted has landed.                                                                                                                                                                                                 |
+|                                                                                                                                                                                                                                                   |
+| The leaders in nutrition (that’s **Bulk™**, by the way) have partnered with the leaders in all things headwear (that’s **New Era®**) to produce this incredible selection of caps, hats and knits.                                                |
+|                                                                                                                                                                                                                                                   |
+| From snapbacks to baseball caps to chunky winter bobble hats – this partnership has everything you need to elevate your headwear game.                                                                                                            |
+|                                                                                                                                                                                                                                                   |
+| We could have developed our own range of **Bulk™** hats and caps by outsourcing this like most brands, but instead, just as we only use the best ingredients, we only wanted the best when it came to our headwear collection.                    |
+|                                                                                                                                                                                                                                                   |
+| This is why we have partnered with **New Era®**, who are the best in the business and make hats and caps for leading brands and franchises all over the world. Their styles are iconic and their fit has been honed across decades of experience. |
+|                                                                                                                                                                                                                                                   |
+| Chances are you already own a **New Era®** hat or cap, in which case, you’ll be aware of their superior quality and can be absolutely confident that it’s the right fit for you.                                                                  |
+|                                                                                                                                                                                                                                                   |
+| **Bulk™** x **New Era®**: we hope you’re here for it.                                                                                                                                                                                             |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-accessories-clothing/bulk-x-new-era
+## RELATED CATEGORIES
 
-The collab you didn’t know you wanted has landed.
+- [Bulk x Castore](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/bulk-x-castore)
+- [Hoodies & sweatshirts](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/hoodies)
+- [T-shirts & tops](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/t-shirts-tops)
+- [Joggers & bottoms](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/joggers)
+- [Training accessories](https://dev--bul-eds--thepixel.hlx.live/uk/accessories-clothing/training-accessories)
 
-The leaders in nutrition (that’s **Bulk™**, by the way) have partnered with the leaders in all things headwear (that’s **New Era®**) to produce this incredible selection of caps, hats and knits.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-From snapbacks to baseball caps to chunky winter bobble hats – this partnership has everything you need to elevate your headwear game.
+---
 
-We could have developed our own range of **Bulk™** hats and caps by outsourcing this like most brands, but instead, just as we only use the best ingredients, we only wanted the best when it came to our headwear collection.
-
-This is why we have partnered with **New Era®**, who are the best in the business and make hats and caps for leading brands and franchises all over the world. Their styles are iconic and their fit has been honed across decades of experience.
-
-Chances are you already own a **New Era®** hat or cap, in which case, you’ll be aware of their superior quality and can be absolutely confident that it’s the right fit for you.
-
-**Bulk™** x **New Era®**: we hope you’re here for it.
-
-RELATED CATEGORIES
-------------------
-
-*   [Bulk x Castore](/uk/accessories-clothing/bulk-x-castore)
-*   [Hoodies & sweatshirts](/uk/accessories-clothing/hoodies)
-*   [T-shirts & tops](/uk/accessories-clothing/t-shirts-tops)
-*   [Joggers & bottoms](/uk/accessories-clothing/joggers)
-*   [Training accessories](/uk/accessories-clothing/training-accessories)
-
-Style
-
-lozenge-list
++---------------------------------------------------------------------+
+| Metadata                                                            |
++-------------+-------------------------------------------------------+
+| breadcrumbs | true                                                  |
++-------------+-------------------------------------------------------+
+| template    | plp                                                   |
++-------------+-------------------------------------------------------+
+| title       | Bulk™ × New Era® Caps \| Bulk™                        |
++-------------+-------------------------------------------------------+
+| description | Shop our high quality range of Bulk™ × New Era® Hats, |
+|             | Caps & Knits at great value. Exclusively from Bulk™,  |
+|             | Formerly Bulk Powders.                                |
++-------------+-------------------------------------------------------+

@@ -1,10 +1,24 @@
-[fr](https://www.bulk.com/fr/millions)[pl](https://www.bulk.com/pl/millions)[cz](https://www.bulk.com/cz/millions)[de](https://www.bulk.com/de/millions)[ch](https://www.bulk.com/ch/millions)[es](https://www.bulk.com/es/millions)[ie](https://www.bulk.com/ie/millions)[eu](https://www.bulk.com/eu/millions)[se](https://www.bulk.com/se/millions)[ro](https://www.bulk.com/ro/millions)[at](https://www.bulk.com/at/millions)[nl](https://www.bulk.com/nl/millions)[dk](https://www.bulk.com/dk/millions)[it](https://www.bulk.com/it/millions)[uk](https://www.bulk.com/uk/millions)[pt](https://www.bulk.com/pt/millions)
+# Millions®
 
-Millions®
-=========
++:-----------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                             |
++---------------------------------------------------------+---------------------------------------------------------+
+| category                                                | millions                                                |
++-------------------------------------------------------------------------------------------------------------------+
+| We’ve teamed up with Millions to take you back in time with flavours inspired by their range of childhood classic |
+| sweets. Smash your fitness goals with the products you know in flavours you’ll love.                              |
++-------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-millions
-
-We’ve teamed up with Millions to take you back in time with flavours inspired by their range of childhood classic sweets. Smash your fitness goals with the products you know in flavours you’ll love.
++-------------------------+
+| Metadata                |
++-------------+-----------+
+| breadcrumbs | true      |
++-------------+-----------+
+| template    | plp       |
++-------------+-----------+
+| title       | Millions® |
++-------------+-----------+
+| description |           |
++-------------+-----------+

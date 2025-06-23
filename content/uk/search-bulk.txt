@@ -1,8 +1,23 @@
-[pl](https://www.bulk.com/pl/search-bulk)[de](https://www.bulk.com/de/search-bulk)[eu](https://www.bulk.com/eu/search-bulk)[cz](https://www.bulk.com/cz/search-bulk)[at](https://www.bulk.com/at/search-bulk)[dk](https://www.bulk.com/dk/search-bulk)[it](https://www.bulk.com/it/search-bulk)[es](https://www.bulk.com/es/search-bulk)[fr](https://www.bulk.com/fr/search-bulk)[pt](https://www.bulk.com/pt/search-bulk)[nl](https://www.bulk.com/nl/search-bulk)[ro](https://www.bulk.com/ro/search-bulk)[ch](https://www.bulk.com/ch/search-bulk)[uk](https://www.bulk.com/uk/search-bulk)[ie](https://www.bulk.com/ie/search-bulk)[se](https://www.bulk.com/se/search-bulk)
+# Showing ""
 
-Showing ""
-==========
++:-----------------------:+
+| **Product List Page**   |
++-----------+-------------+
+| category  | search-bulk |
++-------------------------+
+|                         |
++-------------------------+
 
-category
+---
 
-search-bulk
++--------------------------+
+| Metadata                 |
++-------------+------------+
+| breadcrumbs | true       |
++-------------+------------+
+| template    | plp        |
++-------------+------------+
+| title       | Showing "" |
++-------------+------------+
+| description |            |
++-------------+------------+

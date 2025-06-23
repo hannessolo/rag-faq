@@ -1,27 +1,46 @@
-[at](https://www.bulk.com/at/protein/protein-smoothies)[ch](https://www.bulk.com/ch/protein/protein-smoothies)[cz](https://www.bulk.com/cz/protein/protein-smoothies)[de](https://www.bulk.com/de/protein/protein-smoothies)[dk](https://www.bulk.com/dk/protein/protein-smoothies)[es](https://www.bulk.com/es/proteinas/batidos-de-proteinas)[eu](https://www.bulk.com/eu/protein/protein-smoothies)[ie](https://www.bulk.com/ie/protein/protein-smoothies)[fr](https://www.bulk.com/fr/proteine/smoothies-proteines)[it](https://www.bulk.com/it/proteine/smoothies-proteici)[nl](https://www.bulk.com/nl/proteine/proteine-smoothies)[pl](https://www.bulk.com/pl/odzywki-bialkowe/bialkowe-smoothies)[pt](https://www.bulk.com/pt/proteinas/batidos-proteicos)[ro](https://www.bulk.com/ro/protein/protein-smoothies)[se](https://www.bulk.com/se/protein/protein-smoothies)[uk](https://www.bulk.com/uk/protein/protein-smoothies)
+# Protein Smoothies
 
-Protein Smoothies
-=================
++:---------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| category                                                  | protein/protein-smoothies                                 |
++-----------------------------------------------------------------------------------------------------------------------+
+| **Bulk™** supplies a range of delicious Protein Smoothies, which make a great alternative to a regular protein shake. |
+|                                                                                                                       |
+| Our Protein Smoothies use only the highest quality sources of protein, combined with real fruit pieces and powders,   |
+| and are the perfect way to meet your daily protein requirements.                                                      |
++-----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-protein/protein-smoothies
+## RELATED CATEGORIES
 
-**Bulk™** supplies a range of delicious Protein Smoothies, which make a great alternative to a regular protein shake.
+- [Mass gainers](https://dev--bul-eds--thepixel.hlx.live/uk/protein/mass-gainers)
+- [Protein shakes](https://dev--bul-eds--thepixel.hlx.live/uk/protein)
+- [Protein blends](https://dev--bul-eds--thepixel.hlx.live/uk/protein/protein-blends)
+- [Protein samples](https://dev--bul-eds--thepixel.hlx.live/uk/protein/protein-samples)
+- [Protein snacks](https://dev--bul-eds--thepixel.hlx.live/uk/protein/protein-snacks)
+- [Whey protein shakes](https://dev--bul-eds--thepixel.hlx.live/uk/protein/whey-protein)
+- [Protein bars](https://dev--bul-eds--thepixel.hlx.live/uk/protein/protein-bars)
 
-Our Protein Smoothies use only the highest quality sources of protein, combined with real fruit pieces and powders, and are the perfect way to meet your daily protein requirements.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-RELATED CATEGORIES
-------------------
+---
 
-*   [Mass gainers](/uk/protein/mass-gainers)
-*   [Protein shakes](/uk/protein)
-*   [Protein blends](/uk/protein/protein-blends)
-*   [Protein samples](/uk/protein/protein-samples)
-*   [Protein snacks](/uk/protein/protein-snacks)
-*   [Whey protein shakes](/uk/protein/whey-protein)
-*   [Protein bars](/uk/protein/protein-bars)
-
-Style
-
-lozenge-list
++------------------------------------------------------------------------+
+| Metadata                                                               |
++-------------+----------------------------------------------------------+
+| breadcrumbs | true                                                     |
++-------------+----------------------------------------------------------+
+| template    | plp                                                      |
++-------------+----------------------------------------------------------+
+| title       | Protein Smoothies \| Bulk™                               |
++-------------+----------------------------------------------------------+
+| description | Shop our wide range of high quality Protein Smoothies at |
+|             | low prices. Something for every fitness goal. FREE UK    |
+|             | delivery. Bulk™, Formerly Bulk Powders.                  |
++-------------+----------------------------------------------------------+

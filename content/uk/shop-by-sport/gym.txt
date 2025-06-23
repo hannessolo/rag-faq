@@ -1,8 +1,23 @@
-[pl](https://www.bulk.com/pl/szukaj-wg-dyscypliny/silownia)[dk](https://www.bulk.com/dk/handl-efter-sportsgren/traningscenter)[cz](https://www.bulk.com/cz/shop-by-sport/gym)[de](https://www.bulk.com/de/suche-nach-sportart/fitness-studio)[eu](https://www.bulk.com/eu/shop-by-sport/gym)[fr](https://www.bulk.com/fr/rechercher-par-sport/musculation)[ch](https://www.bulk.com/ch/suche-nach-sportart/fitness-studio)[it](https://www.bulk.com/it/ricerca-in-base-allo-sport/palestra)[at](https://www.bulk.com/at/suche-nach-sportart/fitness-studio)[pt](https://www.bulk.com/pt/compre-por-sporte/ginasio)[ie](https://www.bulk.com/ie/shop-by-sport/gym)[se](https://www.bulk.com/se/handla-efter-sport/gym)[nl](https://www.bulk.com/nl/winkelen-per-sport/gewichtheffen)[es](https://www.bulk.com/es/comprar-por-deporte/gimnasio)[uk](https://www.bulk.com/uk/shop-by-sport/gym)[ro](https://www.bulk.com/ro/shop-by-sport/gym)
+# Gym
 
-Gym
-===
++:-----------------------------:+
+| **Product List Page**         |
++-----------+-------------------+
+| category  | shop-by-sport/gym |
++-------------------------------+
+|                               |
++-------------------------------+
 
-category
+---
 
-shop-by-sport/gym
++--------------------+
+| Metadata           |
++-------------+------+
+| breadcrumbs | true |
++-------------+------+
+| template    | plp  |
++-------------+------+
+| title       | Gym  |
++-------------+------+
+| description |      |
++-------------+------+

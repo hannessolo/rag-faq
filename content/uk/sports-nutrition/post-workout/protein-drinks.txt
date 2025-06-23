@@ -1,27 +1,50 @@
-[fr](https://www.bulk.com/fr/nutrition-sportive/supplements-apres-l-entrainement/boisson-proteinees)[pl](https://www.bulk.com/pl/odzywki-sportowe/po-treningu/napoje-bialkowe)[cz](https://www.bulk.com/cz/sports-nutrition/post-workout/protein-drinks)[de](https://www.bulk.com/de/sportnahrung/post-workout-nach-dem-training/protein-drinks)[ch](https://www.bulk.com/ch/sportnahrung/post-workout-nach-dem-training/protein-drinks)[es](https://www.bulk.com/es/nutricion-deportiva/suplementos-post-entrenamiento/bebidas-proteicas)[ie](https://www.bulk.com/ie/sports-nutrition/post-workout/protein-drinks)[eu](https://www.bulk.com/eu/sports-nutrition/post-workout/protein-drinks)[se](https://www.bulk.com/se/idrottsnutrition/post-workout/proteindrinkar)[ro](https://www.bulk.com/ro/sports-nutrition/post-workout/protein-drinks)[at](https://www.bulk.com/at/sportnahrung/post-workout-nach-dem-training/protein-drinks)[nl](https://www.bulk.com/nl/sport-voeding/post-workout/proteine-dranken)[dk](https://www.bulk.com/dk/sportsernaering/efter-traening-post-workout/proteindrikke)[it](https://www.bulk.com/it/alimentazione-sportiva/post-allenamento/proteine-liquide)[uk](https://www.bulk.com/uk/sports-nutrition/post-workout/protein-drinks)[pt](https://www.bulk.com/pt/nutricao-desporto/suplementos-pos-treino/bebidas-proteicas)
+# Protein Drinks
 
-Protein Drinks
-==============
++:---------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| category                                                  | sports-nutrition/post-workout/protein-drinks              |
++-----------------------------------------------------------------------------------------------------------------------+
+| After training it is considered essential to supplement with a protein shake in order to feed high quality protein to |
+| the muscles – and the faster you can get it there the better! Our range of protein shakes are all rapidly absorbed by |
+| the muscles, and have been carefully selected to start the post workout growth and repair process as quickly as       |
+| possible. You can also rest assured that you will be getting the very best value for money on all protein shakes (and |
+| all of our products) when shopping with **Bulk™**!                                                                    |
+|                                                                                                                       |
+| Aim to consume a rapidly absorbing protein shake immediately after a training session. Aim for 25 - 50 grams of       |
+| protein per shake, depending on muscle mass and intensity of training.                                                |
++-----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-sports-nutrition/post-workout/protein-drinks
+## RELATED CATEGORIES
 
-After training it is considered essential to supplement with a protein shake in order to feed high quality protein to the muscles – and the faster you can get it there the better! Our range of protein shakes are all rapidly absorbed by the muscles, and have been carefully selected to start the post workout growth and repair process as quickly as possible. You can also rest assured that you will be getting the very best value for money on all protein shakes (and all of our products) when shopping with **Bulk™**!
+- [Whey protein](https://dev--bul-eds--thepixel.hlx.live/uk/protein/whey-protein)
+- [Clear protein](https://dev--bul-eds--thepixel.hlx.live/uk/protein/clear-protein)
+- [Diet shakes](https://dev--bul-eds--thepixel.hlx.live/uk/weight-loss/diet-shakes)
+- [Milk protein](https://dev--bul-eds--thepixel.hlx.live/uk/protein/milk-protein)
+- [Recovery protein](https://dev--bul-eds--thepixel.hlx.live/uk/protein/recovery-protein)
+- [Vegan protein](https://dev--bul-eds--thepixel.hlx.live/uk/protein/vegan-protein)
+- [Protein blends](https://dev--bul-eds--thepixel.hlx.live/uk/protein/protein-blends)
 
-Aim to consume a rapidly absorbing protein shake immediately after a training session. Aim for 25 - 50 grams of protein per shake, depending on muscle mass and intensity of training.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-RELATED CATEGORIES
-------------------
+---
 
-*   [Whey protein](/uk/protein/whey-protein)
-*   [Clear protein](/uk/protein/clear-protein)
-*   [Diet shakes](/uk/weight-loss/diet-shakes)
-*   [Milk protein](/uk/protein/milk-protein)
-*   [Recovery protein](/uk/protein/recovery-protein)
-*   [Vegan protein](/uk/protein/vegan-protein)
-*   [Protein blends](/uk/protein/protein-blends)
-
-Style
-
-lozenge-list
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Protein Juices & Drinks \| Bulk™                          |
++-------------+-----------------------------------------------------------+
+| description | Shop our wide range of high quality Protein Drinks at     |
+|             | unbeatable prices. FREE UK delivery. Bulk™, Formerly Bulk |
+|             | Powders.                                                  |
++-------------+-----------------------------------------------------------+

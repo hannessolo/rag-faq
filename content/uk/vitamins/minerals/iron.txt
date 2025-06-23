@@ -1,8 +1,25 @@
-[fr](https://www.bulk.com/fr/vitamins/mineraux/fer)[pl](https://www.bulk.com/pl/vitamins/mineralami/zelazo)[cz](https://www.bulk.com/cz/vitamins/mineraly/zelezo)[de](https://www.bulk.com/de/vitamins/mineralien/eisen)[ch](https://www.bulk.com/ch/vitamins/mineralien/eisen)[es](https://www.bulk.com/es/vitamins/minerales/hierro)[ie](https://www.bulk.com/ie/vitamins/minerals/iron)[eu](https://www.bulk.com/eu/vitamins/minerals/iron)[se](https://www.bulk.com/se/vitamins/mineraler/jarn)[ro](https://www.bulk.com/ro/vitamins/minerale/fier)[at](https://www.bulk.com/at/vitamins/mineralstoff/eisen)[nl](https://www.bulk.com/nl/vitamins/mineralen/ijzer)[dk](https://www.bulk.com/dk/vitamins/minerals/jern)[it](https://www.bulk.com/it/vitamins/minerali/ferro)[uk](https://www.bulk.com/uk/vitamins/minerals/iron)[pt](https://www.bulk.com/pt/vitamins/minerais/ferro)
+# Iron Supplements
 
-Iron Supplements
-================
++:----------------------------------:+
+| **Product List Page**              |
++-----------+------------------------+
+| category  | vitamins/minerals/iron |
++------------------------------------+
+|                                    |
++------------------------------------+
 
-category
+---
 
-vitamins/minerals/iron
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Iron tablets \| Iron Supplements \| Bulk™                 |
++-------------+-----------------------------------------------------------+
+| description | Discover top-quality Iron supplements at Bulk™ with       |
+|             | unbeatable prices. Available in our Multivitamin packs or |
+|             | Mobilise vitamins for your health needs. Shop now!        |
++-------------+-----------------------------------------------------------+

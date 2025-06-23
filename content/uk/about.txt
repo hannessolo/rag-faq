@@ -1,59 +1,79 @@
-[fr](https://www.bulk.com/fr/products/comprimes-de-glutamine/bpb-lglu)[pl](https://www.bulk.com/pl/products/glutamina-w-tabletkach/bpb-lglu)[cz](https://www.bulk.com/cz/products/glutaminove-tablety/bpb-lglu)[de](https://www.bulk.com/de/products/glutamin-tabletten/bpb-lglu)[ch](https://www.bulk.com/ch/products/glutamin-tabletten/bpb-lglu)[es](https://www.bulk.com/es/products/comprimidos-de-glutamina/bpb-lglu)[ie](https://www.bulk.com/ie/products/glutamine-tablets/bpb-lglu)[eu](https://www.bulk.com/eu/products/glutamine-tablets/bpb-lglu)[se](https://www.bulk.com/se/products/glutamintabletter/bpb-lglu)[ro](https://www.bulk.com/ro/products/tablete-de-glutamina/bpb-lglu)[at](https://www.bulk.com/at/products/glutamin-tabletten/bpb-lglu)[nl](https://www.bulk.com/nl/products/glutaminetabletten/bpb-lglu)[dk](https://www.bulk.com/dk/products/glutamine-tablets/bpb-lglu)[it](https://www.bulk.com/it/products/compresse-di-glutammina/bpb-lglu)[uk](https://www.bulk.com/uk/about)[pt](https://www.bulk.com/pt/products/comprimidos-de-glutamina/bpb-lglu)
-
-THIS IS BULK™
-=============
+# THIS IS BULK™
 
 We're committed to creating world-class nutrition for every step of your journey.
 
-Style
++-------------------------+
+| Section Metadata        |
++---------+---------------+
+| Style   | content-title |
++---------+---------------+
 
-content-title
+---
 
-   ![](./media_1dab78db53b0130aaa2b97268197db5b3d4906607.jpeg?width=750&format=jpeg&optimize=medium)
++-----------------------------------------------------------------------------------------------------------------------+
+| Columns (about)                                                                                                       |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| ![][image0]                                               | ## LEAD, DON’T FOLLOW                                     |
+|                                                           |                                                           |
+|                                                           | We constantly push ourselves to be the best and have done |
+|                                                           | since day one – we never compromise and neither should    |
+|                                                           | our customers.                                            |
+|                                                           |                                                           |
+|                                                           | The best ingredients, the best formulations, the best     |
+|                                                           | taste, the best choice, the best service and the best     |
+|                                                           | brand experience.                                         |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| ## CHAMPION OF THE PEOPLE                                 | ![][image1]                                               |
+|                                                           |                                                           |
+| Champion of the people and a facilitator of choice. We    |                                                           |
+| understand that everybody and every body is different.    |                                                           |
+| We’re an open book of knowledge and expertise, empowering |                                                           |
+| our customers to make decisions that fit their goals and  |                                                           |
+| feel right for them.                                      |                                                           |
+|                                                           |                                                           |
+| Our extensive range offers something for everyone.        |                                                           |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| ![][image2]                                               | ## PRACTICE MAKES PROGRESS                                |
+|                                                           |                                                           |
+|                                                           | We celebrate the effort, routine and commitment it takes  |
+|                                                           | to look and feel good.                                    |
+|                                                           |                                                           |
+|                                                           | Goals evolve and priorities change. We’re a brand for     |
+|                                                           | every target, every win and every step along the way.     |
+|                                                           |                                                           |
+|                                                           | By sharing our journey and the journeys of those who      |
+|                                                           | inspire us, we build a foundation of trust with our       |
+|                                                           | customers, ambassadors and partners. Building a global    |
+|                                                           | community for the brand.                                  |
++-----------------------------------------------------------+-----------------------------------------------------------+
 
-LEAD, DON’T FOLLOW
-------------------
+---
 
-We constantly push ourselves to be the best and have done since day one – we never compromise and neither should our customers.
++------------------------------+
+| Image With Background        |
++------------------------------+
+| ADAM ROSSITER & ELLIOT DAWES |
+|                              |
+| FOUNDERS                     |
++------------------------------+
+| ![][image3]                  |
++------------------------------+
+| ![][image4]                  |
++------------------------------+
 
-The best ingredients, the best formulations, the best taste, the best choice, the best service and the best brand experience.
+---
 
-CHAMPION OF THE PEOPLE
-----------------------
-
-Champion of the people and a facilitator of choice. We understand that everybody and every body is different. We’re an open book of knowledge and expertise, empowering our customers to make decisions that fit their goals and feel right for them.
-
-Our extensive range offers something for everyone.
-
-   ![](./media_186f2a411b83534f5f6f46395620ea8d403074323.jpeg?width=750&format=jpeg&optimize=medium)
-
-   ![](./media_1a52bfd11e3d2be513b9761dc40f001bf6352af4a.jpeg?width=750&format=jpeg&optimize=medium)
-
-PRACTICE MAKES PROGRESS
------------------------
-
-We celebrate the effort, routine and commitment it takes to look and feel good.
-
-Goals evolve and priorities change. We’re a brand for every target, every win and every step along the way.
-
-By sharing our journey and the journeys of those who inspire us, we build a foundation of trust with our customers, ambassadors and partners. Building a global community for the brand.
-
-ADAM ROSSITER & ELLIOT DAWES
-
-FOUNDERS
-
-   ![](./media_1f0d695353a6f98e36694a65793f92f26f890c41c.jpeg?width=750&format=jpeg&optimize=medium)
-
-   ![](./media_12334c29d608e49abb6d7953a53ee66c3622ae3ce.jpeg?width=750&format=jpeg&optimize=medium)
-
-BULK™ STORY
-===========
+# BULK™ STORY
 
 In 2006 we started what was then Bulk Powders, now Bulk™, from a spare bedroom. Ever since, we’ve been dedicated to empowering our customers with the right nutrition and inspiration they need – to not only achieve their goals but to go beyond them.
 
 So, what started in a back bedroom and was funded with a small credit card loan, has now seen Bulk™ become one of the largest and fastest-growing nutrition brands in the world. In 2022 alone, we will deliver nearly 10 million products to customers looking to support their journey. And we’re only just getting started.
 
-Our belief that transparency should always be at the very heart of our products still stands today.
++-----------------------------------------------------------------------------------------------------+
+| Quote                                                                                               |
++-----------------------------------------------------------------------------------------------------+
+| Our belief that transparency should always be at the very heart of our products still stands today. |
++-----------------------------------------------------------------------------------------------------+
 
 Now more than ever we believe that health and nutrition are for everyone – no matter who you are, what you do, or how you do it. A healthy lifestyle is a process that never truly stops.
 
@@ -63,19 +83,23 @@ We manufacture over 80% of Bulk™ products in our very own state of the art man
 
 Our knowledge and expertise are there to inspire and empower anyone to change for the better and be part of the Bulk™ community. We hope you’ll join us.
 
+---
+
 Elliot Dawes & Adam Rossiter
 
-    ![](./media_1b62ddce077d0927ed17c5dcc8aad36ed81fbf533.png?width=750&format=png&optimize=medium)   ![](./media_11e649077bef25b76b6ff9229b6927dd1791082fd.png?width=750&format=png&optimize=medium)
+![][image5]![][image6]
 
 Founders of Bulk™
 
-Style
++-----------------------------+
+| Section Metadata            |
++---------+-------------------+
+| Style   | content-signature |
++---------+-------------------+
 
-content-signature
+---
 
-CHANGE NUTRITION, CHANGE THE GAME.  
-CHANGE ATTITUDES, CHANGE LIVES.
-====================================================================
+# CHANGE NUTRITION, CHANGE THE GAME.<br>CHANGE ATTITUDES, CHANGE LIVES.
 
 We want to be the sports and active nutrition brand for everyone.
 
@@ -85,6 +109,37 @@ Health and fitness is a process, and we want to be there every step of the way.
 
 Making an impact, leading by example, setting benchmarks and improving the lives of our community and consumers for good.
 
-Style
++-----------------------+
+| Section Metadata      |
++---------+-------------+
+| Style   | content-end |
++---------+-------------+
 
-content-end
++--------------------------------------------------------------------------------------+
+| Metadata                                                                             |
++--------------------------+-----------------------------------------------------------+
+| Title                    | About Bulk™ \| Protein, Vitamins, Sports Nutrition,       |
+|                          | Fitness Foods                                             |
++--------------------------+-----------------------------------------------------------+
+| Description              | Bulk™ is the leading supplier of bodybuilding supplements |
+|                          | \&amp; sports nutrition – covering Protein, Creatine,     |
+|                          | Vitamins, Fat Loss \&amp; more! Formerly Bulk Powders.    |
++--------------------------+-----------------------------------------------------------+
+| google-site-verification | aukRs7uGBj7CYjlmEDxhyHSSMHdc3q9qMfjRM5Xkeic               |
++--------------------------+-----------------------------------------------------------+
+| Template                 | Content                                                   |
++--------------------------+-----------------------------------------------------------+
+
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1dab78db53b0130aaa2b97268197db5b3d4906607.jpeg#width=1000&height=686
+
+[image1]: https://main--bulk-eds--thepixel.hlx.page/media_186f2a411b83534f5f6f46395620ea8d403074323.jpeg#width=1000&height=667
+
+[image2]: https://main--bulk-eds--thepixel.hlx.page/media_1a52bfd11e3d2be513b9761dc40f001bf6352af4a.jpeg#width=1000&height=711
+
+[image3]: https://main--bulk-eds--thepixel.hlx.page/media_1f0d695353a6f98e36694a65793f92f26f890c41c.jpeg#width=1600&height=1066
+
+[image4]: https://main--bulk-eds--thepixel.hlx.page/media_12334c29d608e49abb6d7953a53ee66c3622ae3ce.jpeg#width=1066&height=1600
+
+[image5]: https://main--bulk-eds--thepixel.hlx.page/media_1b62ddce077d0927ed17c5dcc8aad36ed81fbf533.png#width=1600&height=457
+
+[image6]: https://main--bulk-eds--thepixel.hlx.page/media_11e649077bef25b76b6ff9229b6927dd1791082fd.png#width=1600&height=806

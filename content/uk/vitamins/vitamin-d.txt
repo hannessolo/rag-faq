@@ -1,62 +1,99 @@
-[pl](https://www.bulk.com/pl/vitamins/witamina-d)[cz](https://www.bulk.com/cz/vitamins/vitamin-d)[at](https://www.bulk.com/at/vitamins/vitamin-d)[dk](https://www.bulk.com/dk/vitamins/vitamin-d)[ie](https://www.bulk.com/ie/vitamins/vitamin-d)[eu](https://www.bulk.com/eu/vitamins/vitamin-d)[de](https://www.bulk.com/de/vitamins/vitamin-d)[fr](https://www.bulk.com/fr/vitamins/vitamine-d)[ro](https://www.bulk.com/ro/vitamins/vitamina-d)[pt](https://www.bulk.com/pt/vitamins/vitamina-d)[es](https://www.bulk.com/es/vitamins/vitamina-d)[se](https://www.bulk.com/se/vitamins/vitamin-d)[uk](https://www.bulk.com/uk/vitamins/vitamin-d)[it](https://www.bulk.com/it/vitamins/vitamin-d)[ch](https://www.bulk.com/ch/vitamins/vitamin-d)[nl](https://www.bulk.com/nl/vitamins/vitamine-d)
+# Vitamin D Supplements
 
-Vitamin D Supplements
-=====================
++:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                     |
++---------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                    | vitamins/vitamin-d                                                                                                                          |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Vitamin D has become perhaps the most talked about nutrient in recent times and has generated itself a deserved reputation as a must-have supplement.                                                                                                                                     |
+|                                                                                                                                                                                                                                                                                           |
+| Amongst other benefits, Vitamin D contributes to the maintenance of normal bones and muscle function; whilst also contributing to the normal function of the immune system. It’s no coincidence then that Vitamin D supplementation is recommended for all. We get most of our Vitamin D  |
+| from sunlight, so during winter months it is even more important to take a high strength Vitamin D supplement – such as our potent **[Vitamin D3 Tablets](https://main--bul-eds--thepixel.hlx.live/uk/products/vitamin-d3-tablets/bpb-vd3t-0000)**.                                       |
+|                                                                                                                                                                                                                                                                                           |
+| For the young and elderly; anyone not getting enough sunlight on a daily basis; or even those who just want to be certain that they’re getting adequate amounts of this key molecule, Vitamin D supplementation is a smart choice.                                                        |
+|                                                                                                                                                                                                                                                                                           |
+| **Bulk™** has a huge selection of Vitamin D supplements – such as **[Curcumin](https://main--bul-eds--thepixel.hlx.live/uk/products/curcumin-vitamin-d3-capsules/bpb-cuvd)** – and you can be assured that our products are all of the absolute highest strength and potency, guaranteed. |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-vitamins/vitamin-d
+## Vitamin D FAQ'S
 
-Vitamin D has become perhaps the most talked about nutrient in recent times and has generated itself a deserved reputation as a must-have supplement.
++-----------------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                                       |
++-----------------------------------------------------+-----------------------------------------------------------+
+| What are the benefits of vitamin D supplements?     | Vitamin D, commonly known as the sunshine vitamin, is one |
+|                                                     | of the most essential nutrients for overall health and    |
+|                                                     | wellbeing. It contributes to the maintenance of strong    |
+|                                                     | and healthy bones, teeth, muscles, and immune system      |
+|                                                     | function.                                                 |
++-----------------------------------------------------+-----------------------------------------------------------+
+| Is it good to take a vitamin D supplement everyday? | You can safely take a vitamin D supplement daily, though  |
+|                                                     | it is of more importance during the darker winter months  |
+|                                                     | when sun exposure is limited.                             |
++-----------------------------------------------------+-----------------------------------------------------------+
+| Which is the best vitamin D supplement?             | Vitamin D is most commonly taken in the form of tablets,  |
+|                                                     | as vitamin D3. Our High Strength Vitamin D Tablets        |
+|                                                     | provide a highly bioavailable form, which is ideal for    |
+|                                                     | anyone looking to boost their overall intake,             |
+|                                                     | particularly during the winter months. We also offer a    |
+|                                                     | vegan alternative, Vegan Vitamin D3 Tablets.              |
++-----------------------------------------------------+-----------------------------------------------------------+
+| How much vitamin D do you need per day?             | The recommended daily amount of vitamin D is 5μg or 200   |
+|                                                     | international units (IU) for adults. However, taking      |
+|                                                     | vitamin D in higher doses of up to 100μg or 4,000 IU per  |
+|                                                     | day from all sources is considered safe and unlikely to   |
+|                                                     | pose health risks by the European Food Safety Authority.  |
++-----------------------------------------------------+-----------------------------------------------------------+
+| What are the best food sources of vitamin D?        | Dietary vitamin D is found in low amounts in many food    |
+|                                                     | sources, including fish liver oils, fatty fish, egg       |
+|                                                     | yolks, beef liver, sardines, and fortified foods such as  |
+|                                                     | orange juice and plant milks. However, vitamin D is best  |
+|                                                     | synthesised when our skin is exposed to sunlight.         |
++-----------------------------------------------------+-----------------------------------------------------------+
+| What are the signs of vitamin D deficiency?         | Low vitamin D levels can lead to a loss of bone density   |
+|                                                     | and may lead to further health problems if left           |
+|                                                     | unaddressed. It's important to seek advice from your      |
+|                                                     | doctor if you feel you may be deficient or not getting    |
+|                                                     | enough vitamin D.                                         |
++-----------------------------------------------------+-----------------------------------------------------------+
 
-Amongst other benefits, Vitamin D contributes to the maintenance of normal bones and muscle function; whilst also contributing to the normal function of the immune system. It’s no coincidence then that Vitamin D supplementation is recommended for all. We get most of our Vitamin D from sunlight, so during winter months it is even more important to take a high strength Vitamin D supplement – such as our potent **[Vitamin D3 Tablets](/uk/products/vitamin-d3-tablets/bpb-vd3t-0000)**.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-For the young and elderly; anyone not getting enough sunlight on a daily basis; or even those who just want to be certain that they’re getting adequate amounts of this key molecule, Vitamin D supplementation is a smart choice.
+---
 
-**Bulk™** has a huge selection of Vitamin D supplements – such as **[Curcumin](/uk/products/curcumin-vitamin-d3-capsules/bpb-cuvd)** – and you can be assured that our products are all of the absolute highest strength and potency, guaranteed.
+## RELATED CATEGORIES
 
-Vitamin D FAQ'S
----------------
+- [Multivitamins](https://www.bulk.com/uk/health-wellbeing/multivitamins)
+- [Vegan vitamins](https://dev--bul-eds--thepixel.hlx.live/uk/vegan/vegan-vitamins)
+- [Vitamin B supplements](https://dev--bul-eds--thepixel.hlx.live/uk/vitamins/vitamin-b)
+- [Vitamin C supplements](https://dev--bul-eds--thepixel.hlx.live/uk/vitamins/vitamin-c)
+- [Vitamin E supplements](https://dev--bul-eds--thepixel.hlx.live/uk/vitamins/vitamin-e)
+- [Immune support supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/immune-support)
+- [Omega 3 supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/omega-3)
 
-What are the benefits of vitamin D supplements?
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-Vitamin D, commonly known as the sunshine vitamin, is one of the most essential nutrients for overall health and wellbeing. It contributes to the maintenance of strong and healthy bones, teeth, muscles, and immune system function.
+---
 
-Is it good to take a vitamin D supplement everyday?
-
-You can safely take a vitamin D supplement daily, though it is of more importance during the darker winter months when sun exposure is limited.
-
-Which is the best vitamin D supplement?
-
-Vitamin D is most commonly taken in the form of tablets, as vitamin D3. Our High Strength Vitamin D Tablets provide a highly bioavailable form, which is ideal for anyone looking to boost their overall intake, particularly during the winter months. We also offer a vegan alternative, Vegan Vitamin D3 Tablets.
-
-How much vitamin D do you need per day?
-
-The recommended daily amount of vitamin D is 5μg or 200 international units (IU) for adults. However, taking vitamin D in higher doses of up to 100μg or 4,000 IU per day from all sources is considered safe and unlikely to pose health risks by the European Food Safety Authority.
-
-What are the best food sources of vitamin D?
-
-Dietary vitamin D is found in low amounts in many food sources, including fish liver oils, fatty fish, egg yolks, beef liver, sardines, and fortified foods such as orange juice and plant milks. However, vitamin D is best synthesised when our skin is exposed to sunlight.
-
-What are the signs of vitamin D deficiency?
-
-Low vitamin D levels can lead to a loss of bone density and may lead to further health problems if left unaddressed. It's important to seek advice from your doctor if you feel you may be deficient or not getting enough vitamin D.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Multivitamins](https://www.bulk.com/uk/health-wellbeing/multivitamins)
-*   [Vegan vitamins](/uk/vegan/vegan-vitamins)
-*   [Vitamin B supplements](/uk/vitamins/vitamin-b)
-*   [Vitamin C supplements](/uk/vitamins/vitamin-c)
-*   [Vitamin E supplements](/uk/vitamins/vitamin-e)
-*   [Immune support supplements](/uk/health-wellbeing/immune-support)
-*   [Omega 3 supplements](/uk/health-wellbeing/omega-3)
-
-Style
-
-lozenge-list
++-----------------------------------------------------------------------+
+| Metadata                                                              |
++-------------+---------------------------------------------------------+
+| breadcrumbs | true                                                    |
++-------------+---------------------------------------------------------+
+| template    | plp                                                     |
++-------------+---------------------------------------------------------+
+| title       | Vitamin D Tablets, Capsules & Supplements \| Bulk™      |
++-------------+---------------------------------------------------------+
+| description | Shop Bulk™ for top-quality Vitamin D Supplements. Boost |
+|             | bone & muscle health, essential in winter when sunlight |
+|             | is scarce. Unbeatable prices, guaranteed potency.       |
++-------------+---------------------------------------------------------+

@@ -1,14 +1,34 @@
-[at](https://www.bulk.com/at/produktreihe/foods)[pl](https://www.bulk.com/pl/serie/foods)[ie](https://www.bulk.com/ie/shop-by-range/foods)[cz](https://www.bulk.com/cz/shop-by-range/foods)[it](https://www.bulk.com/it/selezione-per-gamma/foods)[de](https://www.bulk.com/de/produktreihe/foods)[eu](https://www.bulk.com/eu/shop-by-range/foods)[dk](https://www.bulk.com/dk/shop-efter-serie/foods)[se](https://www.bulk.com/se/shoppa-via-produktutbud/foods)[es](https://www.bulk.com/es/comprar-por-gama/foods)[ch](https://www.bulk.com/ch/produktreihe/foods)[pt](https://www.bulk.com/pt/comprar-por-gama/foods)[ro](https://www.bulk.com/ro/shop-by-range/foods)[fr](https://www.bulk.com/fr/selectionner-par-gamme/foods)[nl](https://www.bulk.com/nl/shop-per-assortiment/foods)[uk](https://www.bulk.com/uk/shop-by-range/foods)
+# Foods
 
-Foods
-=====
++:-------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                               |
++----------------------------------------------------------+----------------------------------------------------------+
+| category                                                 | shop-by-range/foods                                      |
++---------------------------------------------------------------------------------------------------------------------+
+| Our huge range of foods is ideal for those looking for the highest quality nutrition to support their dietary goals |
+| without compromising on flavour.                                                                                    |
+|                                                                                                                     |
+| With carefully selected ingredients, you can enjoy anything from protein snacks, nut butters, dried fruits, nuts,   |
+| seeds, baking mixes and much more.                                                                                  |
+|                                                                                                                     |
+| Get the best from nutrition and step up your diet with **Bulk™** FOODS.                                             |
++---------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-shop-by-range/foods
-
-Our huge range of foods is ideal for those looking for the highest quality nutrition to support their dietary goals without compromising on flavour.
-
-With carefully selected ingredients, you can enjoy anything from protein snacks, nut butters, dried fruits, nuts, seeds, baking mixes and much more.
-
-Get the best from nutrition and step up your diet with **Bulk™** FOODS.
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Active Foods™ \| Functional Foods for Active People \|    |
+|             | Exclusive to Bulk™                                        |
++-------------+-----------------------------------------------------------+
+| description | Active Foods™, as you'd probably expect, consists of...   |
+|             | foods! We haven’t just chosen any old foods though; we’ve |
+|             | worked closely with some of Europe’s leading food         |
+|             | manufacturers to develop a range of premium, functional   |
+|             | foods, specifically for active people                     |
++-------------+-----------------------------------------------------------+

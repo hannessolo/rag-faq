@@ -1,8 +1,23 @@
-[pl](https://www.bulk.com/pl/products/vegan-bcaa-proszek/vser-vbca)[cz](https://www.bulk.com/cz/products/veganske-bcaa/vser-vbca)[at](https://www.bulk.com/at/products/veganes-bcaa-pulver/vser-vbca)[dk](https://www.bulk.com/dk/products/vegansk-bcaa/vser-vbca)[ie](https://www.bulk.com/ie/products/vegan-bcaa-powder/vser-vbca)[eu](https://www.bulk.com/eu/products/vegan-bcaa-powder/vser-vbca)[de](https://www.bulk.com/de/products/veganes-bcaa-pulver/vser-vbca)[fr](https://www.bulk.com/fr/products/bcaa-vegan/vser-vbca)[ro](https://www.bulk.com/ro/products/bcaa-vegan/vser-vbca)[pt](https://www.bulk.com/pt/products/bcaa-vegan/vser-vbca)[es](https://www.bulk.com/es/products/bcaa-polvo-veganos/vser-vbca)[se](https://www.bulk.com/se/products/vegan-bcaa-powder/vser-vbca)[uk](https://www.bulk.com/uk/shop-by-range/bulk-labs)[it](https://www.bulk.com/it/products/polvere-bcaa-vegani/vser-vbca)[ch](https://www.bulk.com/ch/products/veganes-bcaa-pulver/vser-vbca)[nl](https://www.bulk.com/nl/products/vegan-bcaa-poeder/vser-vbca)
+# BULK™ Labs
 
-BULK™ Labs
-==========
++:-----------------------------------:+
+| **Product List Page**               |
++-----------+-------------------------+
+| category  | shop-by-range/bulk-labs |
++-------------------------------------+
+|                                     |
++-------------------------------------+
 
-category
+---
 
-shop-by-range/bulk-labs
++--------------------------+
+| Metadata                 |
++-------------+------------+
+| breadcrumbs | true       |
++-------------+------------+
+| template    | plp        |
++-------------+------------+
+| title       | BULK™ Labs |
++-------------+------------+
+| description |            |
++-------------+------------+

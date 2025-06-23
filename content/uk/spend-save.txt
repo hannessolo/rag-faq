@@ -1,10 +1,14 @@
-[at](https://www.bulk.com/at/zubehor-bekleidung/alle-bekleidung)[ch](https://www.bulk.com/ch/zubehor-und-bekleidung/alle-bekleidung)[cz](https://www.bulk.com/cz/accessories-clothing/zobrazit-vse-obleceni)[de](https://www.bulk.com/de/zubehor-und-bekleidung/alle-bekleidung)[dk](https://www.bulk.com/dk/tilbehor-toj/alle-toj)[es](https://www.bulk.com/es/ropa-y-accessorios/todo-ropa)[eu](https://www.bulk.com/eu/accessories-clothing/clothing)[ie](https://www.bulk.com/ie/accessories-clothing/clothing)[fr](https://www.bulk.com/fr/vetements-accessoires/tous-les-vetements)[it](https://www.bulk.com/it/accessori-abbigliamento/tutti-abbigliamento)[nl](https://www.bulk.com/nl/accessoires-en-kleding/alle-kleding)[pl](https://www.bulk.com/pl/akcesoria-i-odziez/wszystko-odziez)[pt](https://www.bulk.com/pt/roupa-desportiva-e-acessorios/todo-roupa)[ro](https://www.bulk.com/ro/accessories-clothing/a-vedea-tot-imbracaminte)[se](https://www.bulk.com/se/klader-och-tillbehor/allt-traningsklader)[uk](https://www.bulk.com/uk/spend-save)
-
-   ![](./media_1f96949ea2ab96760eb7638e567656fd5a8c21ba7.jpg?width=750&format=jpg&optimize=medium)
-
-   ![](./media_1ae63792d7ddef48aa2d7ed88ec455cff53e8c239.jpg?width=750&format=jpg&optimize=medium)
-
-[Shop Now](/uk/best-sellers)
++---------------------------------------------------------------------+
+| Promo Cards (hero-banner, campaign-banner, dark)                    |
++---------------------------------------------------------------------+
+|                                                                     |
++----------------------------------+----------------------------------+
+| ![][image0]                      | ![][image1]                      |
++---------------------------------------------------------------------+
+| [Shop Now](https://dev--bul-eds--thepixel.hlx.page/uk/best-sellers) |
++---------------------------------------------------------------------+
+|                                                                     |
++---------------------------------------------------------------------+
 
 Save money whenever you spend £50+ up on your favourite products. Here’s how:
 
@@ -17,6 +21,8 @@ You must be opted into receiving email marketing communications to be eligible f
 This offer is valid for UK customers only.
 
 Bulk reserves the right to modify or cancel this offer at any time without prior notice.
+
+---
 
 **Voucher Terms & Conditions:**
 
@@ -34,33 +40,61 @@ It’s that simple.
 
 Keep saving every time you spend £50. Keep smashing your goals.
 
-FAQS
-----
+---
 
-**How long does this offer last?**
+## FAQS
 
-This promotion is a new initiative and currently does not have a specified end date. It could be subject to change or end at any time — we recommend taking advantage of it while it’s available.
++----------------------------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                                                  |
++----------------------------------------------------------------+-----------------------------------------------------------+
+| **How long does this offer last?**                             | This promotion is a new initiative and currently does not |
+|                                                                | have a specified end date. It could be subject to change  |
+|                                                                | or end at any time — we recommend taking advantage of it  |
+|                                                                | while it’s available.                                     |
++----------------------------------------------------------------+-----------------------------------------------------------+
+| **What happens if I spend £100? Do I get two £10 vouchers?**   | No, the promotion is limited to one £10 voucher per       |
+|                                                                | transaction, per day. Even if you spend £100 in a single  |
+|                                                                | purchase, you will still only receive one voucher.        |
++----------------------------------------------------------------+-----------------------------------------------------------+
+| **If I make two transactions of £50\+ in one day, do I         | No, the promotion is restricted to one qualifying         |
+| receive two or more £10 vouchers?**                            | transaction per day. Even if you make multiple purchases  |
+|                                                                | exceeding £50 on the same day, you will only receive one  |
+|                                                                | £10 voucher.                                              |
++----------------------------------------------------------------+-----------------------------------------------------------+
+| **I’m not subscribed to emails. How do I receive my voucher?** | To be eligible for this promotion, you must be subscribed |
+|                                                                | to our email communications at time of purchase. If       |
+|                                                                | you’re currently unsubscribed, you won’t be able to       |
+|                                                                | receive the voucher. You can update your subscription     |
+|                                                                | preferences in your account settings on the Bulk website. |
++----------------------------------------------------------------+-----------------------------------------------------------+
+| **Do I have to be subscribed to emails?**                      | Yes, being subscribed to our emails is a requirement for  |
+|                                                                | this promotion. To ensure you receive your voucher,       |
+|                                                                | simply update your opt-in preferences within your profile |
+|                                                                | on the Bulk website.                                      |
++----------------------------------------------------------------+-----------------------------------------------------------+
+| **When will I receive my voucher?**                            | Your voucher will be sent to you next day via email after |
+|                                                                | making a qualifying purchase. During peak periods, it     |
+|                                                                | could take up to 48 hours. Please make sure you are       |
+|                                                                | subscribed to emails and check your spam folder if you    |
+|                                                                | don’t see it in your inbox.                               |
++----------------------------------------------------------------+-----------------------------------------------------------+
 
-**What happens if I spend £100? Do I get two £10 vouchers?**
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-No, the promotion is limited to one £10 voucher per transaction, per day. Even if you spend £100 in a single purchase, you will still only receive one voucher.
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| Title       | Bulk™ \| Spend & Save                                     |
++-------------+-----------------------------------------------------------+
+| Description | Bulk™ is the leading supplier of bodybuilding supplements |
+|             | \&amp; sports nutrition – covering Protein, Creatine,     |
+|             | Vitamins, Fat Loss \&amp; more! Formerly Bulk Powders.    |
++-------------+-----------------------------------------------------------+
 
-**If I make two transactions of £50+ in one day, do I receive two or more £10 vouchers?**
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1f96949ea2ab96760eb7638e567656fd5a8c21ba7.jpg#width=750&height=878
 
-No, the promotion is restricted to one qualifying transaction per day. Even if you make multiple purchases exceeding £50 on the same day, you will only receive one £10 voucher.
-
-**I’m not subscribed to emails. How do I receive my voucher?**
-
-To be eligible for this promotion, you must be subscribed to our email communications at time of purchase. If you’re currently unsubscribed, you won’t be able to receive the voucher. You can update your subscription preferences in your account settings on the Bulk website.
-
-**Do I have to be subscribed to emails?**
-
-Yes, being subscribed to our emails is a requirement for this promotion. To ensure you receive your voucher, simply update your opt-in preferences within your profile on the Bulk website.
-
-**When will I receive my voucher?**
-
-Your voucher will be sent to you next day via email after making a qualifying purchase. During peak periods, it could take up to 48 hours. Please make sure you are subscribed to emails and check your spam folder if you don’t see it in your inbox.
-
-Style
-
-plp-secondary-info
+[image1]: https://main--bulk-eds--thepixel.hlx.page/media_1ae63792d7ddef48aa2d7ed88ec455cff53e8c239.jpg#width=1400&height=450

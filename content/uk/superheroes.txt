@@ -1,8 +1,23 @@
-[pl](https://www.bulk.com/pl/przypominamy-sobie-naszych-superbohaterow)[fr](https://www.bulk.com/fr/fetons-les-superheros)[ch](https://www.bulk.com/ch/feiern-wir-unsere-superhelden)[eu](https://www.bulk.com/eu/superheroes)[nl](https://www.bulk.com/nl/vier-de-superhelden)[it](https://www.bulk.com/it/festeggiamo-i-nostri-supereroi)[se](https://www.bulk.com/se/hyllning-av-vara-superhjaltar)[cz](https://www.bulk.com/cz/oslavujeme-nase-super-hrdiny)[de](https://www.bulk.com/de/feiern-wir-unsere-superhelden)[at](https://www.bulk.com/at/feiern-wir-unsere-superhelden)[uk](https://www.bulk.com/uk/superheroes)[ro](https://www.bulk.com/ro/sarbatorim-produsele-vedeta)[ie](https://www.bulk.com/ie/superheroes)[dk](https://www.bulk.com/dk/fejr-vores-superhelte)[pt](https://www.bulk.com/pt/celebramos-os-nossos-super-herois)[es](https://www.bulk.com/es/celebrando-a-nuestros-superheroes)
+# 2022 Superheroes
 
-2022 Superheroes
-================
++:-----------------------:+
+| **Product List Page**   |
++-----------+-------------+
+| category  | superheroes |
++-------------------------+
+|                         |
++-------------------------+
 
-category
+---
 
-superheroes
++--------------------------------+
+| Metadata                       |
++-------------+------------------+
+| breadcrumbs | true             |
++-------------+------------------+
+| template    | plp              |
++-------------+------------------+
+| title       | 2022 Superheroes |
++-------------+------------------+
+| description |                  |
++-------------+------------------+

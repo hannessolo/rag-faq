@@ -1,10 +1,23 @@
-[de](https://www.bulk.com/de/change-your-diet-goal)[ch](https://www.bulk.com/ch/change-your-diet-goal)[cz](https://www.bulk.com/cz/change-your-diet-goal)[dk](https://www.bulk.com/dk/change-your-diet-goal)[pt](https://www.bulk.com/pt/change-your-diet-goal)[pl](https://www.bulk.com/pl/change-your-diet-goal)[eu](https://www.bulk.com/eu/change-your-diet-goal)[se](https://www.bulk.com/se/change-your-diet-goal)[at](https://www.bulk.com/at/change-your-diet-goal)[es](https://www.bulk.com/es/change-your-diet-goal)[nl](https://www.bulk.com/nl/change-your-diet-goal)[fr](https://www.bulk.com/fr/change-your-diet-goal)[it](https://www.bulk.com/it/change-your-diet-goal)[ro](https://www.bulk.com/ro/change-your-diet-goal)[ie](https://www.bulk.com/ie/change-your-diet-goal)[uk](https://www.bulk.com/uk/change-your-diet-goal)
+# Eat Clean
 
-Eat Clean
-=========
++:--------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                              |
++--------------------------------------------------+-------------------------------------------------+
+| category                                         | change-your-diet-goal                           |
++----------------------------------------------------------------------------------------------------+
+| Thanks for choosing change your diet as your goal, here are some products to help you get there... |
++----------------------------------------------------------------------------------------------------+
 
-category
+---
 
-change-your-diet-goal
-
-Thanks for choosing change your diet as your goal, here are some products to help you get there...
++-------------------------+
+| Metadata                |
++-------------+-----------+
+| breadcrumbs | true      |
++-------------+-----------+
+| template    | plp       |
++-------------+-----------+
+| title       | Eat Clean |
++-------------+-----------+
+| description |           |
++-------------+-----------+

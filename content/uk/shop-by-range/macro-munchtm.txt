@@ -1,10 +1,25 @@
-[pl](https://www.bulk.com/pl/gifts-for-men)[cz](https://www.bulk.com/cz/gifts-for-men)[ch](https://www.bulk.com/ch/gifts-for-men)[it](https://www.bulk.com/it/gifts-for-men)[de](https://www.bulk.com/de/gifts-for-men)[fr](https://www.bulk.com/fr/gifts-for-men)[es](https://www.bulk.com/es/gifts-for-men)[se](https://www.bulk.com/se/gifts-for-men)[eu](https://www.bulk.com/eu/gifts-for-men)[at](https://www.bulk.com/at/gifts-for-men)[nl](https://www.bulk.com/nl/gifts-for-men)[ro](https://www.bulk.com/ro/gifts-for-men)[uk](https://www.bulk.com/uk/shop-by-range/macro-munchtm)[ie](https://www.bulk.com/ie/gifts-for-men)[dk](https://www.bulk.com/dk/gifts-for-men)[pt](https://www.bulk.com/pt/gifts-for-men)
+# MACRO MUNCH™
 
-MACRO MUNCH™
-============
++:---------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| category                                                  | shop-by-range/macro-munchtm                               |
++-----------------------------------------------------------------------------------------------------------------------+
+| Our MACRO MUNCH™ Protein Bar is a soft-baked, high-protein, low-sugar, triple-layered wonder. Each bar is packed with |
+| 20g of protein and low in sugar, making it perfect for snacking on the go or as an extra source of nutrition between  |
+| meals, available in 5 delicious flavours.                                                                             |
++-----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-shop-by-range/macro-munchtm
-
-Our MACRO MUNCH™ Protein Bar is a soft-baked, high-protein, low-sugar, triple-layered wonder. Each bar is packed with 20g of protein and low in sugar, making it perfect for snacking on the go or as an extra source of nutrition between meals, available in 5 delicious flavours.
++----------------------------+
+| Metadata                   |
++-------------+--------------+
+| breadcrumbs | true         |
++-------------+--------------+
+| template    | plp          |
++-------------+--------------+
+| title       | MACRO MUNCH™ |
++-------------+--------------+
+| description |              |
++-------------+--------------+

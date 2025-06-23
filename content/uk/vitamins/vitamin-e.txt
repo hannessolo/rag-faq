@@ -1,48 +1,75 @@
-[at](https://www.bulk.com/at/vitamins/vitamin-e)[ch](https://www.bulk.com/ch/vitamins/vitamin-e)[cz](https://www.bulk.com/cz/vitamins/vitamin-e)[de](https://www.bulk.com/de/vitamins/vitamin-e)[dk](https://www.bulk.com/dk/vitamins/vitamin-e)[es](https://www.bulk.com/es/vitamins/vitamina-e)[eu](https://www.bulk.com/eu/vitamins/vitamin-e)[ie](https://www.bulk.com/ie/vitamins/vitamin-e)[fr](https://www.bulk.com/fr/vitamins/vitamine-e)[it](https://www.bulk.com/it/vitamins/vitamin-e)[nl](https://www.bulk.com/nl/vitamins/vitamine-e)[pl](https://www.bulk.com/pl/vitamins/witamina-e)[pt](https://www.bulk.com/pt/vitamins/vitamina-e)[ro](https://www.bulk.com/ro/vitamins/vitamina-e)[se](https://www.bulk.com/se/vitamins/vitamin-e)[uk](https://www.bulk.com/uk/vitamins/vitamin-e)
+# Vitamin E Supplements
 
-Vitamin E Supplements
-=====================
++:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                                                                                                       |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                                                             | vitamins/vitamin-e                                                                                                                                                                                                   |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Vitamin E is less talked about than some of its counterparts, but it’s a vitamin that shouldn’t be ignored. Indeed it is proven to contribute to the protection of cells from oxidative stress – making Vitamin E a must-have nutrient for anyone who values their health.                                                                                                                                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **[Vitamins](https://www.bulk.com/uk/vitamins)** are a core part of the offering at **Bulk™** and we are pleased to offer an array of Vitamin E supplements – including our best-selling [Vitamin E Softgels](https://main--bul-eds--thepixel.hlx.live/uk/products/vitamin-e-softgels-400iu/bpb-vite-0000), which are easily absorbed by the body and offer convenience and certainty that your body is getting all the Vitamin E it needs. |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Of course, Vitamin E can also be obtained from food and foods rich in Vitamin E include  [](https://main--bul-eds--thepixel.hlx.live/uk/products/sunflower-seeds/bpf-sunf)**[Sunflower Seeds](https://main--bul-eds--thepixel.hlx.live/uk/products/sunflower-seeds/bpf-sunf)** and **[Peanut Butter](https://main--bul-eds--thepixel.hlx.live/uk/products/peanut-butter-1kg/bpf-pbut)**.                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-vitamins/vitamin-e
+## Vitamin E FAQ'S
 
-Vitamin E is less talked about than some of its counterparts, but it’s a vitamin that shouldn’t be ignored. Indeed it is proven to contribute to the protection of cells from oxidative stress – making Vitamin E a must-have nutrient for anyone who values their health.
++--------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                              |
++--------------------------------------------+-----------------------------------------------------------+
+| What are the benefits of taking vitamin E? | Vitamin E is an antioxidant and a vital nutrient for      |
+|                                            | vision, reproduction, and blood, brain, and skin health.  |
++--------------------------------------------+-----------------------------------------------------------+
+| Should I take vitamin E everyday?          | There is no harm in taking vitamin E everyday provided    |
+|                                            | you follow the dosage guidelines on your supplement.      |
+|                                            | Taking a vitamin E supplement is ideal for anyone who     |
+|                                            | wants to ensure they are getting adequate amounts of this |
+|                                            | key nutrient.                                             |
++--------------------------------------------+-----------------------------------------------------------+
+| What is the best vitamin E supplement?     | Vitamin E is most commonly taken in the form of softgels. |
+|                                            | Our Vitamin E softgels provide a potent dose and are a    |
+|                                            | convenient way to up your nutritional intake.             |
++--------------------------------------------+-----------------------------------------------------------+
 
-**[Vitamins](https://www.bulk.com/uk/vitamins)** are a core part of the offering at **Bulk™** and we are pleased to offer an array of Vitamin E supplements – including our best-selling [Vitamin E Softgels](/uk/products/vitamin-e-softgels-400iu/bpb-vite-0000), which are easily absorbed by the body and offer convenience and certainty that your body is getting all the Vitamin E it needs.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-Of course, Vitamin E can also be obtained from food and foods rich in Vitamin E include [](/uk/products/sunflower-seeds/bpf-sunf)**[Sunflower Seeds](/uk/products/sunflower-seeds/bpf-sunf)** and **[Peanut Butter](/uk/products/peanut-butter-1kg/bpf-pbut)**.
+---
 
-Vitamin E FAQ'S
----------------
+## RELATED CATEGORIES
 
-What are the benefits of taking vitamin E?
+- [Multivitamins](https://www.bulk.com/uk/health-wellbeing/multivitamins)
+- [Vegan vitamins](https://dev--bul-eds--thepixel.hlx.live/uk/vegan/vegan-vitamins)
+- [Vitamin B supplements](https://dev--bul-eds--thepixel.hlx.live/uk/vitamins/vitamin-b)
+- [Vitamin C supplements](https://dev--bul-eds--thepixel.hlx.live/uk/vitamins/vitamin-c)
+- [Vitamin D supplements](https://dev--bul-eds--thepixel.hlx.live/uk/vitamins/vitamin-d)
+- [Immune support supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/immune-support)
+- [Omega 3 supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/omega-3)
 
-Vitamin E is an antioxidant and a vital nutrient for vision, reproduction, and blood, brain, and skin health.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-Should I take vitamin E everyday?
+---
 
-There is no harm in taking vitamin E everyday provided you follow the dosage guidelines on your supplement. Taking a vitamin E supplement is ideal for anyone who wants to ensure they are getting adequate amounts of this key nutrient.
-
-What is the best vitamin E supplement?
-
-Vitamin E is most commonly taken in the form of softgels. Our Vitamin E softgels provide a potent dose and are a convenient way to up your nutritional intake.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Multivitamins](https://www.bulk.com/uk/health-wellbeing/multivitamins)
-*   [Vegan vitamins](/uk/vegan/vegan-vitamins)
-*   [Vitamin B supplements](/uk/vitamins/vitamin-b)
-*   [Vitamin C supplements](/uk/vitamins/vitamin-c)
-*   [Vitamin D supplements](/uk/vitamins/vitamin-d)
-*   [Immune support supplements](/uk/health-wellbeing/immune-support)
-*   [Omega 3 supplements](/uk/health-wellbeing/omega-3)
-
-Style
-
-lozenge-list
++------------------------------------------------------------------------+
+| Metadata                                                               |
++-------------+----------------------------------------------------------+
+| breadcrumbs | true                                                     |
++-------------+----------------------------------------------------------+
+| template    | plp                                                      |
++-------------+----------------------------------------------------------+
+| title       | Vitamin E Tablets, Capsules & Supplements \| Bulk™       |
++-------------+----------------------------------------------------------+
+| description | Guard against oxidative stress with Bulk™ Vitamin E      |
+|             | tablets and softgels. Essential for health, easily       |
+|             | absorbed. Get your vital antioxidant dose now. Essential |
+|             | wellness.                                                |
++-------------+----------------------------------------------------------+

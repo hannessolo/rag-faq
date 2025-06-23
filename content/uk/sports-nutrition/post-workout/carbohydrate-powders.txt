@@ -1,12 +1,33 @@
-[fr](https://www.bulk.com/fr/nutrition-sportive/acides-amines/glutamine-poudre)[pl](https://www.bulk.com/pl/odzywki-sportowe/aminokwasy/glutamina)[cz](https://www.bulk.com/cz/sports-nutrition/amino-acids/glutamine)[de](https://www.bulk.com/de/sportnahrung/aminosauren/glutamin)[ch](https://www.bulk.com/ch/sportnahrung/aminosauren/glutamin)[es](https://www.bulk.com/es/nutricion-deportiva/aminoacidos/glutamina)[ie](https://www.bulk.com/ie/sports-nutrition/amino-acids/glutamine)[eu](https://www.bulk.com/eu/sports-nutrition/amino-acids/glutamine)[se](https://www.bulk.com/se/idrottsnutrition/aminosyror/glutamin)[ro](https://www.bulk.com/ro/sports-nutrition/amino-acids/glutamine)[at](https://www.bulk.com/at/sportnahrung/aminosauren/glutamin)[nl](https://www.bulk.com/nl/sport-voeding/aminozuren/glutamine)[dk](https://www.bulk.com/dk/sportsernaering/aminosyrer/glutamin-2)[it](https://www.bulk.com/it/alimentazione-sportiva/aminoacidi/glutammina)[uk](https://www.bulk.com/uk/sports-nutrition/post-workout/carbohydrate-powders)[pt](https://www.bulk.com/pt/nutricao-desporto/aminoacidos/glutamina-2)
+# Carbohydrate Powders
 
-Carbohydrate Powders
-====================
++:---------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| category                                                  | sports-nutrition/post-workout/carbohydrate-powders        |
++-----------------------------------------------------------------------------------------------------------------------+
+| While there are many different types of carbohydrate powders, some are more suitable for post workout supplementation |
+| than others. To speed up the recovery process, rapidly replenishing muscle glycogen (fuel) levels should be a         |
+| priority – the carbohydrate powders in this category have been selected as they do just that! What’s more, these      |
+| carbohydrate powders also create an all-important insulin spike post workout, which helps to drive nutrients into the |
+| muscles at rapid speed – facilitating almost instant growth and repair.                                               |
+|                                                                                                                       |
+| Aim to use around 1 gram of carbohydrate powder per kilogram of body weight after a training session. This should be  |
+| accompanied with approximately 1/2 as much protein, in order to start the process of refuelling the body. The         |
+| addition of an amino acid powder and/or a growth and recovery supplement is also recommended.                         |
++-----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-sports-nutrition/post-workout/carbohydrate-powders
-
-While there are many different types of carbohydrate powders, some are more suitable for post workout supplementation than others. To speed up the recovery process, rapidly replenishing muscle glycogen (fuel) levels should be a priority – the carbohydrate powders in this category have been selected as they do just that! What’s more, these carbohydrate powders also create an all-important insulin spike post workout, which helps to drive nutrients into the muscles at rapid speed – facilitating almost instant growth and repair.
-
-Aim to use around 1 gram of carbohydrate powder per kilogram of body weight after a training session. This should be accompanied with approximately 1/2 as much protein, in order to start the process of refuelling the body. The addition of an amino acid powder and/or a growth and recovery supplement is also recommended.
++---------------------------------------------------------------------+
+| Metadata                                                            |
++-------------+-------------------------------------------------------+
+| breadcrumbs | true                                                  |
++-------------+-------------------------------------------------------+
+| template    | plp                                                   |
++-------------+-------------------------------------------------------+
+| title       | Carbohydrate Powders \| Carb Drinks \| Bulk™          |
++-------------+-------------------------------------------------------+
+| description | Carbohydrate Powders such as Vitargo, Dextrose and    |
+|             | Maltodextrin are widely used by athletes. Shop a huge |
+|             | range of Carb Drinks − at the UK's lowest prices.     |
++-------------+-------------------------------------------------------+

@@ -1,8 +1,23 @@
-[pl](https://www.bulk.com/pl/stockingfillers)[dk](https://www.bulk.com/dk/stockingfillers)[it](https://www.bulk.com/it/stockingfillers)[de](https://www.bulk.com/de/stockingfillers)[ie](https://www.bulk.com/ie/stockingfillers)[at](https://www.bulk.com/at/stockingfillers)[ro](https://www.bulk.com/ro/stockingfillers)[es](https://www.bulk.com/es/stockingfillers)[nl](https://www.bulk.com/nl/stockingfillers)[cz](https://www.bulk.com/cz/stockingfillers)[se](https://www.bulk.com/se/stockingfillers)[fr](https://www.bulk.com/fr/stockingfillers)[eu](https://www.bulk.com/eu/stockingfillers)[pt](https://www.bulk.com/pt/stockingfillers)[ch](https://www.bulk.com/ch/stockingfillers)[uk](https://www.bulk.com/uk/stockingfillers)
+# Stocking Fillers
 
-Stocking Fillers
-================
++:---------------------------:+
+| **Product List Page**       |
++-----------+-----------------+
+| category  | stockingfillers |
++-----------------------------+
+|                             |
++-----------------------------+
 
-category
+---
 
-stockingfillers
++--------------------------------+
+| Metadata                       |
++-------------+------------------+
+| breadcrumbs | true             |
++-------------+------------------+
+| template    | plp              |
++-------------+------------------+
+| title       | Stocking Fillers |
++-------------+------------------+
+| description |                  |
++-------------+------------------+

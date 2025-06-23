@@ -1,53 +1,91 @@
-[pl](https://www.bulk.com/pl/zdrowie-i-dobre-samopoczucie/owoce-i-warzywa)[cz](https://www.bulk.com/cz/health-wellbeing/fruits-vegetables)[fr](https://www.bulk.com/fr/sante-et-bien-etre/fruits-et-legumes)[ie](https://www.bulk.com/ie/health-wellbeing/fruits-vegetables)[eu](https://www.bulk.com/eu/health-wellbeing/fruits-vegetables)[de](https://www.bulk.com/de/gesundheit-wohlbefinden/fruchte-gemuse)[pt](https://www.bulk.com/pt/saude-e-bem-estar/frutas-e-vegetais)[ch](https://www.bulk.com/ch/gesundheit-wohlbefinden/fruchte-gemuse)[at](https://www.bulk.com/at/gesundheit-wohlbefinden/fruchte-gemuse)[dk](https://www.bulk.com/dk/godt-helbred/frugt-gront)[it](https://www.bulk.com/it/salute-e-benessere/frutta-verdura)[es](https://www.bulk.com/es/salud-y-bienestar/frutas-y-verduras)[ro](https://www.bulk.com/ro/health-wellbeing/fruits-vegetables)[uk](https://www.bulk.com/uk/health-wellbeing/fruits-vegetables)[se](https://www.bulk.com/se/halsa-och-valbefinnande/frukt-och-gronsaker)[nl](https://www.bulk.com/nl/gezondheid-en-welzijn/fruit-en-groenten)
+# Fruits & Vegetables
 
-Fruits & Vegetables
-===================
++:---------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| category                                                  | health-wellbeing/fruits-vegetables                        |
++-----------------------------------------------------------------------------------------------------------------------+
+| The **Bulk™** Fruits & Vegetables category encompasses a whole range of products that are derived from fruit and      |
+| vegetables. We all know the benefits of consuming adequate fruit and veg, and we are always told to get our '5 a      |
+| day'. That said, most of us actually struggle to meet this guideline.                                                 |
+|                                                                                                                       |
+| **Bulk™** Fruits & Vegetables offer a helping hand by providing a convenient, yet cost-effective method of increasing |
+| your fruit and veg intake.                                                                                            |
++-----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-health-wellbeing/fruits-vegetables
+## Fruits & Vegetables FAQS
 
-The **Bulk™** Fruits & Vegetables category encompasses a whole range of products that are derived from fruit and vegetables. We all know the benefits of consuming adequate fruit and veg, and we are always told to get our '5 a day'. That said, most of us actually struggle to meet this guideline.
++-----------------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                                       |
++-----------------------------------------------------+-----------------------------------------------------------+
+| What are fruit and vegetable supplements?           | Supplements are a convenient way of increasing your       |
+|                                                     | intake of a component of your diet, without struggling in |
+|                                                     | the kitchen. Fruit and vegetables are essential parts of  |
+|                                                     | a healthy diet, keeping your body healthy and providing   |
+|                                                     | you with much-needed nutrients.                           |
++-----------------------------------------------------+-----------------------------------------------------------+
+| When should you take fruit and vegetable powders?   | Our fruit and vegetable powders can be taken throughout   |
+|                                                     | the day. You can add them to your breakfast in the        |
+|                                                     | morning, mix and sip throughout the day, or power-up      |
+|                                                     | before or after your workout, to ensure you’re getting    |
+|                                                     | all the goodness you need at a time that suits you.       |
++-----------------------------------------------------+-----------------------------------------------------------+
+| Who should take fruit and vegetable supplements?    | Our supplements are gluten-free, and suitable for         |
+|                                                     | vegetarians or vegans. Whether you’re an experienced      |
+|                                                     | trainer, or at the beginning of your fitness journey,     |
+|                                                     | these supplements are suitable to add into your diet,     |
+|                                                     | working alongside your routine in the gym and in the      |
+|                                                     | kitchen. You should always check the ingredients to make  |
+|                                                     | sure they are appropriate for you to take.                |
++-----------------------------------------------------+-----------------------------------------------------------+
+| What are the different types of fruit and vegetable | At bulk, we focus on natural and organic supplements that |
+| supplements?                                        | you can easily integrate into your diet. These include    |
+|                                                     | vegetable powders, dried fruits and capsules to ensure    |
+|                                                     | that you’re getting all the goodness you need, in a form  |
+|                                                     | that’s easy to take on the go.                            |
++-----------------------------------------------------+-----------------------------------------------------------+
 
-**Bulk™** Fruits & Vegetables offer a helping hand by providing a convenient, yet cost-effective method of increasing your fruit and veg intake.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-Fruits & Vegetables FAQS
-------------------------
+---
 
-What are fruit and vegetable supplements?
+## RELATED CATEGORIES
 
-Supplements are a convenient way of increasing your intake of a component of your diet, without struggling in the kitchen. Fruit and vegetables are essential parts of a healthy diet, keeping your body healthy and providing you with much-needed nutrients.
+- [Health supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing)
+- [Multivitamin tablets](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/multivitamins)
+- [Antioxidant supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/antioxidants)
+- [Essential fatty acids](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/essential-fatty-acids)
+- [Fish oils](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/fish-oils)
+- [Super greens powders](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/greens-supplements)
+- [Fibre supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/high-fibre-supplements)
+- [Omega 3 supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/omega-3)
+- [Organic powders](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/organic-powders)
+- [Probiotic supplements](https://staging--bul-eds--thepixel.hlx.page/uk/health-wellbeing/probiotics)
 
-When should you take fruit and vegetable powders?
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-Our fruit and vegetable powders can be taken throughout the day. You can add them to your breakfast in the morning, mix and sip throughout the day, or power-up before or after your workout, to ensure you’re getting all the goodness you need at a time that suits you.
+---
 
-Who should take fruit and vegetable supplements?
-
-Our supplements are gluten-free, and suitable for vegetarians or vegans. Whether you’re an experienced trainer, or at the beginning of your fitness journey, these supplements are suitable to add into your diet, working alongside your routine in the gym and in the kitchen. You should always check the ingredients to make sure they are appropriate for you to take.
-
-What are the different types of fruit and vegetable supplements?
-
-At bulk, we focus on natural and organic supplements that you can easily integrate into your diet. These include vegetable powders, dried fruits and capsules to ensure that you’re getting all the goodness you need, in a form that’s easy to take on the go.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Health supplements](/uk/health-wellbeing)
-*   [Multivitamin tablets](/uk/health-wellbeing/multivitamins)
-*   [Antioxidant supplements](/uk/health-wellbeing/antioxidants)
-*   [Essential fatty acids](/uk/health-wellbeing/essential-fatty-acids)
-*   [Fish oils](/uk/health-wellbeing/fish-oils)
-*   [Super greens powders](/uk/health-wellbeing/greens-supplements)
-*   [Fibre supplements](/uk/health-wellbeing/high-fibre-supplements)
-*   [Omega 3 supplements](/uk/health-wellbeing/omega-3)
-*   [Organic powders](/uk/health-wellbeing/organic-powders)
-*   [Probiotic supplements](/uk/health-wellbeing/probiotics)
-
-Style
-
-lozenge-list
++----------------------------------------------------------------------+
+| Metadata                                                             |
++-------------+--------------------------------------------------------+
+| breadcrumbs | true                                                   |
++-------------+--------------------------------------------------------+
+| template    | plp                                                    |
++-------------+--------------------------------------------------------+
+| title       | Fruits Powders & Vegetable Powders \| Bulk™            |
++-------------+--------------------------------------------------------+
+| description | Meet your daily fruit and veg intake easily with Bulk™ |
+|             | Fruits & Vegetables powders. Discover our convenient,  |
+|             | cost-effective range to help you get your '5 a day'.   |
++-------------+--------------------------------------------------------+

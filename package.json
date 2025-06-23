@@ -8,7 +8,10 @@
     "start": "node src/index.js",
     "dev": "node --watch src/index.js",
     "test": "node src/test.js",
-    "download": "node src/scripts/download-content.js"
+    "download": "node src/scripts/download-content.js",
+    "classify": "node src/scripts/classify-pages.js",
+    "classify:test": "node src/scripts/classify-pages.js --limit=1",
+    "classify:small": "node src/scripts/classify-pages.js --limit=10"
   },
   "dependencies": {
     "@langchain/community": "^0.3.46",

@@ -1,0 +1,28 @@
+You are given the content of a web page.
+
+You must classify the type of content that is on the page. A page can have multiple categories, eg. if it has an FAQ section and also offers a product for sale, it would be ["product_details_page", "faq_page"]
+
+The available page types are:
+
+- blog_article: An article in a blog
+- product_details_page: A page offering a product for sale. It must be a single, concrete product offered for purchase. The page must contain a price for the product AND an action to buy or add to cart. Simply having a link to a product is not enough.
+- product_listing_page: A page listing a category or overview of products to buy
+- faq_page: A page containing FAQs
+- content_page: Any page that does not fit one of the above is labeled a content_page
+
+IMPORTANT: You must respond with ONLY a JSON array of objects. Do not include any other text, explanations, or formatting.
+
+Now classify the following page:
+
+======= START INPUT ========
+
+{context}
+
+======= END INPUT ==========
+
+Respond with ONLY a JSON array of objects. Each object should be formatted as follows:
+
+{
+  "page_types": string[],
+  "reasoning": string
+}

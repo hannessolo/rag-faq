@@ -1,8 +1,24 @@
-[pl](https://www.bulk.com/pl/odzywki-bialkowe/mieszanki-bialkowe)[es](https://www.bulk.com/es/proteinas/mezcla-de-proteinas)[at](https://www.bulk.com/at/protein/proteinmischungen)[de](https://www.bulk.com/de/protein/proteinmischungen)[eu](https://www.bulk.com/eu/protein/protein-blends)[dk](https://www.bulk.com/dk/protein/protein-blends)[nl](https://www.bulk.com/nl/proteine/proteine-blends)[ch](https://www.bulk.com/ch/protein/proteinmischungen)[ie](https://www.bulk.com/ie/protein/protein-blends)[pt](https://www.bulk.com/pt/proteinas/mistura-proteica)[ro](https://www.bulk.com/ro/protein/protein-blends)[fr](https://www.bulk.com/fr/proteine/melange-de-proteines)[cz](https://www.bulk.com/cz/protein/protein-blends)[uk](https://www.bulk.com/uk/sports-nutrition/diet-nutrition-test)[it](https://www.bulk.com/it/proteine/miscela-di-proteine)[se](https://www.bulk.com/se/protein/proteinblandningar)
+# Diet & Nutrition DNA Test
 
-Diet & Nutrition DNA Test
-=========================
++:------------------------------------------------:+
+| **Product List Page**                            |
++-----------+--------------------------------------+
+| category  | sports-nutrition/diet-nutrition-test |
++--------------------------------------------------+
+|                                                  |
++--------------------------------------------------+
 
-category
+---
 
-sports-nutrition/diet-nutrition-test
++------------------------------------------------------------------------+
+| Metadata                                                               |
++-------------+----------------------------------------------------------+
+| breadcrumbs | true                                                     |
++-------------+----------------------------------------------------------+
+| template    | plp                                                      |
++-------------+----------------------------------------------------------+
+| title       | Diet & Nutrition DNA Testing Kit \| Bulk™                |
++-------------+----------------------------------------------------------+
+| description | Find out more about what makes up your DNA with our Diet |
+|             | & Nutrition testing kit.                                 |
++-------------+----------------------------------------------------------+

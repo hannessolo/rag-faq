@@ -1,62 +1,99 @@
-[pl](https://www.bulk.com/pl/products/ketony-malinowe-i-zielona-kawa-200mg-w-tabletkach-pl/bpb-rkgc-0000)[cz](https://www.bulk.com/cz/products/malinove-ketony-a-zelena-kava-tablety-200-mg/bpb-rkgc-0000)[at](https://www.bulk.com/at/products/himbeerketon-und-grunkaffee-tabletten-200mg-aut/bpb-rkgc-0000)[dk](https://www.bulk.com/dk/products/hindbaer-ketoner-gron-kaffe-tabletter-200mg/bpb-rkgc-0000)[ie](https://www.bulk.com/ie/products/raspberry-ketones-green-coffee-tablets-200mg/bpb-rkgc-0000)[eu](https://www.bulk.com/eu/products/raspberry-ketones-green-coffee-tablets-200mg/bpb-rkgc-0000)[de](https://www.bulk.com/de/products/himbeer-ketone-rohkaffee-tabletten-200mg/bpb-rkgc-0000)[fr](https://www.bulk.com/fr/products/cetones-de-framboise-et-cafe-vert-comprimes-200mg/bpb-rkgc-0000)[ro](https://www.bulk.com/ro/products/comprimate-cu-cetone-din-zmeura-si-cafea-verde-200-mg/bpb-rkgc-0000)[pt](https://www.bulk.com/pt/products/comprimidos-de-cetonas-de-framboesa-e-cafe-verde-200mg/bpb-rkgc-0000)[es](https://www.bulk.com/es/products/cetona-de-frambuesa-y-cafe-verde-en-comprimidos-de-200mg/bpb-rkgc-0000)[se](https://www.bulk.com/se/products/hallonketoner-och-gront-kaffetabletter-200mg/bpb-rkgc-0000)[uk](https://www.bulk.com/uk/products/bulk-training-t-shirt/bulk-tshi)[it](https://www.bulk.com/it/products/chetoni-di-lampone-e-caffe-verde-compresse-da-200mg/bpb-rkgc-0000)[ch](https://www.bulk.com/ch/products/himbeer-ketone-rohkaffee-tabletten-200mg/bpb-rkgc-0000)[nl](https://www.bulk.com/nl/products/framboos-ketonen-en-groene-koffie-tabletten-200-mg/bpb-rkgc-0000)
++----------------------------------------------------------------------------+
+| Product Details                                                            |
++----------------------------------------------------------------------------+
+| # Training T-Shirt                                                         |
++----------------+-----------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£15.00~~                               |
+|                | - Final Price: £12.00                                     |
+|                | - Save £3.00                                              |
+|                | - Clearance Sale: Now or never                            |
++----------------+-----------------------------------------------------------+
+| ## Colour      | - White                                                   |
++----------------+-----------------------------------------------------------+
+| ## Size        | - S                                                       |
++----------------+-----------------------------------------------------------+
+| ## Description | ### Training T-Shirt                                      |
+|                |                                                           |
+|                | Form, fit and function combine to make this t-shirt your  |
+|                | ideal training partner.                                   |
+|                |                                                           |
+|                | Made from a cotton and elastane blend, the Training       |
+|                | T-Shirt from **Bulk™** is comfortable, breathable and     |
+|                | allows unrestricted movement.                             |
+|                |                                                           |
+|                | This Training T-Shirt has been designed to hug the chest, |
+|                | shoulders and arms – accentuating these key body parts –  |
+|                | whilst adopting a more relaxed fit around the torso.      |
+|                |                                                           |
+|                | Contrast **Bulk™** branding features to the chest and     |
+|                | back, whilst a curved hem serves to flatter the wearer.   |
+|                |                                                           |
+|                | As part of our ongoing commitment to sustainability, not  |
+|                | only is this product manufactured in Europe to            |
+|                | substantially reduce carbon emissions, but it is supplied |
+|                | without a hang tag and in a compostable outer bag.        |
+|                |                                                           |
+|                | All our clothing is unisex.                               |
+|                |                                                           |
+|                | - 95% cotton / 5% elastane blend                          |
+|                | - **Bulk™** branding to the chest and back                |
+|                | - Fitted to the chest, shoulders and arms                 |
+|                | - Relaxed fit to torso and waist                          |
+|                | - Comfortable and breathable                              |
+|                | - Allows unrestricted movement                            |
+|                | - Curved hem                                              |
+|                | - Model is 6’2 tall, has a 42 inch chest and wears a size |
+|                |   large                                                   |
+|                | - Manufactured in Europe                                  |
+|                | - Supplied in a fully compostable outer bag               |
++----------------+-----------------------------------------------------------+
 
-Training T-Shirt
-================
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++-----------------------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                                      |
++---------------------+-------------------------------------------------------------------------------------------------------------------------+
+| title               | Training T-Shirt                                                                                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------------+
+| description         | Bulk™ Training T-Shirt - The perfect gym essential, made from breathable sustainable fabric which provides a flattering |
+|                     | gym fit. Supplied in compostable bag. Bulk, formerly Bulk Powders.                                                      |
++---------------------+-------------------------------------------------------------------------------------------------------------------------+
+| keywords            | Bulk™ Training T-Shirt                                                                                                  |
++---------------------+-------------------------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                                             |
++---------------------+-------------------------------------------------------------------------------------------------------------------------+
+| id                  | 8143                                                                                                                    |
++---------------------+-------------------------------------------------------------------------------------------------------------------------+
+| sku                 | BULK-TSHI                                                                                                               |
++---------------------+-------------------------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-20T17:56:12.094Z                                                                                                |
++---------------------+-------------------------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                                              |
++---------------------+-------------------------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BULK-TSHI",   "name": "Training T-Shirt",         |
+|                     | "image":                                                                                                                |
+|                     | "https\://www\.bulk.com/media/catalog/product/2/2/2212\_clothing\_model\_pdp\_main\_training\_tee\_black\_1\_3c46.jpg", |
+|                     |   "gtin": "",   "description": "The Best Workouts Start With The Best Gear",   "@id":                                   |
+|                     | "https\://www\.bulk.com/uk/products/bulk-training-t-shirt/bulk-tshi",   "brand": {     "@type": "Brand",     "name":    |
+|                     | "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": "BULK-TSHI-WHIT-SMAL",       "url":               |
+|                     | "https\://www\.bulk.com/uk/products/bulk-training-t-shirt/bulk-tshi?view=ppc\&o=MTc5LTEyOSwyNzgtMjk2",       "gtin":    |
+|                     | "5055950617513",       "image":                                                                                         |
+|                     | "https\://www\.bulk.com/media/catalog/product/2/2/2212\_clothing\_model\_pdp\_main\_training\_tee\_white\_1\_5372.jpg", |
+|                     |       "availability": "InStock",       "price": 12,       "priceCurrency": "GBP",       "itemCondition":                |
+|                     | "NewCondition",       "priceValidUntil": "2025-07-01",       "priceSpecification": {         "@type":                   |
+|                     | "UnitPriceSpecification",         "priceType": "https\://schema.org/ListPrice",         "price": 15,                    |
+|                     | "priceCurrency": "GBP"       }     }   ],   "aggregateRating": {     "@type": "AggregateRating",     "ratingValue":     |
+|                     | 4\.5,     "reviewCount": 178,     "bestRating": 5   } }                                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/bulk-training-t-shirt/bulk-tshi                                                      |
++---------------------+-------------------------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/bulk-training-t-shirt/bulk-tshi                                                      |
++---------------------+-------------------------------------------------------------------------------------------------------------------------+
 
-*   Regular Price: £15.00
-*   Final Price: £12.00
-*   Save £3.00
-*   Clearance Sale: Now or never
-
-Colour
-------
-
-*   White
-
-Size
-----
-
-*   S
-
-Description
------------
-
-### Training T-Shirt
-
-Form, fit and function combine to make this t-shirt your ideal training partner.
-
-Made from a cotton and elastane blend, the Training T-Shirt from **Bulk™** is comfortable, breathable and allows unrestricted movement.
-
-This Training T-Shirt has been designed to hug the chest, shoulders and arms – accentuating these key body parts – whilst adopting a more relaxed fit around the torso.
-
-Contrast **Bulk™** branding features to the chest and back, whilst a curved hem serves to flatter the wearer.
-
-As part of our ongoing commitment to sustainability, not only is this product manufactured in Europe to substantially reduce carbon emissions, but it is supplied without a hang tag and in a compostable outer bag.
-
-All our clothing is unisex.
-
-*   95% cotton / 5% elastane blend
-*   **Bulk™** branding to the chest and back
-*   Fitted to the chest, shoulders and arms
-*   Relaxed fit to torso and waist
-*   Comfortable and breathable
-*   Allows unrestricted movement
-*   Curved hem
-*   Model is 6’2 tall, has a 42 inch chest and wears a size large
-*   Manufactured in Europe
-*   Supplied in a fully compostable outer bag
-
-\\
-
-Food Supplement
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1a9aa9e6456b96904e46e6db1a583b08d76f9dcb4.webp#width=2000&height=2000

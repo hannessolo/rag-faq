@@ -1,34 +1,135 @@
-[pl](https://www.bulk.com/pl/products/pompa-dozujaca-do-syropu-barista/bace-pump)[dk](https://www.bulk.com/dk/products/barista-sirupdispenseringspumpe/bace-pump)[cz](https://www.bulk.com/cz/products/davkovaci-pumpicka-pro-sirup-barista/bace-pump)[de](https://www.bulk.com/de/products/pumpspender-fur-barista-sirup/bace-pump)[eu](https://www.bulk.com/eu/products/barista-syrup-dispensing-pump/bace-pump)[fr](https://www.bulk.com/fr/products/pompe-de-distribution-pour-sirop-barista/bace-pump)[ch](https://www.bulk.com/ch/products/pumpspender-fur-barista-sirup/bace-pump)[it](https://www.bulk.com/it/products/pompa-dispenser-per-sciroppo-barista/bace-pump)[at](https://www.bulk.com/at/products/pumpspender-fur-barista-sirup/bace-pump)[pt](https://www.bulk.com/pt/products/bomba-barista-dispensadora-de-xarope/bace-pump)[ie](https://www.bulk.com/ie/products/barista-syrup-dispensing-pump/bace-pump)[se](https://www.bulk.com/se/products/baristasirap-i-pumpflaska/bace-pump)[nl](https://www.bulk.com/nl/products/doseerpompje-voor-baristasiroop/bace-pump)[es](https://www.bulk.com/es/products/bomba-dispensadora-de-sirope-de-estilo-barista/bace-pump)[uk](https://www.bulk.com/uk/products/barista-syrup-dispensing-pump/bace-pump)[ro](https://www.bulk.com/ro/products/pompita-pentru-siropul-stil-barista/bace-pump)
++----------------------------------------------------------------------------+
+| Product Details                                                            |
++----------------------------------------------------------------------------+
+| # Barista Syrup Dispensing Pump                                            |
++----------------+-----------------------------------------------------------+
+| ## Price       | - Regular Price: £1.99                                    |
+|                | - This product is exempt from discounts                   |
++----------------+-----------------------------------------------------------+
+| ## Size        | - 1L                                                      |
++----------------+-----------------------------------------------------------+
+| ## Description | ### Barista Syrup Dispensing Pump                         |
+|                |                                                           |
+|                | Looking to perfect your portion control? Pouring a big    |
+|                | bottle onto a tiny spoon isn’t the easiest manoeuvre.     |
+|                | This little product is sure to get you feeling pumped.    |
+|                |                                                           |
+|                | Simple but effective, our dispensing pump has been        |
+|                | specially designed to fit our Zero Calorie Barista Syrup. |
+|                | Shaking it up, adding sweetness to coffee or drizzling    |
+|                | onto a dessert. Get set to measure up every time.         |
+|                |                                                           |
+|                | Insert the dispensing pump into the bottle and screw it   |
+|                | in. Rotate the head of the pump, then press down to       |
+|                | dispense one or more shots of syrup. It can be reused,    |
+|                | just make sure you clean thoroughly before switching      |
+|                | bottles.                                                  |
++----------------+-----------------------------------------------------------+
 
-Barista Syrup Dispensing Pump
-=============================
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                     |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| title               | Barista Syrup Dispensing Pump\|Bulk™ UK                                                                |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| description         | Buy our Barista Syrup Dispensing Pump, a great way to perfect your portion control and avoid any       |
+|                     | kitchen spillages. Adding flavour has never been easier. Bulk, ex Bulk Powders                         |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| keywords            | Barista Syrup Dispensing Pump                                                                          |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                            |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| id                  | 9895                                                                                                   |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| sku                 | BACE-PUMP                                                                                              |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-09T19:52:34.150Z                                                                               |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BACE-PUMP",   "name": "Barista   |
+|                     | Syrup Dispensing Pump",   "image":                                                                     |
+|                     | "https\://www\.bulk.com/media/catalog/product/p/u/pump\_image\_template\_main\_1\_e66d.jpg",   "gtin": |
+|                     | "",   "description": "Buy our Barista Syrup Dispensing Pump, a great way to perfect your portion       |
+|                     | control and avoid any kitchen spillages. Adding flavour has never been easier. Bulk, ex Bulk Powders", |
+|                     |   "@id": "https\://www\.bulk.com/uk/products/barista-syrup-dispensing-pump/bace-pump",   "brand": {    |
+|                     |  "@type": "Brand",     "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku":   |
+|                     | "BACE-PUMP-BLAC-1000",       "url":                                                                    |
+|                     | "https\://www\.bulk.com/uk/products/barista-syrup-dispensing-pump/bace-pump?view=ppc\&o=MTc5LTQwOA==", |
+|                     |       "gtin": "",       "image":                                                                       |
+|                     | "https\://www\.bulk.com/media/catalog/product/p/u/pump-image-template\_thumbnail.jpg",                 |
+|                     | "availability": "InStock",       "price": 1.99,       "priceCurrency": "GBP",       "itemCondition":   |
+|                     | "NewCondition",       "priceValidUntil": ""     }   ],   "aggregateRating": {     "@type":             |
+|                     | "AggregateRating",     "ratingValue": 3.6,     "reviewCount": 203,     "bestRating": 5   } }           |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/bomba-barista-dispensadora-de-xarope/bace-pump                      |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/pumpspender-fur-barista-sirup/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/pompita-pentru-siropul-stil-barista/bace-pump                       |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/barista-sirupdispenseringspumpe/bace-pump                           |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/pompa-dispenser-per-sciroppo-barista/bace-pump                      |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/baristasirap-i-pumpflaska/bace-pump                                 |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/bomba-dispensadora-de-sirope-de-estilo-barista/bace-pump            |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/pompe-de-distribution-pour-sirop-barista/bace-pump                  |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/pompe-de-distribution-pour-sirop-barista/bace-pump                  |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/davkovaci-pumpicka-pro-sirup-barista/bace-pump                      |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/pompa-dozujaca-do-syropu-barista/bace-pump                          |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/pumpspender-fur-barista-sirup/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/pumpspender-fur-barista-sirup/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/doseerpompje-voor-baristasiroop/bace-pump                           |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/doseerpompje-voor-baristasiroop/bace-pump                           |
++---------------------+--------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/barista-syrup-dispensing-pump/bace-pump                             |
++---------------------+--------------------------------------------------------------------------------------------------------+
 
-*   Regular Price: £1.99
-*   This product is exempt from discounts
-
-Size
-----
-
-*   1L
-
-Description
------------
-
-### Barista Syrup Dispensing Pump
-
-Looking to perfect your portion control? Pouring a big bottle onto a tiny spoon isn’t the easiest manoeuvre. This little product is sure to get you feeling pumped.
-
-Simple but effective, our dispensing pump has been specially designed to fit our Zero Calorie Barista Syrup. Shaking it up, adding sweetness to coffee or drizzling onto a dessert. Get set to measure up every time.
-
-Insert the dispensing pump into the bottle and screw it in. Rotate the head of the pump, then press down to dispense one or more shots of syrup. It can be reused, just make sure you clean thoroughly before switching bottles.
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1e263178d963041ebf74891c89f526fece304503f.webp#width=2000&height=2000

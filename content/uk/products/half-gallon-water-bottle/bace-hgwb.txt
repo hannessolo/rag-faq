@@ -1,50 +1,144 @@
-[pl](https://www.bulk.com/pl/products/butelka-na-wode-o-pojemnosci-ponad-dwoch-litrow/bace-hgwb)[cz](https://www.bulk.com/cz/products/half-gallon-water-bottle/bace-hgwb)[se](https://www.bulk.com/se/products/2-2-litersvattenflaska/bace-hgwb)[ro](https://www.bulk.com/ro/products/half-gallon-water-bottle/bace-hgwb)[pt](https://www.bulk.com/pt/products/garrafa-de-agua-de-2-2-litros/bace-hgwb)[fr](https://www.bulk.com/fr/products/gourde-deau-2-2-l/bace-hgwb)[eu](https://www.bulk.com/eu/products/half-gallon-water-bottle/bace-hgwb)[ch](https://www.bulk.com/ch/products/half-gallon-wasserflasche/bace-hgwb)[it](https://www.bulk.com/it/products/bottiglia-dacqua-da-1-2-gallone/bace-hgwb)[ie](https://www.bulk.com/ie/products/half-gallon-water-bottle/bace-hgwb)[es](https://www.bulk.com/es/products/bottiglia-dacqua-da-1-2-gallone/bace-hgwb)[de](https://www.bulk.com/de/products/half-gallon-wasserflasche/bace-hgwb)[dk](https://www.bulk.com/dk/products/vandflaske-2-2-l/bace-hgwb)[at](https://www.bulk.com/at/products/half-gallon-wasserflasche/bace-hgwb)[nl](https://www.bulk.com/nl/products/megawaterfles/bace-hgwb)[uk](https://www.bulk.com/uk/products/half-gallon-water-bottle/bace-hgwb)
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Product Details                                                                                                                                                                                                                                          |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| # Half Gallon Water Bottle                                                                                                                                                                                                                               |
++----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Price       | - Regular Price: £7.99                                                                                                                                                                                                                  |
+|                | - This product is exempt from discounts                                                                                                                                                                                                 |
++----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Colour      | - Clear                                                                                                                                                                                                                                 |
+|                | - Gunmetal Black                                                                                                                                                                                                                        |
++----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Description | ### Half Gallon Water Bottle                                                                                                                                                                                                            |
+|                |                                                                                                                                                                                                                                         |
+|                | Go big or go home.                                                                                                                                                                                                                      |
+|                |                                                                                                                                                                                                                                         |
+|                | There’s no excuse not to be hydrated when the  **Bulk™**  Half Gallon Water Bottle is at hand. With a mammoth 2.2L capacity and built-in carry handle, fill it up and you’re set for the day.                                           |
+|                |                                                                                                                                                                                                                                         |
+|                | Available in clear or black, each colourway features a stainless steel screw-top lid, statement  **Bulk™**  branding and a  **Bulk™**  branded tether. This gargantuan bottle is imposing in size, but sleek and understated in design. |
+|                |                                                                                                                                                                                                                                         |
+|                | The  **Bulk™**  Half Gallon Water Bottle is not dishwasher safe, nor suitable for hot or carbonated drinks, but it is BPA free – as with all our bottles.                                                                               |
+|                |                                                                                                                                                                                                                                         |
+|                | If you are looking for the ultimate hydration bottle, you’ve just found it.                                                                                                                                                             |
+|                |                                                                                                                                                                                                                                         |
+|                | - Massive 2.2L capacity                                                                                                                                                                                                                 |
+|                | - Available in clear or black                                                                                                                                                                                                           |
+|                | - Built-in carry handle                                                                                                                                                                                                                 |
+|                | - **Bulk™**  branded tether                                                                                                                                                                                                             |
+|                | - BPA free                                                                                                                                                                                                                              |
+|                | - Stainless steel lid                                                                                                                                                                                                                   |
+|                | - Not dishwasher safe                                                                                                                                                                                                                   |
+|                | - Not suitable for hot or carbonated drinks                                                                                                                                                                                             |
+|                |                                                                                                                                                                                                                                         |
+|                | Looking for more water bottles? Check out our [Insulated Steel Water Bottle](https://www.bulk.com/uk/products/insulated-steel-water-bottle/bace-iswb "Insulated Steel Water Bottle")                                                    |
++----------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Half Gallon Water Bottle
-========================
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                                                    |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| title               | Half Gallon Water Bottle\|Bulk™ UK                                                                                                    |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| description         | Buy our Everyday Wash Bag. Compact, lightweight, and ideal for holding all of your essentials. Designed to fit perfectly in your gym  |
+|                     | bag. Bulk, formerly Bulk Powders                                                                                                      |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| keywords            | Half Gallon Water Bottle                                                                                                              |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                                                           |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| id                  | 7415                                                                                                                                  |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| sku                 | BACE-HGWB                                                                                                                             |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T07:03:57.687Z                                                                                                              |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                                                            |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BACE-HGWB",   "name": "Half Gallon Water Bottle",   "image":    |
+|                     | "https\://www\.bulk.com/media/catalog/product/h/a/half\_gallon\_water\_bottle\_2200ml\_bace\_hgwb\_gbla\_2200\_main\_1\_2\_5209.jpg", |
+|                     |   "gtin": "",   "description": "A Super-Sized Water Bottle For Serious Hydration",   "@id":                                           |
+|                     | "https\://www\.bulk.com/uk/products/half-gallon-water-bottle/bace-hgwb",   "brand": {     "@type": "Brand",     "name": "Bulk"   },   |
+|                     | "offers": \[     {       "@type": "Offer",       "sku": "BACE-HGWB-CLEA-2200",       "url":                                           |
+|                     | "https\://www\.bulk.com/uk/products/half-gallon-water-bottle/bace-hgwb?view=ppc\&o=Mjc4LTE3MjYx",       "gtin": "5055950614420",      |
+|                     |  "image":                                                                                                                             |
+|                     | "https\://www\.bulk.com/media/catalog/product/h/a/half\_gallon\_water\_bottle\_2200ml\_bace\_hgwb\_clea\_2200\_main\_0bc4.jpg",       |
+|                     | "availability": "InStock",       "price": 7.99,       "priceCurrency": "GBP",       "itemCondition": "NewCondition",                  |
+|                     | "priceValidUntil": ""     },     {       "@type": "Offer",       "sku": "BACE-HGWB-GBLA-2200",       "url":                           |
+|                     | "https\://www\.bulk.com/uk/products/half-gallon-water-bottle/bace-hgwb?view=ppc\&o=Mjc4LTE3MjY0",       "gtin": "5055950614413",      |
+|                     |  "image":                                                                                                                             |
+|                     | "https\://www\.bulk.com/media/catalog/product/h/a/half\_gallon\_water\_bottle\_2200ml\_bace\_hgwb\_gbla\_2200\_main\_1\_1\_1ca5.jpg", |
+|                     |       "availability": "InStock",       "price": 7.99,       "priceCurrency": "GBP",       "itemCondition": "NewCondition",            |
+|                     | "priceValidUntil": ""     }   ],   "aggregateRating": {     "@type": "AggregateRating",     "ratingValue": 4,     "reviewCount": 561, |
+|                     |     "bestRating": 5   } }                                                                                                             |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/2-2-litersvattenflaska/bace-hgwb                                                                   |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/garrafa-de-agua-de-2-2-litros/bace-hgwb                                                            |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/butelka-na-wode-o-pojemnosci-ponad-dwoch-litrow/bace-hgwb                                          |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/half-gallon-wasserflasche/bace-hgwb                                                                |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/bottiglia-dacqua-da-1-2-gallone/bace-hgwb                                                          |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/vandflaske-2-2-l/bace-hgwb                                                                         |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/half-gallon-wasserflasche/bace-hgwb                                                                |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/gourde-deau-2-2-l/bace-hgwb                                                                        |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/gourde-deau-2-2-l/bace-hgwb                                                                        |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/bottiglia-dacqua-da-1-2-gallone/bace-hgwb                                                          |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/half-gallon-wasserflasche/bace-hgwb                                                                |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/megawaterfles/bace-hgwb                                                                            |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/megawaterfles/bace-hgwb                                                                            |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/half-gallon-water-bottle/bace-hgwb                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------------------------------------------+
 
-*   Regular Price: £7.99
-*   This product is exempt from discounts
-
-Colour
-------
-
-*   Clear
-*   Gunmetal Black
-
-Description
------------
-
-### Half Gallon Water Bottle
-
-Go big or go home.
-
-There’s no excuse not to be hydrated when the  **Bulk™**  Half Gallon Water Bottle is at hand. With a mammoth 2.2L capacity and built-in carry handle, fill it up and you’re set for the day.
-
-Available in clear or black, each colourway features a stainless steel screw-top lid, statement  **Bulk™**  branding and a  **Bulk™**  branded tether. This gargantuan bottle is imposing in size, but sleek and understated in design.
-
-The  **Bulk™**  Half Gallon Water Bottle is not dishwasher safe, nor suitable for hot or carbonated drinks, but it is BPA free – as with all our bottles.
-
-If you are looking for the ultimate hydration bottle, you’ve just found it.
-
-*   Massive 2.2L capacity
-*   Available in clear or black
-*   Built-in carry handle
-*   **Bulk™**  branded tether
-*   BPA free
-*   Stainless steel lid
-*   Not dishwasher safe
-*   Not suitable for hot or carbonated drinks
-
-Looking for more water bottles? Check out our [Insulated Steel Water Bottle](https://www.bulk.com/uk/products/insulated-steel-water-bottle/bace-iswb "Insulated Steel Water Bottle")
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_15feb45bc6eecd2881c5713c771d047dcc2f3c00e.webp#width=2000&height=2000

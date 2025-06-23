@@ -1,10 +1,27 @@
-[fr](https://www.bulk.com/fr/nutrition-sportive/acides-amines/autres)[cz](https://www.bulk.com/cz/sports-nutrition/amino-acids/other)[de](https://www.bulk.com/de/sportnahrung/aminosauren/sonstiges-aminosauren)[ch](https://www.bulk.com/ch/sportnahrung/aminosauren/sonstiges-aminosauren)[es](https://www.bulk.com/es/nutricion-deportiva/aminoacidos/otros-aminiacidos)[ie](https://www.bulk.com/ie/sports-nutrition/amino-acids/other)[eu](https://www.bulk.com/eu/sports-nutrition/amino-acids/other)[se](https://www.bulk.com/se/idrottsnutrition/aminosyror/ovrigt)[ro](https://www.bulk.com/ro/sports-nutrition/amino-acids/other)[at](https://www.bulk.com/at/sportnahrung/aminosauren/sonstiges)[nl](https://www.bulk.com/nl/sport-voeding/aminozuren/overig-aminozuren)[dk](https://www.bulk.com/dk/sportsernaering/aminosyrer/andet-aminosyrer)[it](https://www.bulk.com/it/alimentazione-sportiva/aminoacidi/altri-aminoacidi)[uk](https://www.bulk.com/uk/sports-nutrition/amino-acids/other)[pt](https://www.bulk.com/pt/nutricao-desporto/aminoacidos/outros)[pl](https://www.bulk.com/pl/odzywki-sportowe/aminokwasy/inne)
+# Other
 
-Other
-=====
++:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                         |
++-----------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------+
+| category                                                                                      | sports-nutrition/amino-acids/other                                                            |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Each individual amino acid plays a key role in many biological functions in the body. **Bulk™** therefore brings to you a range of the key amino acids                                        |
+| that contribute to physique improvement, performance and health. Examples of ‘other’ amino acids (ie. those not included in our Arginine, BCAA, Carnitine,                                    |
+| EAA, Glutamine, or HMB categories) include: Beta Alanine, Citrulline, D-Aspartic Acid, Glycine, Ornithine, Cysteine, and Taurine – all of which **Bulk™** have in stock at unbeatable prices! |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-sports-nutrition/amino-acids/other
-
-Each individual amino acid plays a key role in many biological functions in the body. **Bulk™** therefore brings to you a range of the key amino acids that contribute to physique improvement, performance and health. Examples of ‘other’ amino acids (ie. those not included in our Arginine, BCAA, Carnitine, EAA, Glutamine, or HMB categories) include: Beta Alanine, Citrulline, D-Aspartic Acid, Glycine, Ornithine, Cysteine, and Taurine – all of which **Bulk™** have in stock at unbeatable prices!
++----------------------------------------------------------------------+
+| Metadata                                                             |
++-------------+--------------------------------------------------------+
+| breadcrumbs | true                                                   |
++-------------+--------------------------------------------------------+
+| template    | plp                                                    |
++-------------+--------------------------------------------------------+
+| title       | Other Amino Acids \| Bulk™                             |
++-------------+--------------------------------------------------------+
+| description | Bulk™ Other Amino Acids section covers a wide range of |
+|             | pure Amino Acids − all available at the UK's lowest    |
+|             | prices online.                                         |
++-------------+--------------------------------------------------------+

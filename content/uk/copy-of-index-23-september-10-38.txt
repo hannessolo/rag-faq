@@ -1,85 +1,102 @@
-[pl](https://www.bulk.com/pl/swiateczne-potrawy)[dk](https://www.bulk.com/dk/festlige-madvarer)[cz](https://www.bulk.com/cz/slavnostni-potraviny)[de](https://www.bulk.com/de/festliche-lebensmittel)[eu](https://www.bulk.com/eu/festive-foods)[fr](https://www.bulk.com/fr/aliments-de-fete)[ch](https://www.bulk.com/ch/festliche-lebensmittel)[it](https://www.bulk.com/it/cibi-per-le-feste)[at](https://www.bulk.com/at/festliche-lebensmittel)[pt](https://www.bulk.com/pt/alimentos-festivos)[ie](https://www.bulk.com/ie/festive-foods)[se](https://www.bulk.com/se/festlig-mat)[nl](https://www.bulk.com/nl/feestelijk-eten)[es](https://www.bulk.com/es/alimentos-festivos)[uk](https://www.bulk.com/uk/festive-foods)[ro](https://www.bulk.com/ro/alimente-festive)
++----------------------------------------------------------------------------------------------------+
+| Promo Cards (hero-banner, campaign-banner, dark)                                                   |
++----------------------------------------------------------------------------------------------------+
+|                                                                                                    |
++--------------------------------------------------+-------------------------------------------------+
+| ![][image0]                                      | ![][image1]                                     |
++----------------------------------------------------------------------------------------------------+
+| [Shop Now](https://dev--bul-eds--thepixel.hlx.page/uk/todays-offers)                               |
++----------------------------------------------------------------------------------------------------+
+| [\*Min spend £39. Terms Apply](https://help.bulk.com/hc/en-gb/articles/208192485-Terms-Conditions) |
++----------------------------------------------------------------------------------------------------+
 
-   ![](./media_138840e7fe889e434dd11d667de629db7ff44623a.png?width=750&format=png&optimize=medium)
++---------------------------------------------------------------------------------------------+
+| Product Slider                                                                              |
++--------------+------------------------------------------------------------------------------+
+| title        | Bestsellers                                                                  |
++--------------+------------------------------------------------------------------------------+
+| link         | [Shop Bestsellers](https://main--bul-eds--thepixel.hlx.live/uk/best-sellers) |
++--------------+------------------------------------------------------------------------------+
+| category     | 100                                                                          |
++--------------+------------------------------------------------------------------------------+
+| desktopLimit | 5                                                                            |
++--------------+------------------------------------------------------------------------------+
+| mobileLimit  | 4                                                                            |
++--------------+------------------------------------------------------------------------------+
 
-   ![](./media_13479ef6e3a7ffdceca4081e7bf406da646639e9f.png?width=750&format=png&optimize=medium)
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Promo Cards (hero-banner, campaign-banner, dark)                                                                                                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                                                                                                     |
++----------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| [![][image2]](https://staging--bul-eds--thepixel.hlx.page/uk/products/macro-munch-protein-bar/mmun-pbar) | [![][image3]](https://staging--bul-eds--thepixel.hlx.page/uk/products/macro-munch-protein-bar/mmun-pbar) |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| [Shop Now](https://staging--bul-eds--thepixel.hlx.page/uk/products/macro-munch-protein-bar/mmun-pbar)                                                                                                               |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                                                                                                     |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-[Shop Now](/uk/todays-offers)
+---
 
-[\*Min spend £39. Terms Apply](https://help.bulk.com/hc/en-gb/articles/208192485-Terms-Conditions)
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Cards                                                                                                                                                                                                                                                                           |
++------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
+| ### Build Muscle       | [https://staging.bulk.com/uk/build-muscle-goal](https://main--bul-eds--thepixel.hlx.live/uk/build-muscle-goal)                                       | ![][image4]                                                                                     |
++------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
+| ### Weight Loss        | [https://staging.bulk.com/uk/weight-loss-goal](https://main--bul-eds--thepixel.hlx.live/uk/weight-loss-goal)                                         | [![][image5]](https://main--bul-eds--thepixel.hlx.live/uk/weight-loss-goal)                     |
++------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
+| ### Endurance          | [https://staging.bulk.com/uk/sports-nutrition/endurance-hydration](https://main--bul-eds--thepixel.hlx.live/uk/sports-nutrition/endurance-hydration) | [![][image6]](https://main--bul-eds--thepixel.hlx.live/uk/sports-nutrition/endurance-hydration) |
++------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
+| ### Health & Wellbeing | [https://staging.bulk.com/uk/health-wellbeing](https://main--bul-eds--thepixel.hlx.live/uk/health-wellbeing)                                         | ![][image7]                                                                                     |
++------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
+| ### Eat Vegan          | [https://staging.bulk.com/uk/vegan](https://main--bul-eds--thepixel.hlx.live/uk/vegan)                                                               | [![][image8]](https://main--bul-eds--thepixel.hlx.live/uk/vegan)                                |
++------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------+
 
-title
++------------------------------------------------------------------------------------------------------+
+| Product Slider                                                                                       |
++--------------+---------------------------------------------------------------------------------------+
+| title        | Post Workout Essentials                                                               |
++--------------+---------------------------------------------------------------------------------------+
+| link         | [Shop Now](https://main--bul-eds--thepixel.hlx.live/uk/sports-nutrition/post-workout) |
++--------------+---------------------------------------------------------------------------------------+
+| category     | 131                                                                                   |
++--------------+---------------------------------------------------------------------------------------+
+| desktopLimit | 5                                                                                     |
++--------------+---------------------------------------------------------------------------------------+
+| mobileLimit  | 4                                                                                     |
++--------------+---------------------------------------------------------------------------------------+
 
-Bestsellers
+---
 
-link
++--------------------------------------------------------------------------------------+
+| Metadata                                                                             |
++--------------------------+-----------------------------------------------------------+
+| Title                    | Bulk™ \| Protein, Vitamins, Sports Nutrition, Fitness     |
+|                          | Foods                                                     |
++--------------------------+-----------------------------------------------------------+
+| Description              | Bulk™ is the leading supplier of bodybuilding supplements |
+|                          | \&amp; sports nutrition – covering Protein, Creatine,     |
+|                          | Vitamins, Fat Loss \&amp; more! Formerly Bulk Powders.    |
++--------------------------+-----------------------------------------------------------+
+| google-site-verification | aukRs7uGBj7CYjlmEDxhyHSSMHdc3q9qMfjRM5Xkeic               |
++--------------------------+-----------------------------------------------------------+
+| primary-language-url     | /uk/                                                      |
++--------------------------+-----------------------------------------------------------+
 
-[Shop Bestsellers](/uk/best-sellers)
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_138840e7fe889e434dd11d667de629db7ff44623a.png#width=780&height=550
 
-category
+[image1]: https://main--bulk-eds--thepixel.hlx.page/media_13479ef6e3a7ffdceca4081e7bf406da646639e9f.png#width=1600&height=400
 
-100
+[image2]: https://main--bulk-eds--thepixel.hlx.page/media_14fdda92d44872baf7b339209dc767beb5c99f2f8.png#width=780&height=550
 
-desktopLimit
+[image3]: https://main--bulk-eds--thepixel.hlx.page/media_1273c420463a7caed9bb72b9de9dcb15abfee5166.png#width=1600&height=400
 
-5
+[image4]: https://main--bulk-eds--thepixel.hlx.page/media_19f3899cfab3ae74735112074d5803ba61dc3b54b.jpeg#width=640&height=640
 
-mobileLimit
+[image5]: https://main--bulk-eds--thepixel.hlx.page/media_16680515b50da149bd0fb9a34b9f32af5a1c40254.jpeg#width=640&height=640
 
-4
+[image6]: https://main--bulk-eds--thepixel.hlx.page/media_196b0b1827cc81859481aef1dc38de6d1834bbde8.jpeg#width=452&height=480
 
-   [![](./media_14fdda92d44872baf7b339209dc767beb5c99f2f8.png?width=750&format=png&optimize=medium)](/uk/products/macro-munch-protein-bar/mmun-pbar)
+[image7]: https://main--bulk-eds--thepixel.hlx.page/media_15a32c51a1fe823e1f644c60638c2479fec204001.jpeg#width=640&height=640
 
-   [![](./media_1273c420463a7caed9bb72b9de9dcb15abfee5166.png?width=750&format=png&optimize=medium)](/uk/products/macro-munch-protein-bar/mmun-pbar)
-
-[Shop Now](/uk/products/macro-munch-protein-bar/mmun-pbar)
-
-### Build Muscle
-
-[https://staging.bulk.com/uk/build-muscle-goal](/uk/build-muscle-goal)
-
-   ![](./media_19f3899cfab3ae74735112074d5803ba61dc3b54b.jpeg?width=750&format=jpeg&optimize=medium)
-
-### Weight Loss
-
-[https://staging.bulk.com/uk/weight-loss-goal](/uk/weight-loss-goal)
-
-   [![](./media_16680515b50da149bd0fb9a34b9f32af5a1c40254.jpeg?width=750&format=jpeg&optimize=medium)](/uk/weight-loss-goal)
-
-### Endurance
-
-[https://staging.bulk.com/uk/sports-nutrition/endurance-hydration](/uk/sports-nutrition/endurance-hydration)
-
-   [![](./media_196b0b1827cc81859481aef1dc38de6d1834bbde8.jpeg?width=750&format=jpeg&optimize=medium)](/uk/sports-nutrition/endurance-hydration)
-
-### Health & Wellbeing
-
-[https://staging.bulk.com/uk/health-wellbeing](/uk/health-wellbeing)
-
-   ![](./media_15a32c51a1fe823e1f644c60638c2479fec204001.jpeg?width=750&format=jpeg&optimize=medium)
-
-### Eat Vegan
-
-[https://staging.bulk.com/uk/vegan](/uk/vegan)
-
-   [![](./media_1fed7acbdeeb1fb9f8cc1b04722613d0f9c704abe.jpeg?width=750&format=jpeg&optimize=medium)](/uk/vegan)
-
-title
-
-Post Workout Essentials
-
-link
-
-[Shop Now](/uk/sports-nutrition/post-workout)
-
-category
-
-131
-
-desktopLimit
-
-5
-
-mobileLimit
-
-4
+[image8]: https://main--bulk-eds--thepixel.hlx.page/media_1fed7acbdeeb1fb9f8cc1b04722613d0f9c704abe.jpeg#width=1066&height=1600

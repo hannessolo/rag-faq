@@ -1,23 +1,43 @@
-[pl](https://www.bulk.com/pl/zywnosc/masla-orzechowe/migdaly)[ch](https://www.bulk.com/ch/nahrungsmittel/nussbutter/mandel)[de](https://www.bulk.com/de/nahrungsmittel/nussbutter/mandel)[fr](https://www.bulk.com/fr/produits-alimentaires/beurre-de-noix/beurre-amandes)[it](https://www.bulk.com/it/alimenti-2/burro-di-frutta-secca/mandorle)[eu](https://www.bulk.com/eu/foods/nut-butters/almond)[at](https://www.bulk.com/at/nahrungsmittel/nussbutter/mandel)[dk](https://www.bulk.com/dk/madvarer/noddesmor/mandel)[se](https://www.bulk.com/se/livsmedel/notsmor/mandel)[nl](https://www.bulk.com/nl/voeding/notenpastas/amandel)[uk](https://www.bulk.com/uk/foods/nut-butters/almond)[ie](https://www.bulk.com/ie/foods/nut-butters/almond)[cz](https://www.bulk.com/cz/foods/nut-butters/almond)[es](https://www.bulk.com/es/alimentacion/mantequillas-de-frutos-secos/almendra)[pt](https://www.bulk.com/pt/alimentos-saudaveis/manteigas-de-frutos-secos/amendoas)[ro](https://www.bulk.com/ro/foods/nut-butters/almond)
+# Almond
 
-Almond
-======
++:---------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| category                                                  | foods/nut-butters/almond                                  |
++-----------------------------------------------------------------------------------------------------------------------+
+| Packing in the most protein per gram of all the nuts, combined with its distinctive nutty taste, it’s easy to see why |
+| the Almond is so popular. **Bulk™** stocks a wide range of Almond Butters – so take a look for yourself below.        |
++-----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-foods/nut-butters/almond
+## RELATED CATEGORIES
 
-Packing in the most protein per gram of all the nuts, combined with its distinctive nutty taste, it’s easy to see why the Almond is so popular. **Bulk™** stocks a wide range of Almond Butters – so take a look for yourself below.
+- [Peanut spreads](https://dev--bul-eds--thepixel.hlx.live/uk/foods/nut-butters/peanut)
+- [Nut spreads](https://dev--bul-eds--thepixel.hlx.live/uk/foods/nut-butters)
+- [Cashew spreads](https://dev--bul-eds--thepixel.hlx.live/uk/foods/nut-butters/cashew)
+- [Hazelnut spreads](https://dev--bul-eds--thepixel.hlx.live/uk/foods/nut-butters/hazelnut)
+- [Pistachio spreads](https://dev--bul-eds--thepixel.hlx.live/uk/foods/nut-butters/pistachio)
 
-RELATED CATEGORIES
-------------------
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-*   [Peanut spreads](/uk/foods/nut-butters/peanut)
-*   [Nut spreads](/uk/foods/nut-butters)
-*   [Cashew spreads](/uk/foods/nut-butters/cashew)
-*   [Hazelnut spreads](/uk/foods/nut-butters/hazelnut)
-*   [Pistachio spreads](/uk/foods/nut-butters/pistachio)
+---
 
-Style
-
-lozenge-list
++-----------------------------------------------------------------------+
+| Metadata                                                              |
++-------------+---------------------------------------------------------+
+| breadcrumbs | true                                                    |
++-------------+---------------------------------------------------------+
+| template    | plp                                                     |
++-------------+---------------------------------------------------------+
+| title       | Almond Paste & Spread \| Bulk™                          |
++-------------+---------------------------------------------------------+
+| description | Discover the highest protein-rich Almond Butters at     |
+|             | Bulk™, featuring a unique nutty taste. Explore our wide |
+|             | selection and experience why Almonds are a popular      |
+|             | choice.                                                 |
++-------------+---------------------------------------------------------+

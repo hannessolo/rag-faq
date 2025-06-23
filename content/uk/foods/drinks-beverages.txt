@@ -1,28 +1,48 @@
-[pl](https://www.bulk.com/pl/zywnosc/drinki-i-napoje)[dk](https://www.bulk.com/dk/madvarer/drikkevarer)[ie](https://www.bulk.com/ie/foods/drinks-beverages)[eu](https://www.bulk.com/eu/foods/drinks-beverages)[cz](https://www.bulk.com/cz/foods/drinks-beverages)[ch](https://www.bulk.com/ch/nahrungsmittel/getranke)[at](https://www.bulk.com/at/nahrungsmittel/getranke)[it](https://www.bulk.com/it/alimenti-2/bibite-bevande)[ro](https://www.bulk.com/ro/foods/drinks-beverages)[de](https://www.bulk.com/de/nahrungsmittel/getranke)[uk](https://www.bulk.com/uk/foods/drinks-beverages)[se](https://www.bulk.com/se/livsmedel/drycker)[nl](https://www.bulk.com/nl/voeding/dranken)[pt](https://www.bulk.com/pt/alimentos-saudaveis/bebidas)[fr](https://www.bulk.com/fr/produits-alimentaires/boissons)[es](https://www.bulk.com/es/alimentacion/bebidas-y-refrescos)
+# Drinks & Beverages
 
-Drinks & Beverages
-==================
++:------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                              |
++----------------------------------------------------------+---------------------------------------------------------+
+| category                                                 | foods/drinks-beverages                                  |
++--------------------------------------------------------------------------------------------------------------------+
+| **Bulk™**  range of Drinks & Beverages can be incorporated into any diet in place of traditional beverages such as |
+| tea, coffee or hot chocolate.                                                                                      |
+|                                                                                                                    |
+| **Bulk™** has taken these popular hot drinks and given them a unique protein twist – providing a convenient way to |
+| increase your daily protein intake.                                                                                |
++--------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-foods/drinks-beverages
+## RELATED CATEGORIES
 
-**Bulk™**  range of Drinks & Beverages can be incorporated into any diet in place of traditional beverages such as tea, coffee or hot chocolate.
+- [Foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods)
+- [Baking ingredients](https://dev--bul-eds--thepixel.hlx.live/uk/foods/baking-ingredients)
+- [High protein breakfast foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/breakfast)
+- [Cheat foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/cheat-foods)
+- [Chia](https://dev--bul-eds--thepixel.hlx.live/uk/foods/chia)
+- [Coconut supplements](https://dev--bul-eds--thepixel.hlx.live/uk/foods/coconut)
+- [Dried fruit snacks](https://dev--bul-eds--thepixel.hlx.live/uk/foods/dried-fruits)
+- [Fish snacks](https://dev--bul-eds--thepixel.hlx.live/uk/foods/fish-snacks)
 
-**Bulk™** has taken these popular hot drinks and given them a unique protein twist – providing a convenient way to increase your daily protein intake.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-RELATED CATEGORIES
-------------------
+---
 
-*   [Foods](/uk/foods)
-*   [Baking ingredients](/uk/foods/baking-ingredients)
-*   [High protein breakfast foods](/uk/foods/breakfast)
-*   [Cheat foods](/uk/foods/cheat-foods)
-*   [Chia](/uk/foods/chia)
-*   [Coconut supplements](/uk/foods/coconut)
-*   [Dried fruit snacks](/uk/foods/dried-fruits)
-*   [Fish snacks](/uk/foods/fish-snacks)
-
-Style
-
-lozenge-list
++-----------------------------------------------------------------------+
+| Metadata                                                              |
++-------------+---------------------------------------------------------+
+| breadcrumbs | true                                                    |
++-------------+---------------------------------------------------------+
+| template    | plp                                                     |
++-------------+---------------------------------------------------------+
+| title       | Drinks & Beverages \| High Protein \| Bulk™             |
++-------------+---------------------------------------------------------+
+| description | Shop high quality Drinks & Beverages at unbeatable      |
+|             | prices. Choose from our selection of shakes and drinks. |
+|             | Bulk™, Formerly Bulk Powders.                           |
++-------------+---------------------------------------------------------+

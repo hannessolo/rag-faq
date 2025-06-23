@@ -1,7 +1,11 @@
-[fr](https://www.bulk.com/fr/products/bouchees-de-granola-proteinees/bpf-pgra)[pl](https://www.bulk.com/pl/products/granola-proteinowa/bpf-pgra)[cz](https://www.bulk.com/cz/products/proteinove-granola-bites/bpf-pgra)[de](https://www.bulk.com/de/products/protein-musli-happchen/bpf-pgra)[ch](https://www.bulk.com/ch/products/protein-musli-happchen/bpf-pgra)[es](https://www.bulk.com/es/products/bocados-de-granola-con-proteinas/bpf-pgra)[ie](https://www.bulk.com/ie/products/protein-granola-bites/bpf-pgra)[eu](https://www.bulk.com/eu/products/protein-granola-bites/bpf-pgra)[se](https://www.bulk.com/se/products/granolabitar-med-protein/bpf-pgra)[ro](https://www.bulk.com/ro/products/bucatele-de-granola-proteice/bpf-pgra)[at](https://www.bulk.com/at/products/protein-musli-happchen/bpf-pgra)[nl](https://www.bulk.com/nl/products/eiwitrijke-granola-bites/bpf-pgra)[dk](https://www.bulk.com/dk/products/protein-granola-bidder/bpf-pgra)[it](https://www.bulk.com/it/products/bites-di-granola-proteici/bpf-pgra)[uk](https://www.bulk.com/uk/notify-out-of-stock)[pt](https://www.bulk.com/pt/products/protein-granola-bites/bpf-pgra)
++---------------------+
+| Section Metadata    |
++---------+-----------+
+| Style   | notify-me |
++---------+-----------+
 
-Style
-
-notify-me
-
-[https://main--bul-eds--thepixel.hlx.page/uk/notify-out-of-stock-form.json](/uk/notify-out-of-stock-form.json)
++--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Form (out-of-stock)                                                                                                                                    |
++--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| [https://main--bul-eds--thepixel.hlx.page/uk/notify-out-of-stock-form.json](https://main--bul-eds--thepixel.hlx.live/uk/notify-out-of-stock-form.json) |
++--------------------------------------------------------------------------------------------------------------------------------------------------------+

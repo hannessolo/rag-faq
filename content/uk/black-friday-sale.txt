@@ -1,10 +1,26 @@
-[de](https://www.bulk.com/de/black-friday-sale)[ch](https://www.bulk.com/ch/black-friday-sale)[at](https://www.bulk.com/at/products/dope-pre-workout/bble-dope)[cz](https://www.bulk.com/cz/black-friday-sale)[ie](https://www.bulk.com/ie/black-friday-sale)[se](https://www.bulk.com/se/black-friday-rea)[pl](https://www.bulk.com/pl/wyprzedazy-black-friday)[it](https://www.bulk.com/it/saldi-black-friday)[pt](https://www.bulk.com/pt/black-friday-sale)[es](https://www.bulk.com/es/rebajas-de-black-friday)[eu](https://www.bulk.com/eu/black-friday-sale)[uk](https://www.bulk.com/uk/black-friday-sale)[ro](https://www.bulk.com/ro/black-friday-sale)[fr](https://www.bulk.com/fr/vente-black-friday)[nl](https://www.bulk.com/nl/black-friday-sale)[dk](https://www.bulk.com/dk/black-friday-udsalg)
+# BULK™ FRIDAY SALE
 
-BULK™ FRIDAY SALE
-=================
++:-----------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                             |
++---------------------------------------------------------+---------------------------------------------------------+
+| category                                                | black-friday-sale                                       |
++-------------------------------------------------------------------------------------------------------------------+
+| Bulk™ Friday is here! Enjoy up to 80% off EVERYTHING in our Black Friday sale. Grab this discount while it lasts! |
++-------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-black-friday-sale
-
-Bulk™ Friday is here! Enjoy up to 80% off EVERYTHING in our Black Friday sale. Grab this discount while it lasts!
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Black Friday 2024 \| Deals on Protein, Supplements & More |
+|             | \| Bulk™                                                  |
++-------------+-----------------------------------------------------------+
+| description | Bulk™ Friday 2024 - Fuel your gains this Black Friday     |
+|             | with unbeatable sports supplements deals at Bulk™. Score  |
+|             | extra savings during the Black Friday weekend!            |
++-------------+-----------------------------------------------------------+

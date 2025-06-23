@@ -1,45 +1,145 @@
-[es](https://www.bulk.com/es/products/guantes-de-levantamiento/bace-lglo)[cz](https://www.bulk.com/cz/products/lifting-gloves/bace-lglo)[se](https://www.bulk.com/se/products/lyfthandskar/bace-lglo)[ch](https://www.bulk.com/ch/products/lifting-gloves/bace-lglo)[it](https://www.bulk.com/it/products/guanti-da-sollevamento/bace-lglo)[eu](https://www.bulk.com/eu/products/lifting-gloves/bace-lglo)[nl](https://www.bulk.com/nl/products/handschoenen-voor-gewichtheffen/bace-lglo)[pt](https://www.bulk.com/pt/products/luvas-para-halterofilismo/bace-lglo)[de](https://www.bulk.com/de/products/lifting-gloves/bace-lglo)[at](https://www.bulk.com/at/products/lifting-gloves/bace-lglo)[fr](https://www.bulk.com/fr/products/gants-de-levage/bace-lglo)[uk](https://www.bulk.com/uk/products/lifting-gloves/bace-lglo)[dk](https://www.bulk.com/dk/products/vagtlofterhandsker/bace-lglo)[ro](https://www.bulk.com/ro/products/lifting-gloves/bace-lglo)[ie](https://www.bulk.com/ie/products/lifting-gloves/bace-lglo)[pl](https://www.bulk.com/pl/products/rekawiczki-do-podnoszenia-ciezarow/bace-lglo)
++----------------------------------------------------------------------------+
+| Product Details                                                            |
++----------------------------------------------------------------------------+
+| # Lifting Gloves                                                           |
++----------------+-----------------------------------------------------------+
+| ## Price       | - Regular Price: £16.99                                   |
+|                | - This product is exempt from discounts                   |
++----------------+-----------------------------------------------------------+
+| ## Size        | - XL                                                      |
++----------------+-----------------------------------------------------------+
+| ## Description | ### Lifting Gloves                                        |
+|                |                                                           |
+|                | Lift, push and pull through your workout.                 |
+|                |                                                           |
+|                | **Bulk™** Lifting Gloves offer a secure, comfortable fit  |
+|                | and are ideal for all types of weight training, from      |
+|                | Olympic lifting and bodybuilding to casual gym sessions.  |
+|                |                                                           |
+|                | They’re padded on the palm for maximum comfort and        |
+|                | protection through your workout. Fingerless, with a       |
+|                | wraparound wristband and velcro fastening for the perfect |
+|                | fit, you’ll get all the grip and support you need to      |
+|                | reach for the next rep.                                   |
+|                |                                                           |
+|                | Available in a sleek black design with contrast white     |
+|                | branding, our Lifting Gloves are ideal for all types of   |
+|                | training. Whether you’re an elite athlete or a casual     |
+|                | gym-goer, look no further than **Bulk™.**                 |
+|                |                                                           |
+|                | - Palm padding for maximum comfort and protection         |
+|                | - Fingerless style                                        |
+|                | - Wraparound wristband for the perfect fit and support    |
+|                | - Velcro fastening                                        |
+|                | - Sleek black design with contrast white branding         |
+|                | - Suitable for all types of training                      |
+|                |                                                           |
+|                | The size guide below is based on the circumference of the |
+|                | hand, below the knuckles.                                 |
++----------------+-----------------------------------------------------------+
 
-Lifting Gloves
-==============
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++-----------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                          |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| title               | Lifting Gloves\|Bulk™ UK                                                                                    |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| description         | Buy our Lifting Gloves to get hands on with your training. Our Training Gloves give you a solid grip on     |
+|                     | anything barbells and kettlebells to pull-up bars. Bulk, Bulk Powders                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| keywords            | Lifting Gloves                                                                                              |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| id                  | 7364                                                                                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| sku                 | BACE-LGLO                                                                                                   |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-05-28T08:27:20.244Z                                                                                    |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                                  |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BACE-LGLO",   "name": "Lifting        |
+|                     | Gloves",   "image":                                                                                         |
+|                     | "https\://www\.bulk.com/media/catalog/product/l/i/lifting\_gloves\_bace\_lglo\_blac\_smal\_main\_0414.jpg", |
+|                     |   "gtin": "",   "description": "Level Up Your Lifting In Complete Comfort",   "@id":                        |
+|                     | "https\://www\.bulk.com/uk/products/lifting-gloves/bace-lglo",   "brand": {     "@type": "Brand",           |
+|                     | "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": "BACE-LGLO-BLAC-XLAR",        |
+|                     | "url": "https\://www\.bulk.com/uk/products/lifting-gloves/bace-lglo?view=ppc\&o=MTc5LTEyNg==",              |
+|                     | "gtin": "5055950614611",       "image":                                                                     |
+|                     | "https\://www\.bulk.com/media/catalog/product/l/i/lifting-gloves\_bace-lglo-blac-smal\_main.jpg",           |
+|                     | "availability": "InStock",       "price": 16.99,       "priceCurrency": "GBP",       "itemCondition":       |
+|                     | "NewCondition",       "priceValidUntil": ""     }   ],   "aggregateRating": {     "@type":                  |
+|                     | "AggregateRating",     "ratingValue": 3.9,     "reviewCount": 46,     "bestRating": 5   } }                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/vagtlofterhandsker/bace-lglo                                             |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/rekawiczki-do-podnoszenia-ciezarow/bace-lglo                             |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/handschoenen-voor-gewichtheffen/bace-lglo                                |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/handschoenen-voor-gewichtheffen/bace-lglo                                |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/lyfthandskar/bace-lglo                                                   |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/guanti-da-sollevamento/bace-lglo                                         |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/luvas-para-halterofilismo/bace-lglo                                      |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/guantes-de-levantamiento/bace-lglo                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/gants-de-levage/bace-lglo                                                |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/gants-de-levage/bace-lglo                                                |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/lifting-gloves/bace-lglo                                                 |
++---------------------+-------------------------------------------------------------------------------------------------------------+
 
-*   Regular Price: £16.99
-*   This product is exempt from discounts
-
-Size
-----
-
-*   XL
-
-Description
------------
-
-### Lifting Gloves
-
-Lift, push and pull through your workout.
-
-**Bulk™** Lifting Gloves offer a secure, comfortable fit and are ideal for all types of weight training, from Olympic lifting and bodybuilding to casual gym sessions.
-
-They’re padded on the palm for maximum comfort and protection through your workout. Fingerless, with a wraparound wristband and velcro fastening for the perfect fit, you’ll get all the grip and support you need to reach for the next rep.
-
-Available in a sleek black design with contrast white branding, our Lifting Gloves are ideal for all types of training. Whether you’re an elite athlete or a casual gym-goer, look no further than **Bulk™.**
-
-*   Palm padding for maximum comfort and protection
-*   Fingerless style
-*   Wraparound wristband for the perfect fit and support
-*   Velcro fastening
-*   Sleek black design with contrast white branding
-*   Suitable for all types of training
-
-The size guide below is based on the circumference of the hand, below the knuckles.
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1a1240ed91ab6ddb9ce55633c8bd79331c62c5ebf.webp#width=2000&height=2000

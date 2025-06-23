@@ -1,8 +1,25 @@
-[at](https://www.bulk.com/at/vitamins/mineralstoff/magnesium)[ie](https://www.bulk.com/ie/vitamins/minerals/magnesium)[nl](https://www.bulk.com/nl/vitamins/mineralen/magnesium)[dk](https://www.bulk.com/dk/vitamins/minerals/magnesium)[es](https://www.bulk.com/es/vitamins/minerales/magnesio)[eu](https://www.bulk.com/eu/vitamins/minerals/magnesium)[se](https://www.bulk.com/se/vitamins/mineraler/magnesium)[ch](https://www.bulk.com/ch/vitamins/mineralien/mineralien)[uk](https://www.bulk.com/uk/vitamins/minerals/magnesium)[pt](https://www.bulk.com/pt/vitamins/minerais/magnesio)[it](https://www.bulk.com/it/vitamins/minerali/magnesio)[de](https://www.bulk.com/de/vitamins/mineralien/magnesium)[cz](https://www.bulk.com/cz/vitamins/mineraly/horcik)[ro](https://www.bulk.com/ro/vitamins/minerale/magneziu)[fr](https://www.bulk.com/fr/vitamins/mineraux/magnesium)[pl](https://www.bulk.com/pl/vitamins/mineralami/magnezem)
+# Magnesium Supplements
 
-Magnesium Supplements
-=====================
++:---------------------------------------:+
+| **Product List Page**                   |
++-----------+-----------------------------+
+| category  | vitamins/minerals/magnesium |
++-----------------------------------------+
+|                                         |
++-----------------------------------------+
 
-category
+---
 
-vitamins/minerals/magnesium
++------------------------------------------------------------------------+
+| Metadata                                                               |
++-------------+----------------------------------------------------------+
+| breadcrumbs | true                                                     |
++-------------+----------------------------------------------------------+
+| template    | plp                                                      |
++-------------+----------------------------------------------------------+
+| title       | Magnesium Supplements & Tablets \| Bulk™                 |
++-------------+----------------------------------------------------------+
+| description | Discover Bulk™'s Magnesium supplements: a range of types |
+|             | & combos with vitamins for your wellness. Explore        |
+|             | benefits & find your perfect match.                      |
++-------------+----------------------------------------------------------+

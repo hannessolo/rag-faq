@@ -1,127 +1,223 @@
-[at](https://www.bulk.com/at/products/getrocknete-cranberrys/bpf-cran)[pl](https://www.bulk.com/pl/products/zurawina-suszona-pl/bpf-cran)[ie](https://www.bulk.com/ie/products/dried-cranberries/bpf-cran)[cz](https://www.bulk.com/cz/products/susene-brusinky/bpf-cran)[it](https://www.bulk.com/it/products/mirtilli-rossi-secchi/bpf-cran)[de](https://www.bulk.com/de/products/getrocknete-cranberries/bpf-cran)[eu](https://www.bulk.com/eu/products/dried-cranberries/bpf-cran)[dk](https://www.bulk.com/dk/products/tranebaer/bpf-cran)[se](https://www.bulk.com/se/products/torkade-tranbar/bpf-cran)[es](https://www.bulk.com/es/products/dried-cranberries/bpf-cran)[ch](https://www.bulk.com/ch/products/getrocknete-cranberries/bpf-cran)[pt](https://www.bulk.com/pt/products/arandos-secos/bpf-cran)[ro](https://www.bulk.com/ro/products/merisoare-uscate/bpf-cran)[fr](https://www.bulk.com/fr/products/canneberges-deshydratees/bpf-cran)[nl](https://www.bulk.com/nl/products/gedroogde-veenbessen/bpf-cran)[uk](https://www.bulk.com/uk/products/dried-cranberries/bpf-cran)
++----------------------------------------------------------------------------+
+| Product Details                                                            |
++----------------------------------------------------------------------------+
+| # Dried Cranberries                                                        |
++----------------+-----------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£6.99~~                                |
+|                | - Final Price: £6.29                                      |
+|                | - Save £0.70                                              |
+|                | - Bestsellers Sale: Up to 75% off - no code required      |
++----------------+-----------------------------------------------------------+
+| ## Size        | - 500g                                                    |
++----------------+-----------------------------------------------------------+
+| ## Description | ### Dried Cranberries                                     |
+|                |                                                           |
+|                | Small, red berries with a slightly tart taste and perfect |
+|                | for snacking on the go or mixing with your favourite      |
+|                | smoothies.                                                |
+|                |                                                           |
+|                | Our Dried Cranberries are an ideal, healthy, and          |
+|                | ultra-convenient snack. Enjoy straight from the pouch, or |
+|                | add to other foods like porridge for a tasty nutritional  |
+|                | boost.                                                    |
+|                |                                                           |
+|                | Our Dried Cranberries are a great way to add to your      |
+|                | diet, whether as a convenient snack on the go or added to |
+|                | foods such as cereals, porridge or yoghurts.              |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Purpose                                               |
+|                |                                                           |
+|                | Our Dried Cranberries are perfect for anyone looking for  |
+|                | an easy and delicious fruit-based snack at any time of    |
+|                | day. Edible straight from the pack, they are a great      |
+|                | option for anyone looking for a natural energy boost, as  |
+|                | well as for adding to meals to boost nutrition and add    |
+|                | flavour. For all the benefits of cranberry in a           |
+|                | convenient tablet form, check out our Cranberry Extract   |
+|                | Tablets.                                                  |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Benefits                                              |
+|                |                                                           |
+|                | - Ultra Convenient                                        |
+|                |                                                           |
+|                | Ready to eat from pouch.                                  |
++----------------+-----------------------------------------------------------+
+| ## Directions  | ### Directions                                            |
+|                |                                                           |
+|                | Great in porridge and granola or eaten as a snack.        |
++----------------+-----------------------------------------------------------+
+| ## Ingredients | ### Ingredients                                           |
+|                |                                                           |
+|                | Cranberries, Sugar, Sunflower Oil.                        |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Suitable For                                          |
+|                |                                                           |
+|                | Halal,Vegan,Vegetarian                                    |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Allergen advice                                       |
+|                |                                                           |
+|                | May contain milk, eggs, soya, cereals containing gluten,  |
+|                | fish, crustaceans, molluscs, mustard, sesame, sulphur     |
+|                | dioxide and sulphites.                                    |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Storage                                               |
+|                |                                                           |
+|                | Store in a dry cool place. Reseal pouch after use.        |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Advisory Information                                  |
+|                |                                                           |
+|                | Although every care has been taken to keep product        |
+|                | information up to date on our website, please always read |
+|                | the information provided on product label or packaging    |
+|                | before use.                                               |
++----------------+-----------------------------------------------------------+
+| ## Nutrition   | +--------------------+-----------+                        |
+|                | | Nutrition          | per 100 g |                        |
+|                | +====================+===========+                        |
+|                | | Energy kJ/kcal     | 1436/339  |                        |
+|                | +--------------------+-----------+                        |
+|                | | Fat                | 1.6g      |                        |
+|                | |                    |           |                        |
+|                | | of which saturates | 0.2g      |                        |
+|                | +--------------------+-----------+                        |
+|                | | Carbohydrate       | 78g       |                        |
+|                | |                    |           |                        |
+|                | | of which sugars    | 71g       |                        |
+|                | +--------------------+-----------+                        |
+|                | | Fibre              | 6.3g      |                        |
+|                | +--------------------+-----------+                        |
+|                | | Protein            | 0g        |                        |
+|                | +--------------------+-----------+                        |
+|                | | Salt               | 0.03g     |                        |
+|                | +--------------------+-----------+                        |
++----------------+-----------------------------------------------------------+
 
-Dried Cranberries
-=================
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                         |
++---------------------+--------------------------------------------------------------------------------------------+
+| title               | Buy Dried Cranberries\|Bulk™ UK                                                            |
++---------------------+--------------------------------------------------------------------------------------------+
+| description         | These delicious Dried Cranberries are fat free, high in fibre along with natural           |
+|                     | antioxidants. A fantastic healthy snack – try now! Bulk, formerly Bulk Powders.            |
++---------------------+--------------------------------------------------------------------------------------------+
+| keywords            | Dried Cranberries, Dried Cranberry, Cranberry, Cranberries, Fruit, Dried Fruit, Active     |
+|                     | Foods, Food, Foods, Active, Fruits, Cystitis, Urinary, Urinary Tract, Antioxidants,        |
+|                     | Antioxidant, Female, Women, Womens, Woman, Womans, Paleo, Paleo Diet                       |
++---------------------+--------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                |
++---------------------+--------------------------------------------------------------------------------------------+
+| id                  | 3279                                                                                       |
++---------------------+--------------------------------------------------------------------------------------------+
+| sku                 | BPF-CRAN                                                                                   |
++---------------------+--------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T11:54:04.623Z                                                                   |
++---------------------+--------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                 |
++---------------------+--------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BPF-CRAN",   "name": |
+|                     | "Dried Cranberries",   "image":                                                            |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/P/BPF\_CRAN\_0000\_Main\_Image\_dc14.jpg", |
+|                     |   "gtin": "",   "description": "Delicious Snacking On The Go",   "@id":                    |
+|                     | "https\://www\.bulk.com/uk/products/dried-cranberries/bpf-cran",   "brand": {     "@type": |
+|                     | "Brand",     "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": |
+|                     | "BPF-CRAN-0000-0500",       "url":                                                         |
+|                     | "https\://www\.bulk.com/uk/products/dried-cranberries/bpf-cran?view=ppc\&o=MTc5LTY5",      |
+|                     |  "gtin": "5060343746893",       "image":                                                   |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/P/BPF\_CRAN\_0000\_Main\_Image\_56f6.jpg", |
+|                     |       "availability": "InStock",       "price": 6.29,       "priceCurrency": "GBP",        |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": "2025-07-01",                    |
+|                     | "priceSpecification": {         "@type": "UnitPriceSpecification",         "priceType":    |
+|                     | "https\://schema.org/ListPrice",         "price": 6.99,         "priceCurrency": "GBP"     |
+|                     |   }     }   ],   "aggregateRating": {     "@type": "AggregateRating",     "ratingValue":   |
+|                     | 4\.7,     "reviewCount": 574,     "bestRating": 5   } }                                    |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/getrocknete-cranberries/bpf-cran                        |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/tranebaer/bpf-cran                                      |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/susene-brusinky/bpf-cran                                |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/canneberges-deshydratees/bpf-cran                       |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/canneberges-deshydratees/bpf-cran                       |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/getrocknete-cranberrys/bpf-cran                         |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/mirtilli-rossi-secchi/bpf-cran                          |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/getrocknete-cranberries/bpf-cran                        |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/zurawina-suszona-pl/bpf-cran                            |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/merisoare-uscate/bpf-cran                               |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/torkade-tranbar/bpf-cran                                |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/arandos-secos/bpf-cran                                  |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/gedroogde-veenbessen/bpf-cran                           |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/gedroogde-veenbessen/bpf-cran                           |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/dried-cranberries/bpf-cran                              |
++---------------------+--------------------------------------------------------------------------------------------+
 
-*   Regular Price: £6.99
-*   Final Price: £6.29
-*   Save £0.70
-*   Bestsellers Sale: Up to 75% off - no code required
-
-Size
-----
-
-*   500g
-
-Description
------------
-
-### Dried Cranberries
-
-Small, red berries with a slightly tart taste and perfect for snacking on the go or mixing with your favourite smoothies.
-
-Our Dried Cranberries are an ideal, healthy, and ultra-convenient snack. Enjoy straight from the pouch, or add to other foods like porridge for a tasty nutritional boost.
-
-Our Dried Cranberries are a great way to add to your diet, whether as a convenient snack on the go or added to foods such as cereals, porridge or yoghurts.
-
-\\
-
-### Purpose
-
-Our Dried Cranberries are perfect for anyone looking for an easy and delicious fruit-based snack at any time of day. Edible straight from the pack, they are a great option for anyone looking for a natural energy boost, as well as for adding to meals to boost nutrition and add flavour. For all the benefits of cranberry in a convenient tablet form, check out our Cranberry Extract Tablets.
-
-\\
-
-### Benefits
-
-*   Ultra Convenient
-
-Ready to eat from pouch.
-
-Directions
-----------
-
-### Directions
-
-Great in porridge and granola or eaten as a snack.
-
-Ingredients
------------
-
-### Ingredients
-
-Cranberries, Sugar, Sunflower Oil.
-
-\\
-
-### Suitable For
-
-Halal,Vegan,Vegetarian
-
-\\
-
-### Allergen advice
-
-May contain milk, eggs, soya, cereals containing gluten, fish, crustaceans, molluscs, mustard, sesame, sulphur dioxide and sulphites.
-
-\\
-
-### Storage
-
-Store in a dry cool place. Reseal pouch after use.
-
-\\
-
-### Advisory Information
-
-Although every care has been taken to keep product information up to date on our website, please always read the information provided on product label or packaging before use.
-
-Nutrition
----------
-
-Nutrition
-
-per 100 g
-
-Energy kJ/kcal
-
-1436/339
-
-Fat
-
-of which saturates
-
-1.6g
-
-0.2g
-
-Carbohydrate
-
-of which sugars
-
-78g
-
-71g
-
-Fibre
-
-6.3g
-
-Protein
-
-0g
-
-Salt
-
-0.03g
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1c9bc47460c2e2a71f9bf3932acafcb4d1cbcf236.webp#width=2000&height=2000

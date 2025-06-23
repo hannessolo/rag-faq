@@ -1,121 +1,224 @@
-[at](https://www.bulk.com/at/products/complete-gelenksaufbau-aut/bble-cjre)[ch](https://www.bulk.com/ch/products/glucosamin-sulfat-de/bpb-gsul-0000)[pt](https://www.bulk.com/pt/products/recuperacao-articular-completa/bble-cjre)[se](https://www.bulk.com/se/products/complete-joint-restore-se/bble-cjre)[eu](https://www.bulk.com/eu/products/complete-joint-restore/bble-cjre)[pl](https://www.bulk.com/pl/products/kompletna-mieszanka-przywracajaca-funkcjonowanie-stawow-pl/bble-cjre)[de](https://www.bulk.com/de/products/complete-gelenkerholung/bble-cjre)[es](https://www.bulk.com/es/products/reconstituyente-articular-completo/bble-cjre)[ie](https://www.bulk.com/ie/products/complete-joint-restore/bble-cjre)[dk](https://www.bulk.com/dk/products/complete-joint-restore-dk/bble-cjre)[cz](https://www.bulk.com/cz/products/complete-joint-restore/bble-cjre)[ro](https://www.bulk.com/ro/products/complete-joint-restore/bble-cjre)[fr](https://www.bulk.com/fr/products/formulation-complete-sante-des-articulations/bble-cjre)[uk](https://www.bulk.com/uk/products/complete-joint-restore/bble-cjre)[it](https://www.bulk.com/it/products/rigeneratore-articolare-completo-i/bble-cjre)[nl](https://www.bulk.com/nl/products/compleet-gewrichtsherstel/bble-cjre)
++---------------------------------------------------------------------------------------------+
+| Product Details                                                                             |
++---------------------------------------------------------------------------------------------+
+| # Joint Restore                                                                             |
++----------------+----------------------------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£29.99~~                                                |
+|                | - Final Price: £22.49                                                      |
+|                | - Save £7.50                                                               |
+|                | - Bestsellers Sale: Up to 75% off - no code required                       |
++----------------+----------------------------------------------------------------------------+
+| ## QTY         | - 180 Capsules                                                             |
++----------------+----------------------------------------------------------------------------+
+| ## Description | ### Joint Restore                                                          |
+|                |                                                                            |
+|                | An exciting formula, exclusive to Bulk™, providing a combination of Cissus |
+|                | quadrangularis, bromelain, glucosamine sulphate and chondroitin sulphate.  |
+|                |                                                                            |
+|                | Joint Restore Capsules is more than your typical glucosamine and           |
+|                | chondroitin formula. We added a combination of complementary extracts to   |
+|                | create the ideal nutritional supplement for strength, power and endurance  |
+|                | athletes.                                                                  |
+|                |                                                                            |
+|                | \                                                                          |
+|                |                                                                            |
+|                |                                                                            |
+|                | ### Purpose                                                                |
+|                |                                                                            |
+|                | Our Joint Restore Capsules supplements are ideal for strength, power and   |
+|                | endurance trainers who put extra strain on their joints during exercise,   |
+|                | as well as regular trainers.                                               |
+|                |                                                                            |
+|                | \                                                                          |
+|                |                                                                            |
+|                |                                                                            |
+|                | ### Benefits                                                               |
+|                |                                                                            |
+|                | - Combined Action                                                          |
+|                |                                                                            |
+|                | By blending unique ingredients with different purposes, you get the best   |
+|                | potential in a single supplement.                                          |
+|                |                                                                            |
+|                | - Optimal Dose                                                             |
+|                |                                                                            |
+|                | Dosed at optimal levels for peak performance.                              |
++----------------+----------------------------------------------------------------------------+
+| ## Directions  | ### Directions                                                             |
+|                |                                                                            |
+|                | Take 6 Joint Restore Capsules™ capsules spaced evenly throughout the day,  |
+|                | ideally with food. For example, you could take 2 capsules with breakfast,  |
+|                | lunch and dinner.                                                          |
++----------------+----------------------------------------------------------------------------+
+| ## Ingredients | ### Ingredients                                                            |
+|                |                                                                            |
+|                | Glucosamine Sulphate Potassium Chloride (2KCl) (**Crustaceans**),          |
+|                | Bromelain, Chondroitin Sulphate, Capsule Shell (Hydroxypropyl Methyl       |
+|                | Cellulose), Bulking Agent (Microcrystalline Cellulose), Anti-Caking Agents |
+|                | (Magnesium Stearate, Silicon Dioxide), Cissus Quadrangularis Extract       |
+|                | (25:1).                                                                    |
+|                |                                                                            |
+|                | \                                                                          |
+|                |                                                                            |
+|                |                                                                            |
+|                | ### Suitable For                                                           |
+|                |                                                                            |
+|                | Halal                                                                      |
+|                |                                                                            |
+|                | \                                                                          |
+|                |                                                                            |
+|                |                                                                            |
+|                | ### Allergen advice                                                        |
+|                |                                                                            |
+|                | For allergens, see ingredients in **bold**.                                |
+|                |                                                                            |
+|                | May contain soya, cereals containing gluten, fish, molluscs, sulphur       |
+|                | dioxide and sulphites.                                                     |
+|                |                                                                            |
+|                | \                                                                          |
+|                |                                                                            |
+|                |                                                                            |
+|                | ### Storage                                                                |
+|                |                                                                            |
+|                | Store in a cool dry place. Replace lid after use.                          |
+|                |                                                                            |
+|                | \                                                                          |
+|                |                                                                            |
+|                |                                                                            |
+|                | ### Advisory Information                                                   |
+|                |                                                                            |
+|                | Food supplements are not intended to replace a varied and balanced diet    |
+|                | and a healthy lifestyle. Do not exceed the recommended usage. Keep out of  |
+|                | reach of children.                                                         |
+|                |                                                                            |
+|                | Although every care has been taken to keep product information up to date  |
+|                | on our website, please always read the information provided on product     |
+|                | label or packaging before use.                                             |
+|                |                                                                            |
+|                | The actual results of consuming dietary supplements may differ from those  |
+|                | implied. Individuals may respond differently, and the suggested results    |
+|                | presume appropriate nutrition and training plan.                           |
++----------------+----------------------------------------------------------------------------+
+| ## Nutrition   | ### Active Ingredients                                                     |
+|                |                                                                            |
+|                | +-------------------------------+----------------------------------------+ |
+|                | | Ingredient                    | Per Serving (6 Capsules)               | |
+|                | +===============================+========================================+ |
+|                | | Glucosamine Sulphate          | 1200 mg (providing Glucosamine 942 mg) | |
+|                | +-------------------------------+----------------------------------------+ |
+|                | | Bromelain                     | 900 GDU                                | |
+|                | +-------------------------------+----------------------------------------+ |
+|                | | Chondroitin Sulphate          | 600 mg                                 | |
+|                | +-------------------------------+----------------------------------------+ |
+|                | | Cissus Quadrangularis Extract | 60 mg (1500 mg plant equivalent)       | |
+|                | +-------------------------------+----------------------------------------+ |
++----------------+----------------------------------------------------------------------------+
 
-Joint Restore
-=============
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++-------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                      |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| title               | Complete Joint Restore™\|Bulk™ UK                                                                       |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| description         | Complete Joint Restore is formulated with Cissus Quadrangularis, Glucosamine Sulphate, Chondroitin      |
+|                     | Sulphate and Bromelain - it is the UK's best value joint health product. Bulk, formerly Bulk Powders.   |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| keywords            | Joint Restore™, Joint Restore, Joint, Joints, Restore, Joint Support, Joint Health, Joint Supplement,   |
+|                     | Tendons, Ligaments, Cissus, Cissus Quadrangularis, Glucosamine, Glucosamine Sulphate, Bromelain, Anti   |
+|                     | Inflammatory, Chondroitin, Chondroitin Sulphate, Complete Joint Restore™, Complete, Complete Series,    |
+|                     | Complete Series Joint Restore                                                                           |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                             |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| id                  | 3035                                                                                                    |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| sku                 | BBLE-CJRE                                                                                               |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-20T17:49:31.696Z                                                                                |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                              |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BBLE-CJRE",   "name": "Joint      |
+|                     | Restore",   "image":                                                                                    |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/B/BBLE\_CJRE\_CAPS\_Main\_Image\_c71d.jpg",   "gtin":   |
+|                     | "",   "description": "With 4 Unique Active Ingredients",   "@id":                                       |
+|                     | "https\://www\.bulk.com/uk/products/complete-joint-restore/bble-cjre",   "brand": {     "@type":        |
+|                     | "Brand",     "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku":              |
+|                     | "BBLE-CJRE-CAPS-0180-V2",       "url":                                                                  |
+|                     | "https\://www\.bulk.com/uk/products/complete-joint-restore/bble-cjre?view=ppc\&o=MjA1LTE3OTQ0",         |
+|                     | "gtin": "5055950622333",       "image":                                                                 |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/B/BBLE\_CJRE\_CAPS\_Main\_Image\_a4e0.jpg",             |
+|                     | "availability": "InStock",       "price": 22.49,       "priceCurrency": "GBP",       "itemCondition":   |
+|                     | "NewCondition",       "priceValidUntil": "2025-07-01",       "priceSpecification": {         "@type":   |
+|                     | "UnitPriceSpecification",         "priceType": "https\://schema.org/ListPrice",         "price": 29.99, |
+|                     |         "priceCurrency": "GBP"       }     }   ],   "aggregateRating": {     "@type":                   |
+|                     | "AggregateRating",     "ratingValue": 4.4,     "reviewCount": 424,     "bestRating": 5   } }            |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/complete-joint-restore-dk/bble-cjre                                  |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/kompletna-mieszanka-przywracajaca-funkcjonowanie-stawow-pl/bble-cjre |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/complete-joint-restore-se/bble-cjre                                  |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/complete-gelenksaufbau-aut/bble-cjre                                 |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/compleet-gewrichtsherstel/bble-cjre                                  |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/compleet-gewrichtsherstel/bble-cjre                                  |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/rigeneratore-articolare-completo-i/bble-cjre                         |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/formulation-complete-sante-des-articulations/bble-cjre               |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/formulation-complete-sante-des-articulations/bble-cjre               |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/reconstituyente-articular-completo/bble-cjre                         |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/recuperacao-articular-completa/bble-cjre                             |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/complete-gelenkerholung/bble-cjre                                    |
++---------------------+---------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/complete-joint-restore/bble-cjre                                     |
++---------------------+---------------------------------------------------------------------------------------------------------+
 
-*   Regular Price: £29.99
-*   Final Price: £22.49
-*   Save £7.50
-*   Bestsellers Sale: Up to 75% off - no code required
-
-QTY
----
-
-*   180 Capsules
-
-Description
------------
-
-### Joint Restore
-
-An exciting formula, exclusive to Bulk™, providing a combination of Cissus quadrangularis, bromelain, glucosamine sulphate and chondroitin sulphate.
-
-Joint Restore Capsules is more than your typical glucosamine and chondroitin formula. We added a combination of complementary extracts to create the ideal nutritional supplement for strength, power and endurance athletes.
-
-\\
-
-### Purpose
-
-Our Joint Restore Capsules supplements are ideal for strength, power and endurance trainers who put extra strain on their joints during exercise, as well as regular trainers.
-
-\\
-
-### Benefits
-
-*   Combined Action
-
-By blending unique ingredients with different purposes, you get the best potential in a single supplement.
-
-*   Optimal Dose
-
-Dosed at optimal levels for peak performance.
-
-Directions
-----------
-
-### Directions
-
-Take 6 Joint Restore Capsules™ capsules spaced evenly throughout the day, ideally with food. For example, you could take 2 capsules with breakfast, lunch and dinner.
-
-Ingredients
------------
-
-### Ingredients
-
-Glucosamine Sulphate Potassium Chloride (2KCl) (**Crustaceans**), Bromelain, Chondroitin Sulphate, Capsule Shell (Hydroxypropyl Methyl Cellulose), Bulking Agent (Microcrystalline Cellulose), Anti-Caking Agents (Magnesium Stearate, Silicon Dioxide), Cissus Quadrangularis Extract (25:1).
-
-\\
-
-### Suitable For
-
-Halal
-
-\\
-
-### Allergen advice
-
-For allergens, see ingredients in **bold**.
-
-May contain soya, cereals containing gluten, fish, molluscs, sulphur dioxide and sulphites.
-
-\\
-
-### Storage
-
-Store in a cool dry place. Replace lid after use.
-
-\\
-
-### Advisory Information
-
-Food supplements are not intended to replace a varied and balanced diet and a healthy lifestyle. Do not exceed the recommended usage. Keep out of reach of children.
-
-Although every care has been taken to keep product information up to date on our website, please always read the information provided on product label or packaging before use.
-
-The actual results of consuming dietary supplements may differ from those implied. Individuals may respond differently, and the suggested results presume appropriate nutrition and training plan.
-
-Nutrition
----------
-
-### Active Ingredients
-
-Ingredient
-
-Per Serving (6 Capsules)
-
-Glucosamine Sulphate
-
-1200 mg (providing Glucosamine 942 mg)
-
-Bromelain
-
-900 GDU
-
-Chondroitin Sulphate
-
-600 mg
-
-Cissus Quadrangularis Extract
-
-60 mg (1500 mg plant equivalent)
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_16ded1387fe5449e6c7cc9021fba3e30fd4c3bd2c.webp#width=2000&height=2000

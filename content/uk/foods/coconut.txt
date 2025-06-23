@@ -1,60 +1,108 @@
-[uk](https://www.bulk.com/uk/foods/coconut)[fr](https://www.bulk.com/fr/produits-alimentaires/noix-de-coco)[cz](https://www.bulk.com/cz/foods/coconut)[de](https://www.bulk.com/de/nahrungsmittel/kokosnuss)[ch](https://www.bulk.com/ch/nahrungsmittel/kokosnuss)[es](https://www.bulk.com/es/alimentacion/coco)[ie](https://www.bulk.com/ie/foods/coconut)[eu](https://www.bulk.com/eu/foods/coconut)[se](https://www.bulk.com/se/livsmedel/kokosnot)[ro](https://www.bulk.com/ro/foods/coconut)[at](https://www.bulk.com/at/nahrungsmittel/kokosnuss)[nl](https://www.bulk.com/nl/voeding/kokos)[dk](https://www.bulk.com/dk/madvarer/kokos)[it](https://www.bulk.com/it/alimenti-2/cocco)[pt](https://www.bulk.com/pt/alimentos-saudaveis/coco)[pl](https://www.bulk.com/pl/zywnosc/kokos)
+# Coconut
 
-Coconut
-=======
++:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                     |
++-------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------+
+| category                                                                                                    | foods/coconut                                                                                               |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Coconut has been one of the major food trends of recent years. Coconut products such as Coconut Flour and Organic Virgin Coconut Oil have gained huge recognition for the wide range of health benefits that they         |
+| promote. **Bulk™** range of Coconut products are rich in Medium Chain Triglycerides, electrolytes, vitamins and minerals.                                                                                                 |
+|                                                                                                                                                                                                                           |
+| Discover our range of coconut snacks, foods and supplements.                                                                                                                                                              |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-foods/coconut
+## Coconut FAQS
 
-Coconut has been one of the major food trends of recent years. Coconut products such as Coconut Flour and Organic Virgin Coconut Oil have gained huge recognition for the wide range of health benefits that they promote. **Bulk™** range of Coconut products are rich in Medium Chain Triglycerides, electrolytes, vitamins and minerals.
++---------------------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                                           |
++---------------------------------------------------------+-----------------------------------------------------------+
+| What are coconut supplements?                           | Coconut supplements, like any supplement, are designed to |
+|                                                         | make it easier to increase your intake of a certain       |
+|                                                         | substance. It can be hard to increase how much coconut    |
+|                                                         | you have in your diet, short of, well, eating a whole lot |
+|                                                         | of coconuts. Supplements cut out the hassle, and simplify |
+|                                                         | implementing coconut as part of a healthy diet.           |
++---------------------------------------------------------+-----------------------------------------------------------+
+| What are the benefits of coconut supplements?           | Coconut is nature’s substitute - it can be used in place  |
+|                                                         | of a whole load of things that you may be trying to avoid |
+|                                                         | as part of your diet. Coconut oil is a healthy            |
+|                                                         | alternative to butter and extra-virgin olive oils, whilst |
+|                                                         | coconut sugar can be used in place of the white stuff for |
+|                                                         | a healthier, yet tasty alternative. Plus, there’s some    |
+|                                                         | evidence that coconut can help your skin, and can be used |
+|                                                         | as a natural moisturiser.                                 |
++---------------------------------------------------------+-----------------------------------------------------------+
+| Is it OK to take coconut supplements every day?         | Our supplements are designed to be easily implemented     |
+|                                                         | into a healthy and balanced diet - you can use these      |
+|                                                         | products daily, if that’s what suits your lifestyle. Our  |
+|                                                         | powdered coconut is easy to add to shakes and smoothies,  |
+|                                                         | and to use as part of other recipes to deepen the         |
+|                                                         | flavour.                                                  |
++---------------------------------------------------------+-----------------------------------------------------------+
+| What vitamins are in coconuts?                          | Coconuts are rich in minerals and fibre and vitamin B1,   |
+|                                                         | B3, B5, B6, C and E are naturally present in them. Making |
+|                                                         | them an organic source of healthy nutrients, all of which |
+|                                                         | contribute to your overall health. Vitamins are so        |
+|                                                         | important for training, and for your recovery - they help |
+|                                                         | maintain muscle.                                          |
++---------------------------------------------------------+-----------------------------------------------------------+
+| How do you incorporate coconut products into your diet? | Coconut is so easy to incorporate into your diet and      |
+|                                                         | lifestyle. Coconut oils and sugar are useful in the       |
+|                                                         | kitchen, and you can sprinkle some dried coconut into     |
+|                                                         | recipes to give it an extra kick. If you’re a purist      |
+|                                                         | enthusiast, you can just add our coconut products in with |
+|                                                         | other Bulk™ products to enhance the work that shake or    |
+|                                                         | smoothie is already doing.                                |
++---------------------------------------------------------+-----------------------------------------------------------+
+| Do coconut products have a long shelf life?             | Coconut powders and oils have a long shelf life, meaning  |
+|                                                         | they can live at room temperature in your cupboard        |
+|                                                         | without you having to use them too quickly. We always     |
+|                                                         | recommend checking the label though - especially if       |
+|                                                         | products have been opened, or if you’re transferring them |
+|                                                         | to another container such as our Empty Tubs.              |
++---------------------------------------------------------+-----------------------------------------------------------+
 
-Discover our range of coconut snacks, foods and supplements.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-Coconut FAQS
-------------
+---
 
-What are coconut supplements?
+## RELATED CATEGORIES
 
-Coconut supplements, like any supplement, are designed to make it easier to increase your intake of a certain substance. It can be hard to increase how much coconut you have in your diet, short of, well, eating a whole lot of coconuts. Supplements cut out the hassle, and simplify implementing coconut as part of a healthy diet.
+- [Bars & flapjacks](https://dev--bul-eds--thepixel.hlx.live/uk/foods/bars-flapjacks)
+- [Baking ingredients](https://dev--bul-eds--thepixel.hlx.live/uk/foods/baking-ingredients)
+- [Beef protein snacks](https://dev--bul-eds--thepixel.hlx.live/uk/foods/beef-snacks)
+- [High protein breakfast foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/breakfast)
+- [Cheat foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/cheat-foods)
+- [Chia seeds](https://dev--bul-eds--thepixel.hlx.live/uk/foods/chia)
+- [Healthy foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods)
+- [Dried fruit snacks](https://dev--bul-eds--thepixel.hlx.live/uk/foods/dried-fruits)
+- [Drinks & beverages](https://dev--bul-eds--thepixel.hlx.live/uk/foods/drinks-beverages)
 
-What are the benefits of coconut supplements?
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-Coconut is nature’s substitute - it can be used in place of a whole load of things that you may be trying to avoid as part of your diet. Coconut oil is a healthy alternative to butter and extra-virgin olive oils, whilst coconut sugar can be used in place of the white stuff for a healthier, yet tasty alternative. Plus, there’s some evidence that coconut can help your skin, and can be used as a natural moisturiser.
+---
 
-Is it OK to take coconut supplements every day?
-
-Our supplements are designed to be easily implemented into a healthy and balanced diet - you can use these products daily, if that’s what suits your lifestyle. Our powdered coconut is easy to add to shakes and smoothies, and to use as part of other recipes to deepen the flavour.
-
-What vitamins are in coconuts?
-
-Coconuts are rich in minerals and fibre and vitamin B1, B3, B5, B6, C and E are naturally present in them. Making them an organic source of healthy nutrients, all of which contribute to your overall health. Vitamins are so important for training, and for your recovery - they help maintain muscle.
-
-How do you incorporate coconut products into your diet?
-
-Coconut is so easy to incorporate into your diet and lifestyle. Coconut oils and sugar are useful in the kitchen, and you can sprinkle some dried coconut into recipes to give it an extra kick. If you’re a purist enthusiast, you can just add our coconut products in with other Bulk™ products to enhance the work that shake or smoothie is already doing.
-
-Do coconut products have a long shelf life?
-
-Coconut powders and oils have a long shelf life, meaning they can live at room temperature in your cupboard without you having to use them too quickly. We always recommend checking the label though - especially if products have been opened, or if you’re transferring them to another container such as our Empty Tubs.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Bars & flapjacks](/uk/foods/bars-flapjacks)
-*   [Baking ingredients](/uk/foods/baking-ingredients)
-*   [Beef protein snacks](/uk/foods/beef-snacks)
-*   [High protein breakfast foods](/uk/foods/breakfast)
-*   [Cheat foods](/uk/foods/cheat-foods)
-*   [Chia seeds](/uk/foods/chia)
-*   [Healthy foods](/uk/foods)
-*   [Dried fruit snacks](/uk/foods/dried-fruits)
-*   [Drinks & beverages](/uk/foods/drinks-beverages)
-
-Style
-
-lozenge-list
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Coconut Snacks \| Bulk™                                   |
++-------------+-----------------------------------------------------------+
+| description | Explore the health benefits of Coconut with Bulk™'s       |
+|             | range, rich in MCTs, electrolytes, vitamins, and          |
+|             | minerals. Discover coconut snacks, foods, and supplements |
+|             | for a healthier you.                                      |
++-------------+-----------------------------------------------------------+

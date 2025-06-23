@@ -1,52 +1,83 @@
-[pl](https://www.bulk.com/pl/vitamins/witamina-b)[de](https://www.bulk.com/de/vitamins/vitamin-b)[pt](https://www.bulk.com/pt/vitamins/vitamina-b)[uk](https://www.bulk.com/uk/vitamins/vitamin-b)[fr](https://www.bulk.com/fr/vitamins/vitamine-b)[cz](https://www.bulk.com/cz/vitamins/vitamin-b)[dk](https://www.bulk.com/dk/vitamins/vitamin-b)[ro](https://www.bulk.com/ro/vitamins/vitamina-b)[ch](https://www.bulk.com/ch/vitamins/vitamin-b)[it](https://www.bulk.com/it/vitamins/vitamin-b)[es](https://www.bulk.com/es/vitamins/vitamina-b)[nl](https://www.bulk.com/nl/vitamins/vitamine-b)[ie](https://www.bulk.com/ie/vitamins/vitamin-b)[eu](https://www.bulk.com/eu/vitamins/vitamin-b)[se](https://www.bulk.com/se/vitamins/vitamin-b)[at](https://www.bulk.com/at/vitamins/vitamin-b)
+# Vitamin B Supplements
 
-Vitamin B Supplements
-=====================
++:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                                                                                                                                        | vitamins/vitamin-b                                                                                                                                                                                                                                                                              |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Vitamin B comprises over half of the vitamins that our bodies require to function – so a Vitamin B deficiency can be quite debilitating and often manifests through physical symptoms such as tiredness and fatigue. Vitamin B contributes to the reduction of tiredness and fatigue, which makes it a perfect go-to supplement for anyone looking to improve their energy levels.                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Vegetarians and vegans in particular, can struggle to consume adequate Vitamin B through their diet, so supplementation is often recommended – particularly as Vitamin B is involved in a range of bodily processes – ranging from the formation of red blood cells to the function of the nervous system.                                                                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **Bulk™** stocks a wide range of the highest quality and potency Vitamin B supplements – from our fully-comprehensive **[B Vitamin Complex](https://main--bul-eds--thepixel.hlx.live/uk/products/b-vitamin-complex-tablets/bpb-bvit-0000)** formula, which contains all eight B Vitamins, plus Choline, PABA and Inositol – to individual B Vitamins such as **[Vitamin B5 Powder](https://main--bul-eds--thepixel.hlx.live/uk/products/vitamin-b5/bpb-b5p-0000)** or **[Vitamin B12 Tablets](https://main--bul-eds--thepixel.hlx.live/uk/products/vitamin-b12-tablets-1000-mcg/bpb-vb12-0000)**. |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-vitamins/vitamin-b
+## Vitamin B FAQ'S
 
-Vitamin B comprises over half of the vitamins that our bodies require to function – so a Vitamin B deficiency can be quite debilitating and often manifests through physical symptoms such as tiredness and fatigue. Vitamin B contributes to the reduction of tiredness and fatigue, which makes it a perfect go-to supplement for anyone looking to improve their energy levels.
++----------------------------------------------------------------------------------------------------+
+| Accordion                                                                                          |
++----------------------------------------+-----------------------------------------------------------+
+| Do vitamin B supplements do anything?  | B vitamins play a key role in maintaining positive health |
+|                                        | and wellbeing. Being the building blocks of a healthy     |
+|                                        | body, B complex vitamins contribute to the normal energy  |
+|                                        | yielding metabolism, cognitive function, as well as       |
+|                                        | nervous system function.                                  |
++----------------------------------------+-----------------------------------------------------------+
+| Is it ok to take B Complex everyday?   | Yes. We advise taking 1 tablet per day of our B Vitamin   |
+|                                        | Complex Tablets, ideally with food.                       |
++----------------------------------------+-----------------------------------------------------------+
+| Should I take B12 or B complex?        | The main difference between B12 and B complex is that B12 |
+|                                        | is just one of the eight B vitamins that make up the B    |
+|                                        | complex. Whichever one you choose to take would largely   |
+|                                        | depend on your intended use, but both are good options    |
+|                                        | for topping up either your B12 levels and/or your         |
+|                                        | B-vitamins as a whole.                                    |
++----------------------------------------+-----------------------------------------------------------+
+| What is the best vitamin B supplement? | Our High Strength Vitamin B12 tablets are ideal for       |
+|                                        | anyone looking to boost their B12 intake, providing       |
+|                                        | 40,000% of your reference intake. Though, if you’re       |
+|                                        | looking to cover all bases when it comes to B Vitamins,   |
+|                                        | our B Vitamin Complex Tablets are our top pick.           |
++----------------------------------------+-----------------------------------------------------------+
 
-Vegetarians and vegans in particular, can struggle to consume adequate Vitamin B through their diet, so supplementation is often recommended – particularly as Vitamin B is involved in a range of bodily processes – ranging from the formation of red blood cells to the function of the nervous system.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-**Bulk™** stocks a wide range of the highest quality and potency Vitamin B supplements – from our fully-comprehensive **[B Vitamin Complex](/uk/products/b-vitamin-complex-tablets/bpb-bvit-0000)** formula, which contains all eight B Vitamins, plus Choline, PABA and Inositol – to individual B Vitamins such as **[Vitamin B5 Powder](/uk/products/vitamin-b5/bpb-b5p-0000)** or **[Vitamin B12 Tablets](/uk/products/vitamin-b12-tablets-1000-mcg/bpb-vb12-0000)**.
+---
 
-Vitamin B FAQ'S
----------------
+## RELATED CATEGORIES
 
-Do vitamin B supplements do anything?
+- [Multivitamins](https://www.bulk.com/uk/health-wellbeing/multivitamins)
+- [Vegan vitamins](https://dev--bul-eds--thepixel.hlx.live/uk/vegan/vegan-vitamins)
+- [Vitamin C supplements](https://dev--bul-eds--thepixel.hlx.live/uk/vitamins/vitamin-c)
+- [Vitamin D supplements](https://dev--bul-eds--thepixel.hlx.live/uk/vitamins/vitamin-d)
+- [Vitamin E supplements](https://dev--bul-eds--thepixel.hlx.live/uk/vitamins/vitamin-e)
+- [Immune support supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/immune-support)
+- [Omega 3 supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/omega-3)
 
-B vitamins play a key role in maintaining positive health and wellbeing. Being the building blocks of a healthy body, B complex vitamins contribute to the normal energy yielding metabolism, cognitive function, as well as nervous system function.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-Is it ok to take B Complex everyday?
+---
 
-Yes. We advise taking 1 tablet per day of our B Vitamin Complex Tablets, ideally with food.
-
-Should I take B12 or B complex?
-
-The main difference between B12 and B complex is that B12 is just one of the eight B vitamins that make up the B complex. Whichever one you choose to take would largely depend on your intended use, but both are good options for topping up either your B12 levels and/or your B-vitamins as a whole.
-
-What is the best vitamin B supplement?
-
-Our High Strength Vitamin B12 tablets are ideal for anyone looking to boost their B12 intake, providing 40,000% of your reference intake. Though, if you’re looking to cover all bases when it comes to B Vitamins, our B Vitamin Complex Tablets are our top pick.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Multivitamins](https://www.bulk.com/uk/health-wellbeing/multivitamins)
-*   [Vegan vitamins](/uk/vegan/vegan-vitamins)
-*   [Vitamin C supplements](/uk/vitamins/vitamin-c)
-*   [Vitamin D supplements](/uk/vitamins/vitamin-d)
-*   [Vitamin E supplements](/uk/vitamins/vitamin-e)
-*   [Immune support supplements](/uk/health-wellbeing/immune-support)
-*   [Omega 3 supplements](/uk/health-wellbeing/omega-3)
-
-Style
-
-lozenge-list
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Vitamin B Tablets, Capsules & Supplements \| Bulk™        |
++-------------+-----------------------------------------------------------+
+| description | Shop our wide range of high quality Vitamin B Supplements |
+|             | at unbeatable prices. FREE UK delivery. Bulk™, Formerly   |
+|             | Bulk Powders.                                             |
++-------------+-----------------------------------------------------------+

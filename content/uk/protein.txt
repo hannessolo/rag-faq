@@ -1,58 +1,98 @@
-[pl](https://www.bulk.com/pl/odzywki-bialkowe)[pt](https://www.bulk.com/pt/proteinas)[dk](https://www.bulk.com/dk/protein)[at](https://www.bulk.com/at/protein)[it](https://www.bulk.com/it/proteine)[ch](https://www.bulk.com/ch/protein)[nl](https://www.bulk.com/nl/proteine)[uk](https://www.bulk.com/uk/protein)[de](https://www.bulk.com/de/protein)[ie](https://www.bulk.com/ie/protein)[ro](https://www.bulk.com/ro/protein)[es](https://www.bulk.com/es/proteinas)[se](https://www.bulk.com/se/protein)[fr](https://www.bulk.com/fr/proteine)[cz](https://www.bulk.com/cz/protein)[eu](https://www.bulk.com/eu/protein)
+# Protein Powder
 
-Protein Powder
-==============
++:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                                                                                    | protein                                                                                                                                                                                                                                    |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Looking for a leading range of protein powders, shakes and supplements? You’ve landed on the right page. There’s no room for second place here. We create the contents of every pouch in-house. In fact, it’s a pretty impressive factory, and our high standards are hard to match. We know exactly what’s inside, which means so do you.                                                                                                                                               |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Choose from our popular [whey proteins](https://main--bul-eds--thepixel.hlx.live/uk/protein/whey-protein), plant-powered [vegan proteins](https://main--bul-eds--thepixel.hlx.live/uk/vegan/vegan-protein-powders.html), naturally sweetened shakes and so much more. Not convinced? The majority of our protein shakes contain less than 120 calories per serving. Seriously, it’s time to start shopping.                                                                              |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Discover our winning range of protein powders, shakes and supplements.                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Prefer an alternative to dairy? Try our [Beef Protein Isolate 97](https://www.bulk.com/uk/products/beef-protein-isolate-97-hydrobeef/bpb-hbee-0000). If you're looking for something lighter and more refreshing, check out our [Clear Whey Isolate](https://www.bulk.com/uk/products/clear-whey-isolate/bpb-cwhe). Or, if you're on a weight management journey, our [Diet Protein Shake](https://www.bulk.com/uk/products/complete-diet-protein-advanced/bble-cdpa) is a great choice. |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-protein
+## Protein FAQS
 
-Looking for a leading range of protein powders, shakes and supplements? You’ve landed on the right page. There’s no room for second place here. We create the contents of every pouch in-house. In fact, it’s a pretty impressive factory, and our high standards are hard to match. We know exactly what’s inside, which means so do you.
++---------------------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                                           |
++---------------------------------------------------------+-----------------------------------------------------------+
+| What are protein supplements?                           | Protein supplements are designed to be taken in addition  |
+|                                                         | to the food in your diet to support your daily protein    |
+|                                                         | intake. They come in many forms including protein shakes, |
+|                                                         | bars. You might want to consider a protein supplement to  |
+|                                                         | meet your training needs, or if your dietary protein      |
+|                                                         | intake is too low.                                        |
++---------------------------------------------------------+-----------------------------------------------------------+
+| What are the benefits of taking protein powder?         | Protein is an essential macronutrient that helps to build |
+|                                                         | muscle, repair muscle tissue. An expertly formulated      |
+|                                                         | protein powder will make sure you’re getting the right    |
+|                                                         | amount of protein to support your goals. If you’re        |
+|                                                         | training hard, protein powder can help build and maintain |
+|                                                         | your muscle mass, as well as having a heap of other       |
+|                                                         | health benefits.                                          |
++---------------------------------------------------------+-----------------------------------------------------------+
+| What different protein products are available at Bulk™? | Here at Bulk™, we aim to change the nutrition game with   |
+|                                                         | world-class products including all types of protein       |
+|                                                         | supplements - think protein powders, shakes, snack bars   |
+|                                                         | and much more. Our protein range is so broad you can find |
+|                                                         | a suitable supplement for all dietary requirements.       |
++---------------------------------------------------------+-----------------------------------------------------------+
+| Why is protein important?                               | Protein is famous for its role as the main building block |
+|                                                         | for muscles. However, its functions don’t end there. All  |
+|                                                         | cells and tissue contain protein, including our hair,     |
+|                                                         | nails, skin and bones.                                    |
++---------------------------------------------------------+-----------------------------------------------------------+
+| How much protein do I need?                             | It depends on two key factors: your workout habits (think |
+|                                                         | intensity, frequency, etc.) and your body weight.         |
+|                                                         | According to the British Nutrition Foundation, adults     |
+|                                                         | leading a basic healthy lifestyle should consume an       |
+|                                                         | average of 0.6g of protein per kilogram body weight per   |
+|                                                         | day. That value can shift depending on the intensity of   |
+|                                                         | your workouts.                                            |
++---------------------------------------------------------+-----------------------------------------------------------+
 
-Choose from our popular [whey proteins](/uk/protein/whey-protein), plant-powered [vegan proteins](/uk/vegan/vegan-protein-powders.html), naturally sweetened shakes and so much more. Not convinced? The majority of our protein shakes contain less than 120 calories per serving. Seriously, it’s time to start shopping.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-Discover our winning range of protein powders, shakes and supplements.
+---
 
-Prefer an alternative to dairy? Try our [Beef Protein Isolate 97](https://www.bulk.com/uk/products/beef-protein-isolate-97-hydrobeef/bpb-hbee-0000). If you're looking for something lighter and more refreshing, check out our [Clear Whey Isolate](https://www.bulk.com/uk/products/clear-whey-isolate/bpb-cwhe). Or, if you're on a weight management journey, our [Diet Protein Shake](https://www.bulk.com/uk/products/complete-diet-protein-advanced/bble-cdpa) is a great choice.
+## RELATED CATEGORIES
 
-Protein FAQS
-------------
+- [Whey protein powders](https://dev--bul-eds--thepixel.hlx.live/uk/protein/whey-protein)
+- [Vegan protein](https://dev--bul-eds--thepixel.hlx.live/uk/protein/vegan-protein)
+- [High protein foods](https://dev--bul-eds--thepixel.hlx.live/uk/protein/high-protein-foods)
+- [Diet protein shakes](https://dev--bul-eds--thepixel.hlx.live/uk/protein/diet-protein)
+- [Egg protein powders](https://dev--bul-eds--thepixel.hlx.live/uk/protein/egg-protein)
+- [Beef protein](https://dev--bul-eds--thepixel.hlx.live/uk/protein/beef-protein)
+- [Informed sport protein shakes](https://dev--bul-eds--thepixel.hlx.live/uk/protein/informed-sport-protein)
 
-What are protein supplements?
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-Protein supplements are designed to be taken in addition to the food in your diet to support your daily protein intake. They come in many forms including protein shakes, bars. You might want to consider a protein supplement to meet your training needs, or if your dietary protein intake is too low.
+---
 
-What are the benefits of taking protein powder?
-
-Protein is an essential macronutrient that helps to build muscle, repair muscle tissue. An expertly formulated protein powder will make sure you’re getting the right amount of protein to support your goals. If you’re training hard, protein powder can help build and maintain your muscle mass, as well as having a heap of other health benefits.
-
-What different protein products are available at Bulk™?
-
-Here at Bulk™, we aim to change the nutrition game with world-class products including all types of protein supplements - think protein powders, shakes, snack bars and much more. Our protein range is so broad you can find a suitable supplement for all dietary requirements.
-
-Why is protein important?
-
-Protein is famous for its role as the main building block for muscles. However, its functions don’t end there. All cells and tissue contain protein, including our hair, nails, skin and bones.
-
-How much protein do I need?
-
-It depends on two key factors: your workout habits (think intensity, frequency, etc.) and your body weight. According to the British Nutrition Foundation, adults leading a basic healthy lifestyle should consume an average of 0.6g of protein per kilogram body weight per day. That value can shift depending on the intensity of your workouts.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Whey protein powders](/uk/protein/whey-protein)
-*   [Vegan protein](/uk/protein/vegan-protein)
-*   [High protein foods](/uk/protein/high-protein-foods)
-*   [Diet protein shakes](/uk/protein/diet-protein)
-*   [Egg protein powders](/uk/protein/egg-protein)
-*   [Beef protein](/uk/protein/beef-protein)
-*   [Informed sport protein shakes](/uk/protein/informed-sport-protein)
-
-Style
-
-lozenge-list
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Protein Powder \| Protein Shakes \| Bulk™ UK              |
++-------------+-----------------------------------------------------------+
+| description | Shop our premium Protein Powder, including Whey and Vegan |
+|             | Protein, for top-quality Protein Shakes. Perfect for      |
+|             | muscle growth and recovery at Bulk™. Bulk, formerly Bulk  |
+|             | Powders.                                                  |
++-------------+-----------------------------------------------------------+

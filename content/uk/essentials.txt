@@ -1,8 +1,23 @@
-[pl](https://www.bulk.com/pl/essentials)[de](https://www.bulk.com/de/essentials)[pt](https://www.bulk.com/pt/essentials)[uk](https://www.bulk.com/uk/essentials)[fr](https://www.bulk.com/fr/essentials)[cz](https://www.bulk.com/cz/essentials)[dk](https://www.bulk.com/dk/essentials)[ro](https://www.bulk.com/ro/essentials)[ch](https://www.bulk.com/ch/essentials)[it](https://www.bulk.com/it/essentials)[es](https://www.bulk.com/es/essentials)[nl](https://www.bulk.com/nl/essentials)[ie](https://www.bulk.com/ie/essentials)[eu](https://www.bulk.com/eu/essentials)[se](https://www.bulk.com/se/essentials)[at](https://www.bulk.com/at/essentials)
+# Essentials
 
-Essentials
-==========
++:----------------------:+
+| **Product List Page**  |
++-----------+------------+
+| category  | essentials |
++------------------------+
+|                        |
++------------------------+
 
-category
+---
 
-essentials
++--------------------------+
+| Metadata                 |
++-------------+------------+
+| breadcrumbs | true       |
++-------------+------------+
+| template    | plp        |
++-------------+------------+
+| title       | Essentials |
++-------------+------------+
+| description |            |
++-------------+------------+

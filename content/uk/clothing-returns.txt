@@ -1,123 +1,312 @@
-[cz](https://www.bulk.com/cz/)[pt](https://www.bulk.com/pt/)[es](https://www.bulk.com/es/)[it](https://www.bulk.com/it/)[at](https://www.bulk.com/at/)[ie](https://www.bulk.com/ie/)[eu](https://www.bulk.com/eu/)[nl](https://www.bulk.com/nl/)[fr](https://www.bulk.com/fr/)[ro](https://www.bulk.com/ro/)[de](https://www.bulk.com/de/)[se](https://www.bulk.com/se/)[ch](https://www.bulk.com/ch/)[uk](https://www.bulk.com/uk/)[pl](https://www.bulk.com/pl/)[dk](https://www.bulk.com/dk/)
+<!DOCTYPE html>
+<html lang="en-gb">
+  <head>
+    <title>Bulk™ | Protein, Vitamins, Sports Nutrition, Fitness Foods</title>
+    <link rel="canonical" href="https://www.bulk.com/uk/">
+    <meta name="description" content="Bulk™ is the leading supplier of bodybuilding supplements &#x26;amp; sports nutrition – covering Protein, Creatine, Vitamins, Fat Loss &#x26;amp; more! Formerly Bulk Powders.">
+    <meta property="og:title" content="Bulk™ | Protein, Vitamins, Sports Nutrition, Fitness Foods">
+    <meta property="og:description" content="Bulk™ is the leading supplier of bodybuilding supplements &#x26;amp; sports nutrition – covering Protein, Creatine, Vitamins, Fat Loss &#x26;amp; more! Formerly Bulk Powders.">
+    <meta property="og:url" content="https://www.bulk.com/uk/">
+    <meta property="og:image" content="https://www.bulk.com/uk/media_14e292c923d244e6869c17caa4c4f853b8efe3b98.png?width=1200&#x26;format=pjpg&#x26;optimize=medium">
+    <meta property="og:image:secure_url" content="https://www.bulk.com/uk/media_14e292c923d244e6869c17caa4c4f853b8efe3b98.png?width=1200&#x26;format=pjpg&#x26;optimize=medium">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Bulk™ | Protein, Vitamins, Sports Nutrition, Fitness Foods">
+    <meta name="twitter:description" content="Bulk™ is the leading supplier of bodybuilding supplements &#x26;amp; sports nutrition – covering Protein, Creatine, Vitamins, Fat Loss &#x26;amp; more! Formerly Bulk Powders.">
+    <meta name="twitter:image" content="https://www.bulk.com/uk/media_14e292c923d244e6869c17caa4c4f853b8efe3b98.png?width=1200&#x26;format=pjpg&#x26;optimize=medium">
+    <meta name="nav" content="/uk/nav">
+    <meta name="footer" content="/uk/footer">
+    <meta name="search" content="/uk/search">
+    <meta name="account" content="/uk/customer/account">
+    <meta name="trustpilot-pdp-block" content="new-buy-box-additional-info">
+    <meta name="robots" content="index,follow">
+    <meta name="google-site-verification" content="aukRs7uGBj7CYjlmEDxhyHSSMHdc3q9qMfjRM5Xkeic">
+    <meta property="og:locale" content="en_GB">
+    <meta name="target" content="true">
+    <link rel="alternate" hreflang="de-at" href="https://www.bulk.com/at/">
+    <link rel="alternate" hreflang="de-ch" href="https://www.bulk.com/ch/">
+    <link rel="alternate" hreflang="cs-cz" href="https://www.bulk.com/cz/">
+    <link rel="alternate" hreflang="de-de" href="https://www.bulk.com/de/">
+    <link rel="alternate" hreflang="da-dk" href="https://www.bulk.com/dk/">
+    <link rel="alternate" hreflang="es-es" href="https://www.bulk.com/es/">
+    <link rel="alternate" hreflang="en-bg" href="https://www.bulk.com/eu/">
+    <link rel="alternate" hreflang="en-hr" href="https://www.bulk.com/eu/">
+    <link rel="alternate" hreflang="en-ee" href="https://www.bulk.com/eu/">
+    <link rel="alternate" hreflang="en-fi" href="https://www.bulk.com/eu/">
+    <link rel="alternate" hreflang="en-gr" href="https://www.bulk.com/eu/">
+    <link rel="alternate" hreflang="en-hu" href="https://www.bulk.com/eu/">
+    <link rel="alternate" hreflang="en-lv" href="https://www.bulk.com/eu/">
+    <link rel="alternate" hreflang="en-lt" href="https://www.bulk.com/eu/">
+    <link rel="alternate" hreflang="en-lu" href="https://www.bulk.com/eu/">
+    <link rel="alternate" hreflang="en-mt" href="https://www.bulk.com/eu/">
+    <link rel="alternate" hreflang="en-sk" href="https://www.bulk.com/eu/">
+    <link rel="alternate" hreflang="en-si" href="https://www.bulk.com/eu/">
+    <link rel="alternate" hreflang="en-no" href="https://www.bulk.com/eu/">
+    <link rel="alternate" hreflang="en-ie" href="https://www.bulk.com/ie/">
+    <link rel="alternate" hreflang="fr-fr" href="https://www.bulk.com/fr/">
+    <link rel="alternate" hreflang="fr-lu" href="https://www.bulk.com/fr/">
+    <link rel="alternate" hreflang="it-it" href="https://www.bulk.com/it/">
+    <link rel="alternate" hreflang="nl-nl" href="https://www.bulk.com/nl/">
+    <link rel="alternate" hreflang="nl-be" href="https://www.bulk.com/nl/">
+    <link rel="alternate" hreflang="pl-pl" href="https://www.bulk.com/pl/">
+    <link rel="alternate" hreflang="pt-pt" href="https://www.bulk.com/pt/">
+    <link rel="alternate" hreflang="ro-ro" href="https://www.bulk.com/ro/">
+    <link rel="alternate" hreflang="sv-se" href="https://www.bulk.com/se/">
+    <link rel="alternate" hreflang="en-gb" href="https://www.bulk.com/uk/">
+    <link rel="alternate" hreflang="x-default" href="https://www.bulk.com/uk/">
+    <meta name="primary-language-url" content="/uk/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+  const isImportMapSupported = HTMLScriptElement.supports && HTMLScriptElement.supports('importmap');
 
-[Mobile](/img/april-25/bestsellers-sale/media_1d6d2b5b957e2edc9e07c621c7011600c1d8e390b.png)
+  if (!isImportMapSupported) {
+    document.head.appendChild(
+      Object.assign(document.createElement('script'), {
+        type: 'esms-options',
+        innerHTML: JSON.stringify({
+          shimMode: true,
+        }),
+      })
+    );
+    document.head.appendChild(
+      Object.assign(document.createElement('script'), {
+        type: 'module',
+        src: '/scripts/dropins/es-module-shims.js',
+        async: true,
+      })
+    );
+  }
 
-[Desktop](/img/april-25/bestsellers-sale/media_13a068adb40deb8fdd7412a228ef112c6b997a700.png)
+  document.head.appendChild(
+    Object.assign(document.createElement('script'), {
+      type: isImportMapSupported ? 'importmap' : 'importmap-shim',
+      innerHTML: JSON.stringify({
+        imports: {
+          '@dropins/tools/': '/scripts/dropins/tools/',
+          '@dropins/storefront-pdp/': '/scripts/dropins/storefront-pdp/',
+        },
+      }),
+    })
+  );
 
-[Shop Now](/uk/todays-offers)
-
-title
-
-Bestsellers
-
-link
-
-[Shop Now](/uk/best-sellers)
-
-category
-
-100
-
-desktopLimit
-
-5
-
-mobileLimit
-
-4
-
-   ![](./media_14e292c923d244e6869c17caa4c4f853b8efe3b98.png?width=750&format=png&optimize=medium)
-
-https://www.bulk.com/uk/products/dope-pre-workout/bble-dope
-
-Shop Now
-
-title
-
-Explore Gummies
-
-link
-
-[Shop Now](https://www.bulk.com/uk/health-wellbeing/gummies)
-
-category
-
-730
-
-desktopLimit
-
-5
-
-mobileLimit
-
-4
-
-[Mobile](/img/march-25/endurance-week/media_1df07dffeda66dc08be7ebe5a37917fd6b263bd9e.jpg)
-
-[desktop](/img/march-25/endurance-week/media_18be973fe9a056aa17cb54d65733158019689484d.jpg)
-
-[Shop Now](https://www.bulk.com/uk/deal-of-the-day-uk)
-
-### Build Muscle
-
-[https://staging.bulk.com/uk/build-muscle-goal](/uk/build-muscle-goal)
-
-   ![](./media_19f3899cfab3ae74735112074d5803ba61dc3b54b.jpg?width=750&format=jpg&optimize=medium)
-
-### Weight Loss
-
-[https://staging.bulk.com/uk/weight-loss-goal](/uk/weight-loss-goal)
-
-   [![](./media_16680515b50da149bd0fb9a34b9f32af5a1c40254.jpg?width=750&format=jpg&optimize=medium)](/uk/weight-loss-goal)
-
-### Endurance
-
-[https://staging.bulk.com/uk/sports-nutrition/endurance-hydration](/uk/sports-nutrition/endurance-hydration)
-
-   [![](./media_196b0b1827cc81859481aef1dc38de6d1834bbde8.jpg?width=750&format=jpg&optimize=medium)](/uk/sports-nutrition/endurance-hydration)
-
-### Health & Wellbeing
-
-[https://staging.bulk.com/uk/health-wellbeing](/uk/health-wellbeing)
-
-   ![](./media_15a32c51a1fe823e1f644c60638c2479fec204001.jpg?width=750&format=jpg&optimize=medium)
-
-### Vegan
-
-[https://staging.bulk.com/uk/vegan](/uk/vegan)
-
-   [![](./media_1c22e215ab71c94dce04a654a389c6659a7b3bb2f.jpg?width=750&format=jpg&optimize=medium)](/uk/vegan)
-
-[Mobile](/img/march-25/spend-save/media_10c224dd75345c9094521e68b7c6db202a4a286b8.png)
-
-[desktop](/img/march-25/spend-save/media_18d3c43d381b66ee753e0a756342e5aa778e00183.png)
-
-[Learn more](/uk/spend-save)
-
-[\*T&Cs Apply](/uk/spend-save)
-
-title
-
-Vitamins & Minerals
-
-link
-
-[Shop Now](/uk/vitamins)
-
-category
-
-453
-
-desktopLimit
-
-5
-
-mobileLimit
-
-4
-
-[Mobile](/img/december/dotd-banners/clearance/media_1930c346c343566131ee419d142aa2b95b395cf45.png)
-
-[Desktop](/img/december/dotd-banners/clearance/media_1d2f74d30af7b0613d37f81a3bc838b66e4953c7c.png)
-
-[Shop Now](/uk/special-sale)
+  ['aem.js', 'scripts.js', 'configs.js', 'commerce.js'].forEach((script) => {
+    document.head.appendChild(
+      Object.assign(document.createElement('script'), {
+        type: isImportMapSupported ? 'module' : 'module-shim',
+        src: '/scripts/' + script,
+      })
+    );
+  });
+</script>
+    <link rel="modulepreload" href="/scripts/dropins/tools/event-bus.js">
+    <link rel="modulepreload" href="/scripts/dropins/tools/fetch-graphql.js">
+    <link rel="modulepreload" href="/scripts/dropins/tools/initializer.js">
+    <link rel="stylesheet" href="/styles/styles.css">
+    <link rel="preconnect" href="https://www.bulk.com">
+  </head>
+  <body>
+    <header><div id="store-switcher"><a class="at" href="https://www.bulk.com/at/" hreflang="de-at">at</a><a class="ch" href="https://www.bulk.com/ch/" hreflang="de-ch">ch</a><a class="cz" href="https://www.bulk.com/cz/" hreflang="cs-cz">cz</a><a class="de" href="https://www.bulk.com/de/" hreflang="de-de">de</a><a class="dk" href="https://www.bulk.com/dk/" hreflang="da-dk">dk</a><a class="es" href="https://www.bulk.com/es/" hreflang="es-es">es</a><a class="eu" href="https://www.bulk.com/eu/" hreflang="en-bg">eu</a><a class="ie" href="https://www.bulk.com/ie/" hreflang="en-ie">ie</a><a class="fr" href="https://www.bulk.com/fr/" hreflang="fr-fr">fr</a><a class="it" href="https://www.bulk.com/it/" hreflang="it-it">it</a><a class="nl" href="https://www.bulk.com/nl/" hreflang="nl-nl">nl</a><a class="pl" href="https://www.bulk.com/pl/" hreflang="pl-pl">pl</a><a class="pt" href="https://www.bulk.com/pt/" hreflang="pt-pt">pt</a><a class="ro" href="https://www.bulk.com/ro/" hreflang="ro-ro">ro</a><a class="se" href="https://www.bulk.com/se/" hreflang="sv-se">se</a><a class="uk" href="https://www.bulk.com/uk/" hreflang="en-gb">uk</a></div></header>
+    <main>
+      <div>
+        <div class="promo-cards hero-banner campaign-banner dark uk trim-red">
+          <div>
+            <div></div>
+          </div>
+          <div>
+            <div><a href="/img/april-25/bestsellers-sale/media_1d6d2b5b957e2edc9e07c621c7011600c1d8e390b.png">Mobile</a></div>
+            <div><a href="/img/april-25/bestsellers-sale/media_13a068adb40deb8fdd7412a228ef112c6b997a700.png">Desktop</a></div>
+          </div>
+          <div>
+            <div><a href="/uk/todays-offers">Shop Now</a></div>
+          </div>
+          <div>
+            <div></div>
+          </div>
+        </div>
+        <div class="product-slider">
+          <div>
+            <div>title</div>
+            <div>Bestsellers</div>
+          </div>
+          <div>
+            <div>link</div>
+            <div><a href="/uk/best-sellers">Shop Now</a></div>
+          </div>
+          <div>
+            <div>category</div>
+            <div>100</div>
+          </div>
+          <div>
+            <div>desktopLimit</div>
+            <div>5</div>
+          </div>
+          <div>
+            <div>mobileLimit</div>
+            <div>4</div>
+          </div>
+        </div>
+        <div class="dope-banner">
+          <div>
+            <div>
+              <picture>
+                <source type="image/webp" srcset="./media_14e292c923d244e6869c17caa4c4f853b8efe3b98.png?width=2000&#x26;format=webply&#x26;optimize=medium" media="(min-width: 600px)">
+                <source type="image/webp" srcset="./media_14e292c923d244e6869c17caa4c4f853b8efe3b98.png?width=750&#x26;format=webply&#x26;optimize=medium">
+                <source type="image/png" srcset="./media_14e292c923d244e6869c17caa4c4f853b8efe3b98.png?width=2000&#x26;format=png&#x26;optimize=medium" media="(min-width: 600px)">
+                <img loading="lazy" alt="" src="./media_14e292c923d244e6869c17caa4c4f853b8efe3b98.png?width=750&#x26;format=png&#x26;optimize=medium" width="1034" height="666">
+              </picture>
+            </div>
+          </div>
+          <div>
+            <div>https://www.bulk.com/uk/products/dope-pre-workout/bble-dope</div>
+          </div>
+          <div>
+            <div>Shop Now</div>
+          </div>
+        </div>
+        <div class="product-slider">
+          <div>
+            <div>title</div>
+            <div>Explore Gummies</div>
+          </div>
+          <div>
+            <div>link</div>
+            <div><a href="https://www.bulk.com/uk/health-wellbeing/gummies">Shop Now</a></div>
+          </div>
+          <div>
+            <div>category</div>
+            <div>730</div>
+          </div>
+          <div>
+            <div>desktopLimit</div>
+            <div>5</div>
+          </div>
+          <div>
+            <div>mobileLimit</div>
+            <div>4</div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="cards">
+          <div>
+            <div>
+              <h3 id="build-muscle">Build Muscle</h3>
+            </div>
+            <div><a href="/uk/build-muscle-goal">https://staging.bulk.com/uk/build-muscle-goal</a></div>
+            <div>
+              <picture>
+                <source type="image/webp" srcset="./media_19f3899cfab3ae74735112074d5803ba61dc3b54b.jpg?width=2000&#x26;format=webply&#x26;optimize=medium" media="(min-width: 600px)">
+                <source type="image/webp" srcset="./media_19f3899cfab3ae74735112074d5803ba61dc3b54b.jpg?width=750&#x26;format=webply&#x26;optimize=medium">
+                <source type="image/jpeg" srcset="./media_19f3899cfab3ae74735112074d5803ba61dc3b54b.jpg?width=2000&#x26;format=jpg&#x26;optimize=medium" media="(min-width: 600px)">
+                <img loading="lazy" alt="" src="./media_19f3899cfab3ae74735112074d5803ba61dc3b54b.jpg?width=750&#x26;format=jpg&#x26;optimize=medium" width="640" height="640">
+              </picture>
+            </div>
+          </div>
+          <div>
+            <div>
+              <h3 id="weight-loss">Weight Loss</h3>
+            </div>
+            <div><a href="/uk/weight-loss-goal">https://staging.bulk.com/uk/weight-loss-goal</a></div>
+            <div><a href="/uk/weight-loss-goal"><picture>
+                  <source type="image/webp" srcset="./media_16680515b50da149bd0fb9a34b9f32af5a1c40254.jpg?width=2000&#x26;format=webply&#x26;optimize=medium" media="(min-width: 600px)">
+                  <source type="image/webp" srcset="./media_16680515b50da149bd0fb9a34b9f32af5a1c40254.jpg?width=750&#x26;format=webply&#x26;optimize=medium">
+                  <source type="image/jpeg" srcset="./media_16680515b50da149bd0fb9a34b9f32af5a1c40254.jpg?width=2000&#x26;format=jpg&#x26;optimize=medium" media="(min-width: 600px)">
+                  <img loading="lazy" alt="" src="./media_16680515b50da149bd0fb9a34b9f32af5a1c40254.jpg?width=750&#x26;format=jpg&#x26;optimize=medium" width="640" height="640">
+                </picture></a></div>
+          </div>
+          <div>
+            <div>
+              <h3 id="endurance">Endurance</h3>
+            </div>
+            <div><a href="/uk/sports-nutrition/endurance-hydration">https://staging.bulk.com/uk/sports-nutrition/endurance-hydration</a></div>
+            <div><a href="/uk/sports-nutrition/endurance-hydration"><picture>
+                  <source type="image/webp" srcset="./media_196b0b1827cc81859481aef1dc38de6d1834bbde8.jpg?width=2000&#x26;format=webply&#x26;optimize=medium" media="(min-width: 600px)">
+                  <source type="image/webp" srcset="./media_196b0b1827cc81859481aef1dc38de6d1834bbde8.jpg?width=750&#x26;format=webply&#x26;optimize=medium">
+                  <source type="image/jpeg" srcset="./media_196b0b1827cc81859481aef1dc38de6d1834bbde8.jpg?width=2000&#x26;format=jpg&#x26;optimize=medium" media="(min-width: 600px)">
+                  <img loading="lazy" alt="" src="./media_196b0b1827cc81859481aef1dc38de6d1834bbde8.jpg?width=750&#x26;format=jpg&#x26;optimize=medium" width="452" height="480">
+                </picture></a></div>
+          </div>
+          <div>
+            <div>
+              <h3 id="health--wellbeing">Health &#x26; Wellbeing</h3>
+            </div>
+            <div><a href="/uk/health-wellbeing">https://staging.bulk.com/uk/health-wellbeing</a></div>
+            <div>
+              <picture>
+                <source type="image/webp" srcset="./media_15a32c51a1fe823e1f644c60638c2479fec204001.jpg?width=2000&#x26;format=webply&#x26;optimize=medium" media="(min-width: 600px)">
+                <source type="image/webp" srcset="./media_15a32c51a1fe823e1f644c60638c2479fec204001.jpg?width=750&#x26;format=webply&#x26;optimize=medium">
+                <source type="image/jpeg" srcset="./media_15a32c51a1fe823e1f644c60638c2479fec204001.jpg?width=2000&#x26;format=jpg&#x26;optimize=medium" media="(min-width: 600px)">
+                <img loading="lazy" alt="" src="./media_15a32c51a1fe823e1f644c60638c2479fec204001.jpg?width=750&#x26;format=jpg&#x26;optimize=medium" width="640" height="640">
+              </picture>
+            </div>
+          </div>
+          <div>
+            <div>
+              <h3 id="vegan">Vegan</h3>
+            </div>
+            <div><a href="/uk/vegan">https://staging.bulk.com/uk/vegan</a></div>
+            <div><a href="/uk/vegan"><picture>
+                  <source type="image/webp" srcset="./media_1c22e215ab71c94dce04a654a389c6659a7b3bb2f.jpg?width=2000&#x26;format=webply&#x26;optimize=medium" media="(min-width: 600px)">
+                  <source type="image/webp" srcset="./media_1c22e215ab71c94dce04a654a389c6659a7b3bb2f.jpg?width=750&#x26;format=webply&#x26;optimize=medium">
+                  <source type="image/jpeg" srcset="./media_1c22e215ab71c94dce04a654a389c6659a7b3bb2f.jpg?width=2000&#x26;format=jpg&#x26;optimize=medium" media="(min-width: 600px)">
+                  <img loading="lazy" alt="" src="./media_1c22e215ab71c94dce04a654a389c6659a7b3bb2f.jpg?width=750&#x26;format=jpg&#x26;optimize=medium" width="1066" height="1600">
+                </picture></a></div>
+          </div>
+        </div>
+        <div class="promo-cards hero-banner campaign-banner dark">
+          <div>
+            <div></div>
+          </div>
+          <div>
+            <div><a href="/img/march-25/spend-save/media_10c224dd75345c9094521e68b7c6db202a4a286b8.png">Mobile</a></div>
+            <div><a href="/img/march-25/spend-save/media_18d3c43d381b66ee753e0a756342e5aa778e00183.png">desktop</a></div>
+          </div>
+          <div>
+            <div><a href="/uk/spend-save">Learn more</a></div>
+          </div>
+          <div>
+            <div><a href="/uk/spend-save">*T&#x26;Cs Apply</a></div>
+          </div>
+        </div>
+        <div class="product-slider">
+          <div>
+            <div>title</div>
+            <div>Vitamins &#x26; Minerals</div>
+          </div>
+          <div>
+            <div>link</div>
+            <div><a href="/uk/vitamins">Shop Now</a></div>
+          </div>
+          <div>
+            <div>category</div>
+            <div>453</div>
+          </div>
+          <div>
+            <div>desktopLimit</div>
+            <div>5</div>
+          </div>
+          <div>
+            <div>mobileLimit</div>
+            <div>4</div>
+          </div>
+        </div>
+        <div class="promo-cards hero-banner campaign-banner dark uk clearance">
+          <div>
+            <div></div>
+          </div>
+          <div>
+            <div><a href="/img/december/dotd-banners/clearance/media_1930c346c343566131ee419d142aa2b95b395cf45.png">Mobile</a></div>
+            <div><a href="/img/december/dotd-banners/clearance/media_1d2f74d30af7b0613d37f81a3bc838b66e4953c7c.png">Desktop</a></div>
+          </div>
+          <div>
+            <div><a href="/uk/special-sale">Shop Now</a></div>
+          </div>
+          <div>
+            <div></div>
+          </div>
+        </div>
+      </div>
+      <div></div>
+    </main>
+    <footer></footer>
+  </body>
+</html>

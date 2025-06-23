@@ -1,57 +1,101 @@
-[at](https://www.bulk.com/at/vegan/veganer-vitamine)[pl](https://www.bulk.com/pl/vegan/weganski-witamina)[ie](https://www.bulk.com/ie/vegan/vegan-vitamins)[cz](https://www.bulk.com/cz/vegan/vegan-vitamins)[it](https://www.bulk.com/it/vegan/vitamina-vegane)[de](https://www.bulk.com/de/vegan/veganer-vitamine)[eu](https://www.bulk.com/eu/vegan/vegan-vitamins)[dk](https://www.bulk.com/dk/vegan/vegan-vitamins)[se](https://www.bulk.com/se/vegan/veganskt-vitamin)[es](https://www.bulk.com/es/vegan/vitaminico-vegano)[ch](https://www.bulk.com/ch/vegan/veganer-vitamine)[pt](https://www.bulk.com/pt/vegan/vitamina-vegano)[ro](https://www.bulk.com/ro/vegan/vitamine-vegan)[fr](https://www.bulk.com/fr/vegan/vitamines-vegan)[nl](https://www.bulk.com/nl/vegan/veganistisch-vitamine)[uk](https://www.bulk.com/uk/vegan/vegan-vitamins)
+# Vegan Vitamins
 
-Vegan Vitamins
-==============
++:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                                                                                                 |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                                                          | vegan/vegan-vitamins                                                                                                                                                                                              |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| It’s a little known fact that a lot of vitamins and minerals aren’t actually vegan. This is because they can’t all be derived from plants. For example, the vast majority of Vitamin D3                                                                                                                                                                                                                                               |
+| supplements are not vegan, by virtue of being derived from sheep’s wool.\                                                                                                                                                                                                                                                                                                                                                             |
+| **Bulk™** recognises that there is growing demand for vegan vitamins and minerals and, as a result, we are continually expanding our range to ensure that both vegan and non-vegan                                                                                                                                                                                                                                                    |
+| customers have access to these important nutrients.                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| So whether it’s our best-in-class **Vegan Multivitamin Complex**, containing an array of vitamins and minerals in one convenient formula; or one of our standalone vitamin supplements such as **[Vegan Vitamin D3](https://main--bul-eds--thepixel.hlx.live/uk/products/vegan-vitamin-d3-tablets/bpb-vevd)**, we have something for anyone looking to increase their intake of vitamins and minerals from exclusively vegan sources. |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-vegan/vegan-vitamins
+## Vegan Vitamins FAQ'S
 
-It’s a little known fact that a lot of vitamins and minerals aren’t actually vegan. This is because they can’t all be derived from plants. For example, the vast majority of Vitamin D3 supplements are not vegan, by virtue of being derived from sheep’s wool.  
-**Bulk™** recognises that there is growing demand for vegan vitamins and minerals and, as a result, we are continually expanding our range to ensure that both vegan and non-vegan customers have access to these important nutrients.
++-------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                             |
++-------------------------------------------+-----------------------------------------------------------+
+| What are vegan vitamins?                  | Vegan vitamins are supplements that are either            |
+|                                           | recommended or suitable for vegans. In our case, we sell  |
+|                                           | a range of vitamins that are vegan-friendly, including    |
+|                                           | the key nutrients vegans require, such as Vegan Super     |
+|                                           | strength Omega 3, Iron, and Vegan Digestive Enzymes.      |
++-------------------------------------------+-----------------------------------------------------------+
+| Do vegans really need supplements?        | Appropriate supplementation plays a key role in the       |
+|                                           | success of a healthy vegan diet. To help you get all of   |
+|                                           | the nutrients you need, it is recommended that you use    |
+|                                           | vegan supplements to complement a balanced and varied     |
+|                                           | diet, helping to bridge all potential nutrient gaps.      |
++-------------------------------------------+-----------------------------------------------------------+
+| What vitamins should a vegan person take? | While a well-planned vegan diet can fulfil your           |
+|                                           | nutritional needs, there are certain nutrients that can   |
+|                                           | fall short because they are most commonly found in animal |
+|                                           | products. These nutrients include Vitamin B12, Omega-3,   |
+|                                           | Iron, Zinc, and Vitamin D.                                |
++-------------------------------------------+-----------------------------------------------------------+
+| Are vegan vitamins good for you?          | If you follow a well-thought out plant-based diet, you    |
+|                                           | are likely getting adequate amounts of most nutrients a   |
+|                                           | multivitamin would provide. Though, some nutrients can    |
+|                                           | fall short due to the lack of certain animal-based foods  |
+|                                           | in the diet that are high in key nutrients, so a          |
+|                                           | multivitamin is often recommended to fill these gaps and  |
+|                                           | meet your nutritional needs.                              |
++-------------------------------------------+-----------------------------------------------------------+
+| How do vegans get vitamin B12?            | B12 is usually found in animal products such as meat,     |
+|                                           | fish, eggs, and dairy. So, the most reliable vegan        |
+|                                           | sources of B12 are nutritional yeast, and foods fortified |
+|                                           | with B12, such as some plant milks, soy products, and     |
+|                                           | some breakfast cereals. A vegan B12 supplement or         |
+|                                           | multivitamin containing B12 is also a good option to      |
+|                                           | ensure you are getting enough.                            |
++-------------------------------------------+-----------------------------------------------------------+
+| What multivitamin is best for vegans?     | There are a multitude of multivitamins available that can |
+|                                           | help ensure a healthy, balanced lifestyle. Our Vegan      |
+|                                           | Multivitamin Complex is a premium multivitamin formula,   |
+|                                           | tailored to the needs of a vegan diet to provide you with |
+|                                           | everything you need, including those nutrients you may be |
+|                                           | lacking.                                                  |
++-------------------------------------------+-----------------------------------------------------------+
 
-So whether it’s our best-in-class **Vegan Multivitamin Complex**, containing an array of vitamins and minerals in one convenient formula; or one of our standalone vitamin supplements such as **[Vegan Vitamin D3](/uk/products/vegan-vitamin-d3-tablets/bpb-vevd)**, we have something for anyone looking to increase their intake of vitamins and minerals from exclusively vegan sources.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-Vegan Vitamins FAQ'S
---------------------
+---
 
-What are vegan vitamins?
+## RELATED CATEGORIES
 
-Vegan vitamins are supplements that are either recommended or suitable for vegans. In our case, we sell a range of vitamins that are vegan-friendly, including the key nutrients vegans require, such as Vegan Super strength Omega 3, Iron, and Vegan Digestive Enzymes.
+- [Vegan protein powders](https://dev--bul-eds--thepixel.hlx.live/uk/vegan/vegan-protein-powders)
+- [Vegan protein bars](https://dev--bul-eds--thepixel.hlx.live/uk/vegan/vegan-protein-bars)
+- [Greens supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/greens-supplements)
+- [Superfoods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/superfoods)
+- [Vegan range](https://dev--bul-eds--thepixel.hlx.live/uk/vegan)
 
-Do vegans really need supplements?
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-Appropriate supplementation plays a key role in the success of a healthy vegan diet. To help you get all of the nutrients you need, it is recommended that you use vegan supplements to complement a balanced and varied diet, helping to bridge all potential nutrient gaps.
+---
 
-What vitamins should a vegan person take?
-
-While a well-planned vegan diet can fulfil your nutritional needs, there are certain nutrients that can fall short because they are most commonly found in animal products. These nutrients include Vitamin B12, Omega-3, Iron, Zinc, and Vitamin D.
-
-Are vegan vitamins good for you?
-
-If you follow a well-thought out plant-based diet, you are likely getting adequate amounts of most nutrients a multivitamin would provide. Though, some nutrients can fall short due to the lack of certain animal-based foods in the diet that are high in key nutrients, so a multivitamin is often recommended to fill these gaps and meet your nutritional needs.
-
-How do vegans get vitamin B12?
-
-B12 is usually found in animal products such as meat, fish, eggs, and dairy. So, the most reliable vegan sources of B12 are nutritional yeast, and foods fortified with B12, such as some plant milks, soy products, and some breakfast cereals. A vegan B12 supplement or multivitamin containing B12 is also a good option to ensure you are getting enough.
-
-What multivitamin is best for vegans?
-
-There are a multitude of multivitamins available that can help ensure a healthy, balanced lifestyle. Our Vegan Multivitamin Complex is a premium multivitamin formula, tailored to the needs of a vegan diet to provide you with everything you need, including those nutrients you may be lacking.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Vegan protein powders](/uk/vegan/vegan-protein-powders)
-*   [Vegan protein bars](/uk/vegan/vegan-protein-bars)
-*   [Greens supplements](/uk/health-wellbeing/greens-supplements)
-*   [Superfoods](/uk/foods/superfoods)
-*   [Vegan range](/uk/vegan)
-
-Style
-
-lozenge-list
++----------------------------------------------------------------------+
+| Metadata                                                             |
++-------------+--------------------------------------------------------+
+| breadcrumbs | true                                                   |
++-------------+--------------------------------------------------------+
+| template    | plp                                                    |
++-------------+--------------------------------------------------------+
+| title       | Vegan Vitamins \| Plant Based \| Bulk™                 |
++-------------+--------------------------------------------------------+
+| description | Explore Bulk™'s Selection of Vegan friendly Vitamins & |
+|             | Mineral Supplements. High value for money. Premium     |
+|             | Quality from Bulk™                                     |
++-------------+--------------------------------------------------------+

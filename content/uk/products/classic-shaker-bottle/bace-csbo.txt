@@ -1,53 +1,88 @@
-[pl](https://www.bulk.com/pl/products/shaker-classic/bace-csbo)[dk](https://www.bulk.com/dk/products/classic-shaker-flaske/bace-csbo)[at](https://www.bulk.com/at/products/classic-shaker-flasche/bace-csbo)[ro](https://www.bulk.com/ro/products/classic-shaker-bottle/bace-csbo)[ie](https://www.bulk.com/ie/products/classic-shaker-bottle/bace-csbo)[nl](https://www.bulk.com/nl/products/classic-shakerfles/bace-csbo)[eu](https://www.bulk.com/eu/products/classic-shaker-bottle/bace-csbo)[cz](https://www.bulk.com/cz/products/classic-shaker-bottle/bace-csbo)[de](https://www.bulk.com/de/products/classic-shaker-flasche/bace-csbo)[pt](https://www.bulk.com/pt/products/garrafa-shaker-classic/bace-csbo)[fr](https://www.bulk.com/fr/products/shaker-classic/bace-csbo)[es](https://www.bulk.com/es/products/classic-botella-agitadora/bace-csbo)[uk](https://www.bulk.com/uk/products/classic-shaker-bottle/bace-csbo)[se](https://www.bulk.com/se/products/classic-shakerflaska/bace-csbo)[ch](https://www.bulk.com/ch/products/classic-shaker-flasche/bace-csbo)[it](https://www.bulk.com/it/products/bottiglia-per-miscelazione-classic/bace-csbo)
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Product Details                                                                                                                                                         |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| # Classic™ Shaker Bottle                                                                                                                                                |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£4.99~~                                                                                                                             |
+|                | - Final Price: £2.49                                                                                                                                   |
+|                | - Save £2.50                                                                                                                                           |
+|                | - Clearance Sale: Now or never                                                                                                                         |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Colour      | - Clear                                                                                                                                                |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Description | ### Classic™ Shaker Bottle                                                                                                                             |
+|                |                                                                                                                                                        |
+|                | The simple, understated design of this German-engineered bottle makes it an instant classic .                                                          |
+|                |                                                                                                                                                        |
+|                | We’ve been offering this Classic™ Shaker Bottle, unchanged in design, since 2006. Why mess with perfection? With its simple yet striking design and    |
+|                | available in clear or black, this bottle is effortlessly handsome.                                                                                     |
+|                |                                                                                                                                                        |
+|                | Featuring a leak-proof, screw-top lid and internal mixing gauze, our Classic™ Shaker Bottle will deliver a perfectly mixed shake, every single time.   |
+|                |                                                                                                                                                        |
+|                | A large 750ml (25oz) capacity, make this bottle perfect for all cold drinks – whether you’re consuming a post-workout shake or keeping hydrated on the |
+|                | go.                                                                                                                                                    |
+|                |                                                                                                                                                        |
+|                | This bottle is dishwasher safe but should not be used for hot or carbonated drinks. It is free from BPA.                                               |
+|                |                                                                                                                                                        |
+|                | - Perfect for mixing all your supplements                                                                                                              |
+|                | - Large 750ml (25oz) capacity                                                                                                                          |
+|                | - Available in clear or black                                                                                                                          |
+|                | - Leak-proof design                                                                                                                                    |
+|                | - Internal mixing gauze                                                                                                                                |
+|                | - High quality German design                                                                                                                           |
+|                | - BPA free                                                                                                                                             |
+|                | - Dishwasher safe                                                                                                                                      |
+|                | - Not suitable for hot or carbonated drinks                                                                                                            |
+|                |                                                                                                                                                        |
+|                | Looking for more? Check out our wide variety of [protein shakers](https://www.bulk.com/uk/accessories-clothing/shaker-bottles.html "protein shakers"). |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Classic™ Shaker Bottle
-======================
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                                         |
++---------------------+----------------------------------------------------------------------------------------------------------------------------+
+| title               | Classic™ Shaker Bottle\|Bulk™ UK                                                                                           |
++---------------------+----------------------------------------------------------------------------------------------------------------------------+
+| description         | Buy our Classic Shaker Bottle - holding 750ml of gains. BPA free. Leak proof.  No excuse for skipping that protein shake.  |
+|                     | Bulk, formerly Bulk Powders.                                                                                               |
++---------------------+----------------------------------------------------------------------------------------------------------------------------+
+| keywords            | Classic™ Shaker Bottle                                                                                                     |
++---------------------+----------------------------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                                                |
++---------------------+----------------------------------------------------------------------------------------------------------------------------+
+| id                  | 7412                                                                                                                       |
++---------------------+----------------------------------------------------------------------------------------------------------------------------+
+| sku                 | BACE-CSBO                                                                                                                  |
++---------------------+----------------------------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-20T17:55:34.720Z                                                                                                   |
++---------------------+----------------------------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BACE-CSBO",   "name": "Classic Shaker Bottle",       |
+|                     | "image":                                                                                                                   |
+|                     | "https\://www\.bulk.com/media/catalog/product/c/l/classic\_shaker\_bottle\_750ml\_bace\_csbo\_jbla\_0750\_main\_a5a8.jpg", |
+|                     |   "gtin": "",   "description": "Shake It Up In Style",   "@id":                                                            |
+|                     | "https\://www\.bulk.com/uk/products/classic-shaker-bottle/bace-csbo",   "brand": {     "@type": "Brand",     "name":       |
+|                     | "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": "BACE-CSBO-CLEA-0750",       "url":                  |
+|                     | "https\://www\.bulk.com/uk/products/classic-shaker-bottle/bace-csbo?view=ppc\&o=Mjc4LTE3MjYx",       "gtin":               |
+|                     | "5055950614451",       "image":                                                                                            |
+|                     | "https\://www\.bulk.com/media/catalog/product/c/l/classic\_shaker\_bottle\_750ml\_bace\_csbo\_clea\_0750\_main\_81cc.jpg", |
+|                     |       "availability": "InStock",       "price": 2.49,       "priceCurrency": "GBP",       "itemCondition": "NewCondition", |
+|                     |       "priceValidUntil": "",       "priceSpecification": {         "@type": "UnitPriceSpecification",         "priceType": |
+|                     | "https\://schema.org/ListPrice",         "price": 4.99,         "priceCurrency": "GBP"       }     }   ],                  |
+|                     | "aggregateRating": {     "@type": "AggregateRating",     "ratingValue": 4,     "reviewCount": 869,     "bestRating": 5   } |
+|                     | }                                                                                                                          |
++---------------------+----------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/classic-shaker-bottle/bace-csbo                                                         |
++---------------------+----------------------------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/classic-shaker-bottle/bace-csbo                                                         |
++---------------------+----------------------------------------------------------------------------------------------------------------------------+
 
-*   Regular Price: £4.99
-*   Final Price: £2.49
-*   Save £2.50
-*   Clearance Sale: Now or never
-
-Colour
-------
-
-*   Clear
-*   Jet Black
-
-Description
------------
-
-### Classic™ Shaker Bottle
-
-The simple, understated design of this German-engineered bottle makes it an instant classic .
-
-We’ve been offering this Classic™ Shaker Bottle, unchanged in design, since 2006. Why mess with perfection? With its simple yet striking design and available in clear or black, this bottle is effortlessly handsome.
-
-Featuring a leak-proof, screw-top lid and internal mixing gauze, our Classic™ Shaker Bottle will deliver a perfectly mixed shake, every single time.
-
-A large 750ml (25oz) capacity, make this bottle perfect for all cold drinks – whether you’re consuming a post-workout shake or keeping hydrated on the go.
-
-This bottle is dishwasher safe but should not be used for hot or carbonated drinks. It is free from BPA.
-
-*   Perfect for mixing all your supplements
-*   Large 750ml (25oz) capacity
-*   Available in clear or black
-*   Leak-proof design
-*   Internal mixing gauze
-*   High quality German design
-*   BPA free
-*   Dishwasher safe
-*   Not suitable for hot or carbonated drinks
-
-Looking for more? Check out our wide variety of [protein shakers](https://www.bulk.com/uk/accessories-clothing/shaker-bottles.html "protein shakers").
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1987dacf1b2fcf93baeceffd2923f853820fc15fc.webp#width=2000&height=2000

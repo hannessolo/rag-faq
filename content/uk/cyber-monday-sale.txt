@@ -1,10 +1,26 @@
-[fr](https://www.bulk.com/fr/promo-cyber-monday)[pl](https://www.bulk.com/pl/wyprzedazy-cyber-monday)[cz](https://www.bulk.com/cz/cyber-monday-sale)[de](https://www.bulk.com/de/cyber-monday-sale)[ch](https://www.bulk.com/ch/cyber-monday-sale)[es](https://www.bulk.com/es/rebajas-de-cyber-monday)[ie](https://www.bulk.com/ie/cyber-monday-sale)[eu](https://www.bulk.com/eu/cyber-monday-sale)[se](https://www.bulk.com/se/cyber-monday-rea)[ro](https://www.bulk.com/ro/cyber-monday-sale)[at](https://www.bulk.com/at/cyber-monday-sale)[nl](https://www.bulk.com/nl/cyber-monday-sale)[dk](https://www.bulk.com/dk/cyber-monday-udsalg)[it](https://www.bulk.com/it/saldi-cyber-monday)[uk](https://www.bulk.com/uk/cyber-monday-sale)[pt](https://www.bulk.com/pt/cyber-segunda-feira)
+# CYBER MONDAY SALE
 
-CYBER MONDAY SALE
-=================
++:-------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                               |
++----------------------------------------------------------+----------------------------------------------------------+
+| category                                                 | cyber-monday-sale                                        |
++---------------------------------------------------------------------------------------------------------------------+
+| Sad Bulk™ Friday weekend is over? Enjoy up to 80% off EVERYTHING in our Cyber Monday sale. Grab this discount while |
+| it lasts!                                                                                                           |
++---------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-cyber-monday-sale
-
-Sad Bulk™ Friday weekend is over? Enjoy up to 80% off EVERYTHING in our Cyber Monday sale. Grab this discount while it lasts!
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | CYBER MONDAY SALE \| Bulk™                                |
++-------------+-----------------------------------------------------------+
+| description | Discover the best Cyber Monday sports supplements deals   |
+|             | at Bulk. Take advantage of an additional discount during  |
+|             | the Black Friday weekend at Bulk - Formerly Bulk Powders. |
++-------------+-----------------------------------------------------------+

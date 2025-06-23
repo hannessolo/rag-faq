@@ -1,40 +1,133 @@
-[fr](https://www.bulk.com/fr/products/cinghie-per-sollevamento-premium/bace-plst-blac-ones)[pl](https://www.bulk.com/pl/products/paski-do-podnoszenia-jakosci-premium/bace-plst-blac-ones)[cz](https://www.bulk.com/cz/products/premium-lifting-straps/bace-plst-blac-ones)[de](https://www.bulk.com/de/products/premium-lifting-straps/bace-plst-blac-ones)[ch](https://www.bulk.com/ch/products/premium-lifting-straps/bace-plst-blac-ones)[es](https://www.bulk.com/es/products/correas-de-levantamiento-premium/bace-plst-blac-ones)[ie](https://www.bulk.com/ie/products/premium-lifting-straps/bace-plst-blac-ones)[eu](https://www.bulk.com/eu/products/premium-lifting-straps/bace-plst-blac-ones)[se](https://www.bulk.com/se/products/premium-lyftremmar/bace-plst-blac-ones)[ro](https://www.bulk.com/ro/products/premium-lifting-straps/bace-plst-blac-ones)[at](https://www.bulk.com/at/products/premium-lifting-straps/bace-plst-blac-ones)[nl](https://www.bulk.com/nl/products/premium-hefbanden/bace-plst-blac-ones)[dk](https://www.bulk.com/dk/products/premium-loftestropper/bace-plst-blac-ones)[it](https://www.bulk.com/it/products/cinghie-per-sollevamento-premium/bace-plst-blac-ones)[uk](https://www.bulk.com/uk/products/premium-lifting-straps/bace-plst-blac-ones)[pt](https://www.bulk.com/pt/products/fitas-para-halterofilismo-premium/bace-plst-blac-ones)
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Product Details                                                                                                                                                                                                                                                                                                                                                                     |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| # Premium Lifting Straps                                                                                                                                                                                                                                                                                                                                                            |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Price       | - Regular Price: £7.99                                                                                                                                                                                                                                                                                                                                             |
+|                | - This product is exempt from discounts                                                                                                                                                                                                                                                                                                                            |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Description | ### Premium Lifting Straps                                                                                                                                                                                                                                                                                                                                         |
+|                |                                                                                                                                                                                                                                                                                                                                                                    |
+|                | Give your workouts a lift.                                                                                                                                                                                                                                                                                                                                         |
+|                |                                                                                                                                                                                                                                                                                                                                                                    |
+|                | **Bulk™** Premium Lifting Straps are both thicker and longer than regular[](https://www.bulk.com/lifting-straps.html/)[](https://www.bulk.com/uk/products/lifting-straps/bace-lstr-blac-ones)**[Lifting Straps](https://www.bulk.com/uk/products/lifting-straps/bace-lstr-blac-ones)** and made from a superior cotton and polyester blend to reduce grip fatigue. |
+|                |                                                                                                                                                                                                                                                                                                                                                                    |
+|                | These Premium Lifting Straps are high quality, tough and durable, giving you extra support to perform more reps and more sets – with heavier weights.                                                                                                                                                                                                              |
+|                |                                                                                                                                                                                                                                                                                                                                                                    |
+|                | Padded for comfort and to prevent irritation caused by the straps pulling on your wrists, our Premium Lifting Straps are suitable for all types of training and are the perfect partner for pulling exercises such as deadlifts,                                                                                                                                   |
+|                | rows and shrugs.                                                                                                                                                                                                                                                                                                                                                   |
+|                |                                                                                                                                                                                                                                                                                                                                                                    |
+|                | Available in a sleek black design with rubber badge detailing, these Premium Lifting Straps are ideal for anyone from Olympic lifters to casual gym-goers alike.                                                                                                                                                                                                   |
+|                |                                                                                                                                                                                                                                                                                                                                                                    |
+|                | - Longer and thicker than other straps                                                                                                                                                                                                                                                                                                                             |
+|                | - High quality, tough and durable                                                                                                                                                                                                                                                                                                                                  |
+|                | - Padded for extra comfort                                                                                                                                                                                                                                                                                                                                         |
+|                | - Sleek black design with rubber badge detailing                                                                                                                                                                                                                                                                                                                   |
+|                | - Perfect for pulling exercises such as deadlifts, rows and shrugs                                                                                                                                                                                                                                                                                                 |
+|                | - Sold as a pair (2 per pack)                                                                                                                                                                                                                                                                                                                                      |
++----------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Premium Lifting Straps
-======================
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++--------------------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                                   |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| title               | Premium Lifting Straps                                                                                               |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| description         | Designed For Next-Level Lifting                                                                                      |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| keywords            | Premium Lifting Straps                                                                                               |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                                          |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| id                  | 7349                                                                                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| sku                 | BACE-PLST-BLAC-ONES                                                                                                  |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T12:03:31.531Z                                                                                             |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                                           |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BACE-PLST-BLAC-ONES",   "name": "Premium       |
+|                     | Lifting Straps",   "image":                                                                                          |
+|                     | "https\://www\.bulk.com/media/catalog/product/p/r/premium\_lifting\_straps\_bace\_plst\_blac\_ones\_main\_331d.jpg", |
+|                     |   "gtin": "5055950614635",   "description": "Designed For Next-Level Lifting",   "@id":                              |
+|                     | "https\://www\.bulk.com/uk/products/premium-lifting-straps/bace-plst-blac-ones",   "brand": {     "@type": "Brand",  |
+|                     |    "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": "BACE-PLST-BLAC-ONES",       "url": |
+|                     | "https\://www\.bulk.com/uk/products/premium-lifting-straps/bace-plst-blac-ones",       "gtin": "5055950614635",      |
+|                     |  "image":                                                                                                            |
+|                     | "https\://www\.bulk.com/media/catalog/product/p/r/premium\_lifting\_straps\_bace\_plst\_blac\_ones\_main\_331d.jpg", |
+|                     |       "availability": "InStock",       "price": 7.99,       "priceCurrency": "GBP",       "itemCondition":           |
+|                     | "NewCondition",       "priceValidUntil": ""     }   ],   "aggregateRating": {     "@type": "AggregateRating",        |
+|                     | "ratingValue": 4.1,     "reviewCount": 208,     "bestRating": 5   } }                                                |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/correas-de-levantamiento-premium/bace-plst-blac-ones                              |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/premium-hefbanden/bace-plst-blac-ones                                             |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/premium-hefbanden/bace-plst-blac-ones                                             |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/cinghie-per-sollevamento-premium/bace-plst-blac-ones                              |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/cinghie-per-sollevamento-premium/bace-plst-blac-ones                              |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/premium-lyftremmar/bace-plst-blac-ones                                            |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/premium-loftestropper/bace-plst-blac-ones                                         |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/paski-do-podnoszenia-jakosci-premium/bace-plst-blac-ones                          |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/fitas-para-halterofilismo-premium/bace-plst-blac-ones                             |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/cinghie-per-sollevamento-premium/bace-plst-blac-ones                              |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/premium-lifting-straps/bace-plst-blac-ones                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------+
 
-*   Regular Price: £7.99
-*   This product is exempt from discounts
-
-Description
------------
-
-### Premium Lifting Straps
-
-Give your workouts a lift.
-
-**Bulk™** Premium Lifting Straps are both thicker and longer than regular[](https://www.bulk.com/lifting-straps.html/)[](https://www.bulk.com/uk/products/lifting-straps/bace-lstr-blac-ones)**[Lifting Straps](https://www.bulk.com/uk/products/lifting-straps/bace-lstr-blac-ones)** and made from a superior cotton and polyester blend to reduce grip fatigue.
-
-These Premium Lifting Straps are high quality, tough and durable, giving you extra support to perform more reps and more sets – with heavier weights.
-
-Padded for comfort and to prevent irritation caused by the straps pulling on your wrists, our Premium Lifting Straps are suitable for all types of training and are the perfect partner for pulling exercises such as deadlifts, rows and shrugs.
-
-Available in a sleek black design with rubber badge detailing, these Premium Lifting Straps are ideal for anyone from Olympic lifters to casual gym-goers alike.
-
-*   Longer and thicker than other straps
-*   High quality, tough and durable
-*   Padded for extra comfort
-*   Sleek black design with rubber badge detailing
-*   Perfect for pulling exercises such as deadlifts, rows and shrugs
-*   Sold as a pair (2 per pack)
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1bfffcd757d3d2e8ffa71f1a4083e8250ce3a9750.webp#width=2000&height=2000

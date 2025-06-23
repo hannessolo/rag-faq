@@ -1,8 +1,23 @@
-[pl](https://www.bulk.com/pl/swiateczne-potrawy)[dk](https://www.bulk.com/dk/festlige-madvarer)[cz](https://www.bulk.com/cz/slavnostni-potraviny)[de](https://www.bulk.com/de/festliche-lebensmittel)[eu](https://www.bulk.com/eu/festive-foods)[fr](https://www.bulk.com/fr/aliments-de-fete)[ch](https://www.bulk.com/ch/festliche-lebensmittel)[it](https://www.bulk.com/it/cibi-per-le-feste)[at](https://www.bulk.com/at/festliche-lebensmittel)[pt](https://www.bulk.com/pt/alimentos-festivos)[ie](https://www.bulk.com/ie/festive-foods)[se](https://www.bulk.com/se/festlig-mat)[nl](https://www.bulk.com/nl/feestelijk-eten)[es](https://www.bulk.com/es/alimentos-festivos)[uk](https://www.bulk.com/uk/festive-foods)[ro](https://www.bulk.com/ro/alimente-festive)
+# Festive Foods
 
-Festive Foods
-=============
++:-------------------------:+
+| **Product List Page**     |
++-----------+---------------+
+| category  | festive-foods |
++---------------------------+
+|                           |
++---------------------------+
 
-category
+---
 
-festive-foods
++--------------------+
+| Metadata           |
++-------------+------+
+| breadcrumbs | true |
++-------------+------+
+| template    | plp  |
++-------------+------+
+| title       |      |
++-------------+------+
+| description |      |
++-------------+------+

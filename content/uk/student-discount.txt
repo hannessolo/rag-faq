@@ -1,12 +1,39 @@
-[ch](https://www.bulk.com/ch/products/creatine-monohydrate/bpb-cmon-0000)[de](https://www.bulk.com/de/products/creatine-monohydrate/bpb-cmon-0000)[pl](https://www.bulk.com/pl/products/creatine-monohydrate/bpb-cmon-0000)[cz](https://www.bulk.com/cz/products/creatine-monohydrate/bpb-cmon-0000)[at](https://www.bulk.com/at/products/creatine-monohydrate/bpb-cmon-0000)[fr](https://www.bulk.com/fr/products/creatine-monohydrate/bpb-cmon-0000)[eu](https://www.bulk.com/eu/products/creatine-monohydrate/bpb-cmon-0000)[dk](https://www.bulk.com/dk/products/creatine-monohydrate/bpb-cmon-0000)[es](https://www.bulk.com/es/products/creatine-monohydrate/bpb-cmon-0000)[ie](https://www.bulk.com/ie/products/creatine-monohydrate/bpb-cmon-0000)[nl](https://www.bulk.com/nl/products/creatine-monohydrate/bpb-cmon-0000)[it](https://www.bulk.com/it/products/creatine-monohydrate/bpb-cmon-0000)[ro](https://www.bulk.com/ro/products/creatine-monohydrate/bpb-cmon-0000)[pt](https://www.bulk.com/pt/products/creatine-monohydrate/bpb-cmon-0000)[se](https://www.bulk.com/se/products/creatine-monohydrate/bpb-cmon-0000)[uk](https://www.bulk.com/uk/student-discount)
++------------------------------------------------------------------------+
+| Columns (about)                                                        |
++-------------+----------------------------------------------------------+
+| ![][image0] | ## EXTRA 10% OFF                                         |
+|             |                                                          |
+|             | If your two favourite words are “student discount”,      |
+|             | you’ve come to the right place. Lucky for you, we have   |
+|             | amazing student deals across our site thanks to our      |
+|             | partnership with Student Beans. So, what are you waiting |
+|             | for? Get shopping!                                       |
+|             |                                                          |
+|             | Don’t forget to follow us on socials for all things      |
+|             | fitness and food.                                        |
++-------------+----------------------------------------------------------+
 
-   ![](./media_1dab78db53b0130aaa2b97268197db5b3d4906607.jpg?width=750&format=jpg&optimize=medium)
+---
 
-EXTRA 10% OFF
--------------
++-------------------------------------------------------+
+| Student Discount                                      |
++-------------------------------------------------------+
+| <https://connect.studentbeans.com/v4/bulk-powders/uk> |
++-------------------------------------------------------+
 
-If your two favourite words are “student discount”, you’ve come to the right place. Lucky for you, we have amazing student deals across our site thanks to our partnership with Student Beans. So, what are you waiting for? Get shopping!
++--------------------------------------------------------------------------------------+
+| Metadata                                                                             |
++--------------------------+-----------------------------------------------------------+
+| Title                    | Bulk™ Student Discount \| Protein, Vitamins, Sports       |
+|                          | Nutrition, Fitness Foods                                  |
++--------------------------+-----------------------------------------------------------+
+| Description              | Bulk™ is the leading supplier of bodybuilding supplements |
+|                          | \&amp; sports nutrition – covering Protein, Creatine,     |
+|                          | Vitamins, Fat Loss \&amp; more! Formerly Bulk Powders.    |
++--------------------------+-----------------------------------------------------------+
+| google-site-verification | aukRs7uGBj7CYjlmEDxhyHSSMHdc3q9qMfjRM5Xkeic               |
++--------------------------+-----------------------------------------------------------+
+| Template                 | Content                                                   |
++--------------------------+-----------------------------------------------------------+
 
-Don’t forget to follow us on socials for all things fitness and food.
-
-[https://connect.studentbeans.com/v4/bulk-powders/uk](https://connect.studentbeans.com/v4/bulk-powders/uk)
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1dab78db53b0130aaa2b97268197db5b3d4906607.jpg#width=1000&height=686

@@ -1,67 +1,112 @@
-[de](https://www.bulk.com/de/protein/protein-snacks)[ch](https://www.bulk.com/ch/protein/protein-snacks)[nl](https://www.bulk.com/nl/proteine/proteine-snacks)[pl](https://www.bulk.com/pl/odzywki-bialkowe/bialkowe-przekaski)[at](https://www.bulk.com/at/protein/protein-snacks)[pt](https://www.bulk.com/pt/proteinas/snacks-de-proteina)[dk](https://www.bulk.com/dk/protein/protein-snacks)[es](https://www.bulk.com/es/proteinas/aperitivos-de-proteina)[ie](https://www.bulk.com/ie/protein/protein-snacks)[fr](https://www.bulk.com/fr/proteine/snacks-proteines)[ro](https://www.bulk.com/ro/protein/protein-snacks)[it](https://www.bulk.com/it/proteine/snack-proteici)[uk](https://www.bulk.com/uk/protein/protein-snacks)[se](https://www.bulk.com/se/protein/protein-snacks)[cz](https://www.bulk.com/cz/protein/protein-snacks)[eu](https://www.bulk.com/eu/protein/protein-snacks)
+# Protein Snacks
 
-Protein Snacks
-==============
++:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                                                                                                        |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                                                              | protein/protein-snacks                                                                                                                                                                                               |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| High-protein snacks to increase your daily protein intake.                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| A high-protein diet is necessary for muscle growth, maintenance and recovery. It is also needed for a healthy, balanced diet.                                                                                                                                                                                                                                                                                                                |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Encompassing everything from [Protein Bars](https://main--bul-eds--thepixel.hlx.live/uk/protein/protein-bars), [Nut Butters](https://main--bul-eds--thepixel.hlx.live/uk/foods/nut-butters.html) and [Egg Whites](https://main--bul-eds--thepixel.hlx.live/uk/protein/egg-protein.html), our selection of high-protein snacks keeps your protein intake high and hunger at bay between meals. All while adding to your daily protein intake. |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-protein/protein-snacks
+## Protein Snacks FAQS
 
-High-protein snacks to increase your daily protein intake.
++--------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                              |
++--------------------------------------------+-----------------------------------------------------------+
+| What are protein snacks?                   | Protein bars are basically any popular snack with added   |
+|                                            | protein nutrition – typically whey or plant-based         |
+|                                            | protein. They’re like regular snacks, but intended for    |
+|                                            | people with active lifestyles who train or exercise       |
+|                                            | regularly. Protein snacks come in a variety of flavours,  |
+|                                            | as well as a range of nutritional profiles, including     |
+|                                            | vegan, and they’re an easy way to get some quick          |
+|                                            | post-workout nutrition.                                   |
++--------------------------------------------+-----------------------------------------------------------+
+| What are the benefits?                     | If you do any strength or resistance training, you should |
+|                                            | be consuming higher levels of protein to support growth   |
+|                                            | in muscle mass. You also should be monitoring your intake |
+|                                            | of carbs to ensure you put on muscle instead of fat. High |
+|                                            | protein snacks offer a convenient way to increase your    |
+|                                            | protein intake.                                           |
++--------------------------------------------+-----------------------------------------------------------+
+| Are protein snacks healthy?                | Protein snacks are a great part of any healthy diet and   |
+|                                            | exercise routine. Because of their nutritional content,   |
+|                                            | they’re better for snacking than typical snack foods, and |
+|                                            | thanks to the wide range of forms and flavours they come  |
+|                                            | in, it’s easier than ever to find healthy ways to snack,  |
+|                                            | from fruit bars, to cookies and cakes.                    |
++--------------------------------------------+-----------------------------------------------------------+
+| When is the best time to eat one?          | Protein snacks can be enjoyed at any time of the day, but |
+|                                            | because of their high protein content, they’re especially |
+|                                            | good if you need a pre-workout snack, or even             |
+|                                            | post-workout to aid recovery.                             |
++--------------------------------------------+-----------------------------------------------------------+
+| Is it OK to have a protein snack everyday? | Protein snacks are designed to be low in sugar, so you    |
+|                                            | can enjoy them every day, on-the-go or between meals.     |
+|                                            | Most people use them as a handy snack to carry around in  |
+|                                            | their bag during the day, in case they need a snack, or   |
+|                                            | as a quick form of nutrition to enjoy after workouts.     |
++--------------------------------------------+-----------------------------------------------------------+
+| Are protein snacks fattening?              | Protein snacks are usually healthier than regular snacks. |
+|                                            | They do, however, contain calories, just like any other   |
+|                                            | food, so if you’re following a calorie-controlled diet,   |
+|                                            | or watching your weight in general, you should still      |
+|                                            | monitor your intake of protein snacks the same way you    |
+|                                            | would any other food.                                     |
++--------------------------------------------+-----------------------------------------------------------+
+| What do protein snacks taste like?         | Protein snacks come in a whole range of forms and         |
+|                                            | flavours nowadays, from flapjacks and rocky road, to nut  |
+|                                            | butters and biltong!                                      |
++--------------------------------------------+-----------------------------------------------------------+
+| What is the shelf life of protein snacks?  | Protein snacks come in a wide variety of forms and        |
+|                                            | products, so their shelf life varies from product to      |
+|                                            | product. Typically, most protein snacks have a shelf life |
+|                                            | of 12 months after production, but you should check the   |
+|                                            | packaging of individual products for a specific Best      |
+|                                            | Before date.                                              |
++--------------------------------------------+-----------------------------------------------------------+
 
-A high-protein diet is necessary for muscle growth, maintenance and recovery. It is also needed for a healthy, balanced diet.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-Encompassing everything from [Protein Bars](/uk/protein/protein-bars), [Nut Butters](/uk/foods/nut-butters.html) and [Egg Whites](/uk/protein/egg-protein.html), our selection of high-protein snacks keeps your protein intake high and hunger at bay between meals. All while adding to your daily protein intake.
+---
 
-Protein Snacks FAQS
--------------------
+## RELATED CATEGORIES
 
-What are protein snacks?
+- [High protein foods](https://dev--bul-eds--thepixel.hlx.live/uk/protein/high-protein-foods)
+- [Protein bars](https://dev--bul-eds--thepixel.hlx.live/uk/protein/protein-bars)
+- [Mass gainer protein](https://dev--bul-eds--thepixel.hlx.live/uk/protein/mass-gainers)
+- [Protein blends](https://dev--bul-eds--thepixel.hlx.live/uk/protein/protein-blends)
+- [Protein samples](https://dev--bul-eds--thepixel.hlx.live/uk/protein/protein-samples)
+- [Protein smoothies](https://dev--bul-eds--thepixel.hlx.live/uk/protein/protein-smoothies)
 
-Protein bars are basically any popular snack with added protein nutrition – typically whey or plant-based protein. They’re like regular snacks, but intended for people with active lifestyles who train or exercise regularly. Protein snacks come in a variety of flavours, as well as a range of nutritional profiles, including vegan, and they’re an easy way to get some quick post-workout nutrition.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-What are the benefits?
+---
 
-If you do any strength or resistance training, you should be consuming higher levels of protein to support growth in muscle mass. You also should be monitoring your intake of carbs to ensure you put on muscle instead of fat. High protein snacks offer a convenient way to increase your protein intake.
-
-Are protein snacks healthy?
-
-Protein snacks are a great part of any healthy diet and exercise routine. Because of their nutritional content, they’re better for snacking than typical snack foods, and thanks to the wide range of forms and flavours they come in, it’s easier than ever to find healthy ways to snack, from fruit bars, to cookies and cakes.
-
-When is the best time to eat one?
-
-Protein snacks can be enjoyed at any time of the day, but because of their high protein content, they’re especially good if you need a pre-workout snack, or even post-workout to aid recovery.
-
-Is it OK to have a protein snack everyday?
-
-Protein snacks are designed to be low in sugar, so you can enjoy them every day, on-the-go or between meals. Most people use them as a handy snack to carry around in their bag during the day, in case they need a snack, or as a quick form of nutrition to enjoy after workouts.
-
-Are protein snacks fattening?
-
-Protein snacks are usually healthier than regular snacks. They do, however, contain calories, just like any other food, so if you’re following a calorie-controlled diet, or watching your weight in general, you should still monitor your intake of protein snacks the same way you would any other food.
-
-What do protein snacks taste like?
-
-Protein snacks come in a whole range of forms and flavours nowadays, from flapjacks and rocky road, to nut butters and biltong!
-
-What is the shelf life of protein snacks?
-
-Protein snacks come in a wide variety of forms and products, so their shelf life varies from product to product. Typically, most protein snacks have a shelf life of 12 months after production, but you should check the packaging of individual products for a specific Best Before date.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [High protein foods](/uk/protein/high-protein-foods)
-*   [Protein bars](/uk/protein/protein-bars)
-*   [Mass gainer protein](/uk/protein/mass-gainers)
-*   [Protein blends](/uk/protein/protein-blends)
-*   [Protein samples](/uk/protein/protein-samples)
-*   [Protein smoothies](/uk/protein/protein-smoothies)
-
-Style
-
-lozenge-list
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | High Protein Snacks \| Bulk™                              |
++-------------+-----------------------------------------------------------+
+| description | Indulge in our wide range of High Protein Protein Snacks  |
+|             | & Treats, crafted for on-the-go convenience and priced to |
+|             | fit your budge. Elevate your snack game with Bulk™.       |
++-------------+-----------------------------------------------------------+

@@ -1,0 +1,164 @@
++----------------------------------------------------------------------------+
+| Product Details                                                            |
++----------------------------------------------------------------------------+
+| # Macadamia Nuts - 500g                                                    |
++----------------+-----------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£21.99~~                               |
+|                | - Final Price: £7.49                                      |
+|                | - Save £14.50                                             |
+|                | - Clearance                                               |
++----------------+-----------------------------------------------------------+
+| ## Description | ### Macadamia Nuts - 500g                                 |
+|                |                                                           |
+|                | Raw, shelled macadamia nuts, and nothing more. Full of    |
+|                | flavour, our high quality, shelled, unroasted and         |
+|                | unsalted Macadamia Nuts are a delicious nut in its rawest |
+|                | and most nutritious form.                                 |
+|                |                                                           |
+|                | Our Macadamia Nuts can be eaten straight from the pouch   |
+|                | as a delicious and healthy snack, or used for baking and  |
+|                | cooking. Despite their sweet, nutty taste, macadamia nuts |
+|                | are a great source of fibre, and at 736kcal per 100g, an  |
+|                | ideal option for any mass gain programme.                 |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Purpose                                               |
+|                |                                                           |
+|                | Our Macadamia Nuts are ideal for anyone looking to boost  |
+|                | the nutritional content of other meals, or a healthy      |
+|                | snack. They can be used in anything from sweet treats     |
+|                | such as cakes and biscuits, or added to more savoury      |
+|                | meals like salads and curries.                            |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Benefits                                              |
+|                |                                                           |
+|                | - Built for Bulking                                       |
+|                |                                                           |
+|                | Load up on calories with minimal hassle: 736kcal per      |
+|                | 100g.                                                     |
++----------------+-----------------------------------------------------------+
+| ## Directions  | ### Directions                                            |
+|                |                                                           |
+|                | Great in porridge and granola or eaten as a snack.        |
+|                |                                                           |
+|                | WARNING: Nuts may be a choking hazard for small children. |
++----------------+-----------------------------------------------------------+
+| ## Ingredients | ### Ingredients                                           |
+|                |                                                           |
+|                | **Macadamia Nuts**.                                       |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Suitable For                                          |
+|                |                                                           |
+|                | Halal,Vegan,Vegetarian                                    |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Allergen advice                                       |
+|                |                                                           |
+|                | For allergens, please see ingredients in **bold.**        |
+|                |                                                           |
+|                | May also contain traces of other nuts and peanuts.        |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Storage                                               |
+|                |                                                           |
+|                | Store in a dry cool place. Reseal pouch after use.        |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Advisory Information                                  |
+|                |                                                           |
+|                | Although every care has been taken to keep product        |
+|                | information up to date on our website, please always read |
+|                | the information provided on product label or packaging    |
+|                | before use.                                               |
++----------------+-----------------------------------------------------------+
+| ## Nutrition   | +--------------------+-----------+                        |
+|                | | Nutrition          | per 100 g |                        |
+|                | +====================+===========+                        |
+|                | | Energy kJ/kcal     | 3080/736  |                        |
+|                | +--------------------+-----------+                        |
+|                | | Fat                | 74g       |                        |
+|                | |                    |           |                        |
+|                | | of which saturates | 10g       |                        |
+|                | +--------------------+-----------+                        |
+|                | | Carbohydrate       | 7.9g      |                        |
+|                | |                    |           |                        |
+|                | | of which sugars    | 4.6g      |                        |
+|                | +--------------------+-----------+                        |
+|                | | Fibre              | 6.4g      |                        |
+|                | +--------------------+-----------+                        |
+|                | | Protein            | 9.2g      |                        |
+|                | +--------------------+-----------+                        |
+|                | | Salt               | 0g        |                        |
+|                | +--------------------+-----------+                        |
++----------------+-----------------------------------------------------------+
+
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
+
++------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                   |
++---------------------+--------------------------------------------------------------------------------------+
+| title               | Whole Macadamia Nuts\|Raw Macadamias\|Bulk™ UK                                       |
++---------------------+--------------------------------------------------------------------------------------+
+| description         | Macadamias are a delicious and healthy snack, and these raw and natural Macadamia    |
+|                     | Nuts are of the absolute highest quality guaranteed. Shop at bulk™ today! Bulk,      |
+|                     | formerly Bulk Powders.                                                               |
++---------------------+--------------------------------------------------------------------------------------+
+| keywords            | Whole Macadamia Nuts, Whole Macadamias, Macadamias, Macadamia, Nut, Nuts, Dried      |
+|                     | Nuts, Food, Foods, Active, Active Foods                                              |
++---------------------+--------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                          |
++---------------------+--------------------------------------------------------------------------------------+
+| id                  | 3550                                                                                 |
++---------------------+--------------------------------------------------------------------------------------+
+| sku                 | BPF-WMAC-0500                                                                        |
++---------------------+--------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T12:02:45.222Z                                                             |
++---------------------+--------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                           |
++---------------------+--------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku":                 |
+|                     | "BPF-WMAC-0500",   "name": "Macadamia Nuts - 500g",   "image":                       |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/P/BPF\_WMAC\_Main\_Image\_f73e.jpg", |
+|                     |   "gtin": "5060343748262",   "description": "Macadamias are a delicious and healthy  |
+|                     | snack, and these raw and natural Macadamia Nuts are of the absolute highest quality  |
+|                     | guaranteed. Shop at bulk™ today! Bulk, formerly Bulk Powders.",   "@id":             |
+|                     | "https\://www\.bulk.com/uk/products/whole-macadamia-nuts-500g/bpf-wmac-0500",        |
+|                     | "brand": {     "@type": "Brand",     "name": "Bulk"   },   "offers": \[     {        |
+|                     | "@type": "Offer",       "sku": "BPF-WMAC-0500",       "url":                         |
+|                     | "https\://www\.bulk.com/uk/products/whole-macadamia-nuts-500g/bpf-wmac-0500",        |
+|                     | "gtin": "5060343748262",       "image":                                              |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/P/BPF\_WMAC\_Main\_Image\_f73e.jpg", |
+|                     |       "availability": "InStock",       "price": 7.49,       "priceCurrency": "GBP",  |
+|                     |      "itemCondition": "NewCondition",       "priceValidUntil": "2025-07-01",         |
+|                     | "priceSpecification": {         "@type": "UnitPriceSpecification",                   |
+|                     | "priceType": "https\://schema.org/ListPrice",         "price": 21.99,                |
+|                     | "priceCurrency": "GBP"       }     }   ],   "aggregateRating": {     "@type":        |
+|                     | "AggregateRating",     "ratingValue": 5,     "reviewCount": 1,     "bestRating": 5   |
+|                     | } }                                                                                  |
++---------------------+--------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/whole-macadamia-nuts-500g/bpf-wmac-0500           |
++---------------------+--------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/whole-macadamia-nuts-500g/bpf-wmac-0500           |
++---------------------+--------------------------------------------------------------------------------------+
+
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_12eb8cf9d968fcf52736e51cff1f8bcc218c8b5ac.webp#width=2000&height=2000

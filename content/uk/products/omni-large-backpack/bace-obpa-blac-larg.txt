@@ -1,44 +1,138 @@
-[at](https://www.bulk.com/at/products/omni-large-backpack/bace-obpa-blac-larg)[es](https://www.bulk.com/es/products/mochila-multiusos-grande/bace-obpa-blac-larg)[cz](https://www.bulk.com/cz/products/omni-large-backpack/bace-obpa-blac-larg)[it](https://www.bulk.com/it/products/zaino-grande-portatutto/bace-obpa-blac-larg)[pl](https://www.bulk.com/pl/products/duzy-plecak-omni/bace-obpa-blac-larg)[de](https://www.bulk.com/de/products/omni-large-backpack/bace-obpa-blac-larg)[ie](https://www.bulk.com/ie/products/omni-large-backpack/bace-obpa-blac-larg)[ro](https://www.bulk.com/ro/products/omni-large-backpack/bace-obpa-blac-larg)[se](https://www.bulk.com/se/products/omni-stor-ryggsack/bace-obpa-blac-larg)[eu](https://www.bulk.com/eu/products/omni-large-backpack/bace-obpa-blac-larg)[fr](https://www.bulk.com/fr/products/zaino-grande-portatutto/bace-obpa-blac-larg)[nl](https://www.bulk.com/nl/products/grote-omni-rugzak/bace-obpa-blac-larg)[pt](https://www.bulk.com/pt/products/mochila-omni-grande/bace-obpa-blac-larg)[ch](https://www.bulk.com/ch/products/omni-large-backpack/bace-obpa-blac-larg)[dk](https://www.bulk.com/dk/products/stor-rygsak/bace-obpa-blac-larg)[uk](https://www.bulk.com/uk/products/omni-large-backpack/bace-obpa-blac-larg)
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Product Details                                                                                                                                                                                                                                                                                                                                                                                                                                               |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| # Omni Large Backpack                                                                                                                                                                                                                                                                                                                                                                                                                                         |
++----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Price       | - Regular Price: £39.99                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                | - This product is exempt from discounts                                                                                                                                                                                                                                                                                                                                                                                                      |
++----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Description | ### Omni Large Backpack                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                | The forward-thinking backpack.                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                | The **Bulk™** Omni Large Backpack has it all. Perfect for work, gym, travel or just as an everyday bag, it combines functionality with a sleek, premium, monochrome style.                                                                                                                                                                                                                                                                   |
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                | With adjustable shoulder straps and chest harness for the perfect secure fit, the Omni Large Backpack also has a removable internal T-frame, so that the bag can be customised for your specific needs. A full-size mesh pocket provides                                                                                                                                                                                                     |
+|                | additional storage for belongings and an internal laptop pocket provides protection and security for your device. Keep your [](https://www.bulk.com/iconic-shaker-bottle.html/)**[Shaker Bottle](https://www.bulk.com/uk/products/classic-shaker-bottle/bace-csbo)**[](https://www.bulk.com/uk/products/classic-shaker-bottle/bace-csbo)in the zipped side pocket and take advantage of a wet pocket to store used gym clothing or swimwear. |
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                | Made from premium polyurethane material with internal polyester lining, there’s also a mesh panel on the back for comfort and breathability. All zips are easy-grip rubber, with subtle **Bulk™** detailing.                                                                                                                                                                                                                                 |
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                | - Premium, aesthetic design                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                | - Ideal for the gym, work or travel                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                | - Zipped side pocket for a bottle or shaker                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                | - Wet pocket for storage of used gym clothing or swimwear                                                                                                                                                                                                                                                                                                                                                                                    |
+|                | - Internal laptop pocket                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                | - Customisable T-frame for optimised storage                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                | - Full-size zipped mesh pocket                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                | - Branded mesh back panel                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|                | - Adjustable shoulder straps                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                | - Rubber easy-grip zips with **Bulk™** branding                                                                                                                                                                                                                                                                                                                                                                                              |
+|                | - Made from polyurethane and polyester                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                | - Dimensions: Height 50cm x Width 35cm x Depth 20cm (\~35L volume)                                                                                                                                                                                                                                                                                                                                                                           |
++----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Omni Large Backpack
-===================
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++-----------------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                                |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| title               | Omni Large Backpack\|Bulk™                                                                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| description         | Omni Large Backpack: Stylish, functional and versatile. Ideal for work, gym, or travel. Adjustable fit, laptop    |
+|                     | pocket, wet pocket and sleek design for all needs.                                                                |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| keywords            | Omni Large Backpack                                                                                               |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                                       |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| id                  | 7451                                                                                                              |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| sku                 | BACE-OBPA-BLAC-LARG                                                                                               |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T12:03:24.767Z                                                                                          |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BACE-OBPA-BLAC-LARG",   "name": "Omni Large |
+|                     | Backpack",   "image":                                                                                             |
+|                     | "https\://www\.bulk.com/media/catalog/product/o/m/omni\_backpack\_large\_bace\_obpa\_blac\_larg\_main\_a564.jpg", |
+|                     |   "gtin": "5055950614864",   "description": "This One Let's You Pack It All In",   "@id":                         |
+|                     | "https\://www\.bulk.com/uk/products/omni-large-backpack/bace-obpa-blac-larg",   "brand": {     "@type": "Brand",  |
+|                     |    "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": "BACE-OBPA-BLAC-LARG",           |
+|                     | "url": "https\://www\.bulk.com/uk/products/omni-large-backpack/bace-obpa-blac-larg",       "gtin":                |
+|                     | "5055950614864",       "image":                                                                                   |
+|                     | "https\://www\.bulk.com/media/catalog/product/o/m/omni\_backpack\_large\_bace\_obpa\_blac\_larg\_main\_a564.jpg", |
+|                     |       "availability": "InStock",       "price": 39.99,       "priceCurrency": "GBP",       "itemCondition":       |
+|                     | "NewCondition",       "priceValidUntil": ""     }   ],   "aggregateRating": {     "@type": "AggregateRating",     |
+|                     | "ratingValue": 4.3,     "reviewCount": 255,     "bestRating": 5   } }                                             |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/mochila-multiusos-grande/bace-obpa-blac-larg                                   |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/grote-omni-rugzak/bace-obpa-blac-larg                                          |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/grote-omni-rugzak/bace-obpa-blac-larg                                          |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/zaino-grande-portatutto/bace-obpa-blac-larg                                    |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/zaino-grande-portatutto/bace-obpa-blac-larg                                    |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/omni-stor-ryggsack/bace-obpa-blac-larg                                         |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/stor-rygsak/bace-obpa-blac-larg                                                |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/duzy-plecak-omni/bace-obpa-blac-larg                                           |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/mochila-omni-grande/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/zaino-grande-portatutto/bace-obpa-blac-larg                                    |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/omni-large-backpack/bace-obpa-blac-larg                                        |
++---------------------+-------------------------------------------------------------------------------------------------------------------+
 
-*   Regular Price: £39.99
-*   This product is exempt from discounts
-
-Description
------------
-
-### Omni Large Backpack
-
-The forward-thinking backpack.
-
-The **Bulk™** Omni Large Backpack has it all. Perfect for work, gym, travel or just as an everyday bag, it combines functionality with a sleek, premium, monochrome style.
-
-With adjustable shoulder straps and chest harness for the perfect secure fit, the Omni Large Backpack also has a removable internal T-frame, so that the bag can be customised for your specific needs. A full-size mesh pocket provides additional storage for belongings and an internal laptop pocket provides protection and security for your device. Keep your [](https://www.bulk.com/iconic-shaker-bottle.html/)**[Shaker Bottle](https://www.bulk.com/uk/products/classic-shaker-bottle/bace-csbo)**[](https://www.bulk.com/uk/products/classic-shaker-bottle/bace-csbo)in the zipped side pocket and take advantage of a wet pocket to store used gym clothing or swimwear.
-
-Made from premium polyurethane material with internal polyester lining, there’s also a mesh panel on the back for comfort and breathability. All zips are easy-grip rubber, with subtle **Bulk™** detailing.
-
-*   Premium, aesthetic design
-*   Ideal for the gym, work or travel
-*   Zipped side pocket for a bottle or shaker
-*   Wet pocket for storage of used gym clothing or swimwear
-*   Internal laptop pocket
-*   Customisable T-frame for optimised storage
-*   Full-size zipped mesh pocket
-*   Branded mesh back panel
-*   Adjustable shoulder straps
-*   Rubber easy-grip zips with **Bulk™** branding
-*   Made from polyurethane and polyester
-*   Dimensions: Height 50cm x Width 35cm x Depth 20cm (~35L volume)
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_163d8b274de08e7e23d845d0d74588a934eaf0863.webp#width=2000&height=2000

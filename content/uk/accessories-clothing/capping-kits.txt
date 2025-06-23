@@ -1,14 +1,32 @@
-[at](https://www.bulk.com/at/zubehor-bekleidung/kapsel-fullkits)[ch](https://www.bulk.com/ch/zubehor-und-bekleidung/kapsel-fullkits)[cz](https://www.bulk.com/cz/accessories-clothing/capping-kits)[de](https://www.bulk.com/de/zubehor-und-bekleidung/kapsel-fullkits)[dk](https://www.bulk.com/dk/tilbehor-toj/kapselfylder-kit)[es](https://www.bulk.com/es/ropa-y-accessorios/kit-de-encapsulado-2)[eu](https://www.bulk.com/eu/accessories-clothing/capping-kits)[ie](https://www.bulk.com/ie/accessories-clothing/capping-kits)[fr](https://www.bulk.com/fr/vetements-accessoires/kit-de-remplissage-de-gelules)[it](https://www.bulk.com/it/accessori-abbigliamento/kit-di-incapsulamento-2)[nl](https://www.bulk.com/nl/accessoires-en-kleding/capping-kits)[pl](https://www.bulk.com/pl/akcesoria-i-odziez/zestawy-do-kapsulkowania)[pt](https://www.bulk.com/pt/roupa-desportiva-e-acessorios/kit-de-encapsular-2)[ro](https://www.bulk.com/ro/accessories-clothing/capping-kits)[se](https://www.bulk.com/se/klader-och-tillbehor/kapselkitt)[uk](https://www.bulk.com/uk/accessories-clothing/capping-kits)
+# Capping Kits
 
-Capping Kits
-============
++:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                     |
++---------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                            | accessories-clothing/capping-kits                                                                                   |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Capping Kits**, also known as capsule filling machines, are a great way to save money on your supplements.                                                                                                                              |
+|                                                                                                                                                                                                                                           |
+| Even though we have a fantastic range of ready-made capsule & tablet supplements, it is impossible to offer all our                                                                                                                       |
+| products in this format. This is where **Capping Kits** come in. They enable you to encapsulate any of our powders, helping                                                                                                               |
+| you to save money versus buying pre-encapsulated products.                                                                                                                                                                                |
+|                                                                                                                                                                                                                                           |
+| **Capping Kits** are also ideal for some of our powders, particularly those that leave a lot to be desired in the taste                                                                                                                   |
+| department. Once you own a capping kit it will last forever; all you need to do is make sure you have some of our **[Empty Vegetarian Capsules](https://staging.bulk.com/uk/products/vegetarian-capsules/bpb-vcap-0000)** to use it with! |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                                                                                                                           |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
-
-accessories-clothing/capping-kits
-
-**Capping Kits**, also known as capsule filling machines, are a great way to save money on your supplements.
-
-Even though we have a fantastic range of ready-made capsule & tablet supplements, it is impossible to offer all our products in this format. This is where **Capping Kits** come in. They enable you to encapsulate any of our powders, helping you to save money versus buying pre-encapsulated products.
-
-**Capping Kits** are also ideal for some of our powders, particularly those that leave a lot to be desired in the taste department. Once you own a capping kit it will last forever; all you need to do is make sure you have some of our **[Empty Vegetarian Capsules](https://staging.bulk.com/uk/products/vegetarian-capsules/bpb-vcap-0000)** to use it with!
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Capping Kits \| Cap Powders & Pills \| Bulk™              |
++-------------+-----------------------------------------------------------+
+| description | Capping Kits are an easy way of making your own pills and |
+|             | supplements from raw powders. Shop Bulk™ range of Capping |
+|             | Kits at the UK's lowest prices.                           |
++-------------+-----------------------------------------------------------+

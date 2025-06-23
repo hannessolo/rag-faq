@@ -1,24 +1,36 @@
-[pl](https://www.bulk.com/pl/vegan-diet)[de](https://www.bulk.com/de/vegan-diet)[cz](https://www.bulk.com/cz/vegan-diet)[dk](https://www.bulk.com/dk/vegan-diet)[es](https://www.bulk.com/es/vegan-diet)[at](https://www.bulk.com/at/products/haselnussbutter/bpf-hbut)[eu](https://www.bulk.com/eu/vegan-diet)[pt](https://www.bulk.com/pt/vegan-diet)[ie](https://www.bulk.com/ie/vegan-diet)[se](https://www.bulk.com/se/vegan-diet)[fr](https://www.bulk.com/fr/vegan-diet)[ch](https://www.bulk.com/ch/vegan-diet)[uk](https://www.bulk.com/uk/code-confirmation)[ro](https://www.bulk.com/ro/vegan-diet)[it](https://www.bulk.com/it/vegan-diet)[nl](https://www.bulk.com/nl/vegan-diet)
-
 CONGRATULATIONS
 
-EXTRA 5%  
-OFF UNLOCKED
-=======================
+# EXTRA 5%<br>OFF UNLOCKED
 
-USE THE CODE BELOW  
+USE THE CODE BELOW\
 AT CHECKOUT
 
-Style
++-----------------------------+
+| Section Metadata            |
++---------+-------------------+
+| Style   | Code-Confirmation |
++---------+-------------------+
 
-Code-Confirmation
-
-GAINACCESS
-----------
+## GAINACCESS
 
 _[Copy Code](#)_
 
-_\*An additional 5% off will be applied to all products included in the main_  
-_offer with the same T&Cs applying. Minimum spend £30._  
-_Code is not valid on products in Deal of the_  
+_\*An additional 5% off will be applied to all products included in the main_\
+_offer with the same T\&Cs applying. Minimum spend £30._\
+_Code is not valid on products in Deal of the_\
 _Day and Pure Whey Isolate™. Discount code valid for today only._
+
+---
+
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| Title       | Bulk™ Extra Discount Unlocked \| Protein, Vitamins,       |
+|             | Sports Nutrition, Fitness Foods                           |
++-------------+-----------------------------------------------------------+
+| Description | Bulk™ is the leading supplier of bodybuilding supplements |
+|             | \&amp; sports nutrition – covering Protein, Creatine,     |
+|             | Vitamins, Fat Loss \&amp; more! Formerly Bulk Powders.    |
++-------------+-----------------------------------------------------------+
+| Template    | Content                                                   |
++-------------+-----------------------------------------------------------+

@@ -1,137 +1,239 @@
-[pl](https://www.bulk.com/pl/products/rozowa-sol-himalajska/bpf-psal-hima)[dk](https://www.bulk.com/dk/products/pink-himalayasalt/bpf-psal-hima)[cz](https://www.bulk.com/cz/products/himalajska-ruzova-sul/bpf-psal-hima)[de](https://www.bulk.com/de/products/pinkes-himalayasalz/bpf-psal-hima)[eu](https://www.bulk.com/eu/products/himalayan-pink-salt/bpf-psal-hima)[fr](https://www.bulk.com/fr/products/sel-rose-de-l-himalaya/bpf-psal-hima)[ch](https://www.bulk.com/ch/products/pinkes-himalayasalz/bpf-psal-hima)[it](https://www.bulk.com/it/products/sale-himalayano-rosa/bpf-psal-hima)[at](https://www.bulk.com/at/products/pinkes-himalayasalz-at/bpf-psal-hima)[pt](https://www.bulk.com/pt/products/sal-rosa-dos-himalaias/bpf-psal-hima)[ie](https://www.bulk.com/ie/products/himalayan-pink-salt/bpf-psal-hima)[se](https://www.bulk.com/se/products/himalayasalt/bpf-psal-hima)[nl](https://www.bulk.com/nl/products/roze-himalayazout/bpf-psal-hima)[es](https://www.bulk.com/es/products/sal-rosa-himalaya/bpf-psal-hima)[uk](https://www.bulk.com/uk/products/himalayan-pink-salt/bpf-psal-hima)[ro](https://www.bulk.com/ro/products/sare-roz-de-himalaya/bpf-psal-hima)
++----------------------------------------------------------------------------+
+| Product Details                                                            |
++----------------------------------------------------------------------------+
+| # Himalayan Pink Salt                                                      |
++----------------+-----------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£8.99~~                                |
+|                | - Final Price: £2.24                                      |
+|                | - Save £6.75                                              |
+|                | - Bestsellers Sale: Up to 75% off - no code required      |
++----------------+-----------------------------------------------------------+
+| ## Size        | - 500g                                                    |
++----------------+-----------------------------------------------------------+
+| ## Description | ### Himalayan Pink Salt                                   |
+|                |                                                           |
+|                | Natural, unprocessed pink salt sourced from the northern  |
+|                | regions of the Himalayan mountain range.                  |
+|                |                                                           |
+|                | Our Himalayan Pink Salt is sourced from the northern      |
+|                | regions of the Himalayan mountain range, and is a         |
+|                | popular, natural alternative to table salt which          |
+|                | typically undergoes a great deal of processing. With all  |
+|                | of the flavour and naturally occurring trace minerals of  |
+|                | table salt without the processing, it’s fine grained and  |
+|                | ideal for use in salt shakers or as a partner to our      |
+|                | Active Seasonings™.                                       |
+|                |                                                           |
+|                | Natural and unprocessed, our Himalayn Pink Salt can also  |
+|                | be combined with other **Bulk™** products such as Coconut |
+|                | Water Powder, Organic Baobab Powder and Organic Lucuma    |
+|                | Powder to make a natural electrolyte and carbohydrate     |
+|                | powder.                                                   |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Purpose                                               |
+|                |                                                           |
+|                | Our Himalayan Pink Salt is suitable for anyone seeking a  |
+|                | natural alternative to table salt. It has a great flavour |
+|                | and is a perfect partner to almost any recipe.            |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Benefits                                              |
+|                |                                                           |
+|                | - 100% Natural                                            |
+|                |                                                           |
+|                | Natural, unprocessed pink salt from the Himalayas.        |
+|                |                                                           |
+|                | - Versatile                                               |
+|                |                                                           |
+|                | Perfect for cooking or for use as part of a natural       |
+|                | electrolyte powder.                                       |
++----------------+-----------------------------------------------------------+
+| ## Directions  | ### Directions                                            |
+|                |                                                           |
+|                | Add Himalayan Pink Salt to any meals, foods and recipes   |
+|                | you may choose.                                           |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Related Products                                      |
+|                |                                                           |
+|                | bulk® Himalayan Pink Salt is the perfect partner to our   |
+|                | Active Seasonings™ for all kinds of meal prep. It can     |
+|                | also be combined with some of our other products such as  |
+|                | Coconut Water Powder, Organic Baobab Powder and Organic   |
+|                | Lucuma Powder to make a natural electrolyte and           |
+|                | carbohydrate powder.                                      |
++----------------+-----------------------------------------------------------+
+| ## Ingredients | ### Ingredients                                           |
+|                |                                                           |
+|                | Himalayan Pink Salt.                                      |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Suitable For                                          |
+|                |                                                           |
+|                | Halal,Vegan,Vegetarian                                    |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Allergen advice                                       |
+|                |                                                           |
+|                | May contain milk, eggs, soya, cereals containing gluten,  |
+|                | fish, crustaceans, molluscs, mustard, sesame, sulphur     |
+|                | dioxide and sulphites.                                    |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Storage                                               |
+|                |                                                           |
+|                | Store in a dry cool place. Reseal pouch after use.        |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Advisory Information                                  |
+|                |                                                           |
+|                | Although every care has been taken to keep product        |
+|                | information up to date on our website, please always read |
+|                | the information provided on product label or packaging    |
+|                | before use.                                               |
++----------------+-----------------------------------------------------------+
+| ## Nutrition   | +--------------------+-----------+                        |
+|                | | Nutrition          | per 100 g |                        |
+|                | +====================+===========+                        |
+|                | | Energy kJ/kcal     | 0/0       |                        |
+|                | +--------------------+-----------+                        |
+|                | | Fat                | 0g        |                        |
+|                | |                    |           |                        |
+|                | | of which saturates | 0g        |                        |
+|                | +--------------------+-----------+                        |
+|                | | Carbohydrate       | 0g        |                        |
+|                | |                    |           |                        |
+|                | | of which sugars    | 0g        |                        |
+|                | +--------------------+-----------+                        |
+|                | | Fibre              | 0g        |                        |
+|                | +--------------------+-----------+                        |
+|                | | Protein            | 0g        |                        |
+|                | +--------------------+-----------+                        |
+|                | | Salt               | 97g       |                        |
+|                | +--------------------+-----------+                        |
++----------------+-----------------------------------------------------------+
 
-Himalayan Pink Salt
-===================
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++--------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                           |
++---------------------+----------------------------------------------------------------------------------------------+
+| title               | Himalayan Pink Salt\|Active Foods™\|Bulk™ UK                                                 |
++---------------------+----------------------------------------------------------------------------------------------+
+| description         | Seen as a more natural alternative to regular table salt, Himalayan Pink Salt is unprocessed |
+|                     | & contains trace minerals. Shop at bulk™ UK today! Bulk, formerly Bulk Powders.              |
++---------------------+----------------------------------------------------------------------------------------------+
+| keywords            | Himalayan Pink Salt                                                                          |
++---------------------+----------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                  |
++---------------------+----------------------------------------------------------------------------------------------+
+| id                  | 6579                                                                                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| sku                 | BPF-PSAL-HIMA                                                                                |
++---------------------+----------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T12:08:54.904Z                                                                     |
++---------------------+----------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                   |
++---------------------+----------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BPF-PSAL-HIMA",        |
+|                     | "name": "Himalayan Pink Salt",   "image":                                                    |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/P/BPF\_PSAL\_HIMA\_Main\_Image\_449a.jpg",   |
+|                     | "gtin": "",   "description": "100% Pure Himalayan Pink Salt",   "@id":                       |
+|                     | "https\://www\.bulk.com/uk/products/himalayan-pink-salt/bpf-psal-hima",   "brand": {         |
+|                     | "@type": "Brand",     "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       |
+|                     | "sku": "BPF-PSAL-HIMA-0500",       "url":                                                    |
+|                     | "https\://www\.bulk.com/uk/products/himalayan-pink-salt/bpf-psal-hima?view=ppc\&o=MTc5LTY5", |
+|                     |       "gtin": "5055950612556",       "image":                                                |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/P/BPF\_PSAL\_HIMA\_Main\_Image\_096a.jpg",   |
+|                     |     "availability": "InStock",       "price": 2.24,       "priceCurrency": "GBP",            |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": "2025-07-01",                      |
+|                     | "priceSpecification": {         "@type": "UnitPriceSpecification",         "priceType":      |
+|                     | "https\://schema.org/ListPrice",         "price": 8.99,         "priceCurrency": "GBP"       |
+|                     | }     }   ],   "aggregateRating": {     "@type": "AggregateRating",     "ratingValue": 4.7,  |
+|                     |    "reviewCount": 214,     "bestRating": 5   } }                                             |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/pinkes-himalayasalz-at/bpf-psal-hima                      |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/rozowa-sol-himalajska/bpf-psal-hima                       |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/himalajska-ruzova-sul/bpf-psal-hima                       |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/sel-rose-de-l-himalaya/bpf-psal-hima                      |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/sel-rose-de-l-himalaya/bpf-psal-hima                      |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/pinkes-himalayasalz/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/pinkes-himalayasalz/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/pink-himalayasalt/bpf-psal-hima                           |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/sare-roz-de-himalaya/bpf-psal-hima                        |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/sale-himalayano-rosa/bpf-psal-hima                        |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/sal-rosa-dos-himalaias/bpf-psal-hima                      |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/sal-rosa-himalaya/bpf-psal-hima                           |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/himalayasalt/bpf-psal-hima                                |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/roze-himalayazout/bpf-psal-hima                           |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/roze-himalayazout/bpf-psal-hima                           |
++---------------------+----------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/himalayan-pink-salt/bpf-psal-hima                         |
++---------------------+----------------------------------------------------------------------------------------------+
 
-*   Regular Price: £8.99
-*   Final Price: £2.24
-*   Save £6.75
-*   Bestsellers Sale: Up to 75% off - no code required
-
-Size
-----
-
-*   500g
-
-Description
------------
-
-### Himalayan Pink Salt
-
-Natural, unprocessed pink salt sourced from the northern regions of the Himalayan mountain range.
-
-Our Himalayan Pink Salt is sourced from the northern regions of the Himalayan mountain range, and is a popular, natural alternative to table salt which typically undergoes a great deal of processing. With all of the flavour and naturally occurring trace minerals of table salt without the processing, it’s fine grained and ideal for use in salt shakers or as a partner to our Active Seasonings™.
-
-Natural and unprocessed, our Himalayn Pink Salt can also be combined with other **Bulk™** products such as Coconut Water Powder, Organic Baobab Powder and Organic Lucuma Powder to make a natural electrolyte and carbohydrate powder.
-
-\\
-
-### Purpose
-
-Our Himalayan Pink Salt is suitable for anyone seeking a natural alternative to table salt. It has a great flavour and is a perfect partner to almost any recipe.
-
-\\
-
-### Benefits
-
-*   100% Natural
-
-Natural, unprocessed pink salt from the Himalayas.
-
-*   Versatile
-
-Perfect for cooking or for use as part of a natural electrolyte powder.
-
-Directions
-----------
-
-### Directions
-
-Add Himalayan Pink Salt to any meals, foods and recipes you may choose.
-
-\\
-
-### Related Products
-
-bulk® Himalayan Pink Salt is the perfect partner to our Active Seasonings™ for all kinds of meal prep. It can also be combined with some of our other products such as Coconut Water Powder, Organic Baobab Powder and Organic Lucuma Powder to make a natural electrolyte and carbohydrate powder.
-
-Ingredients
------------
-
-### Ingredients
-
-Himalayan Pink Salt.
-
-\\
-
-### Suitable For
-
-Halal,Vegan,Vegetarian
-
-\\
-
-### Allergen advice
-
-May contain milk, eggs, soya, cereals containing gluten, fish, crustaceans, molluscs, mustard, sesame, sulphur dioxide and sulphites.
-
-\\
-
-### Storage
-
-Store in a dry cool place. Reseal pouch after use.
-
-\\
-
-### Advisory Information
-
-Although every care has been taken to keep product information up to date on our website, please always read the information provided on product label or packaging before use.
-
-Nutrition
----------
-
-Nutrition
-
-per 100 g
-
-Energy kJ/kcal
-
-0/0
-
-Fat
-
-of which saturates
-
-0g
-
-0g
-
-Carbohydrate
-
-of which sugars
-
-0g
-
-0g
-
-Fibre
-
-0g
-
-Protein
-
-0g
-
-Salt
-
-97g
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1e2ea748280e620359bbf2cddbc02e6ba0b9987dd.webp#width=2000&height=2000

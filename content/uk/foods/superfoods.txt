@@ -1,26 +1,47 @@
-[pl](https://www.bulk.com/pl/zywnosc/superfoods)[dk](https://www.bulk.com/dk/madvarer/superfoods)[fr](https://www.bulk.com/fr/produits-alimentaires/super-aliments)[eu](https://www.bulk.com/eu/foods/superfoods)[pt](https://www.bulk.com/pt/alimentos-saudaveis/superalimentos)[cz](https://www.bulk.com/cz/foods/superfoods)[at](https://www.bulk.com/at/nahrungsmittel/superfoods)[es](https://www.bulk.com/es/alimentacion/superalimentos)[se](https://www.bulk.com/se/livsmedel/superfoods)[nl](https://www.bulk.com/nl/voeding/superfoods)[ch](https://www.bulk.com/ch/nahrungsmittel/superfoods)[ro](https://www.bulk.com/ro/foods/superfoods)[uk](https://www.bulk.com/uk/foods/superfoods)[de](https://www.bulk.com/de/nahrungsmittel/superfoods)[ie](https://www.bulk.com/ie/foods/superfoods)[it](https://www.bulk.com/it/alimenti-2/super-alimenti)
+# Superfoods
 
-Superfoods
-==========
++:---------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                 |
++-----------------------------------------------------------+-----------------------------------------------------------+
+| category                                                  | foods/superfoods                                          |
++-----------------------------------------------------------------------------------------------------------------------+
+| **Bulk™** provides an impressive range of Superfoods – all of which are designed to improve health and wellbeing. Our |
+| range of Superfoods encompasses everything from Chia Seeds to Goji Berries. Superfoods make the perfect addition to   |
+| any diet, whether you are looking for a little something to increase your energy levels, or simply a convenient snack |
+| that is packed with vitamins & minerals.                                                                              |
++-----------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-foods/superfoods
+## RELATED CATEGORIES
 
-**Bulk™** provides an impressive range of Superfoods – all of which are designed to improve health and wellbeing. Our range of Superfoods encompasses everything from Chia Seeds to Goji Berries. Superfoods make the perfect addition to any diet, whether you are looking for a little something to increase your energy levels, or simply a convenient snack that is packed with vitamins & minerals.
+- [Flavourings](https://dev--bul-eds--thepixel.hlx.live/uk/foods/flavourings-sweeteners)
+- [Flour](https://dev--bul-eds--thepixel.hlx.live/uk/foods/flour)
+- [Konjac](https://dev--bul-eds--thepixel.hlx.live/uk/foods/konjac)
+- [Healthy Cooking oils](https://dev--bul-eds--thepixel.hlx.live/uk/foods/healthy-oils)
+- [High protein nuts & seeds](https://dev--bul-eds--thepixel.hlx.live/uk/foods/nuts-seeds)
+- [Organic foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/organic-foods)
+- [Meat snacks](https://dev--bul-eds--thepixel.hlx.live/uk/foods/meat-snacks)
+- [Low calorie foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/zero-calorie-foods)
 
-RELATED CATEGORIES
-------------------
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-*   [Flavourings](/uk/foods/flavourings-sweeteners)
-*   [Flour](/uk/foods/flour)
-*   [Konjac](/uk/foods/konjac)
-*   [Healthy Cooking oils](/uk/foods/healthy-oils)
-*   [High protein nuts & seeds](/uk/foods/nuts-seeds)
-*   [Organic foods](/uk/foods/organic-foods)
-*   [Meat snacks](/uk/foods/meat-snacks)
-*   [Low calorie foods](/uk/foods/zero-calorie-foods)
+---
 
-Style
-
-lozenge-list
++-----------------------------------------------------------------------+
+| Metadata                                                              |
++-------------+---------------------------------------------------------+
+| breadcrumbs | true                                                    |
++-------------+---------------------------------------------------------+
+| template    | plp                                                     |
++-------------+---------------------------------------------------------+
+| title       | Superfoods \| Healthy Super Foods \| Bulk™              |
++-------------+---------------------------------------------------------+
+| description | Discover premium Superfoods at unbeatable prices with   |
+|             | Bulk™. Explore our vast selection of powders and foods. |
+|             | Quality nutrition made affordable.                      |
++-------------+---------------------------------------------------------+

@@ -1,56 +1,109 @@
-[fr](https://www.bulk.com/fr/products/post-entrainement-vegan-tout-en-un/vser-vai1)[pl](https://www.bulk.com/pl/products/weganski-shake-all-in-one/vser-vai1)[cz](https://www.bulk.com/cz/products/veganske-vse-v-jednom/vser-vai1)[de](https://www.bulk.com/de/products/vegan-all-in-one-post-workout-shake/vser-vai1)[ch](https://www.bulk.com/ch/products/vegan-all-in-one-post-workout-shake/vser-vai1)[es](https://www.bulk.com/es/products/batido-todo-en-uno-vegano-post-workout/vser-vai1)[ie](https://www.bulk.com/ie/products/vegan-all-in-one/vser-vai1)[eu](https://www.bulk.com/eu/products/vegan-all-in-one/vser-vai1)[se](https://www.bulk.com/se/products/vegan-all-in-one/vser-vai1)[ro](https://www.bulk.com/ro/products/vegan-all-in-one/vser-vai1)[at](https://www.bulk.com/at/products/vegan-all-in-one-post-workout-shake/vser-vai1)[nl](https://www.bulk.com/nl/products/vegan-alles-in-een-post-workout-shake/vser-vai1)[dk](https://www.bulk.com/dk/products/vegan-all-in-one-post-workout-shake/vser-vai1)[it](https://www.bulk.com/it/products/frullato-post-allenamento-vegano/vser-vai1)[uk](https://www.bulk.com/uk/products/bulk-castore-quarter-zip-midlayer/buca-qzml)[pt](https://www.bulk.com/pt/products/all-in-one-vegan/vser-vai1)
++-----------------------------------------------------------------------------+
+| Product Details                                                             |
++-----------------------------------------------------------------------------+
+| # Bulk™ × Castore 1/4 Zip                                                   |
++----------------+------------------------------------------------------------+
+| ## Price       | - Regular Price: £65.00                                    |
+|                | - Clearance Sale: Now or never                             |
++----------------+------------------------------------------------------------+
+| ## Colour      | - Black                                                    |
+|                | - Navy                                                     |
++----------------+------------------------------------------------------------+
+| ## Size        | - S                                                        |
+|                | - M                                                        |
+|                | - L                                                        |
++----------------+------------------------------------------------------------+
+| ## Description | ### Bulk™ × Castore 1/4 Zip                                |
+|                |                                                            |
+|                | The best in British sportswear unites with the leaders in  |
+|                | sports and active nutrition to bring you this exclusive    |
+|                | Bulk™ × Castore 1/4 Zip. It’s time to train like a pro.    |
+|                |                                                            |
+|                | Wear up close and personal or layer to your liking. Super  |
+|                | lightweight, see it as your second skin. Designed to       |
+|                | perform beyond expectations. Complete comfort. Faultless   |
+|                | freedom of movement. Lighten up your training and let this |
+|                | winning entry work with you.                               |
+|                |                                                            |
+|                | All our clothing is unisex.                                |
+|                |                                                            |
+|                | - The detail is in the design                              |
+|                | - Exclusive Bulk™ × Castore branding on the front and back |
+|                | - Works as hard as you                                     |
+|                | - Lightweight, quick-drying, breathable, wicking fabric    |
+|                | - 90% polyester / 10% spandex                              |
+|                | - Athletic fit                                             |
+|                | - Mindfully manufactured in Europe                         |
++----------------+------------------------------------------------------------+
 
-Bulk™ × Castore 1/4 Zip
-=======================
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++------------------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                                 |
++---------------------+--------------------------------------------------------------------------------------------------------------------+
+| title               | Bulk™ × Castore 1/4 Zip UK                                                                                         |
++---------------------+--------------------------------------------------------------------------------------------------------------------+
+| description         | Buy our Performance 1/4 Zip Pullover, perfect for inside and outside the gym. Moisture-wicking technology helps to |
+|                     | keep you cool and dry when the pressure’s on.                                                                      |
++---------------------+--------------------------------------------------------------------------------------------------------------------+
+| keywords            | bulk™ x Castore Quarter Zip Midlayer                                                                               |
++---------------------+--------------------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                                        |
++---------------------+--------------------------------------------------------------------------------------------------------------------+
+| id                  | 8164                                                                                                               |
++---------------------+--------------------------------------------------------------------------------------------------------------------+
+| sku                 | BUCA-QZML                                                                                                          |
++---------------------+--------------------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-22T10:50:57.649Z                                                                                           |
++---------------------+--------------------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                                         |
++---------------------+--------------------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BUCA-QZML",   "name": "Bulk × Castore 1/4    |
+|                     | Zip",   "image": "https\://www\.bulk.com/media/catalog/product/q/u/quater\_zip\_front\_black\_main\_4\_c3da.jpg",  |
+|                     |  "gtin": "",   "description": "Buy our Performance 1/4 Zip Pullover, perfect for inside and outside the gym.       |
+|                     | Moisture-wicking technology helps to keep you cool and dry when the pressure’s on.",   "@id":                      |
+|                     | "https\://www\.bulk.com/uk/products/bulk-castore-quarter-zip-midlayer/buca-qzml",   "brand": {     "@type":        |
+|                     | "Brand",     "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": "BUCA-QZML-BLAC-MEDI",  |
+|                     |      "url":                                                                                                        |
+|                     | "https\://www\.bulk.com/uk/products/bulk-castore-quarter-zip-midlayer/buca-qzml?view=ppc\&o=MTc5LTEyOCwyNzgtMjk3", |
+|                     |       "gtin": "5055950615748",       "image":                                                                      |
+|                     | "https\://www\.bulk.com/media/catalog/product/q/u/quater\_zip\_front\_black\_main\_2\_55e0.jpg",                   |
+|                     | "availability": "InStock",       "price": 65,       "priceCurrency": "GBP",       "itemCondition": "NewCondition", |
+|                     |       "priceValidUntil": ""     },     {       "@type": "Offer",       "sku": "BUCA-QZML-NAVY-LARG",       "url":  |
+|                     | "https\://www\.bulk.com/uk/products/bulk-castore-quarter-zip-midlayer/buca-qzml?view=ppc\&o=MTc5LTEyNywyNzgtNjM0", |
+|                     |       "gtin": "5055950615793",       "image":                                                                      |
+|                     | "https\://www\.bulk.com/media/catalog/product/q/u/quater\_zip\_front\_navy\_main\_1\_1\_ad59.jpg",                 |
+|                     | "availability": "OutOfStock",       "price": 32.5,       "priceCurrency": "GBP",       "itemCondition":            |
+|                     | "NewCondition",       "priceValidUntil": "2025-07-01",       "priceSpecification": {         "@type":              |
+|                     | "UnitPriceSpecification",         "priceType": "https\://schema.org/ListPrice",         "price": 65,               |
+|                     | "priceCurrency": "GBP"       }     },     {       "@type": "Offer",       "sku": "BUCA-QZML-NAVY-MEDI",            |
+|                     | "url":                                                                                                             |
+|                     | "https\://www\.bulk.com/uk/products/bulk-castore-quarter-zip-midlayer/buca-qzml?view=ppc\&o=MTc5LTEyOCwyNzgtNjM0", |
+|                     |       "gtin": "5055950615786",       "image":                                                                      |
+|                     | "https\://www\.bulk.com/media/catalog/product/q/u/quater\_zip\_front\_navy\_main\_1\_1\_ad59.jpg",                 |
+|                     | "availability": "InStock",       "price": 32.5,       "priceCurrency": "GBP",       "itemCondition":               |
+|                     | "NewCondition",       "priceValidUntil": "2025-07-01",       "priceSpecification": {         "@type":              |
+|                     | "UnitPriceSpecification",         "priceType": "https\://schema.org/ListPrice",         "price": 65,               |
+|                     | "priceCurrency": "GBP"       }     },     {       "@type": "Offer",       "sku": "BUCA-QZML-NAVY-SMAL",            |
+|                     | "url":                                                                                                             |
+|                     | "https\://www\.bulk.com/uk/products/bulk-castore-quarter-zip-midlayer/buca-qzml?view=ppc\&o=MTc5LTEyOSwyNzgtNjM0", |
+|                     |       "gtin": "5055950615779",       "image":                                                                      |
+|                     | "https\://www\.bulk.com/media/catalog/product/q/u/quater\_zip\_front\_navy\_main\_1\_1\_ad59.jpg",                 |
+|                     | "availability": "InStock",       "price": 32.5,       "priceCurrency": "GBP",       "itemCondition":               |
+|                     | "NewCondition",       "priceValidUntil": "2025-07-01",       "priceSpecification": {         "@type":              |
+|                     | "UnitPriceSpecification",         "priceType": "https\://schema.org/ListPrice",         "price": 65,               |
+|                     | "priceCurrency": "GBP"       }     }   ],   "aggregateRating": {     "@type": "AggregateRating",                   |
+|                     | "ratingValue": 5,     "reviewCount": 2,     "bestRating": 5   } }                                                  |
++---------------------+--------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/bulk-castore-quarter-zip-midlayer/buca-qzml                                     |
++---------------------+--------------------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/bulk-castore-quarter-zip-midlayer/buca-qzml                                     |
++---------------------+--------------------------------------------------------------------------------------------------------------------+
 
-*   Regular Price: £65.00
-*   Final Price: £32.50
-*   Save £32.50
-*   Clearance Sale: Now or never
-
-Colour
-------
-
-*   Black
-*   Navy
-
-Size
-----
-
-*   S
-*   M
-*   L
-
-Description
------------
-
-### Bulk™ × Castore 1/4 Zip
-
-The best in British sportswear unites with the leaders in sports and active nutrition to bring you this exclusive Bulk™ × Castore 1/4 Zip. It’s time to train like a pro.
-
-Wear up close and personal or layer to your liking. Super lightweight, see it as your second skin. Designed to perform beyond expectations. Complete comfort. Faultless freedom of movement. Lighten up your training and let this winning entry work with you.
-
-All our clothing is unisex.
-
-*   The detail is in the design
-*   Exclusive Bulk™ × Castore branding on the front and back
-*   Works as hard as you
-*   Lightweight, quick-drying, breathable, wicking fabric
-*   90% polyester / 10% spandex
-*   Athletic fit
-*   Mindfully manufactured in Europe
-
-\\
-
-Food Supplement
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1a0b2586c0876f4cc00a061379b2f9be830d40907.webp#width=2000&height=2000

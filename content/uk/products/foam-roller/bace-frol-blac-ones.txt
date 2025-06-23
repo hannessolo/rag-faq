@@ -1,40 +1,146 @@
-[pl](https://www.bulk.com/pl/products/foam-roller/bace-frol-blac-ones)[cz](https://www.bulk.com/cz/products/foam-roller/bace-frol-blac-ones)[fr](https://www.bulk.com/fr/products/foam-roller/bace-frol-blac-ones)[ie](https://www.bulk.com/ie/products/foam-roller/bace-frol-blac-ones)[eu](https://www.bulk.com/eu/products/foam-roller/bace-frol-blac-ones)[de](https://www.bulk.com/de/products/foam-roller/bace-frol-blac-ones)[pt](https://www.bulk.com/pt/products/foam-roller/bace-frol-blac-ones)[ch](https://www.bulk.com/ch/products/foam-roller/bace-frol-blac-ones)[at](https://www.bulk.com/at/products/foam-roller/bace-frol-blac-ones)[dk](https://www.bulk.com/dk/products/foam-roller/bace-frol-blac-ones)[it](https://www.bulk.com/it/products/foam-roller/bace-frol-blac-ones)[es](https://www.bulk.com/es/products/foam-roller/bace-frol-blac-ones)[ro](https://www.bulk.com/ro/products/foam-roller/bace-frol-blac-ones)[uk](https://www.bulk.com/uk/products/foam-roller/bace-frol-blac-ones)[se](https://www.bulk.com/se/products/foam-roller/bace-frol-blac-ones)[nl](https://www.bulk.com/nl/products/foam-roller/bace-frol-blac-ones)
++---------------------------------------------------------------------------+
+| Product Details                                                           |
++---------------------------------------------------------------------------+
+| # Foam Roller                                                             |
++----------------+----------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£14.99~~                              |
+|                | - Final Price: £7.49                                     |
+|                | - Save £7.50                                             |
+|                | - Clearance Sale: Now or never                           |
++----------------+----------------------------------------------------------+
+| ## Description | ### Foam Roller                                          |
+|                |                                                          |
+|                | Feel your tension roll away.                             |
+|                |                                                          |
+|                | The **bulk™** Foam Roller is ideal for a deep-tissue     |
+|                | massage or post-workout rehabilitation of specific       |
+|                | muscles. Its varied pattern works to tackle the tightest |
+|                | of knots and shift stubborn lactic acid to ensure that   |
+|                | you’re raring to go for your next workout. It is light   |
+|                | and portable, strong and robust, and has the added       |
+|                | benefit of being non-porous and easy to clean.           |
+|                |                                                          |
+|                | Available in a sleek black design with subtle white      |
+|                | branding, this Foam Roller is made from recycled foam    |
+|                | material and is suitable for anyone looking to reduce    |
+|                | muscle soreness and improve flexibility. So, whether     |
+|                | you’re an elite athlete or a casual gym-goer, look no    |
+|                | further than **bulk™.**                                  |
+|                |                                                          |
+|                | - Strong and robust for optimal pressure                 |
+|                | - Varied pattern to pinpoint different muscles           |
+|                | - Made from recycled foam material                       |
+|                | - Easy to clean                                          |
+|                | - Lightweight and portable                               |
+|                | - Dimensions: 33cm x 13cm                                |
+|                | - Suitable for myofascial release, fitness and           |
+|                |   rehabilitation                                         |
+|                | - All black design with subtle white **bulk™** branding  |
++----------------+----------------------------------------------------------+
 
-Foam Roller
-===========
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++--------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| title               | Foam Roller                                                                                              |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| description         | Roll Away Aches And Pains                                                                                |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| keywords            | Foam Roller                                                                                              |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                              |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| id                  | 7385                                                                                                     |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| sku                 | BACE-FROL-BLAC-ONES                                                                                      |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T12:03:24.984Z                                                                                 |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                               |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BACE-FROL-BLAC-ONES",   "name":    |
+|                     | "Foam Roller",   "image":                                                                                |
+|                     | "https\://www\.bulk.com/media/catalog/product/f/o/foam\_roller\_bace\_frol\_blac\_ones\_main\_8e9d.jpg", |
+|                     |   "gtin": "5055950614505",   "description": "Roll Away Aches And Pains",   "@id":                        |
+|                     | "https\://www\.bulk.com/uk/products/foam-roller/bace-frol-blac-ones",   "brand": {     "@type": "Brand", |
+|                     |     "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": "BACE-FROL-BLAC-ONES", |
+|                     |       "url": "https\://www\.bulk.com/uk/products/foam-roller/bace-frol-blac-ones",       "gtin":         |
+|                     | "5055950614505",       "image":                                                                          |
+|                     | "https\://www\.bulk.com/media/catalog/product/f/o/foam\_roller\_bace\_frol\_blac\_ones\_main\_8e9d.jpg", |
+|                     |       "availability": "InStock",       "price": 7.49,       "priceCurrency": "GBP",                      |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": "2025-07-01",       "priceSpecification": {    |
+|                     |      "@type": "UnitPriceSpecification",         "priceType": "https\://schema.org/ListPrice",            |
+|                     | "price": 14.99,         "priceCurrency": "GBP"       }     }   ],   "aggregateRating": {     "@type":    |
+|                     | "AggregateRating",     "ratingValue": 4.6,     "reviewCount": 56,     "bestRating": 5   } }              |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/foam-roller/bace-frol-blac-ones                                       |
++---------------------+----------------------------------------------------------------------------------------------------------+
 
-*   Regular Price: £14.99
-*   Final Price: £7.49
-*   Save £7.50
-*   Clearance Sale: Now or never
-
-Description
------------
-
-### Foam Roller
-
-Feel your tension roll away.
-
-The **bulk™** Foam Roller is ideal for a deep-tissue massage or post-workout rehabilitation of specific muscles. Its varied pattern works to tackle the tightest of knots and shift stubborn lactic acid to ensure that you’re raring to go for your next workout. It is light and portable, strong and robust, and has the added benefit of being non-porous and easy to clean.
-
-Available in a sleek black design with subtle white branding, this Foam Roller is made from recycled foam material and is suitable for anyone looking to reduce muscle soreness and improve flexibility. So, whether you’re an elite athlete or a casual gym-goer, look no further than **bulk™.**
-
-*   Strong and robust for optimal pressure
-*   Varied pattern to pinpoint different muscles
-*   Made from recycled foam material
-*   Easy to clean
-*   Lightweight and portable
-*   Dimensions: 33cm x 13cm
-*   Suitable for myofascial release, fitness and rehabilitation
-*   All black design with subtle white **bulk™** branding
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1bc469d822f6a2d8f1b2d58043e72d6e066f048b0.webp#width=2000&height=2000

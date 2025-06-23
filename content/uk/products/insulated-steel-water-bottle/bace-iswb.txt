@@ -1,50 +1,142 @@
-[fr](https://www.bulk.com/fr/products/bouteille-isotherme/bace-iswb)[pl](https://www.bulk.com/pl/products/izolowana-butelka-na-wode/bace-iswb)[cz](https://www.bulk.com/cz/products/insulated-steel-water-bottle/bace-iswb)[de](https://www.bulk.com/de/products/isolierte-wasserflasche/bace-iswb)[ch](https://www.bulk.com/ch/products/isolierte-wasserflasche/bace-iswb)[es](https://www.bulk.com/es/products/botella-de-agua-aislada/bace-iswb)[ie](https://www.bulk.com/ie/products/insulated-steel-water-bottle/bace-iswb)[eu](https://www.bulk.com/eu/products/insulated-steel-water-bottle/bace-iswb)[se](https://www.bulk.com/se/products/isolerad-vattenflaska/bace-iswb)[ro](https://www.bulk.com/ro/products/insulated-steel-water-bottle/bace-iswb)[at](https://www.bulk.com/at/products/isolierte-wasserflasche/bace-iswb)[nl](https://www.bulk.com/nl/products/geisoleerde-waterfles/bace-iswb)[dk](https://www.bulk.com/dk/products/termovandflaske/bace-iswb)[it](https://www.bulk.com/it/products/bottiglia-d-acqua-isolata/bace-iswb)[uk](https://www.bulk.com/uk/products/insulated-steel-water-bottle/bace-iswb)[pt](https://www.bulk.com/pt/products/garrafa-de-agua-termica/bace-iswb)
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Product Details                                                                                                                                                                       |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| # Insulated Steel Water Bottle                                                                                                                                                        |
++----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£12.99~~                                                                                                                                          |
+|                | - Final Price: £7.19                                                                                                                                                 |
+|                | - Save £5.80                                                                                                                                                         |
+|                | - Clearance Sale: Now or never                                                                                                                                       |
++----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Colour      | - Jet Black                                                                                                                                                          |
++----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ## Description | ### Insulated Steel Water Bottle                                                                                                                                     |
+|                |                                                                                                                                                                      |
+|                | Enjoy your favourite hot or cold beverage in this stylish drinks bottle.                                                                                             |
+|                |                                                                                                                                                                      |
+|                | Made from 100% stainless steel and featuring double-layered insulation, the **Bulk™** Insulated Water Bottle will keep your drink at the desired temperature for     |
+|                | longer, whether your preference is a steaming hot pre-workout coffee or an ice cold protein smoothie.                                                                |
+|                |                                                                                                                                                                      |
+|                | With a generous 500ml capacity, it’s small enough to fit in most bags, but substantial enough to keep dehydration at bay. And its sleek design ensures that you’ll   |
+|                | be drinking in style wherever you go. So whether you’re at work, the gym or just chilling at home, there’s no excuse not to stay hydrated.                           |
+|                |                                                                                                                                                                      |
+|                | We recommend hand-washing this product.                                                                                                                              |
+|                |                                                                                                                                                                      |
+|                | - Keeps drinks hot or cold for prolonged periods                                                                                                                     |
+|                | - Double-layered insulation                                                                                                                                          |
+|                | - Perfect for everything from coffee to coconut water                                                                                                                |
+|                | - 500ml (17oz) capacity                                                                                                                                              |
+|                | - Sleek design with contrast branding                                                                                                                                |
+|                | - Screw-top leak-proof lid                                                                                                                                           |
+|                | - BPA free                                                                                                                                                           |
+|                | - Avoid usage with carbonated drinks                                                                                                                                 |
+|                | - Hand-washing is recommended                                                                                                                                        |
+|                |                                                                                                                                                                      |
+|                | Seeking more water bottles? Check out our [Half Gallon Water Bottle](https://www.bulk.com/uk/products/half-gallon-water-bottle/bace-hgwb "Half Gallon Water Bottle") |
++----------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Insulated Steel Water Bottle
-============================
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                                                             |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| title               | Insulated Steel Water Bottle\|Bulk™ UK                                                                                                         |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| description         | Buy our Insulated Water Bottle to keep you fully hydrated through the day. Made from 100% stainless steel, keeping drinks hot or cold for      |
+|                     | prolonged periods. Bulk, ex Bulk Powders                                                                                                       |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| keywords            | Insulated Steel Water Bottle                                                                                                                   |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                                                                    |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| id                  | 7448                                                                                                                                           |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| sku                 | BACE-ISWB                                                                                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-19T08:35:47.201Z                                                                                                                       |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                                                                     |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BACE-ISWB",   "name": "Insulated Steel Water Bottle",   "image":         |
+|                     | "https\://www\.bulk.com/media/catalog/product/i/n/insulated\_steel\_water\_bottle\_500ml\_jet\_black\_bace\_iswb\_jbla\_0500\_main\_ac8c.jpg", |
+|                     |   "gtin": "",   "description": "Keep Your Drinks To Temp For Longer",   "@id":                                                                 |
+|                     | "https\://www\.bulk.com/uk/products/insulated-steel-water-bottle/bace-iswb",   "brand": {     "@type": "Brand",     "name": "Bulk"   },        |
+|                     | "offers": \[     {       "@type": "Offer",       "sku": "BACE-ISWB-JBLA-0500",       "url":                                                    |
+|                     | "https\://www\.bulk.com/uk/products/insulated-steel-water-bottle/bace-iswb?view=ppc\&o=Mjc4LTE3MjU4",       "gtin": "5055950614437",           |
+|                     | "image":                                                                                                                                       |
+|                     | "https\://www\.bulk.com/media/catalog/product/i/n/insulated\_steel\_water\_bottle\_500ml\_jet\_black\_bace\_iswb\_jbla\_0500\_main\_1874.jpg", |
+|                     |       "availability": "InStock",       "price": 7.19,       "priceCurrency": "GBP",       "itemCondition": "NewCondition",                     |
+|                     | "priceValidUntil": "",       "priceSpecification": {         "@type": "UnitPriceSpecification",         "priceType":                           |
+|                     | "https\://schema.org/ListPrice",         "price": 12.99,         "priceCurrency": "GBP"       }     }   ],   "aggregateRating": {     "@type": |
+|                     | "AggregateRating",     "ratingValue": 4.5,     "reviewCount": 57,     "bestRating": 5   } }                                                    |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/izolowana-butelka-na-wode/bace-iswb                                                                         |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/isolierte-wasserflasche/bace-iswb                                                                           |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/botella-de-agua-aislada/bace-iswb                                                                           |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/isolierte-wasserflasche/bace-iswb                                                                           |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/bottiglia-d-acqua-isolata/bace-iswb                                                                         |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/termovandflaske/bace-iswb                                                                                   |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/bouteille-isotherme/bace-iswb                                                                               |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/bouteille-isotherme/bace-iswb                                                                               |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/geisoleerde-waterfles/bace-iswb                                                                             |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/geisoleerde-waterfles/bace-iswb                                                                             |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/garrafa-de-agua-termica/bace-iswb                                                                           |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/isolierte-wasserflasche/bace-iswb                                                                           |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/isolerad-vattenflaska/bace-iswb                                                                             |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/insulated-steel-water-bottle/bace-iswb                                                                      |
++---------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
 
-*   Regular Price: £12.99
-*   Final Price: £7.19
-*   Save £5.80
-*   Clearance Sale: Now or never
-
-Colour
-------
-
-*   Jet Black
-
-Description
------------
-
-### Insulated Steel Water Bottle
-
-Enjoy your favourite hot or cold beverage in this stylish drinks bottle.
-
-Made from 100% stainless steel and featuring double-layered insulation, the **Bulk™** Insulated Water Bottle will keep your drink at the desired temperature for longer, whether your preference is a steaming hot pre-workout coffee or an ice cold protein smoothie.
-
-With a generous 500ml capacity, it’s small enough to fit in most bags, but substantial enough to keep dehydration at bay. And its sleek design ensures that you’ll be drinking in style wherever you go. So whether you’re at work, the gym or just chilling at home, there’s no excuse not to stay hydrated.
-
-We recommend hand-washing this product.
-
-*   Keeps drinks hot or cold for prolonged periods
-*   Double-layered insulation
-*   Perfect for everything from coffee to coconut water
-*   500ml (17oz) capacity
-*   Sleek design with contrast branding
-*   Screw-top leak-proof lid
-*   BPA free
-*   Avoid usage with carbonated drinks
-*   Hand-washing is recommended
-
-Seeking more water bottles? Check out our [Half Gallon Water Bottle](https://www.bulk.com/uk/products/half-gallon-water-bottle/bace-hgwb "Half Gallon Water Bottle")
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1601e4157c22f1ac4b37910301cbbdc3816e252d5.webp#width=2000&height=2000

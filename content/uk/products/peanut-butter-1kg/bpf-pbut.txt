@@ -1,189 +1,311 @@
-[fr](https://www.bulk.com/fr/products/beurre-de-cacahuete-1kg/bpf-pbut)[pl](https://www.bulk.com/pl/products/maslo-orzechowe-1kg-pl/bpf-pbut)[cz](https://www.bulk.com/cz/products/arasidove-maslo-1-kg/bpf-pbut)[de](https://www.bulk.com/de/products/erdnussbutter-1kg/bpf-pbut)[ch](https://www.bulk.com/ch/products/erdnussbutter-1kg/bpf-pbut)[es](https://www.bulk.com/es/products/mantequilla-de-cacahuete-de-1kg/bpf-pbut)[ie](https://www.bulk.com/ie/products/peanut-butter/bpf-pbut)[eu](https://www.bulk.com/eu/products/peanut-butter-1kg/bpf-pbut)[se](https://www.bulk.com/se/products/jordnotssmor-1-kg/bpf-pbut)[ro](https://www.bulk.com/ro/products/unt-de-arahide-1-kg/bpf-pbut)[at](https://www.bulk.com/at/products/erdnussbutter-1kg-eimer/bpf-pbut)[nl](https://www.bulk.com/nl/products/pindakaas-1-kg/bpf-pbut)[dk](https://www.bulk.com/dk/products/peanut-butter-dk/bpf-pbut)[it](https://www.bulk.com/it/products/burro-di-arachidi-1kg/bpf-pbut)[uk](https://www.bulk.com/uk/products/peanut-butter-1kg/bpf-pbut)[pt](https://www.bulk.com/pt/products/manteiga-de-amendoim/bpf-pbut)
-
-Peanut Butter
-=============
-
-Price
------
-
-*   Regular Price: £7.99
-*   Final Price: £4.39
-*   Save £3.60
-*   Bestsellers Sale: Up to 75% off - no code required
-
-Flavour
--------
-
-*   Crunchy
-*   Smooth
-
-Size
-----
-
-*   1kg
-
-Description
------------
-
-### Peanut Butter
-
-100% natural, high quality peanut butter, manufactured exclusively for **Bulk™**. Source of protein, full of flavour and perfect for bulking up.
-
-Our Peanut Butter 1kg is exactly what it says it is. A rich, natural butter produced from 100% roasted whole peanuts and nothing else. No added salt, sugar, palm oil or preservatives and it’s available in both crunchy and smooth varieties.
-
-\- 100% roasted, whole peanuts
-
-\- Delicious, natural taste with a smooth, buttery texture
-
-\- No added salt, sugar, palm oil
-
-\- No added preservatives
-
-\- Available in crunchy or smooth varieties
-
-\*Contains naturally occurring sugars.
-
-\\
-
-### Purpose
-
-Our Peanut Butter 1kg is ideal if you’re looking to bulk up quickly and effectively thanks to its protein and fat content. It’s 100% whole peanuts and nothing else.
-
-\\
-
-### Benefits
-
-*   Source of protein
-
-With 28g of protein per 100g, our peanut butter is an easy way to add extra protein into your diet.
-
-*   Built for Bulking
-
-Load up on calories with minimal hassle: 627kcal per 100g.
-
-*   All-Rounder
-
-Mix it in with your shakes or add it to a sandwich to add nutritional value.
-
-Directions
-----------
-
-### Directions
-
-To be enjoyed on its own, or with food, this protein snack is a perfect way to liven up any meal.
-
-*   Mix it  
-    Add this pure peanut butter to smoothies or shakes, or even your morning porridge, to enhance the taste.
-
-*   Smear It  
-    Perfect with toast, bagel or bread.
-
-*   Spoon it  
-    Or just dunk your spoon in, and enjoy as a post-workout fuel.
-
-Note: This nut butter might separate over time which is completely natural. If this happens just give it a stir.
-
-Ingredients
------------
-
-### Ingredients
-
-**Peanuts** (100%).
-
-\\
-
-### Suitable For
-
-Halal,Vegan,Vegetarian
-
-\\
-
-### Allergen advice
-
-For allergens, please see ingredients in **bold**.
-
-May contain milk, soya, sesame seeds and other nuts.
-
-\\
-
-### Storage
-
-Store in a cool dry place. Replace lid after use. After opening consume within 3 months.
-
-\\
-
-### Advisory Information
-
-Although every care has been taken to keep product information up to date on our website, please always read the information provided on product label or packaging before use.
-
-Nutrition
----------
-
-Nutrition
-
-per 100 g
-
-Energy kJ/kcal
-
-2597/627
-
-Fat
-
-of which saturates
-
-51g
-
-6.3g
-
-Carbohydrate
-
-of which sugars
-
-12g
-
-6.1g
-
-Fibre
-
-4.9g
-
-Protein
-
-28g
-
-Salt
-
-0g
-
-FAQs
-----
-
-### FAQs
-
-### What are the benefits of using Peanut Butter?
-
-Our peanut butter is made from 100% nuts, meaning the benefits of nut butters are much the same as the nuts they’re made from. They’re rich in nutrition, particularly protein, making them great for anyone on a mass gaining programme, and because they’re processed into a butter, they’re easy to add to other recipes for added nutrition.
-
-### Who should eat Peanut Butter?
-
-Our peanut butter is suitable for anyone. Whether you're a serious trainer looking to contribute to your protein intake with a healthy snack, or just someone who loves nut butters - this natural option means you can be confident that your peanut fix has no additives.
-
-### What does it taste like?
-
-Because it's made from 100% natural peanuts, our butter has that authentic peanut taste, and is available in a deliciously smooth or delightfully crunchy variety.
-
-### Are there any dietary restrictions?
-
-Our 100% peanut butter is suitable for vegetarian, vegan or plant-based.
-
-### Is peanut butter a good source of protein?
-
-Peanut butter is a great source of protein, and is good for partnering with protein shakes. It's ideal for those on a mass gaining programme.
-
-typeId
-
-recently-viewed
-
-count
-
-6
++----------------------------------------------------------------------------+
+| Product Details                                                            |
++----------------------------------------------------------------------------+
+| # Peanut Butter                                                            |
++----------------+-----------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£7.99~~                                |
+|                | - Final Price: £4.39                                      |
+|                | - Save £3.60                                              |
+|                | - Bestsellers Sale: Up to 75% off - no code required      |
++----------------+-----------------------------------------------------------+
+| ## Flavour     | - Crunchy                                                 |
+|                | - Smooth                                                  |
++----------------+-----------------------------------------------------------+
+| ## Size        | - 1kg                                                     |
++----------------+-----------------------------------------------------------+
+| ## Description | ### Peanut Butter                                         |
+|                |                                                           |
+|                | 100% natural, high quality peanut butter, manufactured    |
+|                | exclusively for **Bulk™**. Source of protein, full of     |
+|                | flavour and perfect for bulking up.                       |
+|                |                                                           |
+|                | Our Peanut Butter 1kg is exactly what it says it is. A    |
+|                | rich, natural butter produced from 100% roasted whole     |
+|                | peanuts and nothing else. No added salt, sugar, palm oil  |
+|                | or preservatives and it’s available in both crunchy and   |
+|                | smooth varieties.                                         |
+|                |                                                           |
+|                | \- 100% roasted, whole peanuts                            |
+|                |                                                           |
+|                | \- Delicious, natural taste with a smooth, buttery        |
+|                | texture                                                   |
+|                |                                                           |
+|                | \- No added salt, sugar, palm oil                         |
+|                |                                                           |
+|                | \- No added preservatives                                 |
+|                |                                                           |
+|                | \- Available in crunchy or smooth varieties               |
+|                |                                                           |
+|                | \*Contains naturally occurring sugars.                    |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Purpose                                               |
+|                |                                                           |
+|                | Our Peanut Butter 1kg is ideal if you’re looking to bulk  |
+|                | up quickly and effectively thanks to its protein and fat  |
+|                | content. It’s 100% whole peanuts and nothing else.        |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Benefits                                              |
+|                |                                                           |
+|                | - Source of protein                                       |
+|                |                                                           |
+|                | With 28g of protein per 100g, our peanut butter is an     |
+|                | easy way to add extra protein into your diet.             |
+|                |                                                           |
+|                | - Built for Bulking                                       |
+|                |                                                           |
+|                | Load up on calories with minimal hassle: 627kcal per      |
+|                | 100g.                                                     |
+|                |                                                           |
+|                | - All-Rounder                                             |
+|                |                                                           |
+|                | Mix it in with your shakes or add it to a sandwich to add |
+|                | nutritional value.                                        |
++----------------+-----------------------------------------------------------+
+| ## Directions  | ### Directions                                            |
+|                |                                                           |
+|                | To be enjoyed on its own, or with food, this protein      |
+|                | snack is a perfect way to liven up any meal.              |
+|                |                                                           |
+|                | - Mix it\                                                 |
+|                |   Add this pure peanut butter to smoothies or shakes, or  |
+|                |   even your morning porridge, to enhance the taste.       |
+|                |                                                           |
+|                | * Smear It\                                               |
+|                |   Perfect with toast, bagel or bread.                     |
+|                |                                                           |
+|                | - Spoon it\                                               |
+|                |   Or just dunk your spoon in, and enjoy as a post-workout |
+|                |   fuel.                                                   |
+|                |                                                           |
+|                | Note: This nut butter might separate over time which is   |
+|                | completely natural. If this happens just give it a stir.  |
++----------------+-----------------------------------------------------------+
+| ## Ingredients | ### Ingredients                                           |
+|                |                                                           |
+|                | **Peanuts** (100%).                                       |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Suitable For                                          |
+|                |                                                           |
+|                | Halal,Vegan,Vegetarian                                    |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Allergen advice                                       |
+|                |                                                           |
+|                | For allergens, please see ingredients in **bold**.        |
+|                |                                                           |
+|                | May contain milk, soya, sesame seeds and other nuts.      |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Storage                                               |
+|                |                                                           |
+|                | Store in a cool dry place. Replace lid after use. After   |
+|                | opening consume within 3 months.                          |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Advisory Information                                  |
+|                |                                                           |
+|                | Although every care has been taken to keep product        |
+|                | information up to date on our website, please always read |
+|                | the information provided on product label or packaging    |
+|                | before use.                                               |
++----------------+-----------------------------------------------------------+
+| ## Nutrition   | +--------------------+-----------+                        |
+|                | | Nutrition          | per 100 g |                        |
+|                | +====================+===========+                        |
+|                | | Energy kJ/kcal     | 2597/627  |                        |
+|                | +--------------------+-----------+                        |
+|                | | Fat                | 51g       |                        |
+|                | |                    |           |                        |
+|                | | of which saturates | 6.3g      |                        |
+|                | +--------------------+-----------+                        |
+|                | | Carbohydrate       | 12g       |                        |
+|                | |                    |           |                        |
+|                | | of which sugars    | 6.1g      |                        |
+|                | +--------------------+-----------+                        |
+|                | | Fibre              | 4.9g      |                        |
+|                | +--------------------+-----------+                        |
+|                | | Protein            | 28g       |                        |
+|                | +--------------------+-----------+                        |
+|                | | Salt               | 0g        |                        |
+|                | +--------------------+-----------+                        |
++----------------+-----------------------------------------------------------+
+| ## FAQs        | ### FAQs                                                  |
+|                |                                                           |
+|                | ### What are the benefits of using Peanut Butter?         |
+|                |                                                           |
+|                | Our peanut butter is made from 100% nuts, meaning the     |
+|                | benefits of nut butters are much the same as the nuts     |
+|                | they’re made from. They’re rich in nutrition,             |
+|                | particularly protein, making them great for anyone on a   |
+|                | mass gaining programme, and because they’re processed     |
+|                | into a butter, they’re easy to add to other recipes for   |
+|                | added nutrition.                                          |
+|                |                                                           |
+|                | ### Who should eat Peanut Butter?                         |
+|                |                                                           |
+|                | Our peanut butter is suitable for anyone. Whether you're  |
+|                | a serious trainer looking to contribute to your protein   |
+|                | intake with a healthy snack, or just someone who loves    |
+|                | nut butters - this natural option means you can be        |
+|                | confident that your peanut fix has no additives.          |
+|                |                                                           |
+|                | ### What does it taste like?                              |
+|                |                                                           |
+|                | Because it's made from 100% natural peanuts, our butter   |
+|                | has that authentic peanut taste, and is available in a    |
+|                | deliciously smooth or delightfully crunchy variety.       |
+|                |                                                           |
+|                | ### Are there any dietary restrictions?                   |
+|                |                                                           |
+|                | Our 100% peanut butter is suitable for vegetarian, vegan  |
+|                | or plant-based.                                           |
+|                |                                                           |
+|                | ### Is peanut butter a good source of protein?            |
+|                |                                                           |
+|                | Peanut butter is a great source of protein, and is good   |
+|                | for partnering with protein shakes. It's ideal for those  |
+|                | on a mass gaining programme.                              |
++----------------+-----------------------------------------------------------+
+
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
+
++-------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                |
++---------------------+---------------------------------------------------------------------------------------------------+
+| title               | Peanut Butter\|Buy Natural Peanut Butter 1kg\|Bulk™ UK                                            |
++---------------------+---------------------------------------------------------------------------------------------------+
+| description         | Buy Bulk™ Triple Nut Butter™contains roasted almonds, roasted hazelnuts and roasted cashews and   |
+|                     | contains 17g protein per 100g. Bulk, formerly Bulk Powders.                                       |
++---------------------+---------------------------------------------------------------------------------------------------+
+| keywords            | Peanut Butter 1kg, Peanut Butter, Peanut, Butter, Peanuts, Healthy Fats, EFAs, EFA, Protein,      |
+|                     | Nuts, Fats, Food, BP Food, Active, Active Foods, Foods, Active Food, Nut, Paste, Peanut Paste,    |
+|                     | Paleo, Paleo Diet                                                                                 |
++---------------------+---------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                       |
++---------------------+---------------------------------------------------------------------------------------------------+
+| id                  | 2653                                                                                              |
++---------------------+---------------------------------------------------------------------------------------------------+
+| sku                 | BPF-PBUT                                                                                          |
++---------------------+---------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T12:23:15.525Z                                                                          |
++---------------------+---------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                        |
++---------------------+---------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BPF-PBUT",   "name":        |
+|                     | "Peanut Butter",   "image":                                                                       |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/P/BPF\_PBUT\_SMOO\_Main\_Image\_ae34.jpg",        |
+|                     | "gtin": "",   "description": "100% Roasted Peanuts And Nothing Else",   "@id":                    |
+|                     | "https\://www\.bulk.com/uk/products/peanut-butter-1kg/bpf-pbut",   "brand": {     "@type":        |
+|                     | "Brand",     "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku":        |
+|                     | "BPF-PBUT-CRUN-1000",       "url":                                                                |
+|                     | "https\://www\.bulk.com/uk/products/peanut-butter-1kg/bpf-pbut?view=ppc\&o=MTc4LTEwNiwxNzktMjU=", |
+|                     |       "gtin": "5055950625723",       "image":                                                     |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/P/BPF\_PBUT\_CRUN\_Main\_Image\_b51f.jpg",        |
+|                     | "availability": "InStock",       "price": 6.99,       "priceCurrency": "GBP",                     |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": "2025-07-01",                           |
+|                     | "priceSpecification": {         "@type": "UnitPriceSpecification",         "priceType":           |
+|                     | "https\://schema.org/ListPrice",         "price": 7.99,         "priceCurrency": "GBP"       }    |
+|                     |  },     {       "@type": "Offer",       "sku": "BPF-PBUT-CRUN-1000-BBD",       "url":             |
+|                     | "https\://www\.bulk.com/uk/products/peanut-butter-1kg/bpf-pbut?view=ppc\&o=MTc4LTE5MTEx",         |
+|                     | "gtin": "5055950625723",       "image":                                                           |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/P/BPF\_PBUT\_CRUN\_Main\_Image\_0563.jpg",        |
+|                     | "availability": "InStock",       "price": 3.99,       "priceCurrency": "GBP",                     |
+|                     | "itemCondition": "NewCondition",       "priceSpecification": {         "@type":                   |
+|                     | "UnitPriceSpecification",         "priceType": "https\://schema.org/ListPrice",         "price":  |
+|                     | 7\.99,         "priceCurrency": "GBP"       }     },     {       "@type": "Offer",       "sku":   |
+|                     | "BPF-PBUT-SMOO-1000",       "url":                                                                |
+|                     | "https\://www\.bulk.com/uk/products/peanut-butter-1kg/bpf-pbut?view=ppc\&o=MTc4LTEwNywxNzktMjU=", |
+|                     |       "gtin": "5060343740099",       "image":                                                     |
+|                     | "https\://www\.bulk.com/media/catalog/product/B/P/BPF\_PBUT\_SMOO\_Main\_Image\_4acf.jpg",        |
+|                     | "availability": "InStock",       "price": 4.39,       "priceCurrency": "GBP",                     |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": "2025-07-01",                           |
+|                     | "priceSpecification": {         "@type": "UnitPriceSpecification",         "priceType":           |
+|                     | "https\://schema.org/ListPrice",         "price": 7.99,         "priceCurrency": "GBP"       }    |
+|                     |  }   ],   "aggregateRating": {     "@type": "AggregateRating",     "ratingValue": 4.7,            |
+|                     | "reviewCount": 9798,     "bestRating": 5   } }                                                    |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/maslo-orzechowe-1kg-pl/bpf-pbut                                |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/arasidove-maslo-1-kg/bpf-pbut                                  |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/mantequilla-de-cacahuete-de-1kg/bpf-pbut                       |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/erdnussbutter-1kg-eimer/bpf-pbut                               |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/erdnussbutter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/jordnotssmor-1-kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/peanut-butter-dk/bpf-pbut                                      |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/erdnussbutter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/beurre-de-cacahuete-1kg/bpf-pbut                               |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/beurre-de-cacahuete-1kg/bpf-pbut                               |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/unt-de-arahide-1-kg/bpf-pbut                                   |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/peanut-butter/bpf-pbut                                         |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/pindakaas-1-kg/bpf-pbut                                        |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/pindakaas-1-kg/bpf-pbut                                        |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/burro-di-arachidi-1kg/bpf-pbut                                 |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/manteiga-de-amendoim/bpf-pbut                                  |
++---------------------+---------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/peanut-butter-1kg/bpf-pbut                                     |
++---------------------+---------------------------------------------------------------------------------------------------+
+
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_18799cf524206dce4ce0c14a3e3b2a5512b3ad56d.webp#width=2000&height=2000

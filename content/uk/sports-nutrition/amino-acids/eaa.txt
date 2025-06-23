@@ -1,67 +1,133 @@
-[fr](https://www.bulk.com/fr/nutrition-sportive/acides-amines/acides-amines-essentiels-2)[pl](https://www.bulk.com/pl/odzywki-sportowe/aminokwasy/niezbedne-aminokwasy-eaa)[cz](https://www.bulk.com/cz/sports-nutrition/amino-acids/eaa)[de](https://www.bulk.com/de/sportnahrung/aminosauren/essenzielle-aminosauren)[ch](https://www.bulk.com/ch/sportnahrung/aminosauren/essenzielle-aminosauren)[es](https://www.bulk.com/es/nutricion-deportiva/aminoacidos/aminoacidos-esenciales-1)[ie](https://www.bulk.com/ie/sports-nutrition/amino-acids/eaa)[eu](https://www.bulk.com/eu/sports-nutrition/amino-acids/eaa)[se](https://www.bulk.com/se/idrottsnutrition/aminosyror/eaa)[ro](https://www.bulk.com/ro/sports-nutrition/amino-acids/eaa)[at](https://www.bulk.com/at/sportnahrung/aminosauren/eaa)[nl](https://www.bulk.com/nl/sport-voeding/aminozuren/essentiele-aminozuren-2)[dk](https://www.bulk.com/dk/sportsernaering/aminosyrer/eaa)[it](https://www.bulk.com/it/alimentazione-sportiva/aminoacidi/eaa)[uk](https://www.bulk.com/uk/sports-nutrition/amino-acids/eaa)[pt](https://www.bulk.com/pt/nutricao-desporto/aminoacidos/eaa)
+# EAA Supplements
 
-EAA Supplements
-===============
++:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                                              |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                                         | sports-nutrition/amino-acids/eaa                                                                                                                                                |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| EAA stands for essential amino acids. EAA are amino acids that cannot be synthesised by the body and need to be consumed in the diet. EAA supplements have a number of performance and health benefits. **Bulk™** only supply the most researched and sought after EAA supplements, including an optimally dosed EAA formula containing the full spectrum of EAAs. |
+|                                                                                                                                                                                                                                                                                                                                                                    |
+| As EAAs can’t be synthesised by the body, so it is essential that there is an ample supply of EAAS in the diet. Smaller quantities of EAA supplements have been shown to increase protein synthesis, when                                                                                                                                                          |
+| compared to higher quantities of ‘whole’ protein. EAA supplements can be used to ‘top up’ the EAA content of other meals, on their own as an intra-workout drink or taken regularly throughout the day.                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                    |
+| Check out our full range of [EAA powders](https://main--bul-eds--thepixel.hlx.live/uk/essential-amino-acids) and [amino acid powders](https://main--bul-eds--thepixel.hlx.live/uk/sports-nutrition/amino-acids).                                                                                                                                                   |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-sports-nutrition/amino-acids/eaa
+## EAA FAQS
 
-EAA stands for essential amino acids. EAA are amino acids that cannot be synthesised by the body and need to be consumed in the diet. EAA supplements have a number of performance and health benefits. **Bulk™** only supply the most researched and sought after EAA supplements, including an optimally dosed EAA formula containing the full spectrum of EAAs.
++------------------------------------------------------------------------------------------------------------------+
+| Accordion                                                                                                        |
++------------------------------------------------------+-----------------------------------------------------------+
+| What are essential amino acids?                      | Amino acids are a group of organic compounds that make up |
+|                                                      | proteins. Put simply, they’re the building blocks that    |
+|                                                      | your body uses to synthesise protein, and they also       |
+|                                                      | contribute to a range of other organic functions in the   |
+|                                                      | body. Essential Amino Acids are a group of 9 amino acids  |
+|                                                      | which your body cannot produce sufficient quantities of   |
+|                                                      | by itself, so must be obtained from your diet.            |
++------------------------------------------------------+-----------------------------------------------------------+
+| What are the benefits of taking essential amino acid | There are 9 different Essential Amino Acids that you have |
+| supplements?                                         | to obtain from your diet, and each one serves a variety   |
+|                                                      | of different roles in the body. Broadly speaking, they    |
+|                                                      | support a number of essential bodily functions, including |
+|                                                      | energy production, immune system function, repairing and  |
+|                                                      | growing muscle, and helping your body to absorb           |
+|                                                      | nutrients.                                                |
++------------------------------------------------------+-----------------------------------------------------------+
+| Are essential amino acid powders healthy?            | Essential Amino Acids can’t be produced by your body      |
+|                                                      | alone, and they’re crucial for a wide range of essential  |
+|                                                      | bodily functions, so yes, Essential Amino Acid powders    |
+|                                                      | are a healthy way to integrate them into your diet. Like  |
+|                                                      | all nutritional supplements, however, they are not        |
+|                                                      | intended to be used as a meal replacement, or as an       |
+|                                                      | alternative to a healthy, varied diet with regular        |
+|                                                      | exercise.                                                 |
++------------------------------------------------------+-----------------------------------------------------------+
+| When should you take EAA supplements?                | Essential Amino Acid supplements can be taken at any time |
+|                                                      | of the day, but most people choose to take them at a time |
+|                                                      | when their body will need them most; as part of a         |
+|                                                      | pre-workout formula so their body is prepared for an      |
+|                                                      | intense muscle workout, or during post-workout at the     |
+|                                                      | same time as they take their regular protein shakes.      |
++------------------------------------------------------+-----------------------------------------------------------+
+| Who should take EAA supplements?                     | Essential Amino Acids are, well, essential to all of our  |
+|                                                      | diets, so Essential Amino Acid supplements are            |
+|                                                      | technically appropriate for everyone. However, they’re    |
+|                                                      | especially good if you’re on an intense weightlifting or  |
+|                                                      | resistance training programme putting your muscles under  |
+|                                                      | a lot of strain. They’re also good if you’re following a  |
+|                                                      | vegan or vegetarian diet, as some Essential Amino Acids   |
+|                                                      | can be difficult to obtain from a plant-based diet.       |
++------------------------------------------------------+-----------------------------------------------------------+
+| What are the different types of amino acids?         | The 3 main types of amino acid are Essential,             |
+|                                                      | Nonessential and Conditional. Essential Amino Acids       |
+|                                                      | (EAAs) can only be obtained through your diet—your body   |
+|                                                      | can’t synthesise them on its own—making them vital in any |
+|                                                      | diet. Nonessential Amino Acids can be synthesized by the  |
+|                                                      | body from other nutrients. Conditional Amino Acids are    |
+|                                                      | amino acids that your body doesn’t generally need, but    |
+|                                                      | may require during certain times, such as during illness  |
+|                                                      | or intense stress. There are also Branched Chain Amino    |
+|                                                      | Acids (BCAAs) which are particularly important for        |
+|                                                      | repairing muscle damage and promoting growth in muscle    |
+|                                                      | mass.                                                     |
++------------------------------------------------------+-----------------------------------------------------------+
+| How do essential amino acids work?                   | Amino Acids are the building blocks of protein and muscle |
+|                                                      | tissue in your body. When you consume any kind of protein |
+|                                                      | in your diet, your body breaks it down into various amino |
+|                                                      | acids, which it then uses to repair and grow muscle, as   |
+|                                                      | well as for a range of other functions in the body.       |
+|                                                      | Essential Amino Acids are a group of amino acids that     |
+|                                                      | your body either cannot produce on its own, or cannot     |
+|                                                      | produce fast enough for your body’s needs, meaning you    |
+|                                                      | have to obtain them from food or supplements.             |
++------------------------------------------------------+-----------------------------------------------------------+
+| Is it OK to take essential amino acids every day?    | Your body uses Essential Amino Acids every single second  |
+|                                                      | of every single day, so naturally it’s okay to take       |
+|                                                      | Essential Amino Acid supplements every day – and if you   |
+|                                                      | eat a healthy, varied diet, you probably do already. Like |
+|                                                      | any food or nutritional supplement, you should always     |
+|                                                      | consume Essential Amino Acids according to the            |
+|                                                      | recommended intake or dosage.                             |
++------------------------------------------------------+-----------------------------------------------------------+
 
-As EAAs can’t be synthesised by the body, so it is essential that there is an ample supply of EAAS in the diet. Smaller quantities of EAA supplements have been shown to increase protein synthesis, when compared to higher quantities of ‘whole’ protein. EAA supplements can be used to ‘top up’ the EAA content of other meals, on their own as an intra-workout drink or taken regularly throughout the day.
++------------------------------+
+| Section Metadata             |
++---------+--------------------+
+| Style   | plp-secondary-info |
++---------+--------------------+
 
-Check out our full range of [EAA powders](/uk/essential-amino-acids) and [amino acid powders](/uk/sports-nutrition/amino-acids).
+---
 
-EAA FAQS
---------
+## RELATED CATEGORIES
 
-What are essential amino acids?
+- [Amino acid powders](https://dev--bul-eds--thepixel.hlx.live/uk/sports-nutrition/amino-acids)
+- [Arginine supplements](https://dev--bul-eds--thepixel.hlx.live/uk/sports-nutrition/amino-acids/arginine)
+- [BCAA supplements](https://dev--bul-eds--thepixel.hlx.live/uk/sports-nutrition/amino-acids/bcaa)
+- [L-carnitine supplements](https://dev--bul-eds--thepixel.hlx.live/uk/sports-nutrition/amino-acids/carnitine)
+- [HMB supplements](https://dev--bul-eds--thepixel.hlx.live/uk/sports-nutrition/amino-acids/hmb)
+- [Glutamine supplements](https://dev--bul-eds--thepixel.hlx.live/uk/sports-nutrition/amino-acids/glutamine)
 
-Amino acids are a group of organic compounds that make up proteins. Put simply, they’re the building blocks that your body uses to synthesise protein, and they also contribute to a range of other organic functions in the body. Essential Amino Acids are a group of 9 amino acids which your body cannot produce sufficient quantities of by itself, so must be obtained from your diet.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-What are the benefits of taking essential amino acid supplements?
+---
 
-There are 9 different Essential Amino Acids that you have to obtain from your diet, and each one serves a variety of different roles in the body. Broadly speaking, they support a number of essential bodily functions, including energy production, immune system function, repairing and growing muscle, and helping your body to absorb nutrients.
-
-Are essential amino acid powders healthy?
-
-Essential Amino Acids can’t be produced by your body alone, and they’re crucial for a wide range of essential bodily functions, so yes, Essential Amino Acid powders are a healthy way to integrate them into your diet. Like all nutritional supplements, however, they are not intended to be used as a meal replacement, or as an alternative to a healthy, varied diet with regular exercise.
-
-When should you take EAA supplements?
-
-Essential Amino Acid supplements can be taken at any time of the day, but most people choose to take them at a time when their body will need them most; as part of a pre-workout formula so their body is prepared for an intense muscle workout, or during post-workout at the same time as they take their regular protein shakes.
-
-Who should take EAA supplements?
-
-Essential Amino Acids are, well, essential to all of our diets, so Essential Amino Acid supplements are technically appropriate for everyone. However, they’re especially good if you’re on an intense weightlifting or resistance training programme putting your muscles under a lot of strain. They’re also good if you’re following a vegan or vegetarian diet, as some Essential Amino Acids can be difficult to obtain from a plant-based diet.
-
-What are the different types of amino acids?
-
-The 3 main types of amino acid are Essential, Nonessential and Conditional. Essential Amino Acids (EAAs) can only be obtained through your diet—your body can’t synthesise them on its own—making them vital in any diet. Nonessential Amino Acids can be synthesized by the body from other nutrients. Conditional Amino Acids are amino acids that your body doesn’t generally need, but may require during certain times, such as during illness or intense stress. There are also Branched Chain Amino Acids (BCAAs) which are particularly important for repairing muscle damage and promoting growth in muscle mass.
-
-How do essential amino acids work?
-
-Amino Acids are the building blocks of protein and muscle tissue in your body. When you consume any kind of protein in your diet, your body breaks it down into various amino acids, which it then uses to repair and grow muscle, as well as for a range of other functions in the body. Essential Amino Acids are a group of amino acids that your body either cannot produce on its own, or cannot produce fast enough for your body’s needs, meaning you have to obtain them from food or supplements.
-
-Is it OK to take essential amino acids every day?
-
-Your body uses Essential Amino Acids every single second of every single day, so naturally it’s okay to take Essential Amino Acid supplements every day – and if you eat a healthy, varied diet, you probably do already. Like any food or nutritional supplement, you should always consume Essential Amino Acids according to the recommended intake or dosage.
-
-Style
-
-plp-secondary-info
-
-RELATED CATEGORIES
-------------------
-
-*   [Amino acid powders](/uk/sports-nutrition/amino-acids)
-*   [Arginine supplements](/uk/sports-nutrition/amino-acids/arginine)
-*   [BCAA supplements](/uk/sports-nutrition/amino-acids/bcaa)
-*   [L-carnitine supplements](/uk/sports-nutrition/amino-acids/carnitine)
-*   [HMB supplements](/uk/sports-nutrition/amino-acids/hmb)
-*   [Glutamine supplements](/uk/sports-nutrition/amino-acids/glutamine)
-
-Style
-
-lozenge-list
++------------------------------------------------------------------------+
+| Metadata                                                               |
++-------------+----------------------------------------------------------+
+| breadcrumbs | true                                                     |
++-------------+----------------------------------------------------------+
+| template    | plp                                                      |
++-------------+----------------------------------------------------------+
+| title       | EAA \| EAA Supplements & Drinks \| Bulk™                 |
++-------------+----------------------------------------------------------+
+| description | Explore high-quality Essential Amino Acid Supplements in |
+|             | various flavours at Bulk™. Affordable prices \+ FREE UK  |
+|             | delivery. Boost nutrition with Bulk™.                    |
++-------------+----------------------------------------------------------+

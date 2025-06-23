@@ -1,26 +1,45 @@
-[pl](https://www.bulk.com/pl/zywnosc/maka)[dk](https://www.bulk.com/dk/madvarer/mel)[ch](https://www.bulk.com/ch/nahrungsmittel/mehl)[at](https://www.bulk.com/at/nahrungsmittel/mehl)[de](https://www.bulk.com/de/nahrungsmittel/mehl)[cz](https://www.bulk.com/cz/foods/flour)[eu](https://www.bulk.com/eu/foods/flour)[es](https://www.bulk.com/es/alimentacion/harina)[ie](https://www.bulk.com/ie/foods/flour)[se](https://www.bulk.com/se/livsmedel/mjol)[pt](https://www.bulk.com/pt/alimentos-saudaveis/farinhas)[fr](https://www.bulk.com/fr/produits-alimentaires/farines)[uk](https://www.bulk.com/uk/foods/flour)[it](https://www.bulk.com/it/alimenti-2/farina)[ro](https://www.bulk.com/ro/foods/flour)[nl](https://www.bulk.com/nl/voeding/meel)
+# Flour
 
-Flour
-=====
++:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                 |
++-------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                          | foods/flour                                                                                                       |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| As people become more nutritionally aware, the use of different types of Flour in baking is becoming more common. Long gone are the days of using plain                                                                               |
+| Flour for everything – now you can choose from a variety of options – from Coconut Flour to Quinoa Flour. All of **Bulk™** Flour products have been selected for their nutritional benefits and are of the highest quality available. |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-foods/flour
+## RELATED CATEGORIES
 
-As people become more nutritionally aware, the use of different types of Flour in baking is becoming more common. Long gone are the days of using plain Flour for everything – now you can choose from a variety of options – from Coconut Flour to Quinoa Flour. All of **Bulk™** Flour products have been selected for their nutritional benefits and are of the highest quality available.
+- [Flavourings](https://dev--bul-eds--thepixel.hlx.live/uk/foods/flavourings-sweeteners)
+- [Healthy Cooking oils](https://dev--bul-eds--thepixel.hlx.live/uk/foods/healthy-oils)
+- [Konjac](https://dev--bul-eds--thepixel.hlx.live/uk/foods/konjac)
+- [Meat snacks](https://dev--bul-eds--thepixel.hlx.live/uk/foods/meat-snacks)
+- [High protein nuts & seeds](https://dev--bul-eds--thepixel.hlx.live/uk/foods/nuts-seeds)
+- [Organic foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/organic-foods)
+- [Superfood powders](https://dev--bul-eds--thepixel.hlx.live/uk/foods/superfoods)
+- [Low calorie foods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/zero-calorie-foods)
 
-RELATED CATEGORIES
-------------------
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-*   [Flavourings](/uk/foods/flavourings-sweeteners)
-*   [Healthy Cooking oils](/uk/foods/healthy-oils)
-*   [Konjac](/uk/foods/konjac)
-*   [Meat snacks](/uk/foods/meat-snacks)
-*   [High protein nuts & seeds](/uk/foods/nuts-seeds)
-*   [Organic foods](/uk/foods/organic-foods)
-*   [Superfood powders](/uk/foods/superfoods)
-*   [Low calorie foods](/uk/foods/zero-calorie-foods)
+---
 
-Style
-
-lozenge-list
++--------------------------------------------------------------------+
+| Metadata                                                           |
++-------------+------------------------------------------------------+
+| breadcrumbs | true                                                 |
++-------------+------------------------------------------------------+
+| template    | plp                                                  |
++-------------+------------------------------------------------------+
+| title       | Flour \| Healthy Baking Flour \| Bulk™               |
++-------------+------------------------------------------------------+
+| description | Shop our high quality range of Flour at great value. |
+|             | Perfect for any health goal. Exclusively from Bulk™, |
+|             | Formerly Bulk Powders.                               |
++-------------+------------------------------------------------------+

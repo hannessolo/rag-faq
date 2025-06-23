@@ -1,20 +1,24 @@
-[ch](https://www.bulk.com/ch/alex-crockford)[cz](https://www.bulk.com/cz/alex-crockford)[de](https://www.bulk.com/de/alex-crockford)[dk](https://www.bulk.com/dk/alex-crockford)[es](https://www.bulk.com/es/alex-crockford)[eu](https://www.bulk.com/eu/alex-crockford)[ie](https://www.bulk.com/ie/alex-crockford)[fr](https://www.bulk.com/fr/alex-crockford)[it](https://www.bulk.com/it/alex-crockford)[nl](https://www.bulk.com/nl/alex-crockford)[pl](https://www.bulk.com/pl/alex-crockford)[pt](https://www.bulk.com/pt/alex-crockford)[ro](https://www.bulk.com/ro/alex-crockford)[se](https://www.bulk.com/se/alex-crockford)[uk](https://www.bulk.com/uk/buy-box-additional-info)[at](https://www.bulk.com/at/alex-crockford)
-
 Ways to pay
 
-*   Visa
-*   Mastercard
-*   Maestro
-*   American Express
-*   Klarna
-*   Paypal
-*   Apple Pay
-*   Google Pay
++-----------------------+
+| Payment Icons (large) |
++-----------------------+
+| - Visa                |
+| - Mastercard          |
+| - Maestro             |
+| - American Express    |
+| - Klarna              |
+| - Paypal              |
+| - Apple Pay           |
+| - Google Pay          |
++-----------------------+
 
-typeId
+---
 
-viewed-viewed
-
-count
-
-4
++---------------------------------------------+
+| Product Recommendations (you-may-also-like) |
++----------------------+----------------------+
+| typeId               | viewed-viewed        |
++----------------------+----------------------+
+| count                | 4                    |
++----------------------+----------------------+

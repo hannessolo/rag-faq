@@ -1,147 +1,236 @@
-[pl](https://www.bulk.com/pl/products/orzechy-nerkowca-w-calosci/bpf-wcas)[dk](https://www.bulk.com/dk/products/hele-cashewnodder/bpf-wcas)[it](https://www.bulk.com/it/products/anacardi-interi/bpf-wcas)[de](https://www.bulk.com/de/products/ganze-cashewnuesse/bpf-wcas)[ie](https://www.bulk.com/ie/products/whole-cashew-nuts/bpf-wcas)[at](https://www.bulk.com/at/products/ganze-cashew-nusse/bpf-wcas)[ro](https://www.bulk.com/ro/products/caju-intreg/bpf-wcas)[es](https://www.bulk.com/es/products/anacardos-enteros/bpf-wcas)[nl](https://www.bulk.com/nl/products/hele-cashewnoten/bpf-wcas)[cz](https://www.bulk.com/cz/products/cele-kesu-orechy/bpf-wcas)[se](https://www.bulk.com/se/products/hela-cashewnotter/bpf-wcas)[fr](https://www.bulk.com/fr/products/noix-de-cajou-entieres/bpf-wcas)[eu](https://www.bulk.com/eu/products/whole-cashew-nuts/bpf-wcas)[pt](https://www.bulk.com/pt/products/castanhas-de-caju-inteiras/bpf-wcas)[ch](https://www.bulk.com/ch/products/ganze-cashewnuesse/bpf-wcas)[uk](https://www.bulk.com/uk/products/whole-cashew-nuts/bpf-wcas)
-
-Whole Cashew Nuts
-=================
-
-Price
------
-
-*   Regular Price: £14.99
-*   Final Price: £11.24
-*   Save £3.75
-*   Bestsellers Sale: Up to 75% off - no code required
-
-Size
-----
-
-*   500g
-
-Description
------------
-
-### Whole Cashew Nuts
-
-100% whole, skin-on, unroasted, unsalted cashew nuts, an ultra convenient and delicious source of protein.
-
-Our Whole Cashew Nuts are cashew nuts in their purest and most natural form – skin-on, unroasted, unsalted. And with 18g of protein per 100g, they’re a source of protein and a great way to contribute to muscle mass maintenance with raw, natural nutrition.
-
-Our Whole Cashew Nuts are both an excellent source of protein and a delicious, ultra convenient snack perfect for any time of day. They’re also great for use in cooking, and as a topping for salads and curries.
-
-\\
-
-### Purpose
-
-Our Whole Cashew Nuts are perfect for anyone looking for an easy and delicious snack at any time of day. Edible straight from their foil-fresh pack, they’re a great option for anyone who wants to increase their protein consumption to help growth and maintenance of muscle mass.
-
-\\
-
-### Benefits
-
-*   Source of Protein
-
-With 18g of protein, our cashew nuts are an excellent way to add protein into your diet.
-
-*   100% Natural
-
-Whole cashew nuts, skin-on, unroasted and unsalted.
-
-*   Muscle maintenance
-
-Source of protein which contributes to the growth and maintenance of muscle mass.
-
-*   Versatile Nutrition
-
-A great choice both as a snack and for use in cooking.
-
-*   Morning, Noon or Night
-
-Perfect for pre-workout, post-workout, or any other time of day.
-
-Directions
-----------
-
-### Directions
-
-Great in porridge and granola or eaten as a snack.
-
-WARNING: Nuts may be a choking hazard for small children.
-
-Ingredients
------------
-
-### Ingredients
-
-**Cashew Nuts**.
-
-\\
-
-### Suitable For
-
-Halal,Vegan,Vegetarian
-
-\\
-
-### Allergen advice
-
-For allergens, see ingredients in **bold**.
-
-May also contain traces of other nuts and peanuts.
-
-\\
-
-### Storage
-
-Store in a dry cool place. Reseal pouch after use.
-
-\\
-
-### Advisory Information
-
-Although every care has been taken to keep product information up to date on our website, please always read the information provided on product label or packaging before use.
-
-Nutrition
----------
-
-Nutrition
-
-per 100 g
-
-Energy kJ/kcal
-
-2374/573
-
-Fat
-
-of which saturates
-
-48g
-
-9.5g
-
-Carbohydrate
-
-of which sugars
-
-18g
-
-4.6g
-
-Fibre
-
-3.2g
-
-Protein
-
-18g
-
-Salt
-
-0g
-
-typeId
-
-recently-viewed
-
-count
-
-6
++----------------------------------------------------------------------------+
+| Product Details                                                            |
++----------------------------------------------------------------------------+
+| # Whole Cashew Nuts                                                        |
++----------------+-----------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£14.99~~                               |
+|                | - Final Price: £11.24                                     |
+|                | - Save £3.75                                              |
+|                | - Bestsellers Sale: Up to 75% off - no code required      |
++----------------+-----------------------------------------------------------+
+| ## Size        | - 500g                                                    |
++----------------+-----------------------------------------------------------+
+| ## Description | ### Whole Cashew Nuts                                     |
+|                |                                                           |
+|                | 100% whole, skin-on, unroasted, unsalted cashew nuts, an  |
+|                | ultra convenient and delicious source of protein.         |
+|                |                                                           |
+|                | Our Whole Cashew Nuts are cashew nuts in their purest and |
+|                | most natural form – skin-on, unroasted, unsalted. And     |
+|                | with 18g of protein per 100g, they’re a source of protein |
+|                | and a great way to contribute to muscle mass maintenance  |
+|                | with raw, natural nutrition.                              |
+|                |                                                           |
+|                | Our Whole Cashew Nuts are both an excellent source of     |
+|                | protein and a delicious, ultra convenient snack perfect   |
+|                | for any time of day. They’re also great for use in        |
+|                | cooking, and as a topping for salads and curries.         |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Purpose                                               |
+|                |                                                           |
+|                | Our Whole Cashew Nuts are perfect for anyone looking for  |
+|                | an easy and delicious snack at any time of day. Edible    |
+|                | straight from their foil-fresh pack, they’re a great      |
+|                | option for anyone who wants to increase their protein     |
+|                | consumption to help growth and maintenance of muscle      |
+|                | mass.                                                     |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Benefits                                              |
+|                |                                                           |
+|                | - Source of Protein                                       |
+|                |                                                           |
+|                | With 18g of protein, our cashew nuts are an excellent way |
+|                | to add protein into your diet.                            |
+|                |                                                           |
+|                | - 100% Natural                                            |
+|                |                                                           |
+|                | Whole cashew nuts, skin-on, unroasted and unsalted.       |
+|                |                                                           |
+|                | - Muscle maintenance                                      |
+|                |                                                           |
+|                | Source of protein which contributes to the growth and     |
+|                | maintenance of muscle mass.                               |
+|                |                                                           |
+|                | - Versatile Nutrition                                     |
+|                |                                                           |
+|                | A great choice both as a snack and for use in cooking.    |
+|                |                                                           |
+|                | - Morning, Noon or Night                                  |
+|                |                                                           |
+|                | Perfect for pre-workout, post-workout, or any other time  |
+|                | of day.                                                   |
++----------------+-----------------------------------------------------------+
+| ## Directions  | ### Directions                                            |
+|                |                                                           |
+|                | Great in porridge and granola or eaten as a snack.        |
+|                |                                                           |
+|                | WARNING: Nuts may be a choking hazard for small children. |
++----------------+-----------------------------------------------------------+
+| ## Ingredients | ### Ingredients                                           |
+|                |                                                           |
+|                | **Cashew Nuts**.                                          |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Suitable For                                          |
+|                |                                                           |
+|                | Halal,Vegan,Vegetarian                                    |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Allergen advice                                       |
+|                |                                                           |
+|                | For allergens, see ingredients in **bold**.               |
+|                |                                                           |
+|                | May also contain traces of other nuts and peanuts.        |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Storage                                               |
+|                |                                                           |
+|                | Store in a dry cool place. Reseal pouch after use.        |
+|                |                                                           |
+|                | \                                                         |
+|                |                                                           |
+|                |                                                           |
+|                | ### Advisory Information                                  |
+|                |                                                           |
+|                | Although every care has been taken to keep product        |
+|                | information up to date on our website, please always read |
+|                | the information provided on product label or packaging    |
+|                | before use.                                               |
++----------------+-----------------------------------------------------------+
+| ## Nutrition   | +--------------------+-----------+                        |
+|                | | Nutrition          | per 100 g |                        |
+|                | +====================+===========+                        |
+|                | | Energy kJ/kcal     | 2374/573  |                        |
+|                | +--------------------+-----------+                        |
+|                | | Fat                | 48g       |                        |
+|                | |                    |           |                        |
+|                | | of which saturates | 9.5g      |                        |
+|                | +--------------------+-----------+                        |
+|                | | Carbohydrate       | 18g       |                        |
+|                | |                    |           |                        |
+|                | | of which sugars    | 4.6g      |                        |
+|                | +--------------------+-----------+                        |
+|                | | Fibre              | 3.2g      |                        |
+|                | +--------------------+-----------+                        |
+|                | | Protein            | 18g       |                        |
+|                | +--------------------+-----------+                        |
+|                | | Salt               | 0g        |                        |
+|                | +--------------------+-----------+                        |
++----------------+-----------------------------------------------------------+
+
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
+
++----------------------------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| title               | Whole Cashew Nuts\|Raw Cashews\|Bulk™ UK                                                                   |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| description         | Buy Whole Cashew Nuts at bulk™! Cashews are packed with nutritional goodness and these raw and natural     |
+|                     | Whole Cashew Nuts are of the highest quality, guaranteed. Bulk, formerly Bulk Powders.                     |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                                                |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| id                  | 3546                                                                                                       |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| sku                 | BPF-WCAS                                                                                                   |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T12:23:31.911Z                                                                                   |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                                 |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku": "BPF-WCAS",   "name": "Whole Cashew   |
+|                     | Nuts",   "image": "https\://www\.bulk.com/media/catalog/product/B/P/BPF\_WCAS\_Main\_Image\_1994.jpg",     |
+|                     | "gtin": "",   "description": "100% Whole, Unroasted, Unsalted Cashew Nuts",   "@id":                       |
+|                     | "https\://www\.bulk.com/uk/products/whole-cashew-nuts/bpf-wcas",   "brand": {     "@type": "Brand",        |
+|                     | "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",       "sku": "BPF-WCAS-0500",             |
+|                     | "url": "https\://www\.bulk.com/uk/products/whole-cashew-nuts/bpf-wcas?view=ppc\&o=MTc5LTY5",       "gtin": |
+|                     | "5060343748224",       "image":                                                                            |
+|                     | "https\://www\.bulk.com/media/catalog/product/p/a/packaging\_transformation\_UK\_IE\_2000x2000\_addf.png", |
+|                     |       "availability": "InStock",       "price": 11.24,       "priceCurrency": "GBP",                       |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": "2025-07-01",       "priceSpecification": {      |
+|                     |    "@type": "UnitPriceSpecification",         "priceType": "https\://schema.org/ListPrice",                |
+|                     | "price": 14.99,         "priceCurrency": "GBP"       }     }   ],   "aggregateRating": {     "@type":      |
+|                     | "AggregateRating",     "ratingValue": 4.7,     "reviewCount": 525,     "bestRating": 5   } }               |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/orzechy-nerkowca-w-calosci/bpf-wcas                                     |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-cs-CZ      | https\://www\.bulk.com/cz/products/cele-kesu-orechy/bpf-wcas                                               |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/anacardos-enteros/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/ganze-cashew-nusse/bpf-wcas                                             |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-de-CH      | https\://www\.bulk.com/ch/products/ganze-cashewnuesse/bpf-wcas                                             |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-BG      | https\://www\.bulk.com/eu/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HR      | https\://www\.bulk.com/eu/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-EE      | https\://www\.bulk.com/eu/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-FI      | https\://www\.bulk.com/eu/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GR      | https\://www\.bulk.com/eu/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-HU      | https\://www\.bulk.com/eu/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LV      | https\://www\.bulk.com/eu/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LT      | https\://www\.bulk.com/eu/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-LU      | https\://www\.bulk.com/eu/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-MT      | https\://www\.bulk.com/eu/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SK      | https\://www\.bulk.com/eu/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-SI      | https\://www\.bulk.com/eu/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-NO      | https\://www\.bulk.com/eu/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/hela-cashewnotter/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/hele-cashewnodder/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/ganze-cashewnuesse/bpf-wcas                                             |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/noix-de-cajou-entieres/bpf-wcas                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/noix-de-cajou-entieres/bpf-wcas                                         |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-ro-RO      | https\://www\.bulk.com/ro/products/caju-intreg/bpf-wcas                                                    |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/hele-cashewnoten/bpf-wcas                                               |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/hele-cashewnoten/bpf-wcas                                               |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/anacardi-interi/bpf-wcas                                                |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/castanhas-de-caju-inteiras/bpf-wcas                                     |
++---------------------+------------------------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/whole-cashew-nuts/bpf-wcas                                              |
++---------------------+------------------------------------------------------------------------------------------------------------+
+
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_1261ded9b9f8d5103cbeb5d07c859a1f091156f82.webp#width=2000&height=2000

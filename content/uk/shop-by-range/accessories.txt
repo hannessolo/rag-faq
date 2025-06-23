@@ -1,8 +1,26 @@
-[at](https://www.bulk.com/at/products/mmun-pbar-v2/mmun-pbar-v2)[pl](https://www.bulk.com/pl/serie/accessories)[ie](https://www.bulk.com/ie/shop-by-range/accessories)[cz](https://www.bulk.com/cz/shop-by-range/accessories)[it](https://www.bulk.com/it/selezione-per-gamma/accessories)[de](https://www.bulk.com/de/produktreihe/accessories)[eu](https://www.bulk.com/eu/shop-by-range/accessories)[dk](https://www.bulk.com/dk/shop-efter-serie/accessories)[se](https://www.bulk.com/se/shoppa-via-produktutbud/accessories)[es](https://www.bulk.com/es/comprar-por-gama/accessories)[ch](https://www.bulk.com/ch/produktreihe/accessories)[pt](https://www.bulk.com/pt/comprar-por-gama/accessories)[ro](https://www.bulk.com/ro/shop-by-range/accessories)[fr](https://www.bulk.com/fr/selectionner-par-gamme/accessories)[nl](https://www.bulk.com/nl/shop-per-assortiment/accessories)[uk](https://www.bulk.com/uk/shop-by-range/accessories)
+# Gym Accessories
 
-Gym Accessories
-===============
++:-------------------------------------:+
+| **Product List Page**                 |
++-----------+---------------------------+
+| category  | shop-by-range/accessories |
++---------------------------------------+
+|                                       |
++---------------------------------------+
 
-category
+---
 
-shop-by-range/accessories
++----------------------------------------------------------------------+
+| Metadata                                                             |
++-------------+--------------------------------------------------------+
+| breadcrumbs | true                                                   |
++-------------+--------------------------------------------------------+
+| template    | plp                                                    |
++-------------+--------------------------------------------------------+
+| title       | Gym Accessories \| Bulk™                               |
++-------------+--------------------------------------------------------+
+| description | Shop our wide range of Gym Accessories at great value. |
+|             | Shakers, bottles, bags & straps. All made with premium |
+|             | quality materials and built to last. Exclusively from  |
+|             | Bulk™.                                                 |
++-------------+--------------------------------------------------------+

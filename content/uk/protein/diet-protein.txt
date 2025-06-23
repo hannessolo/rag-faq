@@ -1,12 +1,28 @@
-[de](https://www.bulk.com/de/black-friday-sale)[ch](https://www.bulk.com/ch/black-friday-sale)[at](https://www.bulk.com/at/products/dope-pre-workout/bble-dope)[cz](https://www.bulk.com/cz/black-friday-sale)[ie](https://www.bulk.com/ie/black-friday-sale)[se](https://www.bulk.com/se/black-friday-rea)[pl](https://www.bulk.com/pl/wyprzedazy-black-friday)[it](https://www.bulk.com/it/saldi-black-friday)[pt](https://www.bulk.com/pt/black-friday-sale)[es](https://www.bulk.com/es/rebajas-de-black-friday)[eu](https://www.bulk.com/eu/black-friday-sale)[uk](https://www.bulk.com/uk/protein/diet-protein)[ro](https://www.bulk.com/ro/black-friday-sale)[fr](https://www.bulk.com/fr/vente-black-friday)[nl](https://www.bulk.com/nl/black-friday-sale)[dk](https://www.bulk.com/dk/black-friday-udsalg)
+# Diet Protein
 
-Diet Protein
-============
++:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                                   |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                           | protein/diet-protein                                                                                                                                               |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Our diet protein range consists of shakes, powders, supplements such as **[whey protein](https://www.bulk.com/uk/products/pure-whey-protein/bpb-wpc8-0000)**, and **[tasty foods](https://main--bul-eds--thepixel.hlx.live/uk/protein/high-protein-foods.html)** – all of which have been specifically formulated to support your diet. |
+|                                                                                                                                                                                                                                                                                                                                         |
+| Protein keeps you fuller for longer, so is ideal for those trying to cut down on snacking. It also contributes to growth in muscle mass, which helps you stay fit as you lose weight. Our diet protein range differs from our normal protein range as it's lower in calories and carbohydrates. Some of the products in this section    |
+| also contain additional **[fat loss ingredients](https://main--bul-eds--thepixel.hlx.live/uk/weight-loss.html)** such as **[CLA](https://main--bul-eds--thepixel.hlx.live/uk/cla-conjugated-linoleic-acid-softgels.html)** and **[L-Carnitine](https://main--bul-eds--thepixel.hlx.live/uk/acetyl-l-carnitine.html)**.                  |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-protein/diet-protein
-
-Our diet protein range consists of shakes, powders, supplements such as **[whey protein](https://www.bulk.com/uk/products/pure-whey-protein/bpb-wpc8-0000)**, and **[tasty foods](/uk/protein/high-protein-foods.html)** – all of which have been specifically formulated to support your diet.
-
-Protein keeps you fuller for longer, so is ideal for those trying to cut down on snacking. It also contributes to growth in muscle mass, which helps you stay fit as you lose weight. Our diet protein range differs from our normal protein range as it's lower in calories and carbohydrates. Some of the products in this section also contain additional **[fat loss ingredients](/uk/weight-loss.html)** such as **[CLA](/uk/cla-conjugated-linoleic-acid-softgels.html)** and **[L-Carnitine](/uk/acetyl-l-carnitine.html)**.
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Diet Protein \| Diet Shakes & Powder \| Bulk™             |
++-------------+-----------------------------------------------------------+
+| description | Diet Protein is an important supplement within any weight |
+|             | loss regime. Browse the comprehensive range of            |
+|             | weight-loss protein shakes at Bulk™.                      |
++-------------+-----------------------------------------------------------+

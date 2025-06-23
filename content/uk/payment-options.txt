@@ -1,56 +1,64 @@
-[uk](https://www.bulk.com/uk/payment-options)[fr](https://www.bulk.com/fr/products/gelules-sante-renale/bble-kdny)[cz](https://www.bulk.com/cz/products/kidney-health-capsules/bble-kdny)[de](https://www.bulk.com/de/products/kapseln-fur-gesunde-nieren/bble-kdny)[ch](https://www.bulk.com/ch/products/kapseln-fur-gesunde-nieren/bble-kdny)[es](https://www.bulk.com/es/products/comprimidos-saludables-para-los-rinones/bble-kdny)[ie](https://www.bulk.com/ie/products/kidney-health-capsules/bble-kdny)[eu](https://www.bulk.com/eu/products/kidney-health-capsules/bble-kdny)[se](https://www.bulk.com/se/products/kapslar-for-njurhalsa/bble-kdny)[ro](https://www.bulk.com/ro/products/capsule-pentru-sanatatea-rinichilor/bble-kdny)[at](https://www.bulk.com/at/products/kapseln-fur-gesunde-nieren/bble-kdny)[nl](https://www.bulk.com/nl/products/kidney-health-capsules/bble-kdny)[dk](https://www.bulk.com/dk/products/kidney-health-capsules/bble-kdny)[it](https://www.bulk.com/it/products/compresse-per-la-salute-dei-reni/bble-kdny)[pt](https://www.bulk.com/pt/products/capsulas-de-saude-renal/bble-kdny)[pl](https://www.bulk.com/pl/products/kapsulki-na-zdrowe-nerki/bble-kdny)
+# **WHAT PAYMENT OPTIONS DO YOU OFFER?**
 
-**WHAT PAYMENT OPTIONS DO YOU OFFER?**
-======================================
+## **WE HAVE A VARIETY OF PAYMENT METHODS TO MAKE BUYING YOUR SPORTS SUPPLEMENTS FASTER AND MORE CONVENIENT THAN EVER!**
 
-**WE HAVE A VARIETY OF PAYMENT METHODS TO MAKE BUYING YOUR SPORTS SUPPLEMENTS FASTER AND MORE CONVENIENT THAN EVER!**
----------------------------------------------------------------------------------------------------------------------
+![][image0]
 
-   ![](./media_15aa2da88877556ba3666c776089b7d013b7e0df4.jpeg?width=750&format=jpeg&optimize=medium)
++------------------------------------------------------------------------------------------------------------------+
+| Columns                                                                                                          |
++--------------------------------------------------------+---------------------------------------------------------+
+| ## **HOW DO I PAY BY PAYPAL?**                         | ## **HOW DOES PAY AFTER DELIVERY WORK?**                |
+|                                                        |                                                         |
+| ![][image1]                                            | ![][image2]                                             |
+|                                                        |                                                         |
+| Simply add the products you wish to buy to your basket | Once your order is despatched you will receive an email |
+| and click on the 'Checkout with PayPal' button.        | with a payment link from Klarna. You will then have 14  |
+|                                                        | days to complete the payment online at your convenience |
+|                                                        | at no extra cost.                                       |
++--------------------------------------------------------+---------------------------------------------------------+
 
-**HOW DO I PAY BY PAYPAL?**
----------------------------
-
-   ![](./media_127bf9083408ebd6d8b029148e042adc736c1e664.jpeg?width=750&format=jpeg&optimize=medium)
-
-Simply add the products you wish to buy to your basket and click on the 'Checkout with PayPal' button.
-
-**HOW DOES PAY AFTER DELIVERY WORK?**
--------------------------------------
-
-   ![](./media_1f175060c6c0ef84e3d1b2b88d37afb7f4e83e077.jpeg?width=750&format=jpeg&optimize=medium)
-
-Once your order is despatched you will receive an email with a payment link from Klarna. You will then have 14 days to complete the payment online at your convenience at no extra cost.
-
-**CAN I SAVE MY CARD DETAILS FOR FUTURE ORDERS?**
--------------------------------------------------
+## **CAN I SAVE MY CARD DETAILS FOR FUTURE ORDERS?**
 
 When you make a payment with Klarna you can opt to save your card details. This means for every future order all you only need to enter your email address and post code to checkout. You can literally stock up on Sports Supplements in seconds!
 
-**WHY CAN I NOT PAY WITH THE PAY AFTER DELIVERY OPTION?**
----------------------------------------------------------
+## **WHY CAN I NOT PAY WITH THE PAY AFTER DELIVERY OPTION?**
 
 Sometimes the option to pay after delivery does not appear as a payment option. This may depend on either Klarna not having enough information to approve the pay after delivery option, or the order value is too high.
 
-NOTE: If you are in the UK and are not given the option to pay later, but would like to, please contact Klarna directly by visiting: [https://www.klarna.com/uk/personal](https://www.klarna.com/uk/personal)
+NOTE: If you are in the UK and are not given the option to pay later, but would like to, please contact Klarna directly by visiting: <https://www.klarna.com/uk/personal>
 
-**WHO ARE KLARNA?**
--------------------
+## **WHO ARE KLARNA?**
 
 Klarna is a well-established company in Sweden that specialises in payments for online shoppers. They support 35m consumers worldwide.
 
-**DOES A CREDIT SEARCH TAKE PLACE AGAINST ME FOR PAY AFTER DELIVER?**
----------------------------------------------------------------------
+## **DOES A CREDIT SEARCH TAKE PLACE AGAINST ME FOR PAY AFTER DELIVER?**
 
 Neither Klarna nor BULK POWDERS™ run credit searches against you that could impact your credit rating. Klarna may run unrecorded enquiries that do not affect credit scoring.
 
-**HOW CAN I CONTACT KLARNA?**
------------------------------
+## **HOW CAN I CONTACT KLARNA?**
 
-If you have any questions about your credit card payment or invoice, you can contact Klarna through www.Klarna.co.uk/personal or by calling them 7 days a week:
+If you have any questions about your credit card payment or invoice, you can contact Klarna through www\.Klarna.co.uk/personal or by calling them 7 days a week:
 
-Monday - Friday 9.00 AM - 9.00 PM  
-Saturday - Sunday 9.00 AM - 6.00 PM  
+Monday - Friday 9.00 AM - 9.00 PM\
+Saturday - Sunday 9.00 AM - 6.00 PM\
 0808 189 3333
 
 You can contact them both via email or phone, and their team will be there to assist you.
+
++------------------------------------------------------------------------+
+| Metadata                                                               |
++--------------------------+---------------------------------------------+
+| Title                    | Payment Options                             |
++--------------------------+---------------------------------------------+
+| Description              | Payment Options                             |
++--------------------------+---------------------------------------------+
+| google-site-verification | aukRs7uGBj7CYjlmEDxhyHSSMHdc3q9qMfjRM5Xkeic |
++--------------------------+---------------------------------------------+
+| Template                 | Content                                     |
++--------------------------+---------------------------------------------+
+
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_15aa2da88877556ba3666c776089b7d013b7e0df4.jpeg#width=990&height=400
+
+[image1]: https://main--bulk-eds--thepixel.hlx.page/media_127bf9083408ebd6d8b029148e042adc736c1e664.jpeg#width=500&height=300
+
+[image2]: https://main--bulk-eds--thepixel.hlx.page/media_1f175060c6c0ef84e3d1b2b88d37afb7f4e83e077.jpeg#width=500&height=300

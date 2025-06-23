@@ -1,47 +1,128 @@
-[pl](https://www.bulk.com/pl/products/witamina-k2-tabletki-75-mg/bpb-vk2c)[cz](https://www.bulk.com/cz/products/vitamin-k2-tablets/bpb-vk2c)[at](https://www.bulk.com/at/products/vitamin-k2-tabletten-75-mg/bpb-vk2c)[dk](https://www.bulk.com/dk/products/k2-vitaminpiller-75mg/bpb-vk2c)[ie](https://www.bulk.com/ie/products/vitamin-k2-tablets/bpb-vk2c)[eu](https://www.bulk.com/eu/products/vitamin-k2-tablets/bpb-vk2c)[de](https://www.bulk.com/de/products/vitamin-k2-tabletten-75-mg/bpb-vk2c)[fr](https://www.bulk.com/fr/products/comprimes-de-vitamine-k2-75-mg/bpb-vk2c)[ro](https://www.bulk.com/ro/products/comprimate-de-vitamina-k2-75mg/bpb-vk2c)[pt](https://www.bulk.com/pt/products/comprimidos-de-vitamina-k2-75mg/bpb-vk2c)[es](https://www.bulk.com/es/products/comprimidos-de-vitamina-k2-de-75-mg/bpb-vk2c)[se](https://www.bulk.com/se/products/vitamin-k2-tabletter-75-mg/bpb-vk2c)[uk](https://www.bulk.com/uk/products/skipping-rope/bace-skip-blac-ones)[it](https://www.bulk.com/it/products/compresse-da-75mg-di-vitamina-k2/bpb-vk2c)[ch](https://www.bulk.com/ch/products/vitamin-k2-tabletten-75-mg/bpb-vk2c)[nl](https://www.bulk.com/nl/products/vitamine-k2-tabletten-75-mg/bpb-vk2c)
++-----------------------------------------------------------------------------+
+| Product Details                                                             |
++-----------------------------------------------------------------------------+
+| # Skipping Rope                                                             |
++----------------+------------------------------------------------------------+
+| ## Price       | - Regular Price: ~~£7.99~~                                 |
+|                | - Final Price: £5.99                                       |
+|                | - Save £2.00                                               |
+|                | - Clearance Sale: Now or never                             |
++----------------+------------------------------------------------------------+
+| ## Description | ### Skipping Rope                                          |
+|                |                                                            |
+|                | Whether you’re warming up or circuit training, reach new   |
+|                | heights with the Bulk™ Skipping Rope. Raise your game,     |
+|                | your heart rate and your fitness levels. Easily portable   |
+|                | with an adjustable length. Wrap it up and you’re good to   |
+|                | go.                                                        |
+|                |                                                            |
+|                | - Superior design with embossed **Bulk™** branding         |
+|                | - Perfect for warming up or circuit training, at home or   |
+|                |   in the gym                                               |
+|                | - Adjustable length to suit any height                     |
+|                | - Dimensions: Handles 13.5cm, Rope 278cm                   |
+|                | - Material: Black Handle overlay : 100% Polypropylene;     |
+|                |   Black inner Handle: 95% Thermoplastic Rubber / 5% Steel; |
+|                |   Rope: 100% Viny                                          |
+|                |                                                            |
+|                | To adjust the straps:                                      |
+|                |                                                            |
+|                | 1\) Turn the ends of the handles clockwise and pull them   |
+|                | off.                                                       |
+|                |                                                            |
+|                | 2\) You'll find a joint on the rope inside the handles.    |
+|                | Pull the bottom part of the joint off.                     |
+|                |                                                            |
+|                | 4\) Adjust the top part of the joint until your rope is at |
+|                | the perfect length on each side.                           |
+|                |                                                            |
+|                | 5\) Fasten the bottom part of the joint to the top part.   |
+|                |                                                            |
+|                | 6\) Put the excess rope back in the handle and screw the   |
+|                | ends back on anticlockwise.                                |
+|                |                                                            |
+|                | If you’re looking to get the blood pumping, improve        |
+|                | coordination, burn calories and boost your cardiovascular  |
+|                | health, the Bulk™ Skipping Rope is your perfect training   |
+|                | partner.                                                   |
++----------------+------------------------------------------------------------+
 
-Skipping Rope
-=============
++-------------------------------------------+
+| Product Recommendations (recently viewed) |
++---------------------+---------------------+
+| typeId              | recently-viewed     |
++---------------------+---------------------+
+| count               | 6                   |
++---------------------+---------------------+
 
-Price
------
++-----------------------------------------------------------------------------------------------------------------+
+| Metadata                                                                                                        |
++---------------------+-------------------------------------------------------------------------------------------+
+| title               | Skipping Rope\|Bulk™                                                                      |
++---------------------+-------------------------------------------------------------------------------------------+
+| description         | Elevate your workout with the Bulk™ jump rope. Adjustable length, durable design, and     |
+|                     | ideal for warm-ups or circuit training at home or the gym.                                |
++---------------------+-------------------------------------------------------------------------------------------+
+| keywords            | Skipping Rope                                                                             |
++---------------------+-------------------------------------------------------------------------------------------+
+| image               | ![][image0]                                                                               |
++---------------------+-------------------------------------------------------------------------------------------+
+| id                  | 11138                                                                                     |
++---------------------+-------------------------------------------------------------------------------------------+
+| sku                 | BACE-SKIP-BLAC-ONES                                                                       |
++---------------------+-------------------------------------------------------------------------------------------+
+| x-cs-lastModifiedAt | 2025-06-23T12:04:12.231Z                                                                  |
++---------------------+-------------------------------------------------------------------------------------------+
+| og:type             | og:product                                                                                |
++---------------------+-------------------------------------------------------------------------------------------+
+| json-ld             | {   "@context": "http\://schema.org",   "@type": "Product",   "sku":                      |
+|                     | "BACE-SKIP-BLAC-ONES",   "name": "Skipping Rope",   "image":                              |
+|                     | "https\://www\.bulk.com/media/catalog/product/s/k/skipping\_rope\_image\_main\_7c40.jpg", |
+|                     |   "gtin": "5055950621541",   "description": "Elevate your workout with the Bulk™ jump     |
+|                     | rope. Adjustable length, durable design, and ideal for warm-ups or circuit training at    |
+|                     | home or the gym.",   "@id":                                                               |
+|                     | "https\://www\.bulk.com/uk/products/skipping-rope/bace-skip-blac-ones",   "brand": {      |
+|                     | "@type": "Brand",     "name": "Bulk"   },   "offers": \[     {       "@type": "Offer",    |
+|                     |    "sku": "BACE-SKIP-BLAC-ONES",       "url":                                             |
+|                     | "https\://www\.bulk.com/uk/products/skipping-rope/bace-skip-blac-ones",       "gtin":     |
+|                     | "5055950621541",       "image":                                                           |
+|                     | "https\://www\.bulk.com/media/catalog/product/s/k/skipping\_rope\_image\_main\_7c40.jpg", |
+|                     |       "availability": "InStock",       "price": 5.99,       "priceCurrency": "GBP",       |
+|                     | "itemCondition": "NewCondition",       "priceValidUntil": "2025-07-01",                   |
+|                     | "priceSpecification": {         "@type": "UnitPriceSpecification",         "priceType":   |
+|                     | "https\://schema.org/ListPrice",         "price": 7.99,         "priceCurrency": "GBP"    |
+|                     |    }     }   ],   "aggregateRating": {     "@type": "AggregateRating",     "ratingValue": |
+|                     | 4\.6,     "reviewCount": 11,     "bestRating": 5   } }                                    |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-es-ES      | https\://www\.bulk.com/es/products/cuerda-de-saltar/bace-skip-blac-ones                   |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-de-AT      | https\://www\.bulk.com/at/products/springseil/bace-skip-blac-ones                         |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-nl-NL      | https\://www\.bulk.com/nl/products/springtouw/bace-skip-blac-ones                         |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-nl-BE      | https\://www\.bulk.com/nl/products/springtouw/bace-skip-blac-ones                         |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-fr-FR      | https\://www\.bulk.com/fr/products/corde-a-sauter/bace-skip-blac-ones                     |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-fr-LU      | https\://www\.bulk.com/fr/products/corde-a-sauter/bace-skip-blac-ones                     |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-sv-SE      | https\://www\.bulk.com/se/products/hopprep/bace-skip-blac-ones                            |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-da-DK      | https\://www\.bulk.com/dk/products/sjippetov/bace-skip-blac-ones                          |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-en-GB      | https\://www\.bulk.com/uk/products/skipping-rope/bace-skip-blac-ones                      |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-en-IE      | https\://www\.bulk.com/ie/products/skipping-rope/bace-skip-blac-ones                      |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-pl-PL      | https\://www\.bulk.com/pl/products/skakanka/bace-skip-blac-ones                           |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-pt-PT      | https\://www\.bulk.com/pt/products/corda-de-saltar/bace-skip-blac-ones                    |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-de-DE      | https\://www\.bulk.com/de/products/springseil/bace-skip-blac-ones                         |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-it-IT      | https\://www\.bulk.com/it/products/corda-per-saltare/bace-skip-blac-ones                  |
++---------------------+-------------------------------------------------------------------------------------------+
+| hreflang-x-default  | https\://www\.bulk.com/uk/products/skipping-rope/bace-skip-blac-ones                      |
++---------------------+-------------------------------------------------------------------------------------------+
 
-*   Regular Price: £7.99
-*   Final Price: £5.99
-*   Save £2.00
-*   Clearance Sale: Now or never
-
-Description
------------
-
-### Skipping Rope
-
-Whether you’re warming up or circuit training, reach new heights with the Bulk™ Skipping Rope. Raise your game, your heart rate and your fitness levels. Easily portable with an adjustable length. Wrap it up and you’re good to go.
-
-*   Superior design with embossed **Bulk™** branding
-*   Perfect for warming up or circuit training, at home or in the gym
-*   Adjustable length to suit any height
-*   Dimensions: Handles 13.5cm, Rope 278cm
-*   Material: Black Handle overlay : 100% Polypropylene; Black inner Handle: 95% Thermoplastic Rubber / 5% Steel; Rope: 100% Viny
-
-To adjust the straps:
-
-1) Turn the ends of the handles clockwise and pull them off.
-
-2) You'll find a joint on the rope inside the handles. Pull the bottom part of the joint off.
-
-4) Adjust the top part of the joint until your rope is at the perfect length on each side.
-
-5) Fasten the bottom part of the joint to the top part.
-
-6) Put the excess rope back in the handle and screw the ends back on anticlockwise.
-
-If you’re looking to get the blood pumping, improve coordination, burn calories and boost your cardiovascular health, the Bulk™ Skipping Rope is your perfect training partner.
-
-typeId
-
-recently-viewed
-
-count
-
-6
+[image0]: https://main--bulk-eds--thepixel.hlx.page/media_10ca1b1e232b69fa580a1691aa17135bfe52fcd27.webp#width=2000&height=2000

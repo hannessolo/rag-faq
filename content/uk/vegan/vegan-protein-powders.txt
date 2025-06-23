@@ -1,29 +1,47 @@
-[pl](https://www.bulk.com/pl/vegan/weganskies-bialko-w-proszku)[cz](https://www.bulk.com/cz/vegan/vegansky-proteinovy-praseks)[de](https://www.bulk.com/de/vegan/vegane-protein-pulver)[fr](https://www.bulk.com/fr/vegan/proteine-vegan-en-poudre)[ie](https://www.bulk.com/ie/vegan/vegan-protein-powders)[pt](https://www.bulk.com/pt/vegan/proteina-vegan-em-po)[nl](https://www.bulk.com/nl/vegan/veganistisch-proteinepoeders)[es](https://www.bulk.com/es/vegan/proteina-vegana-en-polvo)[eu](https://www.bulk.com/eu/vegan/vegan-protein-powders)[ro](https://www.bulk.com/ro/vegan/pulberes-cu-proteine-vegane)[at](https://www.bulk.com/at/vegan/veganes-protein-pulvers)[ch](https://www.bulk.com/ch/vegan/vegane-protein-pulver)[se](https://www.bulk.com/se/vegan/vegan-proteinpulvers)[dk](https://www.bulk.com/dk/vegan/vegansk-proteinpulver)[it](https://www.bulk.com/it/vegan/proteine-in-polveres-vegane)[uk](https://www.bulk.com/uk/vegan/vegan-protein-powders)
+# Vegan Protein
 
-Vegan Protein
-=============
++:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:+
+| **Product List Page**                                                                                                                                                                                                                                                                                                               |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| category                                                                                                                                                         | vegan/vegan-protein-powders                                                                                                                                      |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Vegan protein powders like you've never tasted before.                                                                                                                                                                                                                                                                              |
+|                                                                                                                                                                                                                                                                                                                                     |
+| Our award-winning [vegan protein powder](https://main--bul-eds--thepixel.hlx.live/uk/products/vegan-protein-powder/vser-vppo) is packed with nutrients and comes in a variety of flavours, giving you extra uptake of high-quality protein.                                                                                         |
+|                                                                                                                                                                                                                                                                                                                                     |
+| There’s never been a more diverse offering of vegan protein powders, [vegan protein bars](https://main--bul-eds--thepixel.hlx.live/uk/vegan/vegan-protein-bars) and other 100% animal-free sports nutrition. As such, we're always innovating with vegan protein powders, whether it’s Soya Protein Isolate or Pea Protein Isolate. |
+|                                                                                                                                                                                                                                                                                                                                     |
+| Fuelling your training with a plant-based diet has never been easier.                                                                                                                                                                                                                                                               |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-category
+---
 
-vegan/vegan-protein-powders
+## RELATED CATEGORIES
 
-Vegan protein powders like you've never tasted before.
+- [Vegan protein bars](https://dev--bul-eds--thepixel.hlx.live/uk/vegan/vegan-protein-bars)
+- [Vegan vitamins](https://dev--bul-eds--thepixel.hlx.live/uk/vegan/vegan-vitamins)
+- [Greens supplements](https://dev--bul-eds--thepixel.hlx.live/uk/health-wellbeing/greens-supplements)
+- [Superfoods](https://dev--bul-eds--thepixel.hlx.live/uk/foods/superfoods)
+- [Vegan range](https://dev--bul-eds--thepixel.hlx.live/uk/vegan)
 
-Our award-winning [vegan protein powder](/uk/products/vegan-protein-powder/vser-vppo) is packed with nutrients and comes in a variety of flavours, giving you extra uptake of high-quality protein.
++------------------------+
+| Section Metadata       |
++---------+--------------+
+| Style   | lozenge-list |
++---------+--------------+
 
-There’s never been a more diverse offering of vegan protein powders, [vegan protein bars](/uk/vegan/vegan-protein-bars) and other 100% animal-free sports nutrition. As such, we're always innovating with vegan protein powders, whether it’s Soya Protein Isolate or Pea Protein Isolate.
+---
 
-Fuelling your training with a plant-based diet has never been easier.
-
-RELATED CATEGORIES
-------------------
-
-*   [Vegan protein bars](/uk/vegan/vegan-protein-bars)
-*   [Vegan vitamins](/uk/vegan/vegan-vitamins)
-*   [Greens supplements](/uk/health-wellbeing/greens-supplements)
-*   [Superfoods](/uk/foods/superfoods)
-*   [Vegan range](/uk/vegan)
-
-Style
-
-lozenge-list
++-------------------------------------------------------------------------+
+| Metadata                                                                |
++-------------+-----------------------------------------------------------+
+| breadcrumbs | true                                                      |
++-------------+-----------------------------------------------------------+
+| template    | plp                                                       |
++-------------+-----------------------------------------------------------+
+| title       | Vegan Protein \| VEGAN \| Bulk™                           |
++-------------+-----------------------------------------------------------+
+| description | Shop our range of Vegan Protein at low prices, perfect    |
+|             | for anyone looking to fuel their training on a            |
+|             | plant-based diet. The best vegan protein blends by Bulk™. |
++-------------+-----------------------------------------------------------+

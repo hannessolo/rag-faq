@@ -1,8 +1,23 @@
-[cz](https://www.bulk.com/cz/georgia-grant)[nl](https://www.bulk.com/nl/georgia-grant)[ch](https://www.bulk.com/ch/georgia-grant)[se](https://www.bulk.com/se/georgia-grant)[ie](https://www.bulk.com/ie/georgia-grant)[dk](https://www.bulk.com/dk/georgia-grant)[de](https://www.bulk.com/de/georgia-grant)[it](https://www.bulk.com/it/georgia-grant)[es](https://www.bulk.com/es/georgia-grant)[pt](https://www.bulk.com/pt/georgia-grant)[at](https://www.bulk.com/at/georgia-grant)[eu](https://www.bulk.com/eu/georgia-grant)[fr](https://www.bulk.com/fr/georgia-grant)[ro](https://www.bulk.com/ro/georgia-grant)[uk](https://www.bulk.com/uk/georgia-grant)[pl](https://www.bulk.com/pl/georgia-grant)
+# Georgia Grant
 
-Georgia Grant
-=============
++:-------------------------:+
+| **Product List Page**     |
++-----------+---------------+
+| category  | georgia-grant |
++---------------------------+
+|                           |
++---------------------------+
 
-category
+---
 
-georgia-grant
++-----------------------------+
+| Metadata                    |
++-------------+---------------+
+| breadcrumbs | true          |
++-------------+---------------+
+| template    | plp           |
++-------------+---------------+
+| title       | Georgia Grant |
++-------------+---------------+
+| description |               |
++-------------+---------------+
